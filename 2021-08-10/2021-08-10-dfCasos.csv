@@ -1,0 +1,28 @@
+,date,state,place_type,confirmed,is_last,Estado,Genomas sequenciados,confirmed_divided_by_100k,Genomas/100 mil casos
+0,2021-08-07,AC,state,87389,True,Acre,133,0.87389,152.2
+1,2021-08-07,SC,state,1123341,False,Santa Catarina,628,11.23341,55.9
+2,2021-08-07,RR,state,121012,True,Roraima,39,1.21012,32.2
+3,2021-08-07,SE,state,275549,False,Sergipe,327,2.75549,118.7
+4,2021-08-07,RS,state,1380941,False,Rio Grande do Sul,1521,13.80941,110.1
+5,2021-08-07,PA,state,575630,False,Pará,392,5.7563,68.1
+6,2021-08-07,MG,state,1995686,False,Minas Gerais,558,19.95686,28.0
+7,2021-08-07,MA,state,340256,False,Maranhão,323,3.40256,94.9
+8,2021-08-07,PE,state,595519,False,Pernambuco,827,5.95519,138.9
+9,2021-08-07,ES,state,546660,False,Espírito Santo,257,5.4666,47.0
+10,2021-08-07,AL,state,231659,False,Alagoas,367,2.31659,158.4
+11,2021-08-07,DF,state,454767,False,Distrito Federal,39,4.54767,8.6
+12,2021-08-07,AM,state,419294,False,Amazonas,1689,4.19294,402.8
+13,2021-08-07,AP,state,121666,False,Amapá,187,1.21666,153.7
+14,2021-08-07,GO,state,760281,False,Goiás,1572,7.60281,206.8
+15,2021-08-07,CE,state,923045,False,Ceará,544,9.23045,58.9
+16,2021-08-07,MT,state,497855,False,Mato Grosso,92,4.97855,18.5
+17,2021-08-07,MS,state,359796,True,Mato Grosso do Sul,141,3.59796,39.2
+18,2021-08-07,BA,state,1201950,False,Bahia,748,12.0195,62.2
+19,2021-08-07,TO,state,212734,True,Tocantins,129,2.12734,60.6
+20,2021-08-07,RJ,state,1058911,False,Rio de Janeiro,4902,10.58911,462.9
+21,2021-08-07,RO,state,259537,False,Rondônia,34,2.59537,13.1
+22,2021-08-07,PR,state,1401131,False,Paraná,951,14.01131,67.9
+23,2021-08-07,RN,state,361034,True,Rio Grande do Norte,217,3.61034,60.1
+24,2021-08-07,PI,state,311728,False,Piauí,19,3.11728,6.1
+25,2021-08-07,PB,state,424983,False,Paraíba,291,4.24983,68.5
+26,2021-08-07,SP,state,4113741,False,São Paulo,10678,41.13741,259.6

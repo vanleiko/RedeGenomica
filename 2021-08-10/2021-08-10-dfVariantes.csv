@@ -1,0 +1,302 @@
+,Date,Período,Região,Variantes relevantes,Frequência
+0,2020-02,Fev 2020,Nordeste,Não VOC/VOI,1
+1,2020-02,Fev 2020,Sudeste,Não VOC/VOI,5
+2,2020-02,Fev 2020,Sul,Não VOC/VOI,2
+3,2020-03,Mar 2020,Centro-oeste,Não VOC/VOI,16
+4,2020-03,Mar 2020,Nordeste,Não VOC/VOI,66
+5,2020-03,Mar 2020,Norte,Não VOC/VOI,19
+6,2020-03,Mar 2020,Sudeste,Não VOC/VOI,354
+7,2020-03,Mar 2020,Sul,Não VOC/VOI,77
+8,2020-04,Abr 2020,Centro-oeste,Não VOC/VOI,18
+9,2020-04,Abr 2020,Nordeste,Não VOC/VOI,191
+10,2020-04,Abr 2020,Norte,Não VOC/VOI,87
+11,2020-04,Abr 2020,Sudeste,Não VOC/VOI,726
+12,2020-04,Abr 2020,Sul,Não VOC/VOI,51
+13,2020-05,Mai 2020,Centro-oeste,Não VOC/VOI,7
+14,2020-05,Mai 2020,Nordeste,Não VOC/VOI,77
+15,2020-05,Mai 2020,Norte,Não VOC/VOI,53
+16,2020-05,Mai 2020,Sudeste,Não VOC/VOI,160
+17,2020-05,Mai 2020,Sul,Não VOC/VOI,87
+18,2020-06,Jun 2020,Centro-oeste,Não VOC/VOI,16
+19,2020-06,Jun 2020,Nordeste,Não VOC/VOI,71
+20,2020-06,Jun 2020,Norte,Não VOC/VOI,28
+21,2020-06,Jun 2020,Sudeste,Não VOC/VOI,114
+22,2020-06,Jun 2020,Sul,Não VOC/VOI,191
+23,2020-07,Jul 2020,Centro-oeste,Não VOC/VOI,15
+24,2020-07,Jul 2020,Nordeste,Não VOC/VOI,74
+25,2020-07,Jul 2020,Norte,Não VOC/VOI,23
+26,2020-07,Jul 2020,Sudeste,Não VOC/VOI,159
+27,2020-07,Jul 2020,Sul,Não VOC/VOI,135
+28,2020-08,Ago 2020,Centro-oeste,Não VOC/VOI,22
+29,2020-08,Ago 2020,Nordeste,Não VOC/VOI,83
+30,2020-08,Ago 2020,Norte,Não VOC/VOI,20
+31,2020-08,Ago 2020,Sudeste,Não VOC/VOI,97
+32,2020-08,Ago 2020,Sul,Não VOC/VOI,146
+33,2020-09,Set 2020,Centro-oeste,Não VOC/VOI,19
+34,2020-09,Set 2020,Centro-oeste,P.2,1
+35,2020-09,Set 2020,Nordeste,Não VOC/VOI,112
+36,2020-09,Set 2020,Norte,Não VOC/VOI,27
+37,2020-09,Set 2020,Sudeste,Não VOC/VOI,96
+38,2020-09,Set 2020,Sudeste,P.2,1
+39,2020-09,Set 2020,Sul,Não VOC/VOI,78
+40,2020-09,Set 2020,Sul,P.1 (Gama),1
+41,2020-09,Set 2020,Sul,P.2,1
+42,2020-10,Out 2020,Centro-oeste,Não VOC/VOI,14
+43,2020-10,Out 2020,Centro-oeste,P.2,5
+44,2020-10,Out 2020,Nordeste,Não VOC/VOI,87
+45,2020-10,Out 2020,Nordeste,P.2,12
+46,2020-10,Out 2020,Norte,Não VOC/VOI,25
+47,2020-10,Out 2020,Norte,P.2,7
+48,2020-10,Out 2020,Sudeste,Não VOC/VOI,118
+49,2020-10,Out 2020,Sudeste,P.2,31
+50,2020-10,Out 2020,Sul,Não VOC/VOI,90
+51,2020-10,Out 2020,Sul,P.2,18
+52,2020-11,Nov 2020,Centro-oeste,Não VOC/VOI,4
+53,2020-11,Nov 2020,Centro-oeste,P.2,3
+54,2020-11,Nov 2020,Nordeste,Não VOC/VOI,71
+55,2020-11,Nov 2020,Nordeste,P.1 (Gama),1
+56,2020-11,Nov 2020,Nordeste,P.2,13
+57,2020-11,Nov 2020,Norte,Não VOC/VOI,57
+58,2020-11,Nov 2020,Norte,P.2,14
+59,2020-11,Nov 2020,Sudeste,Não VOC/VOI,140
+60,2020-11,Nov 2020,Sudeste,P.2,76
+61,2020-11,Nov 2020,Sul,Não VOC/VOI,148
+62,2020-11,Nov 2020,Sul,P.1 (Gama),1
+63,2020-11,Nov 2020,Sul,P.2,89
+64,2020-12,Dez 2020,Centro-oeste,B.1.1.7 (Alfa),2
+65,2020-12,Dez 2020,Centro-oeste,Não VOC/VOI,43
+66,2020-12,Dez 2020,Centro-oeste,P.2,29
+67,2020-12,Dez 2020,Nordeste,Não VOC/VOI,99
+68,2020-12,Dez 2020,Nordeste,P.1 (Gama),6
+69,2020-12,Dez 2020,Nordeste,P.2,76
+70,2020-12,Dez 2020,Norte,Não VOC/VOI,106
+71,2020-12,Dez 2020,Norte,P.1 (Gama),116
+72,2020-12,Dez 2020,Norte,P.2,67
+73,2020-12,Dez 2020,Sudeste,Não VOC/VOI,133
+74,2020-12,Dez 2020,Sudeste,P.2,149
+75,2020-12,Dez 2020,Sul,Não VOC/VOI,72
+76,2020-12,Dez 2020,Sul,P.2,93
+77,2021-01,Jan 2021,Centro-oeste,B.1.1.7 (Alfa),9
+78,2021-01,Jan 2021,Centro-oeste,Não VOC/VOI,40
+79,2021-01,Jan 2021,Centro-oeste,P.1 (Gama),45
+80,2021-01,Jan 2021,Centro-oeste,P.2,72
+81,2021-01,Jan 2021,Nordeste,B.1.1.7 (Alfa),5
+82,2021-01,Jan 2021,Nordeste,Não VOC/VOI,118
+83,2021-01,Jan 2021,Nordeste,P.1 (Gama),73
+84,2021-01,Jan 2021,Nordeste,P.1.3,1
+85,2021-01,Jan 2021,Nordeste,P.2,179
+86,2021-01,Jan 2021,Norte,Não VOC/VOI,64
+87,2021-01,Jan 2021,Norte,P.1 (Gama),223
+88,2021-01,Jan 2021,Norte,P.2,96
+89,2021-01,Jan 2021,Sudeste,B.1.1.7 (Alfa),40
+90,2021-01,Jan 2021,Sudeste,Não VOC/VOI,229
+91,2021-01,Jan 2021,Sudeste,P.1 (Gama),59
+92,2021-01,Jan 2021,Sudeste,P.2,317
+93,2021-01,Jan 2021,Sul,B.1.1.7 (Alfa),4
+94,2021-01,Jan 2021,Sul,Não VOC/VOI,68
+95,2021-01,Jan 2021,Sul,P.1 (Gama),16
+96,2021-01,Jan 2021,Sul,P.1.2 (Gama),2
+97,2021-01,Jan 2021,Sul,P.1.3,1
+98,2021-01,Jan 2021,Sul,P.2,121
+99,2021-02,Fev 2021,Centro-oeste,B.1.1.7 (Alfa),20
+100,2021-02,Fev 2021,Centro-oeste,Não VOC/VOI,27
+101,2021-02,Fev 2021,Centro-oeste,P.1 (Gama),123
+102,2021-02,Fev 2021,Centro-oeste,P.1.2 (Gama),1
+103,2021-02,Fev 2021,Centro-oeste,P.2,44
+104,2021-02,Fev 2021,Nordeste,B.1.1.7 (Alfa),6
+105,2021-02,Fev 2021,Nordeste,Não VOC/VOI,99
+106,2021-02,Fev 2021,Nordeste,P.1 (Gama),318
+107,2021-02,Fev 2021,Nordeste,P.1.2 (Gama),44
+108,2021-02,Fev 2021,Nordeste,P.2,126
+109,2021-02,Fev 2021,Norte,Não VOC/VOI,16
+110,2021-02,Fev 2021,Norte,P.1 (Gama),261
+111,2021-02,Fev 2021,Norte,P.1.2 (Gama),4
+112,2021-02,Fev 2021,Norte,P.1.3,1
+113,2021-02,Fev 2021,Norte,P.2,33
+114,2021-02,Fev 2021,Sudeste,B.1.1.7 (Alfa),24
+115,2021-02,Fev 2021,Sudeste,B.1.617.2 (Delta),1
+116,2021-02,Fev 2021,Sudeste,Não VOC/VOI,229
+117,2021-02,Fev 2021,Sudeste,P.1 (Gama),393
+118,2021-02,Fev 2021,Sudeste,P.1.2 (Gama),1
+119,2021-02,Fev 2021,Sudeste,P.2,291
+120,2021-02,Fev 2021,Sul,B.1.1.7 (Alfa),8
+121,2021-02,Fev 2021,Sul,Não VOC/VOI,68
+122,2021-02,Fev 2021,Sul,P.1 (Gama),170
+123,2021-02,Fev 2021,Sul,P.1.2 (Gama),17
+124,2021-02,Fev 2021,Sul,P.2,68
+125,2021-03,Mar 2021,Centro-oeste,B.1.1.7 (Alfa),10
+126,2021-03,Mar 2021,Centro-oeste,Não VOC/VOI,14
+127,2021-03,Mar 2021,Centro-oeste,P.1 (Gama),234
+128,2021-03,Mar 2021,Centro-oeste,P.1.2 (Gama),3
+129,2021-03,Mar 2021,Centro-oeste,P.1.7,2
+130,2021-03,Mar 2021,Centro-oeste,P.2,10
+131,2021-03,Mar 2021,Nordeste,B.1.1.7 (Alfa),3
+132,2021-03,Mar 2021,Nordeste,Não VOC/VOI,13
+133,2021-03,Mar 2021,Nordeste,P.1 (Gama),329
+134,2021-03,Mar 2021,Nordeste,P.1.2 (Gama),19
+135,2021-03,Mar 2021,Nordeste,P.1.7,4
+136,2021-03,Mar 2021,Nordeste,P.2,16
+137,2021-03,Mar 2021,Norte,Não VOC/VOI,3
+138,2021-03,Mar 2021,Norte,P.1 (Gama),247
+139,2021-03,Mar 2021,Norte,P.1.2 (Gama),10
+140,2021-03,Mar 2021,Norte,P.1.3,4
+141,2021-03,Mar 2021,Norte,P.1.4,3
+142,2021-03,Mar 2021,Norte,P.1.6,1
+143,2021-03,Mar 2021,Norte,P.1.7,1
+144,2021-03,Mar 2021,Norte,P.2,2
+145,2021-03,Mar 2021,Sudeste,B.1.1.7 (Alfa),145
+146,2021-03,Mar 2021,Sudeste,Não VOC/VOI,209
+147,2021-03,Mar 2021,Sudeste,P.1 (Gama),1983
+148,2021-03,Mar 2021,Sudeste,P.1.2 (Gama),29
+149,2021-03,Mar 2021,Sudeste,P.1.3,1
+150,2021-03,Mar 2021,Sudeste,P.1.7,2
+151,2021-03,Mar 2021,Sudeste,P.2,133
+152,2021-03,Mar 2021,Sul,B.1.1.7 (Alfa),1
+153,2021-03,Mar 2021,Sul,Não VOC/VOI,60
+154,2021-03,Mar 2021,Sul,P.1 (Gama),252
+155,2021-03,Mar 2021,Sul,P.1.2 (Gama),29
+156,2021-03,Mar 2021,Sul,P.2,26
+157,2021-04,Abr 2021,Centro-oeste,B.1.1.7 (Alfa),3
+158,2021-04,Abr 2021,Centro-oeste,B.1.617.2 (Delta),3
+159,2021-04,Abr 2021,Centro-oeste,Não VOC/VOI,4
+160,2021-04,Abr 2021,Centro-oeste,P.1 (Gama),193
+161,2021-04,Abr 2021,Centro-oeste,P.1.2 (Gama),3
+162,2021-04,Abr 2021,Centro-oeste,P.1.7,5
+163,2021-04,Abr 2021,Centro-oeste,P.2,2
+164,2021-04,Abr 2021,Nordeste,B.1.1.7 (Alfa),1
+165,2021-04,Abr 2021,Nordeste,Não VOC/VOI,1
+166,2021-04,Abr 2021,Nordeste,P.1 (Gama),219
+167,2021-04,Abr 2021,Nordeste,P.1.2 (Gama),14
+168,2021-04,Abr 2021,Nordeste,P.1.7,11
+169,2021-04,Abr 2021,Nordeste,P.2,4
+170,2021-04,Abr 2021,Norte,B.1.1.7 (Alfa),1
+171,2021-04,Abr 2021,Norte,Não VOC/VOI,6
+172,2021-04,Abr 2021,Norte,P.1 (Gama),165
+173,2021-04,Abr 2021,Norte,P.1.2 (Gama),9
+174,2021-04,Abr 2021,Norte,P.1.3,3
+175,2021-04,Abr 2021,Norte,P.1.4,27
+176,2021-04,Abr 2021,Norte,P.1.5,3
+177,2021-04,Abr 2021,Norte,P.1.6,17
+178,2021-04,Abr 2021,Norte,P.1.7,1
+179,2021-04,Abr 2021,Sudeste,B.1.1.7 (Alfa),121
+180,2021-04,Abr 2021,Sudeste,B.1.617.2 (Delta),2
+181,2021-04,Abr 2021,Sudeste,Não VOC/VOI,142
+182,2021-04,Abr 2021,Sudeste,P.1 (Gama),3073
+183,2021-04,Abr 2021,Sudeste,P.1 + S:P681R,1
+184,2021-04,Abr 2021,Sudeste,P.1.2 (Gama),75
+185,2021-04,Abr 2021,Sudeste,P.1.3,3
+186,2021-04,Abr 2021,Sudeste,P.1.7,19
+187,2021-04,Abr 2021,Sudeste,P.2,28
+188,2021-04,Abr 2021,Sul,B.1.1.7 (Alfa),3
+189,2021-04,Abr 2021,Sul,B.1.617.2 (Delta),3
+190,2021-04,Abr 2021,Sul,Não VOC/VOI,30
+191,2021-04,Abr 2021,Sul,P.1 (Gama),301
+192,2021-04,Abr 2021,Sul,P.1.2 (Gama),16
+193,2021-04,Abr 2021,Sul,P.1.3,1
+194,2021-04,Abr 2021,Sul,P.1.4,2
+195,2021-04,Abr 2021,Sul,P.1.7,4
+196,2021-04,Abr 2021,Sul,P.2,8
+197,2021-05,Mai 2021,Centro-oeste,B.1.1.7 (Alfa),1
+198,2021-05,Mai 2021,Centro-oeste,Não VOC/VOI,3
+199,2021-05,Mai 2021,Centro-oeste,P.1 (Gama),178
+200,2021-05,Mai 2021,Centro-oeste,P.1.2 (Gama),6
+201,2021-05,Mai 2021,Centro-oeste,P.1.7,26
+202,2021-05,Mai 2021,Nordeste,B.1.1.7 (Alfa),16
+203,2021-05,Mai 2021,Nordeste,B.1.617.2 (Delta),5
+204,2021-05,Mai 2021,Nordeste,Não VOC/VOI,7
+205,2021-05,Mai 2021,Nordeste,P.1 (Gama),431
+206,2021-05,Mai 2021,Nordeste,P.1.2 (Gama),12
+207,2021-05,Mai 2021,Nordeste,P.1.3,1
+208,2021-05,Mai 2021,Nordeste,P.1.4,5
+209,2021-05,Mai 2021,Nordeste,P.1.7,25
+210,2021-05,Mai 2021,Nordeste,P.2,1
+211,2021-05,Mai 2021,Norte,P.1 (Gama),137
+212,2021-05,Mai 2021,Norte,P.1.2 (Gama),4
+213,2021-05,Mai 2021,Norte,P.1.3,23
+214,2021-05,Mai 2021,Norte,P.1.4,64
+215,2021-05,Mai 2021,Norte,P.1.5,4
+216,2021-05,Mai 2021,Norte,P.1.6,70
+217,2021-05,Mai 2021,Norte,P.1.7,9
+218,2021-05,Mai 2021,Sudeste,B.1.1.7 (Alfa),109
+219,2021-05,Mai 2021,Sudeste,B.1.617.2 (Delta),2
+220,2021-05,Mai 2021,Sudeste,Não VOC/VOI,113
+221,2021-05,Mai 2021,Sudeste,P.1 (Gama),3599
+222,2021-05,Mai 2021,Sudeste,P.1 + S:P681R,6
+223,2021-05,Mai 2021,Sudeste,P.1.2 (Gama),101
+224,2021-05,Mai 2021,Sudeste,P.1.3,5
+225,2021-05,Mai 2021,Sudeste,P.1.4,1
+226,2021-05,Mai 2021,Sudeste,P.1.5,1
+227,2021-05,Mai 2021,Sudeste,P.1.7,73
+228,2021-05,Mai 2021,Sudeste,P.1.8,1
+229,2021-05,Mai 2021,Sudeste,P.2,2
+230,2021-05,Mai 2021,Sul,B.1.1.7 (Alfa),3
+231,2021-05,Mai 2021,Sul,Não VOC/VOI,37
+232,2021-05,Mai 2021,Sul,P.1 (Gama),253
+233,2021-05,Mai 2021,Sul,P.1.2 (Gama),13
+234,2021-05,Mai 2021,Sul,P.1.7,4
+235,2021-06,Jun 2021,Centro-oeste,Não VOC/VOI,3
+236,2021-06,Jun 2021,Centro-oeste,P.1 (Gama),314
+237,2021-06,Jun 2021,Centro-oeste,P.1.2 (Gama),11
+238,2021-06,Jun 2021,Centro-oeste,P.1.7,113
+239,2021-06,Jun 2021,Nordeste,B.1.1.7 (Alfa),21
+240,2021-06,Jun 2021,Nordeste,Não VOC/VOI,8
+241,2021-06,Jun 2021,Nordeste,P.1 (Gama),288
+242,2021-06,Jun 2021,Nordeste,P.1.2 (Gama),5
+243,2021-06,Jun 2021,Nordeste,P.1.7,12
+244,2021-06,Jun 2021,Norte,B.1.617.2 (Delta),1
+245,2021-06,Jun 2021,Norte,P.1 (Gama),118
+246,2021-06,Jun 2021,Norte,P.1.3,1
+247,2021-06,Jun 2021,Norte,P.1.4,143
+248,2021-06,Jun 2021,Norte,P.1.5,3
+249,2021-06,Jun 2021,Norte,P.1.6,101
+250,2021-06,Jun 2021,Norte,P.1.7,16
+251,2021-06,Jun 2021,Norte,P.1.8,1
+252,2021-06,Jun 2021,Sudeste,B.1.1.7 (Alfa),19
+253,2021-06,Jun 2021,Sudeste,B.1.617.2 (Delta),69
+254,2021-06,Jun 2021,Sudeste,Não VOC/VOI,78
+255,2021-06,Jun 2021,Sudeste,P.1 (Gama),1593
+256,2021-06,Jun 2021,Sudeste,P.1 + S:P681R,1
+257,2021-06,Jun 2021,Sudeste,P.1.2 (Gama),44
+258,2021-06,Jun 2021,Sudeste,P.1.3,2
+259,2021-06,Jun 2021,Sudeste,P.1.4,4
+260,2021-06,Jun 2021,Sudeste,P.1.6,1
+261,2021-06,Jun 2021,Sudeste,P.1.7,62
+262,2021-06,Jun 2021,Sudeste,P.1.8,28
+263,2021-06,Jun 2021,Sudeste,P.2,1
+264,2021-06,Jun 2021,Sul,B.1.1.7 (Alfa),1
+265,2021-06,Jun 2021,Sul,B.1.617.2 (Delta),3
+266,2021-06,Jun 2021,Sul,Não VOC/VOI,18
+267,2021-06,Jun 2021,Sul,P.1 (Gama),135
+268,2021-06,Jun 2021,Sul,P.1.2 (Gama),7
+269,2021-06,Jun 2021,Sul,P.1.7,5
+270,2021-06,Jun 2021,Sul,P.1.8,5
+271,2021-07,Jul 2021,Centro-oeste,B.1.617.2 (Delta),4
+272,2021-07,Jul 2021,Centro-oeste,P.1 (Gama),61
+273,2021-07,Jul 2021,Centro-oeste,P.1.3,1
+274,2021-07,Jul 2021,Centro-oeste,P.1.7,42
+275,2021-07,Jul 2021,Nordeste,B.1.617.2 (Delta),3
+276,2021-07,Jul 2021,Nordeste,P.1 (Gama),158
+277,2021-07,Jul 2021,Nordeste,P.1.2 (Gama),7
+278,2021-07,Jul 2021,Nordeste,P.1.4,2
+279,2021-07,Jul 2021,Nordeste,P.1.7,13
+280,2021-07,Jul 2021,Norte,P.1 (Gama),10
+281,2021-07,Jul 2021,Norte,P.1.4,35
+282,2021-07,Jul 2021,Norte,P.1.5,1
+283,2021-07,Jul 2021,Norte,P.1.6,7
+284,2021-07,Jul 2021,Norte,P.1.7,5
+285,2021-07,Jul 2021,Sudeste,B.1.1.7 (Alfa),1
+286,2021-07,Jul 2021,Sudeste,B.1.617.2 (Delta),198
+287,2021-07,Jul 2021,Sudeste,Não VOC/VOI,9
+288,2021-07,Jul 2021,Sudeste,P.1 (Gama),305
+289,2021-07,Jul 2021,Sudeste,P.1 + S:P681R,4
+290,2021-07,Jul 2021,Sudeste,P.1.2 (Gama),13
+291,2021-07,Jul 2021,Sudeste,P.1.3,2
+292,2021-07,Jul 2021,Sudeste,P.1.4,6
+293,2021-07,Jul 2021,Sudeste,P.1.7,18
+294,2021-07,Jul 2021,Sudeste,P.1.8,15
+295,2021-07,Jul 2021,Sul,Não VOC/VOI,4
+296,2021-07,Jul 2021,Sul,P.1 (Gama),46
+297,2021-07,Jul 2021,Sul,P.1.2 (Gama),4
+298,2021-07,Jul 2021,Sul,P.1.7,1
+299,2021-07,Jul 2021,Sul,P.1.8,1
+300,2021-07,Jul 2021,Sul,P.2,1
