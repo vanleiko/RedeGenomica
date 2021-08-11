@@ -1,0 +1,864 @@
+,Date,Período,Região,Estado,Variantes,Variantes relevantes,Frequência
+0,2020-02,Fev 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,1
+1,2020-02,Fev 2020,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,1
+2,2020-02,Fev 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,4
+3,2020-02,Fev 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,2
+4,2020-03,Mar 2020,Centro-oeste,Distrito Federal,Não VOC/VOI,Não VOC/VOI,5
+5,2020-03,Mar 2020,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,3
+6,2020-03,Mar 2020,Centro-oeste,Mato Grosso,Não VOC/VOI,Não VOC/VOI,3
+7,2020-03,Mar 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,5
+8,2020-03,Mar 2020,Nordeste,Alagoas,Não VOC/VOI,Não VOC/VOI,1
+9,2020-03,Mar 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,25
+10,2020-03,Mar 2020,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,27
+11,2020-03,Mar 2020,Nordeste,Maranhão,Não VOC/VOI,Não VOC/VOI,4
+12,2020-03,Mar 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,1
+13,2020-03,Mar 2020,Nordeste,Piauí,Não VOC/VOI,Não VOC/VOI,1
+14,2020-03,Mar 2020,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,1
+15,2020-03,Mar 2020,Nordeste,Sergipe,Não VOC/VOI,Não VOC/VOI,6
+16,2020-03,Mar 2020,Norte,Acre,Não VOC/VOI,Não VOC/VOI,6
+17,2020-03,Mar 2020,Norte,Amapá,Não VOC/VOI,Não VOC/VOI,1
+18,2020-03,Mar 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,4
+19,2020-03,Mar 2020,Norte,Pará,Não VOC/VOI,Não VOC/VOI,8
+20,2020-03,Mar 2020,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,59
+21,2020-03,Mar 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,43
+22,2020-03,Mar 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,252
+23,2020-03,Mar 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,24
+24,2020-03,Mar 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,38
+25,2020-03,Mar 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,15
+26,2020-04,Abr 2020,Centro-oeste,Distrito Federal,Não VOC/VOI,Não VOC/VOI,1
+27,2020-04,Abr 2020,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,7
+28,2020-04,Abr 2020,Centro-oeste,Mato Grosso,Não VOC/VOI,Não VOC/VOI,3
+29,2020-04,Abr 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,7
+30,2020-04,Abr 2020,Nordeste,Alagoas,Não VOC/VOI,Não VOC/VOI,2
+31,2020-04,Abr 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,30
+32,2020-04,Abr 2020,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,13
+33,2020-04,Abr 2020,Nordeste,Maranhão,Não VOC/VOI,Não VOC/VOI,17
+34,2020-04,Abr 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,26
+35,2020-04,Abr 2020,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,73
+36,2020-04,Abr 2020,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,8
+37,2020-04,Abr 2020,Nordeste,Sergipe,Não VOC/VOI,Não VOC/VOI,22
+38,2020-04,Abr 2020,Norte,Amapá,Não VOC/VOI,Não VOC/VOI,10
+39,2020-04,Abr 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,38
+40,2020-04,Abr 2020,Norte,Pará,Não VOC/VOI,Não VOC/VOI,37
+41,2020-04,Abr 2020,Norte,Roraima,Não VOC/VOI,Não VOC/VOI,2
+42,2020-04,Abr 2020,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,2
+43,2020-04,Abr 2020,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,32
+44,2020-04,Abr 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,251
+45,2020-04,Abr 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,441
+46,2020-04,Abr 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,22
+47,2020-04,Abr 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,26
+48,2020-04,Abr 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,3
+49,2020-05,Mai 2020,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,1
+50,2020-05,Mai 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,6
+51,2020-05,Mai 2020,Nordeste,Alagoas,Não VOC/VOI,Não VOC/VOI,4
+52,2020-05,Mai 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,16
+53,2020-05,Mai 2020,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,9
+54,2020-05,Mai 2020,Nordeste,Maranhão,Não VOC/VOI,Não VOC/VOI,4
+55,2020-05,Mai 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,5
+56,2020-05,Mai 2020,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,39
+57,2020-05,Mai 2020,Norte,Acre,Não VOC/VOI,Não VOC/VOI,2
+58,2020-05,Mai 2020,Norte,Amapá,Não VOC/VOI,Não VOC/VOI,6
+59,2020-05,Mai 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,28
+60,2020-05,Mai 2020,Norte,Pará,Não VOC/VOI,Não VOC/VOI,9
+61,2020-05,Mai 2020,Norte,Rondônia,Não VOC/VOI,Não VOC/VOI,7
+62,2020-05,Mai 2020,Norte,Roraima,Não VOC/VOI,Não VOC/VOI,1
+63,2020-05,Mai 2020,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,5
+64,2020-05,Mai 2020,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,8
+65,2020-05,Mai 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,54
+66,2020-05,Mai 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,93
+67,2020-05,Mai 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,16
+68,2020-05,Mai 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,68
+69,2020-05,Mai 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,3
+70,2020-06,Jun 2020,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,12
+71,2020-06,Jun 2020,Centro-oeste,Mato Grosso,Não VOC/VOI,Não VOC/VOI,2
+72,2020-06,Jun 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,2
+73,2020-06,Jun 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,13
+74,2020-06,Jun 2020,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,2
+75,2020-06,Jun 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,6
+76,2020-06,Jun 2020,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,50
+77,2020-06,Jun 2020,Norte,Acre,Não VOC/VOI,Não VOC/VOI,2
+78,2020-06,Jun 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,16
+79,2020-06,Jun 2020,Norte,Pará,Não VOC/VOI,Não VOC/VOI,7
+80,2020-06,Jun 2020,Norte,Rondônia,Não VOC/VOI,Não VOC/VOI,1
+81,2020-06,Jun 2020,Norte,Roraima,Não VOC/VOI,Não VOC/VOI,2
+82,2020-06,Jun 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,41
+83,2020-06,Jun 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,73
+84,2020-06,Jun 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,101
+85,2020-06,Jun 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,88
+86,2020-06,Jun 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,2
+87,2020-07,Jul 2020,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,5
+88,2020-07,Jul 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,10
+89,2020-07,Jul 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,17
+90,2020-07,Jul 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,2
+91,2020-07,Jul 2020,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,42
+92,2020-07,Jul 2020,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,11
+93,2020-07,Jul 2020,Nordeste,Sergipe,Não VOC/VOI,Não VOC/VOI,2
+94,2020-07,Jul 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,16
+95,2020-07,Jul 2020,Norte,Pará,Não VOC/VOI,Não VOC/VOI,7
+96,2020-07,Jul 2020,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,1
+97,2020-07,Jul 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,81
+98,2020-07,Jul 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,77
+99,2020-07,Jul 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,49
+100,2020-07,Jul 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,84
+101,2020-07,Jul 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,2
+102,2020-08,Ago 2020,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,13
+103,2020-08,Ago 2020,Centro-oeste,Mato Grosso,Não VOC/VOI,Não VOC/VOI,2
+104,2020-08,Ago 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,7
+105,2020-08,Ago 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,14
+106,2020-08,Ago 2020,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,1
+107,2020-08,Ago 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,8
+108,2020-08,Ago 2020,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,50
+109,2020-08,Ago 2020,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,7
+110,2020-08,Ago 2020,Nordeste,Sergipe,Não VOC/VOI,Não VOC/VOI,3
+111,2020-08,Ago 2020,Norte,Acre,Não VOC/VOI,Não VOC/VOI,14
+112,2020-08,Ago 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,6
+113,2020-08,Ago 2020,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,4
+114,2020-08,Ago 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,53
+115,2020-08,Ago 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,40
+116,2020-08,Ago 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,21
+117,2020-08,Ago 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,123
+118,2020-08,Ago 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,2
+119,2020-09,Set 2020,Centro-oeste,Distrito Federal,Não VOC/VOI,Não VOC/VOI,5
+120,2020-09,Set 2020,Centro-oeste,Distrito Federal,P.2,P.2,1
+121,2020-09,Set 2020,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,6
+122,2020-09,Set 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,8
+123,2020-09,Set 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,25
+124,2020-09,Set 2020,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,1
+125,2020-09,Set 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,11
+126,2020-09,Set 2020,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,65
+127,2020-09,Set 2020,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,10
+128,2020-09,Set 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,22
+129,2020-09,Set 2020,Norte,Tocantins,Não VOC/VOI,Não VOC/VOI,5
+130,2020-09,Set 2020,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,14
+131,2020-09,Set 2020,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,7
+132,2020-09,Set 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,55
+133,2020-09,Set 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,20
+134,2020-09,Set 2020,Sudeste,São Paulo,P.2,P.2,1
+135,2020-09,Set 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,9
+136,2020-09,Set 2020,Sul,Paraná,P.2,P.2,1
+137,2020-09,Set 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,65
+138,2020-09,Set 2020,Sul,Rio Grande do Sul,P.1 (Gama),P.1 (Gama),1
+139,2020-09,Set 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,4
+140,2020-10,Out 2020,Centro-oeste,Distrito Federal,Não VOC/VOI,Não VOC/VOI,3
+141,2020-10,Out 2020,Centro-oeste,Distrito Federal,P.2,P.2,4
+142,2020-10,Out 2020,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,2
+143,2020-10,Out 2020,Centro-oeste,Goiás,P.2,P.2,1
+144,2020-10,Out 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,9
+145,2020-10,Out 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,9
+146,2020-10,Out 2020,Nordeste,Bahia,P.2,P.2,1
+147,2020-10,Out 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,6
+148,2020-10,Out 2020,Nordeste,Paraíba,P.2,P.2,1
+149,2020-10,Out 2020,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,59
+150,2020-10,Out 2020,Nordeste,Pernambuco,P.2,P.2,10
+151,2020-10,Out 2020,Nordeste,Piauí,Não VOC/VOI,Não VOC/VOI,4
+152,2020-10,Out 2020,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,9
+153,2020-10,Out 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,16
+154,2020-10,Out 2020,Norte,Pará,Não VOC/VOI,Não VOC/VOI,1
+155,2020-10,Out 2020,Norte,Pará,P.2,P.2,6
+156,2020-10,Out 2020,Norte,Tocantins,Não VOC/VOI,Não VOC/VOI,8
+157,2020-10,Out 2020,Norte,Tocantins,P.2,P.2,1
+158,2020-10,Out 2020,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,13
+159,2020-10,Out 2020,Sudeste,Espírito Santo,P.2,P.2,2
+160,2020-10,Out 2020,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,13
+161,2020-10,Out 2020,Sudeste,Minas Gerais,P.2,P.2,1
+162,2020-10,Out 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,59
+163,2020-10,Out 2020,Sudeste,Rio de Janeiro,P.2,P.2,23
+164,2020-10,Out 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,33
+165,2020-10,Out 2020,Sudeste,São Paulo,P.2,P.2,5
+166,2020-10,Out 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,24
+167,2020-10,Out 2020,Sul,Paraná,P.2,P.2,8
+168,2020-10,Out 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,65
+169,2020-10,Out 2020,Sul,Rio Grande do Sul,P.2,P.2,10
+170,2020-10,Out 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,1
+171,2020-11,Nov 2020,Centro-oeste,Distrito Federal,Não VOC/VOI,Não VOC/VOI,2
+172,2020-11,Nov 2020,Centro-oeste,Distrito Federal,P.2,P.2,2
+173,2020-11,Nov 2020,Centro-oeste,Goiás,P.2,P.2,1
+174,2020-11,Nov 2020,Centro-oeste,Mato Grosso,Não VOC/VOI,Não VOC/VOI,1
+175,2020-11,Nov 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,1
+176,2020-11,Nov 2020,Nordeste,Alagoas,Não VOC/VOI,Não VOC/VOI,2
+177,2020-11,Nov 2020,Nordeste,Alagoas,P.2,P.2,4
+178,2020-11,Nov 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,9
+179,2020-11,Nov 2020,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,11
+180,2020-11,Nov 2020,Nordeste,Ceará,P.2,P.2,1
+181,2020-11,Nov 2020,Nordeste,Maranhão,Não VOC/VOI,Não VOC/VOI,8
+182,2020-11,Nov 2020,Nordeste,Maranhão,P.1 (Gama),P.1 (Gama),1
+183,2020-11,Nov 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,25
+184,2020-11,Nov 2020,Nordeste,Paraíba,P.2,P.2,3
+185,2020-11,Nov 2020,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,2
+186,2020-11,Nov 2020,Nordeste,Pernambuco,P.2,P.2,1
+187,2020-11,Nov 2020,Nordeste,Piauí,Não VOC/VOI,Não VOC/VOI,4
+188,2020-11,Nov 2020,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,10
+189,2020-11,Nov 2020,Nordeste,Rio Grande do Norte,P.2,P.2,4
+190,2020-11,Nov 2020,Norte,Amapá,P.2,P.2,5
+191,2020-11,Nov 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,46
+192,2020-11,Nov 2020,Norte,Amazonas,P.2,P.2,3
+193,2020-11,Nov 2020,Norte,Pará,Não VOC/VOI,Não VOC/VOI,10
+194,2020-11,Nov 2020,Norte,Pará,P.2,P.2,6
+195,2020-11,Nov 2020,Norte,Roraima,Não VOC/VOI,Não VOC/VOI,1
+196,2020-11,Nov 2020,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,11
+197,2020-11,Nov 2020,Sudeste,Espírito Santo,P.2,P.2,7
+198,2020-11,Nov 2020,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,15
+199,2020-11,Nov 2020,Sudeste,Minas Gerais,P.2,P.2,12
+200,2020-11,Nov 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,43
+201,2020-11,Nov 2020,Sudeste,Rio de Janeiro,P.2,P.2,31
+202,2020-11,Nov 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,71
+203,2020-11,Nov 2020,Sudeste,São Paulo,P.2,P.2,26
+204,2020-11,Nov 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,32
+205,2020-11,Nov 2020,Sul,Paraná,P.2,P.2,11
+206,2020-11,Nov 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,113
+207,2020-11,Nov 2020,Sul,Rio Grande do Sul,P.1 (Gama),P.1 (Gama),1
+208,2020-11,Nov 2020,Sul,Rio Grande do Sul,P.2,P.2,75
+209,2020-11,Nov 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,3
+210,2020-11,Nov 2020,Sul,Santa Catarina,P.2,P.2,3
+211,2020-12,Dez 2020,Centro-oeste,Distrito Federal,B.1.1.7 (Alfa),B.1.1.7 (Alfa),2
+212,2020-12,Dez 2020,Centro-oeste,Distrito Federal,Não VOC/VOI,Não VOC/VOI,1
+213,2020-12,Dez 2020,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,28
+214,2020-12,Dez 2020,Centro-oeste,Goiás,P.2,P.2,23
+215,2020-12,Dez 2020,Centro-oeste,Mato Grosso,Não VOC/VOI,Não VOC/VOI,6
+216,2020-12,Dez 2020,Centro-oeste,Mato Grosso,P.2,P.2,3
+217,2020-12,Dez 2020,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,8
+218,2020-12,Dez 2020,Centro-oeste,Mato Grosso do Sul,P.2,P.2,3
+219,2020-12,Dez 2020,Nordeste,Alagoas,Não VOC/VOI,Não VOC/VOI,3
+220,2020-12,Dez 2020,Nordeste,Alagoas,P.2,P.2,17
+221,2020-12,Dez 2020,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,5
+222,2020-12,Dez 2020,Nordeste,Bahia,P.1 (Gama),P.1 (Gama),5
+223,2020-12,Dez 2020,Nordeste,Bahia,P.2,P.2,5
+224,2020-12,Dez 2020,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,14
+225,2020-12,Dez 2020,Nordeste,Ceará,P.2,P.2,10
+226,2020-12,Dez 2020,Nordeste,Maranhão,Não VOC/VOI,Não VOC/VOI,37
+227,2020-12,Dez 2020,Nordeste,Maranhão,P.1 (Gama),P.1 (Gama),1
+228,2020-12,Dez 2020,Nordeste,Maranhão,P.2,P.2,11
+229,2020-12,Dez 2020,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,21
+230,2020-12,Dez 2020,Nordeste,Paraíba,P.2,P.2,10
+231,2020-12,Dez 2020,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,10
+232,2020-12,Dez 2020,Nordeste,Pernambuco,P.2,P.2,12
+233,2020-12,Dez 2020,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,9
+234,2020-12,Dez 2020,Nordeste,Rio Grande do Norte,P.2,P.2,11
+235,2020-12,Dez 2020,Norte,Acre,P.2,P.2,1
+236,2020-12,Dez 2020,Norte,Amapá,Não VOC/VOI,Não VOC/VOI,4
+237,2020-12,Dez 2020,Norte,Amapá,P.2,P.2,13
+238,2020-12,Dez 2020,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,91
+239,2020-12,Dez 2020,Norte,Amazonas,P.1 (Gama),P.1 (Gama),116
+240,2020-12,Dez 2020,Norte,Amazonas,P.1-like I,Não VOC/VOI,2
+241,2020-12,Dez 2020,Norte,Amazonas,P.2,P.2,41
+242,2020-12,Dez 2020,Norte,Pará,Não VOC/VOI,Não VOC/VOI,9
+243,2020-12,Dez 2020,Norte,Pará,P.2,P.2,11
+244,2020-12,Dez 2020,Norte,Tocantins,P.2,P.2,1
+245,2020-12,Dez 2020,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,18
+246,2020-12,Dez 2020,Sudeste,Espírito Santo,P.2,P.2,15
+247,2020-12,Dez 2020,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,16
+248,2020-12,Dez 2020,Sudeste,Minas Gerais,P.2,P.2,23
+249,2020-12,Dez 2020,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,44
+250,2020-12,Dez 2020,Sudeste,Rio de Janeiro,P.2,P.2,89
+251,2020-12,Dez 2020,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,55
+252,2020-12,Dez 2020,Sudeste,São Paulo,P.2,P.2,22
+253,2020-12,Dez 2020,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,25
+254,2020-12,Dez 2020,Sul,Paraná,P.2,P.2,22
+255,2020-12,Dez 2020,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,36
+256,2020-12,Dez 2020,Sul,Rio Grande do Sul,P.2,P.2,36
+257,2020-12,Dez 2020,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,11
+258,2020-12,Dez 2020,Sul,Santa Catarina,P.2,P.2,35
+259,2021-01,Jan 2021,Centro-oeste,Distrito Federal,P.1 (Gama),P.1 (Gama),1
+260,2021-01,Jan 2021,Centro-oeste,Distrito Federal,P.2,P.2,1
+261,2021-01,Jan 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),B.1.1.7 (Alfa),6
+262,2021-01,Jan 2021,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,30
+263,2021-01,Jan 2021,Centro-oeste,Goiás,P.1 (Gama),P.1 (Gama),43
+264,2021-01,Jan 2021,Centro-oeste,Goiás,P.2,P.2,56
+265,2021-01,Jan 2021,Centro-oeste,Mato Grosso,B.1.1.7 (Alfa),B.1.1.7 (Alfa),2
+266,2021-01,Jan 2021,Centro-oeste,Mato Grosso,Não VOC/VOI,Não VOC/VOI,3
+267,2021-01,Jan 2021,Centro-oeste,Mato Grosso,P.1 (Gama),P.1 (Gama),1
+268,2021-01,Jan 2021,Centro-oeste,Mato Grosso,P.2,P.2,3
+269,2021-01,Jan 2021,Centro-oeste,Mato Grosso do Sul,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+270,2021-01,Jan 2021,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,7
+271,2021-01,Jan 2021,Centro-oeste,Mato Grosso do Sul,P.2,P.2,12
+272,2021-01,Jan 2021,Nordeste,Alagoas,Não VOC/VOI,Não VOC/VOI,7
+273,2021-01,Jan 2021,Nordeste,Alagoas,P.1 (Gama),P.1 (Gama),12
+274,2021-01,Jan 2021,Nordeste,Alagoas,P.1.1 (Gama),Não VOC/VOI,1
+275,2021-01,Jan 2021,Nordeste,Alagoas,P.1.3,Não VOC/VOI,1
+276,2021-01,Jan 2021,Nordeste,Alagoas,P.2,P.2,24
+277,2021-01,Jan 2021,Nordeste,Bahia,B.1.1.7 (Alfa),B.1.1.7 (Alfa),4
+278,2021-01,Jan 2021,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,25
+279,2021-01,Jan 2021,Nordeste,Bahia,P.1 (Gama),P.1 (Gama),13
+280,2021-01,Jan 2021,Nordeste,Bahia,P.2,P.2,37
+281,2021-01,Jan 2021,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,20
+282,2021-01,Jan 2021,Nordeste,Ceará,P.1 (Gama),P.1 (Gama),16
+283,2021-01,Jan 2021,Nordeste,Ceará,P.2,P.2,17
+284,2021-01,Jan 2021,Nordeste,Maranhão,Não VOC/VOI,Não VOC/VOI,26
+285,2021-01,Jan 2021,Nordeste,Maranhão,P.1 (Gama),P.1 (Gama),8
+286,2021-01,Jan 2021,Nordeste,Maranhão,P.2,P.2,15
+287,2021-01,Jan 2021,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,12
+288,2021-01,Jan 2021,Nordeste,Paraíba,P.1 (Gama),P.1 (Gama),5
+289,2021-01,Jan 2021,Nordeste,Paraíba,P.2,P.2,24
+290,2021-01,Jan 2021,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,9
+291,2021-01,Jan 2021,Nordeste,Pernambuco,P.2,P.2,13
+292,2021-01,Jan 2021,Nordeste,Piauí,Não VOC/VOI,Não VOC/VOI,1
+293,2021-01,Jan 2021,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,5
+294,2021-01,Jan 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),P.1 (Gama),12
+295,2021-01,Jan 2021,Nordeste,Rio Grande do Norte,P.2,P.2,26
+296,2021-01,Jan 2021,Nordeste,Sergipe,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+297,2021-01,Jan 2021,Nordeste,Sergipe,Não VOC/VOI,Não VOC/VOI,12
+298,2021-01,Jan 2021,Nordeste,Sergipe,P.1 (Gama),P.1 (Gama),7
+299,2021-01,Jan 2021,Nordeste,Sergipe,P.2,P.2,23
+300,2021-01,Jan 2021,Norte,Acre,Não VOC/VOI,Não VOC/VOI,23
+301,2021-01,Jan 2021,Norte,Acre,P.1 (Gama),P.1 (Gama),10
+302,2021-01,Jan 2021,Norte,Acre,P.2,P.2,3
+303,2021-01,Jan 2021,Norte,Amapá,Não VOC/VOI,Não VOC/VOI,6
+304,2021-01,Jan 2021,Norte,Amapá,P.1 (Gama),P.1 (Gama),9
+305,2021-01,Jan 2021,Norte,Amapá,P.2,P.2,56
+306,2021-01,Jan 2021,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,11
+307,2021-01,Jan 2021,Norte,Amazonas,P.1 (Gama),P.1 (Gama),169
+308,2021-01,Jan 2021,Norte,Amazonas,P.1-like I,Não VOC/VOI,1
+309,2021-01,Jan 2021,Norte,Amazonas,P.1.1 (Gama),Não VOC/VOI,1
+310,2021-01,Jan 2021,Norte,Amazonas,P.2,P.2,7
+311,2021-01,Jan 2021,Norte,Pará,Não VOC/VOI,Não VOC/VOI,9
+312,2021-01,Jan 2021,Norte,Pará,P.1 (Gama),P.1 (Gama),17
+313,2021-01,Jan 2021,Norte,Pará,P.2,P.2,23
+314,2021-01,Jan 2021,Norte,Rondônia,Não VOC/VOI,Não VOC/VOI,9
+315,2021-01,Jan 2021,Norte,Rondônia,P.1 (Gama),P.1 (Gama),5
+316,2021-01,Jan 2021,Norte,Rondônia,P.2,P.2,5
+317,2021-01,Jan 2021,Norte,Roraima,Não VOC/VOI,Não VOC/VOI,1
+318,2021-01,Jan 2021,Norte,Roraima,P.1 (Gama),P.1 (Gama),11
+319,2021-01,Jan 2021,Norte,Roraima,P.2,P.2,1
+320,2021-01,Jan 2021,Norte,Tocantins,Não VOC/VOI,Não VOC/VOI,3
+321,2021-01,Jan 2021,Norte,Tocantins,P.1 (Gama),P.1 (Gama),2
+322,2021-01,Jan 2021,Norte,Tocantins,P.2,P.2,1
+323,2021-01,Jan 2021,Sudeste,Espírito Santo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+324,2021-01,Jan 2021,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,25
+325,2021-01,Jan 2021,Sudeste,Espírito Santo,P.1 (Gama),P.1 (Gama),4
+326,2021-01,Jan 2021,Sudeste,Espírito Santo,P.2,P.2,21
+327,2021-01,Jan 2021,Sudeste,Minas Gerais,B.1.1.7 (Alfa),B.1.1.7 (Alfa),13
+328,2021-01,Jan 2021,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,13
+329,2021-01,Jan 2021,Sudeste,Minas Gerais,P.1 (Gama),P.1 (Gama),2
+330,2021-01,Jan 2021,Sudeste,Minas Gerais,P.2,P.2,46
+331,2021-01,Jan 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),B.1.1.7 (Alfa),5
+332,2021-01,Jan 2021,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,53
+333,2021-01,Jan 2021,Sudeste,Rio de Janeiro,P.1 (Gama),P.1 (Gama),4
+334,2021-01,Jan 2021,Sudeste,Rio de Janeiro,P.2,P.2,120
+335,2021-01,Jan 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),21
+336,2021-01,Jan 2021,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,137
+337,2021-01,Jan 2021,Sudeste,São Paulo,P.1 (Gama),P.1 (Gama),49
+338,2021-01,Jan 2021,Sudeste,São Paulo,P.1.1 (Gama),Não VOC/VOI,1
+339,2021-01,Jan 2021,Sudeste,São Paulo,P.2,P.2,130
+340,2021-01,Jan 2021,Sul,Paraná,B.1.1.7 (Alfa),B.1.1.7 (Alfa),3
+341,2021-01,Jan 2021,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,15
+342,2021-01,Jan 2021,Sul,Paraná,P.1 (Gama),P.1 (Gama),3
+343,2021-01,Jan 2021,Sul,Paraná,P.1-like I,Não VOC/VOI,1
+344,2021-01,Jan 2021,Sul,Paraná,P.1.3,Não VOC/VOI,1
+345,2021-01,Jan 2021,Sul,Paraná,P.2,P.2,21
+346,2021-01,Jan 2021,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,27
+347,2021-01,Jan 2021,Sul,Rio Grande do Sul,P.1 (Gama),P.1 (Gama),4
+348,2021-01,Jan 2021,Sul,Rio Grande do Sul,P.1.2 (Gama),P.1.2 (Gama),2
+349,2021-01,Jan 2021,Sul,Rio Grande do Sul,P.2,P.2,43
+350,2021-01,Jan 2021,Sul,Santa Catarina,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+351,2021-01,Jan 2021,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,25
+352,2021-01,Jan 2021,Sul,Santa Catarina,P.1 (Gama),P.1 (Gama),9
+353,2021-01,Jan 2021,Sul,Santa Catarina,P.2,P.2,57
+354,2021-02,Fev 2021,Centro-oeste,Distrito Federal,Não VOC/VOI,Não VOC/VOI,1
+355,2021-02,Fev 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),B.1.1.7 (Alfa),20
+356,2021-02,Fev 2021,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,18
+357,2021-02,Fev 2021,Centro-oeste,Goiás,P.1 (Gama),P.1 (Gama),118
+358,2021-02,Fev 2021,Centro-oeste,Goiás,P.1.1 (Gama),Não VOC/VOI,5
+359,2021-02,Fev 2021,Centro-oeste,Goiás,P.1.2 (Gama),P.1.2 (Gama),1
+360,2021-02,Fev 2021,Centro-oeste,Goiás,P.2,P.2,34
+361,2021-02,Fev 2021,Centro-oeste,Mato Grosso,P.1 (Gama),P.1 (Gama),2
+362,2021-02,Fev 2021,Centro-oeste,Mato Grosso,P.2,P.2,6
+363,2021-02,Fev 2021,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,3
+364,2021-02,Fev 2021,Centro-oeste,Mato Grosso do Sul,P.1 (Gama),P.1 (Gama),3
+365,2021-02,Fev 2021,Centro-oeste,Mato Grosso do Sul,P.2,P.2,4
+366,2021-02,Fev 2021,Nordeste,Alagoas,Não VOC/VOI,Não VOC/VOI,17
+367,2021-02,Fev 2021,Nordeste,Alagoas,P.1 (Gama),P.1 (Gama),32
+368,2021-02,Fev 2021,Nordeste,Alagoas,P.2,P.2,32
+369,2021-02,Fev 2021,Nordeste,Bahia,B.1.1.7 (Alfa),B.1.1.7 (Alfa),6
+370,2021-02,Fev 2021,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,30
+371,2021-02,Fev 2021,Nordeste,Bahia,P.1 (Gama),P.1 (Gama),50
+372,2021-02,Fev 2021,Nordeste,Bahia,P.2,P.2,40
+373,2021-02,Fev 2021,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,2
+374,2021-02,Fev 2021,Nordeste,Ceará,P.1 (Gama),P.1 (Gama),47
+375,2021-02,Fev 2021,Nordeste,Ceará,P.2,P.2,6
+376,2021-02,Fev 2021,Nordeste,Maranhão,Não VOC/VOI,Não VOC/VOI,16
+377,2021-02,Fev 2021,Nordeste,Maranhão,P.1 (Gama),P.1 (Gama),28
+378,2021-02,Fev 2021,Nordeste,Maranhão,P.2,P.2,6
+379,2021-02,Fev 2021,Nordeste,Paraíba,Não VOC/VOI,Não VOC/VOI,4
+380,2021-02,Fev 2021,Nordeste,Paraíba,P.1 (Gama),P.1 (Gama),15
+381,2021-02,Fev 2021,Nordeste,Paraíba,P.1.2 (Gama),P.1.2 (Gama),1
+382,2021-02,Fev 2021,Nordeste,Paraíba,P.2,P.2,7
+383,2021-02,Fev 2021,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,3
+384,2021-02,Fev 2021,Nordeste,Pernambuco,P.1 (Gama),P.1 (Gama),19
+385,2021-02,Fev 2021,Nordeste,Pernambuco,P.1.2 (Gama),P.1.2 (Gama),2
+386,2021-02,Fev 2021,Nordeste,Pernambuco,P.2,P.2,2
+387,2021-02,Fev 2021,Nordeste,Piauí,Não VOC/VOI,Não VOC/VOI,5
+388,2021-02,Fev 2021,Nordeste,Piauí,P.1 (Gama),P.1 (Gama),2
+389,2021-02,Fev 2021,Nordeste,Piauí,P.2,P.2,1
+390,2021-02,Fev 2021,Nordeste,Rio Grande do Norte,Não VOC/VOI,Não VOC/VOI,5
+391,2021-02,Fev 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),P.1 (Gama),21
+392,2021-02,Fev 2021,Nordeste,Rio Grande do Norte,P.2,P.2,14
+393,2021-02,Fev 2021,Nordeste,Sergipe,Não VOC/VOI,Não VOC/VOI,17
+394,2021-02,Fev 2021,Nordeste,Sergipe,P.1 (Gama),P.1 (Gama),104
+395,2021-02,Fev 2021,Nordeste,Sergipe,P.1.2 (Gama),P.1.2 (Gama),41
+396,2021-02,Fev 2021,Nordeste,Sergipe,P.2,P.2,18
+397,2021-02,Fev 2021,Norte,Acre,Não VOC/VOI,Não VOC/VOI,4
+398,2021-02,Fev 2021,Norte,Acre,P.1 (Gama),P.1 (Gama),13
+399,2021-02,Fev 2021,Norte,Amapá,Não VOC/VOI,Não VOC/VOI,3
+400,2021-02,Fev 2021,Norte,Amapá,P.1 (Gama),P.1 (Gama),37
+401,2021-02,Fev 2021,Norte,Amapá,P.2,P.2,14
+402,2021-02,Fev 2021,Norte,Amazonas,P.1 (Gama),P.1 (Gama),129
+403,2021-02,Fev 2021,Norte,Amazonas,P.1.2 (Gama),P.1.2 (Gama),1
+404,2021-02,Fev 2021,Norte,Amazonas,P.1.3,Não VOC/VOI,1
+405,2021-02,Fev 2021,Norte,Pará,Não VOC/VOI,Não VOC/VOI,3
+406,2021-02,Fev 2021,Norte,Pará,P.1 (Gama),P.1 (Gama),53
+407,2021-02,Fev 2021,Norte,Pará,P.1.2 (Gama),P.1.2 (Gama),3
+408,2021-02,Fev 2021,Norte,Pará,P.2,P.2,11
+409,2021-02,Fev 2021,Norte,Rondônia,P.1 (Gama),P.1 (Gama),4
+410,2021-02,Fev 2021,Norte,Rondônia,P.2,P.2,1
+411,2021-02,Fev 2021,Norte,Roraima,P.1 (Gama),P.1 (Gama),15
+412,2021-02,Fev 2021,Norte,Roraima,P.1.1 (Gama),Não VOC/VOI,1
+413,2021-02,Fev 2021,Norte,Tocantins,Não VOC/VOI,Não VOC/VOI,5
+414,2021-02,Fev 2021,Norte,Tocantins,P.1 (Gama),P.1 (Gama),10
+415,2021-02,Fev 2021,Norte,Tocantins,P.2,P.2,7
+416,2021-02,Fev 2021,Sudeste,Espírito Santo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),6
+417,2021-02,Fev 2021,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,7
+418,2021-02,Fev 2021,Sudeste,Espírito Santo,P.1 (Gama),P.1 (Gama),8
+419,2021-02,Fev 2021,Sudeste,Espírito Santo,P.1.2 (Gama),P.1.2 (Gama),1
+420,2021-02,Fev 2021,Sudeste,Espírito Santo,P.2,P.2,11
+421,2021-02,Fev 2021,Sudeste,Minas Gerais,B.1.1.7 (Alfa),B.1.1.7 (Alfa),5
+422,2021-02,Fev 2021,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,24
+423,2021-02,Fev 2021,Sudeste,Minas Gerais,P.1 (Gama),P.1 (Gama),53
+424,2021-02,Fev 2021,Sudeste,Minas Gerais,P.1.1 (Gama),Não VOC/VOI,1
+425,2021-02,Fev 2021,Sudeste,Minas Gerais,P.2,P.2,80
+426,2021-02,Fev 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),B.1.1.7 (Alfa),5
+427,2021-02,Fev 2021,Sudeste,Rio de Janeiro,B.1.617.2 (Delta),B.1.617.2 (Delta),1
+428,2021-02,Fev 2021,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,47
+429,2021-02,Fev 2021,Sudeste,Rio de Janeiro,P.1 (Gama),P.1 (Gama),107
+430,2021-02,Fev 2021,Sudeste,Rio de Janeiro,P.1.1 (Gama),Não VOC/VOI,3
+431,2021-02,Fev 2021,Sudeste,Rio de Janeiro,P.2,P.2,53
+432,2021-02,Fev 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),8
+433,2021-02,Fev 2021,Sudeste,São Paulo,C.37 (Lambda),Não VOC/VOI,2
+434,2021-02,Fev 2021,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,145
+435,2021-02,Fev 2021,Sudeste,São Paulo,P.1 (Gama),P.1 (Gama),225
+436,2021-02,Fev 2021,Sudeste,São Paulo,P.2,P.2,147
+437,2021-02,Fev 2021,Sul,Paraná,B.1.1.7 (Alfa),B.1.1.7 (Alfa),6
+438,2021-02,Fev 2021,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,14
+439,2021-02,Fev 2021,Sul,Paraná,P.1 (Gama),P.1 (Gama),12
+440,2021-02,Fev 2021,Sul,Paraná,P.2,P.2,8
+441,2021-02,Fev 2021,Sul,Rio Grande do Sul,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+442,2021-02,Fev 2021,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,21
+443,2021-02,Fev 2021,Sul,Rio Grande do Sul,P.1 (Gama),P.1 (Gama),62
+444,2021-02,Fev 2021,Sul,Rio Grande do Sul,P.1.1 (Gama),Não VOC/VOI,2
+445,2021-02,Fev 2021,Sul,Rio Grande do Sul,P.1.2 (Gama),P.1.2 (Gama),17
+446,2021-02,Fev 2021,Sul,Rio Grande do Sul,P.2,P.2,29
+447,2021-02,Fev 2021,Sul,Santa Catarina,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+448,2021-02,Fev 2021,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,30
+449,2021-02,Fev 2021,Sul,Santa Catarina,P.1 (Gama),P.1 (Gama),96
+450,2021-02,Fev 2021,Sul,Santa Catarina,P.1-like I,Não VOC/VOI,1
+451,2021-02,Fev 2021,Sul,Santa Catarina,P.2,P.2,31
+452,2021-03,Mar 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),B.1.1.7 (Alfa),10
+453,2021-03,Mar 2021,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,3
+454,2021-03,Mar 2021,Centro-oeste,Goiás,P.1 (Gama),P.1 (Gama),208
+455,2021-03,Mar 2021,Centro-oeste,Goiás,P.1.1 (Gama),Não VOC/VOI,10
+456,2021-03,Mar 2021,Centro-oeste,Goiás,P.1.2 (Gama),P.1.2 (Gama),3
+457,2021-03,Mar 2021,Centro-oeste,Goiás,P.1.7,P.1.7,1
+458,2021-03,Mar 2021,Centro-oeste,Goiás,P.2,P.2,7
+459,2021-03,Mar 2021,Centro-oeste,Mato Grosso,P.1 (Gama),P.1 (Gama),9
+460,2021-03,Mar 2021,Centro-oeste,Mato Grosso,P.2,P.2,1
+461,2021-03,Mar 2021,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,1
+462,2021-03,Mar 2021,Centro-oeste,Mato Grosso do Sul,P.1 (Gama),P.1 (Gama),17
+463,2021-03,Mar 2021,Centro-oeste,Mato Grosso do Sul,P.1.7,P.1.7,1
+464,2021-03,Mar 2021,Centro-oeste,Mato Grosso do Sul,P.2,P.2,2
+465,2021-03,Mar 2021,Nordeste,Alagoas,P.1 (Gama),P.1 (Gama),22
+466,2021-03,Mar 2021,Nordeste,Bahia,B.1.1.7 (Alfa),B.1.1.7 (Alfa),2
+467,2021-03,Mar 2021,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,7
+468,2021-03,Mar 2021,Nordeste,Bahia,P.1 (Gama),P.1 (Gama),68
+469,2021-03,Mar 2021,Nordeste,Bahia,P.1.2 (Gama),P.1.2 (Gama),3
+470,2021-03,Mar 2021,Nordeste,Bahia,P.1.7,P.1.7,1
+471,2021-03,Mar 2021,Nordeste,Bahia,P.2,P.2,8
+472,2021-03,Mar 2021,Nordeste,Ceará,P.1 (Gama),P.1 (Gama),133
+473,2021-03,Mar 2021,Nordeste,Ceará,P.1.2 (Gama),P.1.2 (Gama),1
+474,2021-03,Mar 2021,Nordeste,Ceará,P.1.7,P.1.7,3
+475,2021-03,Mar 2021,Nordeste,Ceará,P.2,P.2,2
+476,2021-03,Mar 2021,Nordeste,Maranhão,Não VOC/VOI,Não VOC/VOI,3
+477,2021-03,Mar 2021,Nordeste,Maranhão,P.1 (Gama),P.1 (Gama),25
+478,2021-03,Mar 2021,Nordeste,Maranhão,P.1.2 (Gama),P.1.2 (Gama),3
+479,2021-03,Mar 2021,Nordeste,Paraíba,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+480,2021-03,Mar 2021,Nordeste,Paraíba,P.1 (Gama),P.1 (Gama),32
+481,2021-03,Mar 2021,Nordeste,Paraíba,P.2,P.2,3
+482,2021-03,Mar 2021,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,3
+483,2021-03,Mar 2021,Nordeste,Pernambuco,P.1 (Gama),P.1 (Gama),3
+484,2021-03,Mar 2021,Nordeste,Piauí,P.1 (Gama),P.1 (Gama),1
+485,2021-03,Mar 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),P.1 (Gama),10
+486,2021-03,Mar 2021,Nordeste,Sergipe,P.1 (Gama),P.1 (Gama),35
+487,2021-03,Mar 2021,Nordeste,Sergipe,P.1.2 (Gama),P.1.2 (Gama),12
+488,2021-03,Mar 2021,Nordeste,Sergipe,P.2,P.2,3
+489,2021-03,Mar 2021,Norte,Acre,P.1 (Gama),P.1 (Gama),31
+490,2021-03,Mar 2021,Norte,Amapá,P.1 (Gama),P.1 (Gama),22
+491,2021-03,Mar 2021,Norte,Amapá,P.2,P.2,1
+492,2021-03,Mar 2021,Norte,Amazonas,Não VOC/VOI,Não VOC/VOI,2
+493,2021-03,Mar 2021,Norte,Amazonas,P.1 (Gama),P.1 (Gama),141
+494,2021-03,Mar 2021,Norte,Amazonas,P.1.2 (Gama),P.1.2 (Gama),8
+495,2021-03,Mar 2021,Norte,Amazonas,P.1.3,Não VOC/VOI,4
+496,2021-03,Mar 2021,Norte,Amazonas,P.1.4,P.1.4,3
+497,2021-03,Mar 2021,Norte,Amazonas,P.1.6,Não VOC/VOI,1
+498,2021-03,Mar 2021,Norte,Pará,P.1 (Gama),P.1 (Gama),36
+499,2021-03,Mar 2021,Norte,Pará,P.2,P.2,1
+500,2021-03,Mar 2021,Norte,Rondônia,P.1 (Gama),P.1 (Gama),2
+501,2021-03,Mar 2021,Norte,Roraima,P.1 (Gama),P.1 (Gama),2
+502,2021-03,Mar 2021,Norte,Tocantins,Não VOC/VOI,Não VOC/VOI,1
+503,2021-03,Mar 2021,Norte,Tocantins,P.1 (Gama),P.1 (Gama),13
+504,2021-03,Mar 2021,Norte,Tocantins,P.1.2 (Gama),P.1.2 (Gama),2
+505,2021-03,Mar 2021,Norte,Tocantins,P.1.7,P.1.7,1
+506,2021-03,Mar 2021,Sudeste,Espírito Santo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),9
+507,2021-03,Mar 2021,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,2
+508,2021-03,Mar 2021,Sudeste,Espírito Santo,P.1 (Gama),P.1 (Gama),6
+509,2021-03,Mar 2021,Sudeste,Espírito Santo,P.2,P.2,1
+510,2021-03,Mar 2021,Sudeste,Minas Gerais,B.1.1.7 (Alfa),B.1.1.7 (Alfa),19
+511,2021-03,Mar 2021,Sudeste,Minas Gerais,Não VOC/VOI,Não VOC/VOI,5
+512,2021-03,Mar 2021,Sudeste,Minas Gerais,P.1 (Gama),P.1 (Gama),68
+513,2021-03,Mar 2021,Sudeste,Minas Gerais,P.1.2 (Gama),P.1.2 (Gama),1
+514,2021-03,Mar 2021,Sudeste,Minas Gerais,P.2,P.2,12
+515,2021-03,Mar 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),B.1.1.7 (Alfa),11
+516,2021-03,Mar 2021,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,34
+517,2021-03,Mar 2021,Sudeste,Rio de Janeiro,P.1 (Gama),P.1 (Gama),389
+518,2021-03,Mar 2021,Sudeste,Rio de Janeiro,P.1.1 (Gama),Não VOC/VOI,1
+519,2021-03,Mar 2021,Sudeste,Rio de Janeiro,P.1.2 (Gama),P.1.2 (Gama),14
+520,2021-03,Mar 2021,Sudeste,Rio de Janeiro,P.1.3,Não VOC/VOI,1
+521,2021-03,Mar 2021,Sudeste,Rio de Janeiro,P.2,P.2,11
+522,2021-03,Mar 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),106
+523,2021-03,Mar 2021,Sudeste,São Paulo,B.1.351 (Beta),Não VOC/VOI,3
+524,2021-03,Mar 2021,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,154
+525,2021-03,Mar 2021,Sudeste,São Paulo,P.1 (Gama),P.1 (Gama),1520
+526,2021-03,Mar 2021,Sudeste,São Paulo,P.1.1 (Gama),Não VOC/VOI,10
+527,2021-03,Mar 2021,Sudeste,São Paulo,P.1.2 (Gama),P.1.2 (Gama),14
+528,2021-03,Mar 2021,Sudeste,São Paulo,P.1.7,P.1.7,2
+529,2021-03,Mar 2021,Sudeste,São Paulo,P.2,P.2,109
+530,2021-03,Mar 2021,Sul,Paraná,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+531,2021-03,Mar 2021,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,40
+532,2021-03,Mar 2021,Sul,Paraná,P.1 (Gama),P.1 (Gama),72
+533,2021-03,Mar 2021,Sul,Paraná,P.1.2 (Gama),P.1.2 (Gama),3
+534,2021-03,Mar 2021,Sul,Paraná,P.2,P.2,16
+535,2021-03,Mar 2021,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,13
+536,2021-03,Mar 2021,Sul,Rio Grande do Sul,P.1 (Gama),P.1 (Gama),103
+537,2021-03,Mar 2021,Sul,Rio Grande do Sul,P.1.1 (Gama),Não VOC/VOI,1
+538,2021-03,Mar 2021,Sul,Rio Grande do Sul,P.1.2 (Gama),P.1.2 (Gama),18
+539,2021-03,Mar 2021,Sul,Rio Grande do Sul,P.2,P.2,6
+540,2021-03,Mar 2021,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,4
+541,2021-03,Mar 2021,Sul,Santa Catarina,P.1 (Gama),P.1 (Gama),77
+542,2021-03,Mar 2021,Sul,Santa Catarina,P.1-like I,Não VOC/VOI,1
+543,2021-03,Mar 2021,Sul,Santa Catarina,P.1.1 (Gama),Não VOC/VOI,1
+544,2021-03,Mar 2021,Sul,Santa Catarina,P.1.2 (Gama),P.1.2 (Gama),8
+545,2021-03,Mar 2021,Sul,Santa Catarina,P.2,P.2,4
+546,2021-04,Abr 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),B.1.1.7 (Alfa),2
+547,2021-04,Abr 2021,Centro-oeste,Goiás,B.1.617.2 (Delta),B.1.617.2 (Delta),3
+548,2021-04,Abr 2021,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,2
+549,2021-04,Abr 2021,Centro-oeste,Goiás,P.1 (Gama),P.1 (Gama),166
+550,2021-04,Abr 2021,Centro-oeste,Goiás,P.1.1 (Gama),Não VOC/VOI,1
+551,2021-04,Abr 2021,Centro-oeste,Goiás,P.1.2 (Gama),P.1.2 (Gama),2
+552,2021-04,Abr 2021,Centro-oeste,Goiás,P.1.7,P.1.7,3
+553,2021-04,Abr 2021,Centro-oeste,Mato Grosso,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+554,2021-04,Abr 2021,Centro-oeste,Mato Grosso,P.1 (Gama),P.1 (Gama),8
+555,2021-04,Abr 2021,Centro-oeste,Mato Grosso,P.1.7,P.1.7,2
+556,2021-04,Abr 2021,Centro-oeste,Mato Grosso do Sul,Não VOC/VOI,Não VOC/VOI,1
+557,2021-04,Abr 2021,Centro-oeste,Mato Grosso do Sul,P.1 (Gama),P.1 (Gama),19
+558,2021-04,Abr 2021,Centro-oeste,Mato Grosso do Sul,P.1.2 (Gama),P.1.2 (Gama),1
+559,2021-04,Abr 2021,Centro-oeste,Mato Grosso do Sul,P.2,P.2,2
+560,2021-04,Abr 2021,Nordeste,Alagoas,P.1 (Gama),P.1 (Gama),53
+561,2021-04,Abr 2021,Nordeste,Alagoas,P.1.2 (Gama),P.1.2 (Gama),2
+562,2021-04,Abr 2021,Nordeste,Alagoas,P.1.7,P.1.7,5
+563,2021-04,Abr 2021,Nordeste,Bahia,P.1 (Gama),P.1 (Gama),30
+564,2021-04,Abr 2021,Nordeste,Bahia,P.1.2 (Gama),P.1.2 (Gama),5
+565,2021-04,Abr 2021,Nordeste,Bahia,P.1.7,P.1.7,1
+566,2021-04,Abr 2021,Nordeste,Bahia,P.2,P.2,2
+567,2021-04,Abr 2021,Nordeste,Ceará,P.1 (Gama),P.1 (Gama),32
+568,2021-04,Abr 2021,Nordeste,Ceará,P.1.2 (Gama),P.1.2 (Gama),1
+569,2021-04,Abr 2021,Nordeste,Ceará,P.1.7,P.1.7,1
+570,2021-04,Abr 2021,Nordeste,Maranhão,Não VOC/VOI,Não VOC/VOI,1
+571,2021-04,Abr 2021,Nordeste,Maranhão,P.1 (Gama),P.1 (Gama),44
+572,2021-04,Abr 2021,Nordeste,Maranhão,P.1.2 (Gama),P.1.2 (Gama),6
+573,2021-04,Abr 2021,Nordeste,Maranhão,P.1.7,P.1.7,3
+574,2021-04,Abr 2021,Nordeste,Paraíba,P.1 (Gama),P.1 (Gama),24
+575,2021-04,Abr 2021,Nordeste,Paraíba,P.1.7,P.1.7,1
+576,2021-04,Abr 2021,Nordeste,Pernambuco,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+577,2021-04,Abr 2021,Nordeste,Pernambuco,P.1 (Gama),P.1 (Gama),29
+578,2021-04,Abr 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),P.1 (Gama),6
+579,2021-04,Abr 2021,Nordeste,Rio Grande do Norte,P.2,P.2,2
+580,2021-04,Abr 2021,Nordeste,Sergipe,P.1 (Gama),P.1 (Gama),1
+581,2021-04,Abr 2021,Norte,Acre,Não VOC/VOI,Não VOC/VOI,2
+582,2021-04,Abr 2021,Norte,Acre,P.1 (Gama),P.1 (Gama),20
+583,2021-04,Abr 2021,Norte,Acre,P.1.1 (Gama),Não VOC/VOI,2
+584,2021-04,Abr 2021,Norte,Amazonas,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+585,2021-04,Abr 2021,Norte,Amazonas,P.1 (Gama),P.1 (Gama),97
+586,2021-04,Abr 2021,Norte,Amazonas,P.1.2 (Gama),P.1.2 (Gama),9
+587,2021-04,Abr 2021,Norte,Amazonas,P.1.3,Não VOC/VOI,3
+588,2021-04,Abr 2021,Norte,Amazonas,P.1.4,P.1.4,27
+589,2021-04,Abr 2021,Norte,Amazonas,P.1.5,Não VOC/VOI,2
+590,2021-04,Abr 2021,Norte,Amazonas,P.1.6,Não VOC/VOI,17
+591,2021-04,Abr 2021,Norte,Pará,P.1 (Gama),P.1 (Gama),33
+592,2021-04,Abr 2021,Norte,Roraima,P.1.5,Não VOC/VOI,1
+593,2021-04,Abr 2021,Norte,Tocantins,P.1 (Gama),P.1 (Gama),15
+594,2021-04,Abr 2021,Norte,Tocantins,P.1.1 (Gama),Não VOC/VOI,2
+595,2021-04,Abr 2021,Norte,Tocantins,P.1.7,P.1.7,1
+596,2021-04,Abr 2021,Sudeste,Espírito Santo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),5
+597,2021-04,Abr 2021,Sudeste,Espírito Santo,Não VOC/VOI,Não VOC/VOI,4
+598,2021-04,Abr 2021,Sudeste,Espírito Santo,P.1 (Gama),P.1 (Gama),24
+599,2021-04,Abr 2021,Sudeste,Espírito Santo,P.1 + S:P681R,Não VOC/VOI,1
+600,2021-04,Abr 2021,Sudeste,Espírito Santo,P.1.7,P.1.7,3
+601,2021-04,Abr 2021,Sudeste,Espírito Santo,P.2,P.2,2
+602,2021-04,Abr 2021,Sudeste,Minas Gerais,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+603,2021-04,Abr 2021,Sudeste,Minas Gerais,P.1 (Gama),P.1 (Gama),12
+604,2021-04,Abr 2021,Sudeste,Minas Gerais,P.1.3,Não VOC/VOI,1
+605,2021-04,Abr 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),B.1.1.7 (Alfa),18
+606,2021-04,Abr 2021,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,13
+607,2021-04,Abr 2021,Sudeste,Rio de Janeiro,P.1 (Gama),P.1 (Gama),832
+608,2021-04,Abr 2021,Sudeste,Rio de Janeiro,P.1.1 (Gama),Não VOC/VOI,8
+609,2021-04,Abr 2021,Sudeste,Rio de Janeiro,P.1.2 (Gama),P.1.2 (Gama),34
+610,2021-04,Abr 2021,Sudeste,Rio de Janeiro,P.1.7,P.1.7,2
+611,2021-04,Abr 2021,Sudeste,Rio de Janeiro,P.2,P.2,7
+612,2021-04,Abr 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),97
+613,2021-04,Abr 2021,Sudeste,São Paulo,B.1.351 (Beta),Não VOC/VOI,2
+614,2021-04,Abr 2021,Sudeste,São Paulo,B.1.617.2 (Delta),B.1.617.2 (Delta),2
+615,2021-04,Abr 2021,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,109
+616,2021-04,Abr 2021,Sudeste,São Paulo,P.1 (Gama),P.1 (Gama),2205
+617,2021-04,Abr 2021,Sudeste,São Paulo,P.1-like I,Não VOC/VOI,1
+618,2021-04,Abr 2021,Sudeste,São Paulo,P.1.1 (Gama),Não VOC/VOI,5
+619,2021-04,Abr 2021,Sudeste,São Paulo,P.1.2 (Gama),P.1.2 (Gama),41
+620,2021-04,Abr 2021,Sudeste,São Paulo,P.1.3,Não VOC/VOI,2
+621,2021-04,Abr 2021,Sudeste,São Paulo,P.1.7,P.1.7,14
+622,2021-04,Abr 2021,Sudeste,São Paulo,P.2,P.2,19
+623,2021-04,Abr 2021,Sul,Paraná,B.1.1.7 (Alfa),B.1.1.7 (Alfa),2
+624,2021-04,Abr 2021,Sul,Paraná,B.1.617.2 (Delta),B.1.617.2 (Delta),3
+625,2021-04,Abr 2021,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,18
+626,2021-04,Abr 2021,Sul,Paraná,P.1 (Gama),P.1 (Gama),159
+627,2021-04,Abr 2021,Sul,Paraná,P.1.1 (Gama),Não VOC/VOI,1
+628,2021-04,Abr 2021,Sul,Paraná,P.1.2 (Gama),P.1.2 (Gama),3
+629,2021-04,Abr 2021,Sul,Paraná,P.1.3,Não VOC/VOI,1
+630,2021-04,Abr 2021,Sul,Paraná,P.1.4,P.1.4,2
+631,2021-04,Abr 2021,Sul,Paraná,P.1.7,P.1.7,3
+632,2021-04,Abr 2021,Sul,Paraná,P.2,P.2,3
+633,2021-04,Abr 2021,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,10
+634,2021-04,Abr 2021,Sul,Rio Grande do Sul,P.1 (Gama),P.1 (Gama),79
+635,2021-04,Abr 2021,Sul,Rio Grande do Sul,P.1.2 (Gama),P.1.2 (Gama),10
+636,2021-04,Abr 2021,Sul,Rio Grande do Sul,P.2,P.2,5
+637,2021-04,Abr 2021,Sul,Santa Catarina,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+638,2021-04,Abr 2021,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,1
+639,2021-04,Abr 2021,Sul,Santa Catarina,P.1 (Gama),P.1 (Gama),63
+640,2021-04,Abr 2021,Sul,Santa Catarina,P.1.2 (Gama),P.1.2 (Gama),3
+641,2021-04,Abr 2021,Sul,Santa Catarina,P.1.7,P.1.7,1
+642,2021-05,Mai 2021,Centro-oeste,Distrito Federal,P.1 (Gama),P.1 (Gama),9
+643,2021-05,Mai 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+644,2021-05,Mai 2021,Centro-oeste,Goiás,Não VOC/VOI,Não VOC/VOI,1
+645,2021-05,Mai 2021,Centro-oeste,Goiás,P.1 (Gama),P.1 (Gama),147
+646,2021-05,Mai 2021,Centro-oeste,Goiás,P.1.1 (Gama),Não VOC/VOI,2
+647,2021-05,Mai 2021,Centro-oeste,Goiás,P.1.2 (Gama),P.1.2 (Gama),6
+648,2021-05,Mai 2021,Centro-oeste,Goiás,P.1.7,P.1.7,26
+649,2021-05,Mai 2021,Centro-oeste,Mato Grosso,P.1 (Gama),P.1 (Gama),21
+650,2021-05,Mai 2021,Centro-oeste,Mato Grosso do Sul,P.1 (Gama),P.1 (Gama),1
+651,2021-05,Mai 2021,Nordeste,Alagoas,P.1 (Gama),P.1 (Gama),54
+652,2021-05,Mai 2021,Nordeste,Alagoas,P.1.7,P.1.7,7
+653,2021-05,Mai 2021,Nordeste,Bahia,B.1.1.7 (Alfa),B.1.1.7 (Alfa),14
+654,2021-05,Mai 2021,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,1
+655,2021-05,Mai 2021,Nordeste,Bahia,P.1 (Gama),P.1 (Gama),109
+656,2021-05,Mai 2021,Nordeste,Bahia,P.1.2 (Gama),P.1.2 (Gama),1
+657,2021-05,Mai 2021,Nordeste,Bahia,P.1.3,Não VOC/VOI,1
+658,2021-05,Mai 2021,Nordeste,Bahia,P.1.7,P.1.7,3
+659,2021-05,Mai 2021,Nordeste,Bahia,P.2,P.2,1
+660,2021-05,Mai 2021,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,1
+661,2021-05,Mai 2021,Nordeste,Ceará,P.1 (Gama),P.1 (Gama),71
+662,2021-05,Mai 2021,Nordeste,Ceará,P.1.1 (Gama),Não VOC/VOI,1
+663,2021-05,Mai 2021,Nordeste,Ceará,P.1.2 (Gama),P.1.2 (Gama),2
+664,2021-05,Mai 2021,Nordeste,Ceará,P.1.4,P.1.4,5
+665,2021-05,Mai 2021,Nordeste,Ceará,P.1.7,P.1.7,1
+666,2021-05,Mai 2021,Nordeste,Maranhão,B.1.617.2 (Delta),B.1.617.2 (Delta),5
+667,2021-05,Mai 2021,Nordeste,Maranhão,P.1 (Gama),P.1 (Gama),26
+668,2021-05,Mai 2021,Nordeste,Maranhão,P.1.2 (Gama),P.1.2 (Gama),6
+669,2021-05,Mai 2021,Nordeste,Maranhão,P.1.7,P.1.7,13
+670,2021-05,Mai 2021,Nordeste,Paraíba,P.1 (Gama),P.1 (Gama),15
+671,2021-05,Mai 2021,Nordeste,Pernambuco,B.1.1.7 (Alfa),B.1.1.7 (Alfa),2
+672,2021-05,Mai 2021,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,1
+673,2021-05,Mai 2021,Nordeste,Pernambuco,P.1 (Gama),P.1 (Gama),128
+674,2021-05,Mai 2021,Nordeste,Pernambuco,P.1.1 (Gama),Não VOC/VOI,2
+675,2021-05,Mai 2021,Nordeste,Pernambuco,P.1.2 (Gama),P.1.2 (Gama),2
+676,2021-05,Mai 2021,Nordeste,Pernambuco,P.1.7,P.1.7,1
+677,2021-05,Mai 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),P.1 (Gama),14
+678,2021-05,Mai 2021,Nordeste,Sergipe,Não VOC/VOI,Não VOC/VOI,1
+679,2021-05,Mai 2021,Nordeste,Sergipe,P.1 (Gama),P.1 (Gama),14
+680,2021-05,Mai 2021,Nordeste,Sergipe,P.1.2 (Gama),P.1.2 (Gama),1
+681,2021-05,Mai 2021,Norte,Amazonas,P.1 (Gama),P.1 (Gama),101
+682,2021-05,Mai 2021,Norte,Amazonas,P.1.2 (Gama),P.1.2 (Gama),4
+683,2021-05,Mai 2021,Norte,Amazonas,P.1.3,Não VOC/VOI,23
+684,2021-05,Mai 2021,Norte,Amazonas,P.1.4,P.1.4,64
+685,2021-05,Mai 2021,Norte,Amazonas,P.1.5,Não VOC/VOI,4
+686,2021-05,Mai 2021,Norte,Amazonas,P.1.6,Não VOC/VOI,70
+687,2021-05,Mai 2021,Norte,Pará,P.1 (Gama),P.1 (Gama),23
+688,2021-05,Mai 2021,Norte,Pará,P.1.7,P.1.7,2
+689,2021-05,Mai 2021,Norte,Roraima,P.1 (Gama),P.1 (Gama),1
+690,2021-05,Mai 2021,Norte,Tocantins,P.1 (Gama),P.1 (Gama),12
+691,2021-05,Mai 2021,Norte,Tocantins,P.1.7,P.1.7,7
+692,2021-05,Mai 2021,Sudeste,Espírito Santo,P.1 (Gama),P.1 (Gama),7
+693,2021-05,Mai 2021,Sudeste,Espírito Santo,P.1.1 (Gama),Não VOC/VOI,1
+694,2021-05,Mai 2021,Sudeste,Minas Gerais,B.1.617.2 (Delta),B.1.617.2 (Delta),1
+695,2021-05,Mai 2021,Sudeste,Minas Gerais,P.1 (Gama),P.1 (Gama),4
+696,2021-05,Mai 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),B.1.1.7 (Alfa),14
+697,2021-05,Mai 2021,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,6
+698,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1 (Gama),P.1 (Gama),837
+699,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1.1 (Gama),Não VOC/VOI,4
+700,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1.2 (Gama),P.1.2 (Gama),45
+701,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1.3,Não VOC/VOI,2
+702,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1.4,P.1.4,1
+703,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1.7,P.1.7,2
+704,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1.8,Não VOC/VOI,1
+705,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.2,P.2,2
+706,2021-05,Mai 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),95
+707,2021-05,Mai 2021,Sudeste,São Paulo,B.1.617.2 (Delta),B.1.617.2 (Delta),1
+708,2021-05,Mai 2021,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,84
+709,2021-05,Mai 2021,Sudeste,São Paulo,P.1 (Gama),P.1 (Gama),2751
+710,2021-05,Mai 2021,Sudeste,São Paulo,P.1 + S:P681R,Não VOC/VOI,6
+711,2021-05,Mai 2021,Sudeste,São Paulo,P.1.1 (Gama),Não VOC/VOI,18
+712,2021-05,Mai 2021,Sudeste,São Paulo,P.1.2 (Gama),P.1.2 (Gama),56
+713,2021-05,Mai 2021,Sudeste,São Paulo,P.1.3,Não VOC/VOI,3
+714,2021-05,Mai 2021,Sudeste,São Paulo,P.1.5,Não VOC/VOI,1
+715,2021-05,Mai 2021,Sudeste,São Paulo,P.1.7,P.1.7,71
+716,2021-05,Mai 2021,Sul,Paraná,B.1.1.7 (Alfa),B.1.1.7 (Alfa),2
+717,2021-05,Mai 2021,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,5
+718,2021-05,Mai 2021,Sul,Paraná,P.1 (Gama),P.1 (Gama),90
+719,2021-05,Mai 2021,Sul,Paraná,P.1.7,P.1.7,3
+720,2021-05,Mai 2021,Sul,Rio Grande do Sul,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+721,2021-05,Mai 2021,Sul,Rio Grande do Sul,C.37 (Lambda),Não VOC/VOI,1
+722,2021-05,Mai 2021,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,28
+723,2021-05,Mai 2021,Sul,Rio Grande do Sul,P.1 (Gama),P.1 (Gama),120
+724,2021-05,Mai 2021,Sul,Rio Grande do Sul,P.1.2 (Gama),P.1.2 (Gama),12
+725,2021-05,Mai 2021,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,3
+726,2021-05,Mai 2021,Sul,Santa Catarina,P.1 (Gama),P.1 (Gama),43
+727,2021-05,Mai 2021,Sul,Santa Catarina,P.1.2 (Gama),P.1.2 (Gama),1
+728,2021-05,Mai 2021,Sul,Santa Catarina,P.1.7,P.1.7,1
+729,2021-06,Jun 2021,Centro-oeste,Goiás,P.1 (Gama),P.1 (Gama),304
+730,2021-06,Jun 2021,Centro-oeste,Goiás,P.1.1 (Gama),Não VOC/VOI,1
+731,2021-06,Jun 2021,Centro-oeste,Goiás,P.1.2 (Gama),P.1.2 (Gama),11
+732,2021-06,Jun 2021,Centro-oeste,Goiás,P.1.7,P.1.7,113
+733,2021-06,Jun 2021,Centro-oeste,Mato Grosso,Não VOC/VOI,Não VOC/VOI,2
+734,2021-06,Jun 2021,Centro-oeste,Mato Grosso,P.1 (Gama),P.1 (Gama),10
+735,2021-06,Jun 2021,Nordeste,Alagoas,P.1 (Gama),P.1 (Gama),62
+736,2021-06,Jun 2021,Nordeste,Alagoas,P.1.2 (Gama),P.1.2 (Gama),1
+737,2021-06,Jun 2021,Nordeste,Alagoas,P.1.7,P.1.7,2
+738,2021-06,Jun 2021,Nordeste,Bahia,B.1.1.7 (Alfa),B.1.1.7 (Alfa),21
+739,2021-06,Jun 2021,Nordeste,Bahia,Não VOC/VOI,Não VOC/VOI,2
+740,2021-06,Jun 2021,Nordeste,Bahia,P.1 (Gama),P.1 (Gama),78
+741,2021-06,Jun 2021,Nordeste,Bahia,P.1.1 (Gama),Não VOC/VOI,1
+742,2021-06,Jun 2021,Nordeste,Ceará,Não VOC/VOI,Não VOC/VOI,1
+743,2021-06,Jun 2021,Nordeste,Ceará,P.1 (Gama),P.1 (Gama),91
+744,2021-06,Jun 2021,Nordeste,Maranhão,P.1 (Gama),P.1 (Gama),2
+745,2021-06,Jun 2021,Nordeste,Maranhão,P.1.7,P.1.7,4
+746,2021-06,Jun 2021,Nordeste,Paraíba,P.1 (Gama),P.1 (Gama),16
+747,2021-06,Jun 2021,Nordeste,Paraíba,P.1-like II,Não VOC/VOI,2
+748,2021-06,Jun 2021,Nordeste,Paraíba,P.1.7,P.1.7,3
+749,2021-06,Jun 2021,Nordeste,Pernambuco,Não VOC/VOI,Não VOC/VOI,1
+750,2021-06,Jun 2021,Nordeste,Pernambuco,P.1 (Gama),P.1 (Gama),22
+751,2021-06,Jun 2021,Nordeste,Pernambuco,P.1.2 (Gama),P.1.2 (Gama),4
+752,2021-06,Jun 2021,Nordeste,Pernambuco,P.1.7,P.1.7,3
+753,2021-06,Jun 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),P.1 (Gama),13
+754,2021-06,Jun 2021,Nordeste,Rio Grande do Norte,P.1.1 (Gama),Não VOC/VOI,1
+755,2021-06,Jun 2021,Nordeste,Sergipe,P.1 (Gama),P.1 (Gama),4
+756,2021-06,Jun 2021,Norte,Amazonas,P.1 (Gama),P.1 (Gama),46
+757,2021-06,Jun 2021,Norte,Amazonas,P.1.3,Não VOC/VOI,1
+758,2021-06,Jun 2021,Norte,Amazonas,P.1.4,P.1.4,143
+759,2021-06,Jun 2021,Norte,Amazonas,P.1.5,Não VOC/VOI,3
+760,2021-06,Jun 2021,Norte,Amazonas,P.1.6,Não VOC/VOI,101
+761,2021-06,Jun 2021,Norte,Amazonas,P.1.7,P.1.7,1
+762,2021-06,Jun 2021,Norte,Amazonas,P.1.8,Não VOC/VOI,1
+763,2021-06,Jun 2021,Norte,Pará,P.1 (Gama),P.1 (Gama),62
+764,2021-06,Jun 2021,Norte,Pará,P.1.7,P.1.7,5
+765,2021-06,Jun 2021,Norte,Tocantins,B.1.617.2 (Delta),B.1.617.2 (Delta),1
+766,2021-06,Jun 2021,Norte,Tocantins,P.1 (Gama),P.1 (Gama),10
+767,2021-06,Jun 2021,Norte,Tocantins,P.1.7,P.1.7,10
+768,2021-06,Jun 2021,Sudeste,Espírito Santo,P.1 (Gama),P.1 (Gama),10
+769,2021-06,Jun 2021,Sudeste,Minas Gerais,P.1 (Gama),P.1 (Gama),5
+770,2021-06,Jun 2021,Sudeste,Minas Gerais,P.1.7,P.1.7,1
+771,2021-06,Jun 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),B.1.1.7 (Alfa),5
+772,2021-06,Jun 2021,Sudeste,Rio de Janeiro,B.1.617.2 (Delta),B.1.617.2 (Delta),63
+773,2021-06,Jun 2021,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,15
+774,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1 (Gama),P.1 (Gama),884
+775,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1.1 (Gama),Não VOC/VOI,17
+776,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1.2 (Gama),P.1.2 (Gama),35
+777,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1.3,Não VOC/VOI,2
+778,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1.4,P.1.4,3
+779,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1.6,Não VOC/VOI,1
+780,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1.7,P.1.7,8
+781,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1.8,Não VOC/VOI,28
+782,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.2,P.2,1
+783,2021-06,Jun 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),B.1.1.7 (Alfa),14
+784,2021-06,Jun 2021,Sudeste,São Paulo,B.1.617.2 (Delta),B.1.617.2 (Delta),6
+785,2021-06,Jun 2021,Sudeste,São Paulo,C.37 (Lambda),Não VOC/VOI,3
+786,2021-06,Jun 2021,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,34
+787,2021-06,Jun 2021,Sudeste,São Paulo,P.1 (Gama),P.1 (Gama),694
+788,2021-06,Jun 2021,Sudeste,São Paulo,P.1 + S:P681R,Não VOC/VOI,1
+789,2021-06,Jun 2021,Sudeste,São Paulo,P.1-like II,Não VOC/VOI,1
+790,2021-06,Jun 2021,Sudeste,São Paulo,P.1.1 (Gama),Não VOC/VOI,8
+791,2021-06,Jun 2021,Sudeste,São Paulo,P.1.2 (Gama),P.1.2 (Gama),9
+792,2021-06,Jun 2021,Sudeste,São Paulo,P.1.4,P.1.4,1
+793,2021-06,Jun 2021,Sudeste,São Paulo,P.1.7,P.1.7,53
+794,2021-06,Jun 2021,Sul,Paraná,B.1.617.2 (Delta),B.1.617.2 (Delta),2
+795,2021-06,Jun 2021,Sul,Paraná,Não VOC/VOI,Não VOC/VOI,1
+796,2021-06,Jun 2021,Sul,Paraná,P.1 (Gama),P.1 (Gama),52
+797,2021-06,Jun 2021,Sul,Paraná,P.1-like II,Não VOC/VOI,5
+798,2021-06,Jun 2021,Sul,Paraná,P.1.7,P.1.7,4
+799,2021-06,Jun 2021,Sul,Rio Grande do Sul,B.1.617.2 (Delta),B.1.617.2 (Delta),1
+800,2021-06,Jun 2021,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,1
+801,2021-06,Jun 2021,Sul,Rio Grande do Sul,P.1 (Gama),P.1 (Gama),30
+802,2021-06,Jun 2021,Sul,Rio Grande do Sul,P.1.2 (Gama),P.1.2 (Gama),5
+803,2021-06,Jun 2021,Sul,Rio Grande do Sul,P.1.7,P.1.7,1
+804,2021-06,Jun 2021,Sul,Santa Catarina,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+805,2021-06,Jun 2021,Sul,Santa Catarina,Não VOC/VOI,Não VOC/VOI,11
+806,2021-06,Jun 2021,Sul,Santa Catarina,P.1 (Gama),P.1 (Gama),53
+807,2021-06,Jun 2021,Sul,Santa Catarina,P.1.2 (Gama),P.1.2 (Gama),2
+808,2021-06,Jun 2021,Sul,Santa Catarina,P.1.8,Não VOC/VOI,5
+809,2021-07,Jul 2021,Centro-oeste,Distrito Federal,P.1 (Gama),P.1 (Gama),1
+810,2021-07,Jul 2021,Centro-oeste,Goiás,B.1.617.2 (Delta),B.1.617.2 (Delta),3
+811,2021-07,Jul 2021,Centro-oeste,Goiás,P.1 (Gama),P.1 (Gama),60
+812,2021-07,Jul 2021,Centro-oeste,Goiás,P.1.3,Não VOC/VOI,1
+813,2021-07,Jul 2021,Centro-oeste,Goiás,P.1.7,P.1.7,42
+814,2021-07,Jul 2021,Centro-oeste,Mato Grosso,B.1.617.2 (Delta),B.1.617.2 (Delta),1
+815,2021-07,Jul 2021,Nordeste,Bahia,P.1 (Gama),P.1 (Gama),9
+816,2021-07,Jul 2021,Nordeste,Ceará,P.1 (Gama),P.1 (Gama),1
+817,2021-07,Jul 2021,Nordeste,Paraíba,P.1 (Gama),P.1 (Gama),1
+818,2021-07,Jul 2021,Nordeste,Pernambuco,B.1.617.2 (Delta),B.1.617.2 (Delta),3
+819,2021-07,Jul 2021,Nordeste,Pernambuco,P.1 (Gama),P.1 (Gama),139
+820,2021-07,Jul 2021,Nordeste,Pernambuco,P.1.2 (Gama),P.1.2 (Gama),7
+821,2021-07,Jul 2021,Nordeste,Pernambuco,P.1.4,P.1.4,2
+822,2021-07,Jul 2021,Nordeste,Pernambuco,P.1.7,P.1.7,13
+823,2021-07,Jul 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),P.1 (Gama),8
+824,2021-07,Jul 2021,Norte,Amazonas,P.1 (Gama),P.1 (Gama),4
+825,2021-07,Jul 2021,Norte,Amazonas,P.1.4,P.1.4,35
+826,2021-07,Jul 2021,Norte,Amazonas,P.1.5,Não VOC/VOI,1
+827,2021-07,Jul 2021,Norte,Amazonas,P.1.6,Não VOC/VOI,7
+828,2021-07,Jul 2021,Norte,Tocantins,P.1 (Gama),P.1 (Gama),6
+829,2021-07,Jul 2021,Norte,Tocantins,P.1.7,P.1.7,5
+830,2021-07,Jul 2021,Sudeste,Espírito Santo,P.1 (Gama),P.1 (Gama),9
+831,2021-07,Jul 2021,Sudeste,Espírito Santo,P.1.7,P.1.7,1
+832,2021-07,Jul 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),B.1.1.7 (Alfa),1
+833,2021-07,Jul 2021,Sudeste,Rio de Janeiro,B.1.617.2 (Delta),B.1.617.2 (Delta),98
+834,2021-07,Jul 2021,Sudeste,Rio de Janeiro,Não VOC/VOI,Não VOC/VOI,1
+835,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1 (Gama),P.1 (Gama),150
+836,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1 + S:P681R,Não VOC/VOI,1
+837,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1-like II,Não VOC/VOI,2
+838,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1.1 (Gama),Não VOC/VOI,1
+839,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1.2 (Gama),P.1.2 (Gama),8
+840,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1.3,Não VOC/VOI,2
+841,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1.4,P.1.4,4
+842,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1.7,P.1.7,4
+843,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1.8,Não VOC/VOI,14
+844,2021-07,Jul 2021,Sudeste,São Paulo,B.1.617.2 (Delta),B.1.617.2 (Delta),100
+845,2021-07,Jul 2021,Sudeste,São Paulo,Não VOC/VOI,Não VOC/VOI,5
+846,2021-07,Jul 2021,Sudeste,São Paulo,P.1 (Gama),P.1 (Gama),146
+847,2021-07,Jul 2021,Sudeste,São Paulo,P.1 + S:P681R,Não VOC/VOI,3
+848,2021-07,Jul 2021,Sudeste,São Paulo,P.1.2 (Gama),P.1.2 (Gama),5
+849,2021-07,Jul 2021,Sudeste,São Paulo,P.1.4,P.1.4,2
+850,2021-07,Jul 2021,Sudeste,São Paulo,P.1.7,P.1.7,13
+851,2021-07,Jul 2021,Sudeste,São Paulo,P.1.8,Não VOC/VOI,1
+852,2021-07,Jul 2021,Sul,Paraná,P.1 (Gama),P.1 (Gama),6
+853,2021-07,Jul 2021,Sul,Paraná,P.1.2 (Gama),P.1.2 (Gama),1
+854,2021-07,Jul 2021,Sul,Paraná,P.1.7,P.1.7,1
+855,2021-07,Jul 2021,Sul,Paraná,P.2,P.2,1
+856,2021-07,Jul 2021,Sul,Rio Grande do Sul,Não VOC/VOI,Não VOC/VOI,1
+857,2021-07,Jul 2021,Sul,Rio Grande do Sul,P.1 (Gama),P.1 (Gama),32
+858,2021-07,Jul 2021,Sul,Rio Grande do Sul,P.1-like II,Não VOC/VOI,2
+859,2021-07,Jul 2021,Sul,Rio Grande do Sul,P.1.1 (Gama),Não VOC/VOI,1
+860,2021-07,Jul 2021,Sul,Rio Grande do Sul,P.1.2 (Gama),P.1.2 (Gama),3
+861,2021-07,Jul 2021,Sul,Santa Catarina,P.1 (Gama),P.1 (Gama),8
+862,2021-07,Jul 2021,Sul,Santa Catarina,P.1.8,Não VOC/VOI,1
