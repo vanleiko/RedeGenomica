@@ -1,0 +1,1120 @@
+,Date,Período,Região,Estado,Linhagens relevantes,Frequência
+0,2020-02,Fev 2020,Nordeste,Bahia,B.1.1,1
+1,2020-02,Fev 2020,Sudeste,Espírito Santo,Outras,1
+2,2020-02,Fev 2020,Sudeste,São Paulo,Outras,4
+3,2020-02,Fev 2020,Sul,Paraná,B.1.1,2
+4,2020-03,Mar 2020,Centro-oeste,Distrito Federal,B.1.1,1
+5,2020-03,Mar 2020,Centro-oeste,Distrito Federal,B.1.1.33,3
+6,2020-03,Mar 2020,Centro-oeste,Distrito Federal,Outras,1
+7,2020-03,Mar 2020,Centro-oeste,Goiás,B.1.1,1
+8,2020-03,Mar 2020,Centro-oeste,Goiás,Outras,2
+9,2020-03,Mar 2020,Centro-oeste,Mato Grosso,B.1.1.33,1
+10,2020-03,Mar 2020,Centro-oeste,Mato Grosso,Outras,2
+11,2020-03,Mar 2020,Centro-oeste,Mato Grosso do Sul,B.1.1,1
+12,2020-03,Mar 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.28,1
+13,2020-03,Mar 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.33,2
+14,2020-03,Mar 2020,Centro-oeste,Mato Grosso do Sul,Outras,1
+15,2020-03,Mar 2020,Nordeste,Alagoas,B.1.1.28,1
+16,2020-03,Mar 2020,Nordeste,Bahia,B.1.1,3
+17,2020-03,Mar 2020,Nordeste,Bahia,B.1.1.28,4
+18,2020-03,Mar 2020,Nordeste,Bahia,B.1.1.33,9
+19,2020-03,Mar 2020,Nordeste,Bahia,Outras,9
+20,2020-03,Mar 2020,Nordeste,Ceará,B.1.1.33,1
+21,2020-03,Mar 2020,Nordeste,Ceará,Outras,26
+22,2020-03,Mar 2020,Nordeste,Maranhão,B.1.1,1
+23,2020-03,Mar 2020,Nordeste,Maranhão,B.1.1.33,3
+24,2020-03,Mar 2020,Nordeste,Paraíba,Outras,1
+25,2020-03,Mar 2020,Nordeste,Piauí,B.1.1.33,1
+26,2020-03,Mar 2020,Nordeste,Rio Grande do Norte,B.1.1.33,1
+27,2020-03,Mar 2020,Nordeste,Sergipe,B.1.1,1
+28,2020-03,Mar 2020,Nordeste,Sergipe,B.1.1.28,1
+29,2020-03,Mar 2020,Nordeste,Sergipe,B.1.1.33,1
+30,2020-03,Mar 2020,Nordeste,Sergipe,Outras,3
+31,2020-03,Mar 2020,Norte,Acre,B.1.1.33,3
+32,2020-03,Mar 2020,Norte,Acre,Outras,3
+33,2020-03,Mar 2020,Norte,Amapá,B.1.1.33,1
+34,2020-03,Mar 2020,Norte,Amazonas,Outras,4
+35,2020-03,Mar 2020,Norte,Pará,B.1.1,1
+36,2020-03,Mar 2020,Norte,Pará,B.1.1.28,2
+37,2020-03,Mar 2020,Norte,Pará,B.1.1.33,2
+38,2020-03,Mar 2020,Norte,Pará,Outras,3
+39,2020-03,Mar 2020,Sudeste,Minas Gerais,B.1.1,10
+40,2020-03,Mar 2020,Sudeste,Minas Gerais,B.1.1.28,3
+41,2020-03,Mar 2020,Sudeste,Minas Gerais,B.1.1.33,6
+42,2020-03,Mar 2020,Sudeste,Minas Gerais,Outras,36
+43,2020-03,Mar 2020,Sudeste,Rio de Janeiro,B.1.1,2
+44,2020-03,Mar 2020,Sudeste,Rio de Janeiro,B.1.1.33,21
+45,2020-03,Mar 2020,Sudeste,Rio de Janeiro,Outras,20
+46,2020-03,Mar 2020,Sudeste,São Paulo,B.1.1,23
+47,2020-03,Mar 2020,Sudeste,São Paulo,B.1.1.28,132
+48,2020-03,Mar 2020,Sudeste,São Paulo,B.1.1.33,51
+49,2020-03,Mar 2020,Sudeste,São Paulo,Outras,43
+50,2020-03,Mar 2020,Sul,Paraná,B.1.1,2
+51,2020-03,Mar 2020,Sul,Paraná,B.1.1.28,7
+52,2020-03,Mar 2020,Sul,Paraná,B.1.1.33,9
+53,2020-03,Mar 2020,Sul,Paraná,Outras,6
+54,2020-03,Mar 2020,Sul,Rio Grande do Sul,B.1.1,4
+55,2020-03,Mar 2020,Sul,Rio Grande do Sul,B.1.1.28,9
+56,2020-03,Mar 2020,Sul,Rio Grande do Sul,B.1.1.33,10
+57,2020-03,Mar 2020,Sul,Rio Grande do Sul,Outras,15
+58,2020-03,Mar 2020,Sul,Santa Catarina,B.1.1,2
+59,2020-03,Mar 2020,Sul,Santa Catarina,B.1.1.28,3
+60,2020-03,Mar 2020,Sul,Santa Catarina,B.1.1.33,5
+61,2020-03,Mar 2020,Sul,Santa Catarina,Outras,5
+62,2020-04,Abr 2020,Centro-oeste,Distrito Federal,B.1.1.33,1
+63,2020-04,Abr 2020,Centro-oeste,Goiás,B.1.1.33,4
+64,2020-04,Abr 2020,Centro-oeste,Goiás,Outras,3
+65,2020-04,Abr 2020,Centro-oeste,Mato Grosso,B.1.1.28,1
+66,2020-04,Abr 2020,Centro-oeste,Mato Grosso,B.1.1.33,2
+67,2020-04,Abr 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.28,1
+68,2020-04,Abr 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.33,4
+69,2020-04,Abr 2020,Centro-oeste,Mato Grosso do Sul,Outras,2
+70,2020-04,Abr 2020,Nordeste,Alagoas,B.1.1.28,1
+71,2020-04,Abr 2020,Nordeste,Alagoas,B.1.1.33,1
+72,2020-04,Abr 2020,Nordeste,Bahia,B.1.1,1
+73,2020-04,Abr 2020,Nordeste,Bahia,B.1.1.28,4
+74,2020-04,Abr 2020,Nordeste,Bahia,B.1.1.33,22
+75,2020-04,Abr 2020,Nordeste,Bahia,Outras,3
+76,2020-04,Abr 2020,Nordeste,Ceará,B.1.1,1
+77,2020-04,Abr 2020,Nordeste,Ceará,B.1.1.33,9
+78,2020-04,Abr 2020,Nordeste,Ceará,Outras,3
+79,2020-04,Abr 2020,Nordeste,Maranhão,B.1.1.33,17
+80,2020-04,Abr 2020,Nordeste,Paraíba,B.1.1,18
+81,2020-04,Abr 2020,Nordeste,Paraíba,B.1.1.33,7
+82,2020-04,Abr 2020,Nordeste,Paraíba,Outras,1
+83,2020-04,Abr 2020,Nordeste,Pernambuco,B.1.1,46
+84,2020-04,Abr 2020,Nordeste,Pernambuco,B.1.1.28,5
+85,2020-04,Abr 2020,Nordeste,Pernambuco,B.1.1.33,2
+86,2020-04,Abr 2020,Nordeste,Pernambuco,Outras,19
+87,2020-04,Abr 2020,Nordeste,Rio Grande do Norte,B.1.1,1
+88,2020-04,Abr 2020,Nordeste,Rio Grande do Norte,B.1.1.33,1
+89,2020-04,Abr 2020,Nordeste,Rio Grande do Norte,Outras,6
+90,2020-04,Abr 2020,Nordeste,Sergipe,B.1.1,3
+91,2020-04,Abr 2020,Nordeste,Sergipe,B.1.1.28,1
+92,2020-04,Abr 2020,Nordeste,Sergipe,B.1.1.33,6
+93,2020-04,Abr 2020,Nordeste,Sergipe,Outras,12
+94,2020-04,Abr 2020,Norte,Amapá,B.1.1.33,10
+95,2020-04,Abr 2020,Norte,Amazonas,B.1.1.28,2
+96,2020-04,Abr 2020,Norte,Amazonas,B.1.1.33,3
+97,2020-04,Abr 2020,Norte,Amazonas,Outras,33
+98,2020-04,Abr 2020,Norte,Pará,B.1.1.28,29
+99,2020-04,Abr 2020,Norte,Pará,B.1.1.33,6
+100,2020-04,Abr 2020,Norte,Pará,Outras,2
+101,2020-04,Abr 2020,Norte,Roraima,B.1.1.33,1
+102,2020-04,Abr 2020,Norte,Roraima,Outras,1
+103,2020-04,Abr 2020,Sudeste,Espírito Santo,B.1.1.33,2
+104,2020-04,Abr 2020,Sudeste,Minas Gerais,B.1.1.28,5
+105,2020-04,Abr 2020,Sudeste,Minas Gerais,B.1.1.33,20
+106,2020-04,Abr 2020,Sudeste,Minas Gerais,Outras,6
+107,2020-04,Abr 2020,Sudeste,Rio de Janeiro,B.1.1.28,16
+108,2020-04,Abr 2020,Sudeste,Rio de Janeiro,B.1.1.33,224
+109,2020-04,Abr 2020,Sudeste,Rio de Janeiro,Outras,11
+110,2020-04,Abr 2020,Sudeste,São Paulo,B.1.1,16
+111,2020-04,Abr 2020,Sudeste,São Paulo,B.1.1.28,313
+112,2020-04,Abr 2020,Sudeste,São Paulo,B.1.1.33,87
+113,2020-04,Abr 2020,Sudeste,São Paulo,Outras,20
+114,2020-04,Abr 2020,Sul,Paraná,B.1.1.28,14
+115,2020-04,Abr 2020,Sul,Paraná,B.1.1.33,5
+116,2020-04,Abr 2020,Sul,Paraná,Outras,3
+117,2020-04,Abr 2020,Sul,Rio Grande do Sul,B.1.1,2
+118,2020-04,Abr 2020,Sul,Rio Grande do Sul,B.1.1.28,1
+119,2020-04,Abr 2020,Sul,Rio Grande do Sul,B.1.1.33,21
+120,2020-04,Abr 2020,Sul,Rio Grande do Sul,Outras,2
+121,2020-04,Abr 2020,Sul,Santa Catarina,B.1.1.28,1
+122,2020-04,Abr 2020,Sul,Santa Catarina,B.1.1.33,2
+123,2020-05,Mai 2020,Centro-oeste,Goiás,B.1.1.33,1
+124,2020-05,Mai 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.28,3
+125,2020-05,Mai 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.33,3
+126,2020-05,Mai 2020,Nordeste,Alagoas,B.1.1.28,1
+127,2020-05,Mai 2020,Nordeste,Alagoas,B.1.1.33,3
+128,2020-05,Mai 2020,Nordeste,Bahia,B.1.1,1
+129,2020-05,Mai 2020,Nordeste,Bahia,B.1.1.28,9
+130,2020-05,Mai 2020,Nordeste,Bahia,B.1.1.33,5
+131,2020-05,Mai 2020,Nordeste,Bahia,Outras,1
+132,2020-05,Mai 2020,Nordeste,Ceará,B.1.1.33,2
+133,2020-05,Mai 2020,Nordeste,Ceará,Outras,7
+134,2020-05,Mai 2020,Nordeste,Maranhão,B.1.1.33,4
+135,2020-05,Mai 2020,Nordeste,Paraíba,B.1.1,3
+136,2020-05,Mai 2020,Nordeste,Paraíba,B.1.1.33,2
+137,2020-05,Mai 2020,Nordeste,Pernambuco,B.1.1,22
+138,2020-05,Mai 2020,Nordeste,Pernambuco,B.1.1.28,2
+139,2020-05,Mai 2020,Nordeste,Pernambuco,B.1.1.33,4
+140,2020-05,Mai 2020,Nordeste,Pernambuco,Outras,9
+141,2020-05,Mai 2020,Norte,Acre,B.1.1.33,2
+142,2020-05,Mai 2020,Norte,Amapá,B.1.1.33,6
+143,2020-05,Mai 2020,Norte,Amazonas,B.1.1.28,9
+144,2020-05,Mai 2020,Norte,Amazonas,B.1.1.33,6
+145,2020-05,Mai 2020,Norte,Amazonas,Outras,13
+146,2020-05,Mai 2020,Norte,Pará,B.1.1.28,6
+147,2020-05,Mai 2020,Norte,Pará,B.1.1.33,2
+148,2020-05,Mai 2020,Norte,Pará,Outras,1
+149,2020-05,Mai 2020,Norte,Rondônia,B.1.1.33,5
+150,2020-05,Mai 2020,Norte,Rondônia,Outras,2
+151,2020-05,Mai 2020,Norte,Roraima,B.1.1.33,1
+152,2020-05,Mai 2020,Sudeste,Espírito Santo,B.1.1.33,5
+153,2020-05,Mai 2020,Sudeste,Minas Gerais,B.1.1.28,4
+154,2020-05,Mai 2020,Sudeste,Minas Gerais,B.1.1.33,3
+155,2020-05,Mai 2020,Sudeste,Minas Gerais,Outras,1
+156,2020-05,Mai 2020,Sudeste,Rio de Janeiro,B.1.1,1
+157,2020-05,Mai 2020,Sudeste,Rio de Janeiro,B.1.1.28,2
+158,2020-05,Mai 2020,Sudeste,Rio de Janeiro,B.1.1.33,46
+159,2020-05,Mai 2020,Sudeste,Rio de Janeiro,Outras,5
+160,2020-05,Mai 2020,Sudeste,São Paulo,B.1.1,1
+161,2020-05,Mai 2020,Sudeste,São Paulo,B.1.1.28,72
+162,2020-05,Mai 2020,Sudeste,São Paulo,B.1.1.33,14
+163,2020-05,Mai 2020,Sudeste,São Paulo,Outras,4
+164,2020-05,Mai 2020,Sul,Paraná,B.1.1.28,2
+165,2020-05,Mai 2020,Sul,Paraná,B.1.1.33,12
+166,2020-05,Mai 2020,Sul,Paraná,Outras,2
+167,2020-05,Mai 2020,Sul,Rio Grande do Sul,B.1.1,6
+168,2020-05,Mai 2020,Sul,Rio Grande do Sul,B.1.1.28,5
+169,2020-05,Mai 2020,Sul,Rio Grande do Sul,B.1.1.33,50
+170,2020-05,Mai 2020,Sul,Rio Grande do Sul,Outras,7
+171,2020-05,Mai 2020,Sul,Santa Catarina,B.1.1.33,2
+172,2020-05,Mai 2020,Sul,Santa Catarina,Outras,1
+173,2020-06,Jun 2020,Centro-oeste,Goiás,B.1.1.28,1
+174,2020-06,Jun 2020,Centro-oeste,Goiás,B.1.1.33,11
+175,2020-06,Jun 2020,Centro-oeste,Mato Grosso,B.1.1.28,2
+176,2020-06,Jun 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.28,1
+177,2020-06,Jun 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.33,1
+178,2020-06,Jun 2020,Nordeste,Bahia,B.1.1.28,6
+179,2020-06,Jun 2020,Nordeste,Bahia,B.1.1.33,6
+180,2020-06,Jun 2020,Nordeste,Bahia,Outras,1
+181,2020-06,Jun 2020,Nordeste,Ceará,B.1.1.33,2
+182,2020-06,Jun 2020,Nordeste,Paraíba,B.1.1,5
+183,2020-06,Jun 2020,Nordeste,Paraíba,B.1.1.33,1
+184,2020-06,Jun 2020,Nordeste,Pernambuco,B.1.1,28
+185,2020-06,Jun 2020,Nordeste,Pernambuco,B.1.1.28,5
+186,2020-06,Jun 2020,Nordeste,Pernambuco,B.1.1.33,5
+187,2020-06,Jun 2020,Nordeste,Pernambuco,Outras,12
+188,2020-06,Jun 2020,Norte,Acre,B.1.1.33,2
+189,2020-06,Jun 2020,Norte,Amazonas,B.1.1.28,10
+190,2020-06,Jun 2020,Norte,Amazonas,B.1.1.33,1
+191,2020-06,Jun 2020,Norte,Amazonas,Outras,5
+192,2020-06,Jun 2020,Norte,Pará,B.1.1.28,3
+193,2020-06,Jun 2020,Norte,Pará,B.1.1.33,4
+194,2020-06,Jun 2020,Norte,Rondônia,B.1.1.33,1
+195,2020-06,Jun 2020,Norte,Roraima,B.1.1.33,2
+196,2020-06,Jun 2020,Sudeste,Rio de Janeiro,B.1.1,2
+197,2020-06,Jun 2020,Sudeste,Rio de Janeiro,B.1.1.28,3
+198,2020-06,Jun 2020,Sudeste,Rio de Janeiro,B.1.1.33,36
+199,2020-06,Jun 2020,Sudeste,São Paulo,B.1.1,1
+200,2020-06,Jun 2020,Sudeste,São Paulo,B.1.1.28,47
+201,2020-06,Jun 2020,Sudeste,São Paulo,B.1.1.33,20
+202,2020-06,Jun 2020,Sul,Paraná,B.1.1,3
+203,2020-06,Jun 2020,Sul,Paraná,B.1.1.28,24
+204,2020-06,Jun 2020,Sul,Paraná,B.1.1.33,72
+205,2020-06,Jun 2020,Sul,Paraná,Outras,2
+206,2020-06,Jun 2020,Sul,Rio Grande do Sul,B.1.1,1
+207,2020-06,Jun 2020,Sul,Rio Grande do Sul,B.1.1.28,22
+208,2020-06,Jun 2020,Sul,Rio Grande do Sul,B.1.1.33,46
+209,2020-06,Jun 2020,Sul,Rio Grande do Sul,Outras,19
+210,2020-06,Jun 2020,Sul,Santa Catarina,B.1.1.28,1
+211,2020-06,Jun 2020,Sul,Santa Catarina,B.1.1.33,1
+212,2020-07,Jul 2020,Centro-oeste,Goiás,B.1.1.28,1
+213,2020-07,Jul 2020,Centro-oeste,Goiás,B.1.1.33,4
+214,2020-07,Jul 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.28,4
+215,2020-07,Jul 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.33,3
+216,2020-07,Jul 2020,Centro-oeste,Mato Grosso do Sul,Outras,3
+217,2020-07,Jul 2020,Nordeste,Bahia,B.1.1,2
+218,2020-07,Jul 2020,Nordeste,Bahia,B.1.1.28,10
+219,2020-07,Jul 2020,Nordeste,Bahia,B.1.1.33,5
+220,2020-07,Jul 2020,Nordeste,Paraíba,B.1.1,1
+221,2020-07,Jul 2020,Nordeste,Paraíba,B.1.1.33,1
+222,2020-07,Jul 2020,Nordeste,Pernambuco,B.1.1,26
+223,2020-07,Jul 2020,Nordeste,Pernambuco,B.1.1.28,6
+224,2020-07,Jul 2020,Nordeste,Pernambuco,B.1.1.33,8
+225,2020-07,Jul 2020,Nordeste,Pernambuco,Outras,2
+226,2020-07,Jul 2020,Nordeste,Rio Grande do Norte,B.1.1,6
+227,2020-07,Jul 2020,Nordeste,Rio Grande do Norte,B.1.1.28,3
+228,2020-07,Jul 2020,Nordeste,Rio Grande do Norte,B.1.1.33,1
+229,2020-07,Jul 2020,Nordeste,Rio Grande do Norte,Outras,1
+230,2020-07,Jul 2020,Nordeste,Sergipe,B.1.1,1
+231,2020-07,Jul 2020,Nordeste,Sergipe,Outras,1
+232,2020-07,Jul 2020,Norte,Amazonas,B.1.1,1
+233,2020-07,Jul 2020,Norte,Amazonas,B.1.1.28,6
+234,2020-07,Jul 2020,Norte,Amazonas,B.1.1.33,5
+235,2020-07,Jul 2020,Norte,Amazonas,Outras,4
+236,2020-07,Jul 2020,Norte,Pará,B.1.1.28,3
+237,2020-07,Jul 2020,Norte,Pará,B.1.1.33,3
+238,2020-07,Jul 2020,Norte,Pará,Outras,1
+239,2020-07,Jul 2020,Sudeste,Minas Gerais,B.1.1.33,1
+240,2020-07,Jul 2020,Sudeste,Rio de Janeiro,B.1.1,5
+241,2020-07,Jul 2020,Sudeste,Rio de Janeiro,B.1.1.28,4
+242,2020-07,Jul 2020,Sudeste,Rio de Janeiro,B.1.1.33,69
+243,2020-07,Jul 2020,Sudeste,Rio de Janeiro,Outras,3
+244,2020-07,Jul 2020,Sudeste,São Paulo,B.1.1,5
+245,2020-07,Jul 2020,Sudeste,São Paulo,B.1.1.28,55
+246,2020-07,Jul 2020,Sudeste,São Paulo,B.1.1.33,12
+247,2020-07,Jul 2020,Sudeste,São Paulo,Outras,2
+248,2020-07,Jul 2020,Sul,Paraná,B.1.1,5
+249,2020-07,Jul 2020,Sul,Paraná,B.1.1.28,22
+250,2020-07,Jul 2020,Sul,Paraná,B.1.1.33,22
+251,2020-07,Jul 2020,Sul,Rio Grande do Sul,B.1.1,5
+252,2020-07,Jul 2020,Sul,Rio Grande do Sul,B.1.1.28,19
+253,2020-07,Jul 2020,Sul,Rio Grande do Sul,B.1.1.33,44
+254,2020-07,Jul 2020,Sul,Rio Grande do Sul,Outras,16
+255,2020-07,Jul 2020,Sul,Santa Catarina,B.1.1.28,1
+256,2020-07,Jul 2020,Sul,Santa Catarina,B.1.1.33,1
+257,2020-08,Ago 2020,Centro-oeste,Goiás,B.1.1,1
+258,2020-08,Ago 2020,Centro-oeste,Goiás,B.1.1.28,2
+259,2020-08,Ago 2020,Centro-oeste,Goiás,B.1.1.33,10
+260,2020-08,Ago 2020,Centro-oeste,Mato Grosso,B.1.1.33,2
+261,2020-08,Ago 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.28,2
+262,2020-08,Ago 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.33,5
+263,2020-08,Ago 2020,Nordeste,Bahia,B.1.1,2
+264,2020-08,Ago 2020,Nordeste,Bahia,B.1.1.28,5
+265,2020-08,Ago 2020,Nordeste,Bahia,B.1.1.33,6
+266,2020-08,Ago 2020,Nordeste,Bahia,Outras,1
+267,2020-08,Ago 2020,Nordeste,Ceará,B.1.1.33,1
+268,2020-08,Ago 2020,Nordeste,Paraíba,B.1.1,5
+269,2020-08,Ago 2020,Nordeste,Paraíba,B.1.1.28,1
+270,2020-08,Ago 2020,Nordeste,Paraíba,B.1.1.33,2
+271,2020-08,Ago 2020,Nordeste,Pernambuco,B.1.1,22
+272,2020-08,Ago 2020,Nordeste,Pernambuco,B.1.1.28,15
+273,2020-08,Ago 2020,Nordeste,Pernambuco,B.1.1.33,5
+274,2020-08,Ago 2020,Nordeste,Pernambuco,Outras,8
+275,2020-08,Ago 2020,Nordeste,Rio Grande do Norte,B.1.1,4
+276,2020-08,Ago 2020,Nordeste,Rio Grande do Norte,B.1.1.28,2
+277,2020-08,Ago 2020,Nordeste,Rio Grande do Norte,Outras,1
+278,2020-08,Ago 2020,Nordeste,Sergipe,B.1.1.28,3
+279,2020-08,Ago 2020,Norte,Acre,B.1.1,2
+280,2020-08,Ago 2020,Norte,Acre,B.1.1.33,12
+281,2020-08,Ago 2020,Norte,Amazonas,B.1.1.28,4
+282,2020-08,Ago 2020,Norte,Amazonas,Outras,2
+283,2020-08,Ago 2020,Sudeste,Minas Gerais,B.1.1.28,1
+284,2020-08,Ago 2020,Sudeste,Minas Gerais,B.1.1.33,3
+285,2020-08,Ago 2020,Sudeste,Rio de Janeiro,B.1.1,4
+286,2020-08,Ago 2020,Sudeste,Rio de Janeiro,B.1.1.28,14
+287,2020-08,Ago 2020,Sudeste,Rio de Janeiro,B.1.1.33,32
+288,2020-08,Ago 2020,Sudeste,Rio de Janeiro,Outras,3
+289,2020-08,Ago 2020,Sudeste,São Paulo,B.1.1,2
+290,2020-08,Ago 2020,Sudeste,São Paulo,B.1.1.28,29
+291,2020-08,Ago 2020,Sudeste,São Paulo,B.1.1.33,8
+292,2020-08,Ago 2020,Sul,Paraná,B.1.1,2
+293,2020-08,Ago 2020,Sul,Paraná,B.1.1.28,10
+294,2020-08,Ago 2020,Sul,Paraná,B.1.1.33,7
+295,2020-08,Ago 2020,Sul,Paraná,Outras,2
+296,2020-08,Ago 2020,Sul,Rio Grande do Sul,B.1.1,6
+297,2020-08,Ago 2020,Sul,Rio Grande do Sul,B.1.1.28,41
+298,2020-08,Ago 2020,Sul,Rio Grande do Sul,B.1.1.33,61
+299,2020-08,Ago 2020,Sul,Rio Grande do Sul,Outras,15
+300,2020-08,Ago 2020,Sul,Santa Catarina,B.1.1.28,1
+301,2020-08,Ago 2020,Sul,Santa Catarina,B.1.1.33,1
+302,2020-09,Set 2020,Centro-oeste,Distrito Federal,B.1.1,1
+303,2020-09,Set 2020,Centro-oeste,Distrito Federal,B.1.1.28,2
+304,2020-09,Set 2020,Centro-oeste,Distrito Federal,B.1.1.33,1
+305,2020-09,Set 2020,Centro-oeste,Distrito Federal,P.2,1
+306,2020-09,Set 2020,Centro-oeste,Goiás,B.1.1,1
+307,2020-09,Set 2020,Centro-oeste,Goiás,B.1.1.28,1
+308,2020-09,Set 2020,Centro-oeste,Goiás,B.1.1.33,4
+309,2020-09,Set 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.28,2
+310,2020-09,Set 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.33,6
+311,2020-09,Set 2020,Nordeste,Bahia,B.1.1,3
+312,2020-09,Set 2020,Nordeste,Bahia,B.1.1.28,8
+313,2020-09,Set 2020,Nordeste,Bahia,B.1.1.33,12
+314,2020-09,Set 2020,Nordeste,Bahia,Outras,1
+315,2020-09,Set 2020,Nordeste,Ceará,B.1.1.33,1
+316,2020-09,Set 2020,Nordeste,Paraíba,B.1.1,9
+317,2020-09,Set 2020,Nordeste,Paraíba,B.1.1.33,2
+318,2020-09,Set 2020,Nordeste,Pernambuco,B.1.1,28
+319,2020-09,Set 2020,Nordeste,Pernambuco,B.1.1.28,20
+320,2020-09,Set 2020,Nordeste,Pernambuco,B.1.1.33,8
+321,2020-09,Set 2020,Nordeste,Pernambuco,Outras,9
+322,2020-09,Set 2020,Nordeste,Rio Grande do Norte,B.1.1,4
+323,2020-09,Set 2020,Nordeste,Rio Grande do Norte,B.1.1.33,4
+324,2020-09,Set 2020,Nordeste,Rio Grande do Norte,Outras,2
+325,2020-09,Set 2020,Norte,Amazonas,B.1.1,2
+326,2020-09,Set 2020,Norte,Amazonas,B.1.1.28,9
+327,2020-09,Set 2020,Norte,Amazonas,B.1.1.33,7
+328,2020-09,Set 2020,Norte,Amazonas,Outras,4
+329,2020-09,Set 2020,Norte,Tocantins,B.1.1,1
+330,2020-09,Set 2020,Norte,Tocantins,B.1.1.28,4
+331,2020-09,Set 2020,Sudeste,Espírito Santo,B.1.1.33,14
+332,2020-09,Set 2020,Sudeste,Minas Gerais,B.1.1.28,4
+333,2020-09,Set 2020,Sudeste,Minas Gerais,B.1.1.33,3
+334,2020-09,Set 2020,Sudeste,Rio de Janeiro,B.1.1,2
+335,2020-09,Set 2020,Sudeste,Rio de Janeiro,B.1.1.28,10
+336,2020-09,Set 2020,Sudeste,Rio de Janeiro,B.1.1.33,40
+337,2020-09,Set 2020,Sudeste,Rio de Janeiro,Outras,3
+338,2020-09,Set 2020,Sudeste,São Paulo,B.1.1.28,14
+339,2020-09,Set 2020,Sudeste,São Paulo,B.1.1.33,2
+340,2020-09,Set 2020,Sudeste,São Paulo,P.2,1
+341,2020-09,Set 2020,Sul,Paraná,B.1.1,1
+342,2020-09,Set 2020,Sul,Paraná,B.1.1.28,3
+343,2020-09,Set 2020,Sul,Paraná,B.1.1.33,5
+344,2020-09,Set 2020,Sul,Paraná,P.2,1
+345,2020-09,Set 2020,Sul,Rio Grande do Sul,B.1.1,3
+346,2020-09,Set 2020,Sul,Rio Grande do Sul,B.1.1.28,22
+347,2020-09,Set 2020,Sul,Rio Grande do Sul,B.1.1.33,34
+348,2020-09,Set 2020,Sul,Rio Grande do Sul,Outras,5
+349,2020-09,Set 2020,Sul,Rio Grande do Sul,P.1 (Gama),1
+350,2020-09,Set 2020,Sul,Santa Catarina,B.1.1.28,3
+351,2020-09,Set 2020,Sul,Santa Catarina,B.1.1.33,1
+352,2020-10,Out 2020,Centro-oeste,Distrito Federal,B.1.1.28,3
+353,2020-10,Out 2020,Centro-oeste,Distrito Federal,P.2,4
+354,2020-10,Out 2020,Centro-oeste,Goiás,B.1.1.28,2
+355,2020-10,Out 2020,Centro-oeste,Goiás,P.2,1
+356,2020-10,Out 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.28,7
+357,2020-10,Out 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.33,2
+358,2020-10,Out 2020,Nordeste,Bahia,B.1.1,1
+359,2020-10,Out 2020,Nordeste,Bahia,B.1.1.28,3
+360,2020-10,Out 2020,Nordeste,Bahia,B.1.1.33,5
+361,2020-10,Out 2020,Nordeste,Bahia,P.2,1
+362,2020-10,Out 2020,Nordeste,Paraíba,B.1.1,6
+363,2020-10,Out 2020,Nordeste,Paraíba,P.2,1
+364,2020-10,Out 2020,Nordeste,Pernambuco,B.1.1,14
+365,2020-10,Out 2020,Nordeste,Pernambuco,B.1.1.28,19
+366,2020-10,Out 2020,Nordeste,Pernambuco,B.1.1.33,22
+367,2020-10,Out 2020,Nordeste,Pernambuco,Outras,4
+368,2020-10,Out 2020,Nordeste,Pernambuco,P.2,10
+369,2020-10,Out 2020,Nordeste,Piauí,B.1.1.28,2
+370,2020-10,Out 2020,Nordeste,Piauí,Outras,2
+371,2020-10,Out 2020,Nordeste,Rio Grande do Norte,B.1.1,2
+372,2020-10,Out 2020,Nordeste,Rio Grande do Norte,B.1.1.28,3
+373,2020-10,Out 2020,Nordeste,Rio Grande do Norte,B.1.1.33,3
+374,2020-10,Out 2020,Nordeste,Rio Grande do Norte,Outras,1
+375,2020-10,Out 2020,Norte,Amazonas,B.1.1,2
+376,2020-10,Out 2020,Norte,Amazonas,B.1.1.28,8
+377,2020-10,Out 2020,Norte,Amazonas,B.1.1.33,2
+378,2020-10,Out 2020,Norte,Amazonas,Outras,4
+379,2020-10,Out 2020,Norte,Pará,B.1.1,1
+380,2020-10,Out 2020,Norte,Pará,P.2,6
+381,2020-10,Out 2020,Norte,Tocantins,B.1.1.28,6
+382,2020-10,Out 2020,Norte,Tocantins,B.1.1.33,2
+383,2020-10,Out 2020,Norte,Tocantins,P.2,1
+384,2020-10,Out 2020,Sudeste,Espírito Santo,B.1.1.28,5
+385,2020-10,Out 2020,Sudeste,Espírito Santo,B.1.1.33,7
+386,2020-10,Out 2020,Sudeste,Espírito Santo,P.2,2
+387,2020-10,Out 2020,Sudeste,Minas Gerais,B.1.1,1
+388,2020-10,Out 2020,Sudeste,Minas Gerais,B.1.1.28,6
+389,2020-10,Out 2020,Sudeste,Minas Gerais,B.1.1.33,6
+390,2020-10,Out 2020,Sudeste,Minas Gerais,P.2,1
+391,2020-10,Out 2020,Sudeste,Rio de Janeiro,B.1.1,1
+392,2020-10,Out 2020,Sudeste,Rio de Janeiro,B.1.1.28,13
+393,2020-10,Out 2020,Sudeste,Rio de Janeiro,B.1.1.33,42
+394,2020-10,Out 2020,Sudeste,Rio de Janeiro,Outras,1
+395,2020-10,Out 2020,Sudeste,Rio de Janeiro,P.2,23
+396,2020-10,Out 2020,Sudeste,São Paulo,B.1.1,1
+397,2020-10,Out 2020,Sudeste,São Paulo,B.1.1.28,23
+398,2020-10,Out 2020,Sudeste,São Paulo,B.1.1.33,6
+399,2020-10,Out 2020,Sudeste,São Paulo,Outras,2
+400,2020-10,Out 2020,Sudeste,São Paulo,P.2,5
+401,2020-10,Out 2020,Sul,Paraná,B.1.1.28,16
+402,2020-10,Out 2020,Sul,Paraná,B.1.1.33,7
+403,2020-10,Out 2020,Sul,Paraná,P.2,8
+404,2020-10,Out 2020,Sul,Rio Grande do Sul,B.1.1,4
+405,2020-10,Out 2020,Sul,Rio Grande do Sul,B.1.1.28,32
+406,2020-10,Out 2020,Sul,Rio Grande do Sul,B.1.1.33,24
+407,2020-10,Out 2020,Sul,Rio Grande do Sul,Outras,5
+408,2020-10,Out 2020,Sul,Rio Grande do Sul,P.2,10
+409,2020-10,Out 2020,Sul,Santa Catarina,B.1.1.33,1
+410,2020-11,Nov 2020,Centro-oeste,Distrito Federal,B.1.1.28,1
+411,2020-11,Nov 2020,Centro-oeste,Distrito Federal,P.2,2
+412,2020-11,Nov 2020,Centro-oeste,Goiás,P.2,1
+413,2020-11,Nov 2020,Centro-oeste,Mato Grosso,Outras,1
+414,2020-11,Nov 2020,Centro-oeste,Mato Grosso do Sul,Outras,1
+415,2020-11,Nov 2020,Nordeste,Alagoas,B.1.1.28,1
+416,2020-11,Nov 2020,Nordeste,Alagoas,Outras,1
+417,2020-11,Nov 2020,Nordeste,Alagoas,P.2,4
+418,2020-11,Nov 2020,Nordeste,Bahia,B.1.1.28,2
+419,2020-11,Nov 2020,Nordeste,Bahia,B.1.1.33,4
+420,2020-11,Nov 2020,Nordeste,Bahia,Outras,3
+421,2020-11,Nov 2020,Nordeste,Ceará,B.1.1.28,3
+422,2020-11,Nov 2020,Nordeste,Ceará,B.1.1.33,7
+423,2020-11,Nov 2020,Nordeste,Ceará,P.2,1
+424,2020-11,Nov 2020,Nordeste,Maranhão,B.1.1,1
+425,2020-11,Nov 2020,Nordeste,Maranhão,B.1.1.28,1
+426,2020-11,Nov 2020,Nordeste,Maranhão,Outras,6
+427,2020-11,Nov 2020,Nordeste,Maranhão,P.1 (Gama),1
+428,2020-11,Nov 2020,Nordeste,Paraíba,B.1.1,14
+429,2020-11,Nov 2020,Nordeste,Paraíba,B.1.1.28,6
+430,2020-11,Nov 2020,Nordeste,Paraíba,B.1.1.33,3
+431,2020-11,Nov 2020,Nordeste,Paraíba,Outras,2
+432,2020-11,Nov 2020,Nordeste,Paraíba,P.2,3
+433,2020-11,Nov 2020,Nordeste,Pernambuco,B.1.1,1
+434,2020-11,Nov 2020,Nordeste,Pernambuco,B.1.1.33,1
+435,2020-11,Nov 2020,Nordeste,Pernambuco,P.2,1
+436,2020-11,Nov 2020,Nordeste,Piauí,B.1.1.28,1
+437,2020-11,Nov 2020,Nordeste,Piauí,Outras,3
+438,2020-11,Nov 2020,Nordeste,Rio Grande do Norte,B.1.1,1
+439,2020-11,Nov 2020,Nordeste,Rio Grande do Norte,B.1.1.28,2
+440,2020-11,Nov 2020,Nordeste,Rio Grande do Norte,B.1.1.33,5
+441,2020-11,Nov 2020,Nordeste,Rio Grande do Norte,Outras,2
+442,2020-11,Nov 2020,Nordeste,Rio Grande do Norte,P.2,4
+443,2020-11,Nov 2020,Norte,Amapá,P.2,5
+444,2020-11,Nov 2020,Norte,Amazonas,B.1.1,4
+445,2020-11,Nov 2020,Norte,Amazonas,B.1.1.28,18
+446,2020-11,Nov 2020,Norte,Amazonas,B.1.1.33,3
+447,2020-11,Nov 2020,Norte,Amazonas,Outras,21
+448,2020-11,Nov 2020,Norte,Amazonas,P.2,3
+449,2020-11,Nov 2020,Norte,Pará,B.1.1,3
+450,2020-11,Nov 2020,Norte,Pará,B.1.1.28,2
+451,2020-11,Nov 2020,Norte,Pará,Outras,1
+452,2020-11,Nov 2020,Norte,Pará,P.2,6
+453,2020-11,Nov 2020,Norte,Roraima,B.1.1.28,1
+454,2020-11,Nov 2020,Sudeste,Espírito Santo,B.1.1.28,2
+455,2020-11,Nov 2020,Sudeste,Espírito Santo,B.1.1.33,9
+456,2020-11,Nov 2020,Sudeste,Espírito Santo,P.2,7
+457,2020-11,Nov 2020,Sudeste,Minas Gerais,B.1.1,1
+458,2020-11,Nov 2020,Sudeste,Minas Gerais,B.1.1.28,6
+459,2020-11,Nov 2020,Sudeste,Minas Gerais,B.1.1.33,5
+460,2020-11,Nov 2020,Sudeste,Minas Gerais,Outras,1
+461,2020-11,Nov 2020,Sudeste,Minas Gerais,P.2,12
+462,2020-11,Nov 2020,Sudeste,Rio de Janeiro,B.1.1,2
+463,2020-11,Nov 2020,Sudeste,Rio de Janeiro,B.1.1.28,17
+464,2020-11,Nov 2020,Sudeste,Rio de Janeiro,B.1.1.33,20
+465,2020-11,Nov 2020,Sudeste,Rio de Janeiro,Outras,2
+466,2020-11,Nov 2020,Sudeste,Rio de Janeiro,P.2,31
+467,2020-11,Nov 2020,Sudeste,São Paulo,B.1.1,4
+468,2020-11,Nov 2020,Sudeste,São Paulo,B.1.1.28,39
+469,2020-11,Nov 2020,Sudeste,São Paulo,B.1.1.33,8
+470,2020-11,Nov 2020,Sudeste,São Paulo,Outras,18
+471,2020-11,Nov 2020,Sudeste,São Paulo,P.2,26
+472,2020-11,Nov 2020,Sul,Paraná,B.1.1,2
+473,2020-11,Nov 2020,Sul,Paraná,B.1.1.28,22
+474,2020-11,Nov 2020,Sul,Paraná,B.1.1.33,4
+475,2020-11,Nov 2020,Sul,Paraná,Outras,2
+476,2020-11,Nov 2020,Sul,Paraná,P.2,11
+477,2020-11,Nov 2020,Sul,Rio Grande do Sul,B.1.1,2
+478,2020-11,Nov 2020,Sul,Rio Grande do Sul,B.1.1.28,84
+479,2020-11,Nov 2020,Sul,Rio Grande do Sul,B.1.1.33,17
+480,2020-11,Nov 2020,Sul,Rio Grande do Sul,Outras,10
+481,2020-11,Nov 2020,Sul,Rio Grande do Sul,P.1 (Gama),1
+482,2020-11,Nov 2020,Sul,Rio Grande do Sul,P.2,75
+483,2020-11,Nov 2020,Sul,Santa Catarina,B.1.1.28,2
+484,2020-11,Nov 2020,Sul,Santa Catarina,B.1.1.33,1
+485,2020-11,Nov 2020,Sul,Santa Catarina,P.2,3
+486,2020-12,Dez 2020,Centro-oeste,Distrito Federal,B.1.1.28,1
+487,2020-12,Dez 2020,Centro-oeste,Distrito Federal,B.1.1.7 (Alfa),2
+488,2020-12,Dez 2020,Centro-oeste,Goiás,B.1.1.28,14
+489,2020-12,Dez 2020,Centro-oeste,Goiás,B.1.1.33,1
+490,2020-12,Dez 2020,Centro-oeste,Goiás,Outras,6
+491,2020-12,Dez 2020,Centro-oeste,Goiás,P.2,23
+492,2020-12,Dez 2020,Centro-oeste,Mato Grosso,B.1.1.28,3
+493,2020-12,Dez 2020,Centro-oeste,Mato Grosso,B.1.1.33,2
+494,2020-12,Dez 2020,Centro-oeste,Mato Grosso,Outras,1
+495,2020-12,Dez 2020,Centro-oeste,Mato Grosso,P.2,3
+496,2020-12,Dez 2020,Centro-oeste,Mato Grosso do Sul,B.1.1,3
+497,2020-12,Dez 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.28,1
+498,2020-12,Dez 2020,Centro-oeste,Mato Grosso do Sul,B.1.1.33,4
+499,2020-12,Dez 2020,Centro-oeste,Mato Grosso do Sul,P.2,3
+500,2020-12,Dez 2020,Nordeste,Alagoas,B.1.1,1
+501,2020-12,Dez 2020,Nordeste,Alagoas,B.1.1.28,1
+502,2020-12,Dez 2020,Nordeste,Alagoas,P.2,17
+503,2020-12,Dez 2020,Nordeste,Bahia,B.1.1.28,2
+504,2020-12,Dez 2020,Nordeste,Bahia,Outras,2
+505,2020-12,Dez 2020,Nordeste,Bahia,P.1 (Gama),5
+506,2020-12,Dez 2020,Nordeste,Bahia,P.2,5
+507,2020-12,Dez 2020,Nordeste,Ceará,B.1.1,2
+508,2020-12,Dez 2020,Nordeste,Ceará,B.1.1.28,4
+509,2020-12,Dez 2020,Nordeste,Ceará,B.1.1.33,8
+510,2020-12,Dez 2020,Nordeste,Ceará,P.2,10
+511,2020-12,Dez 2020,Nordeste,Maranhão,B.1.1.28,7
+512,2020-12,Dez 2020,Nordeste,Maranhão,B.1.1.33,4
+513,2020-12,Dez 2020,Nordeste,Maranhão,Outras,24
+514,2020-12,Dez 2020,Nordeste,Maranhão,P.1 (Gama),1
+515,2020-12,Dez 2020,Nordeste,Maranhão,P.2,11
+516,2020-12,Dez 2020,Nordeste,Paraíba,B.1.1,6
+517,2020-12,Dez 2020,Nordeste,Paraíba,B.1.1.28,9
+518,2020-12,Dez 2020,Nordeste,Paraíba,B.1.1.33,2
+519,2020-12,Dez 2020,Nordeste,Paraíba,Outras,4
+520,2020-12,Dez 2020,Nordeste,Paraíba,P.2,10
+521,2020-12,Dez 2020,Nordeste,Pernambuco,B.1.1,2
+522,2020-12,Dez 2020,Nordeste,Pernambuco,Outras,4
+523,2020-12,Dez 2020,Nordeste,Pernambuco,P.2,12
+524,2020-12,Dez 2020,Nordeste,Rio Grande do Norte,B.1.1,3
+525,2020-12,Dez 2020,Nordeste,Rio Grande do Norte,B.1.1.28,2
+526,2020-12,Dez 2020,Nordeste,Rio Grande do Norte,B.1.1.33,1
+527,2020-12,Dez 2020,Nordeste,Rio Grande do Norte,Outras,2
+528,2020-12,Dez 2020,Nordeste,Rio Grande do Norte,P.2,11
+529,2020-12,Dez 2020,Norte,Acre,P.2,1
+530,2020-12,Dez 2020,Norte,Amapá,B.1.1.28,1
+531,2020-12,Dez 2020,Norte,Amapá,B.1.1.33,1
+532,2020-12,Dez 2020,Norte,Amapá,Outras,1
+533,2020-12,Dez 2020,Norte,Amapá,P.2,13
+534,2020-12,Dez 2020,Norte,Amazonas,B.1.1,12
+535,2020-12,Dez 2020,Norte,Amazonas,B.1.1.28,31
+536,2020-12,Dez 2020,Norte,Amazonas,B.1.1.33,8
+537,2020-12,Dez 2020,Norte,Amazonas,Outras,26
+538,2020-12,Dez 2020,Norte,Amazonas,P.1 (Gama),118
+539,2020-12,Dez 2020,Norte,Amazonas,P.2,41
+540,2020-12,Dez 2020,Norte,Pará,B.1.1,3
+541,2020-12,Dez 2020,Norte,Pará,B.1.1.28,1
+542,2020-12,Dez 2020,Norte,Pará,B.1.1.33,1
+543,2020-12,Dez 2020,Norte,Pará,Outras,2
+544,2020-12,Dez 2020,Norte,Pará,P.2,11
+545,2020-12,Dez 2020,Norte,Tocantins,P.2,1
+546,2020-12,Dez 2020,Sudeste,Espírito Santo,B.1.1.28,7
+547,2020-12,Dez 2020,Sudeste,Espírito Santo,B.1.1.33,11
+548,2020-12,Dez 2020,Sudeste,Espírito Santo,P.2,15
+549,2020-12,Dez 2020,Sudeste,Minas Gerais,B.1.1.28,10
+550,2020-12,Dez 2020,Sudeste,Minas Gerais,B.1.1.33,3
+551,2020-12,Dez 2020,Sudeste,Minas Gerais,Outras,1
+552,2020-12,Dez 2020,Sudeste,Minas Gerais,P.2,23
+553,2020-12,Dez 2020,Sudeste,Rio de Janeiro,B.1.1.28,5
+554,2020-12,Dez 2020,Sudeste,Rio de Janeiro,B.1.1.33,8
+555,2020-12,Dez 2020,Sudeste,Rio de Janeiro,Outras,8
+556,2020-12,Dez 2020,Sudeste,Rio de Janeiro,P.2,89
+557,2020-12,Dez 2020,Sudeste,São Paulo,B.1.1.28,35
+558,2020-12,Dez 2020,Sudeste,São Paulo,B.1.1.33,5
+559,2020-12,Dez 2020,Sudeste,São Paulo,Outras,10
+560,2020-12,Dez 2020,Sudeste,São Paulo,P.2,22
+561,2020-12,Dez 2020,Sul,Paraná,B.1.1,1
+562,2020-12,Dez 2020,Sul,Paraná,B.1.1.28,16
+563,2020-12,Dez 2020,Sul,Paraná,B.1.1.33,2
+564,2020-12,Dez 2020,Sul,Paraná,Outras,1
+565,2020-12,Dez 2020,Sul,Paraná,P.2,22
+566,2020-12,Dez 2020,Sul,Rio Grande do Sul,B.1.1,2
+567,2020-12,Dez 2020,Sul,Rio Grande do Sul,B.1.1.28,24
+568,2020-12,Dez 2020,Sul,Rio Grande do Sul,B.1.1.33,6
+569,2020-12,Dez 2020,Sul,Rio Grande do Sul,Outras,1
+570,2020-12,Dez 2020,Sul,Rio Grande do Sul,P.2,36
+571,2020-12,Dez 2020,Sul,Santa Catarina,B.1.1.28,9
+572,2020-12,Dez 2020,Sul,Santa Catarina,B.1.1.33,1
+573,2020-12,Dez 2020,Sul,Santa Catarina,P.2,35
+574,2021-01,Jan 2021,Centro-oeste,Distrito Federal,P.1 (Gama),1
+575,2021-01,Jan 2021,Centro-oeste,Distrito Federal,P.2,1
+576,2021-01,Jan 2021,Centro-oeste,Goiás,B.1.1,1
+577,2021-01,Jan 2021,Centro-oeste,Goiás,B.1.1.28,8
+578,2021-01,Jan 2021,Centro-oeste,Goiás,B.1.1.33,2
+579,2021-01,Jan 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),6
+580,2021-01,Jan 2021,Centro-oeste,Goiás,Outras,2
+581,2021-01,Jan 2021,Centro-oeste,Goiás,P.1 (Gama),43
+582,2021-01,Jan 2021,Centro-oeste,Goiás,P.2,56
+583,2021-01,Jan 2021,Centro-oeste,Mato Grosso,B.1.1.33,1
+584,2021-01,Jan 2021,Centro-oeste,Mato Grosso,B.1.1.7 (Alfa),2
+585,2021-01,Jan 2021,Centro-oeste,Mato Grosso,Outras,2
+586,2021-01,Jan 2021,Centro-oeste,Mato Grosso,P.1 (Gama),1
+587,2021-01,Jan 2021,Centro-oeste,Mato Grosso,P.2,3
+588,2021-01,Jan 2021,Centro-oeste,Mato Grosso do Sul,B.1.1.28,3
+589,2021-01,Jan 2021,Centro-oeste,Mato Grosso do Sul,B.1.1.33,1
+590,2021-01,Jan 2021,Centro-oeste,Mato Grosso do Sul,B.1.1.7 (Alfa),1
+591,2021-01,Jan 2021,Centro-oeste,Mato Grosso do Sul,Outras,3
+592,2021-01,Jan 2021,Centro-oeste,Mato Grosso do Sul,P.2,12
+593,2021-01,Jan 2021,Nordeste,Alagoas,B.1.1,1
+594,2021-01,Jan 2021,Nordeste,Alagoas,B.1.1.28,2
+595,2021-01,Jan 2021,Nordeste,Alagoas,B.1.1.33,2
+596,2021-01,Jan 2021,Nordeste,Alagoas,Outras,1
+597,2021-01,Jan 2021,Nordeste,Alagoas,P.1 (Gama),14
+598,2021-01,Jan 2021,Nordeste,Alagoas,P.2,24
+599,2021-01,Jan 2021,Nordeste,Bahia,B.1.1,1
+600,2021-01,Jan 2021,Nordeste,Bahia,B.1.1.28,3
+601,2021-01,Jan 2021,Nordeste,Bahia,B.1.1.33,2
+602,2021-01,Jan 2021,Nordeste,Bahia,B.1.1.7 (Alfa),4
+603,2021-01,Jan 2021,Nordeste,Bahia,Outras,8
+604,2021-01,Jan 2021,Nordeste,Bahia,P.1 (Gama),13
+605,2021-01,Jan 2021,Nordeste,Bahia,P.2,37
+606,2021-01,Jan 2021,Nordeste,Ceará,B.1.1,3
+607,2021-01,Jan 2021,Nordeste,Ceará,B.1.1.28,1
+608,2021-01,Jan 2021,Nordeste,Ceará,B.1.1.33,9
+609,2021-01,Jan 2021,Nordeste,Ceará,Outras,3
+610,2021-01,Jan 2021,Nordeste,Ceará,P.1 (Gama),16
+611,2021-01,Jan 2021,Nordeste,Ceará,P.2,17
+612,2021-01,Jan 2021,Nordeste,Maranhão,B.1.1.28,2
+613,2021-01,Jan 2021,Nordeste,Maranhão,B.1.1.33,1
+614,2021-01,Jan 2021,Nordeste,Maranhão,Outras,23
+615,2021-01,Jan 2021,Nordeste,Maranhão,P.1 (Gama),8
+616,2021-01,Jan 2021,Nordeste,Maranhão,P.2,15
+617,2021-01,Jan 2021,Nordeste,Paraíba,B.1.1,3
+618,2021-01,Jan 2021,Nordeste,Paraíba,B.1.1.28,7
+619,2021-01,Jan 2021,Nordeste,Paraíba,B.1.1.33,1
+620,2021-01,Jan 2021,Nordeste,Paraíba,Outras,1
+621,2021-01,Jan 2021,Nordeste,Paraíba,P.1 (Gama),5
+622,2021-01,Jan 2021,Nordeste,Paraíba,P.2,24
+623,2021-01,Jan 2021,Nordeste,Pernambuco,B.1.1,4
+624,2021-01,Jan 2021,Nordeste,Pernambuco,B.1.1.28,2
+625,2021-01,Jan 2021,Nordeste,Pernambuco,Outras,1
+626,2021-01,Jan 2021,Nordeste,Pernambuco,P.2,13
+627,2021-01,Jan 2021,Nordeste,Piauí,Outras,1
+628,2021-01,Jan 2021,Nordeste,Rio Grande do Norte,B.1.1,1
+629,2021-01,Jan 2021,Nordeste,Rio Grande do Norte,B.1.1.28,3
+630,2021-01,Jan 2021,Nordeste,Rio Grande do Norte,Outras,1
+631,2021-01,Jan 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),12
+632,2021-01,Jan 2021,Nordeste,Rio Grande do Norte,P.2,26
+633,2021-01,Jan 2021,Nordeste,Sergipe,B.1.1,1
+634,2021-01,Jan 2021,Nordeste,Sergipe,B.1.1.28,6
+635,2021-01,Jan 2021,Nordeste,Sergipe,B.1.1.33,2
+636,2021-01,Jan 2021,Nordeste,Sergipe,B.1.1.7 (Alfa),1
+637,2021-01,Jan 2021,Nordeste,Sergipe,Outras,3
+638,2021-01,Jan 2021,Nordeste,Sergipe,P.1 (Gama),7
+639,2021-01,Jan 2021,Nordeste,Sergipe,P.2,23
+640,2021-01,Jan 2021,Norte,Acre,B.1.1,1
+641,2021-01,Jan 2021,Norte,Acre,B.1.1.28,14
+642,2021-01,Jan 2021,Norte,Acre,B.1.1.33,3
+643,2021-01,Jan 2021,Norte,Acre,Outras,5
+644,2021-01,Jan 2021,Norte,Acre,P.1 (Gama),10
+645,2021-01,Jan 2021,Norte,Acre,P.2,3
+646,2021-01,Jan 2021,Norte,Amapá,B.1.1.33,1
+647,2021-01,Jan 2021,Norte,Amapá,Outras,2
+648,2021-01,Jan 2021,Norte,Amapá,P.1 (Gama),9
+649,2021-01,Jan 2021,Norte,Amapá,P.2,56
+650,2021-01,Jan 2021,Norte,Amazonas,B.1.1,1
+651,2021-01,Jan 2021,Norte,Amazonas,B.1.1.28,4
+652,2021-01,Jan 2021,Norte,Amazonas,B.1.1.33,2
+653,2021-01,Jan 2021,Norte,Amazonas,Outras,1
+654,2021-01,Jan 2021,Norte,Amazonas,P.1 (Gama),171
+655,2021-01,Jan 2021,Norte,Amazonas,P.2,7
+656,2021-01,Jan 2021,Norte,Pará,B.1.1,1
+657,2021-01,Jan 2021,Norte,Pará,B.1.1.28,5
+658,2021-01,Jan 2021,Norte,Pará,Outras,1
+659,2021-01,Jan 2021,Norte,Pará,P.1 (Gama),17
+660,2021-01,Jan 2021,Norte,Pará,P.2,23
+661,2021-01,Jan 2021,Norte,Rondônia,B.1.1.28,2
+662,2021-01,Jan 2021,Norte,Rondônia,B.1.1.33,6
+663,2021-01,Jan 2021,Norte,Rondônia,Outras,1
+664,2021-01,Jan 2021,Norte,Rondônia,P.1 (Gama),5
+665,2021-01,Jan 2021,Norte,Rondônia,P.2,5
+666,2021-01,Jan 2021,Norte,Roraima,P.1 (Gama),11
+667,2021-01,Jan 2021,Norte,Roraima,P.2,1
+668,2021-01,Jan 2021,Norte,Tocantins,B.1.1.28,1
+669,2021-01,Jan 2021,Norte,Tocantins,P.1 (Gama),2
+670,2021-01,Jan 2021,Norte,Tocantins,P.2,1
+671,2021-01,Jan 2021,Sudeste,Espírito Santo,B.1.1.28,7
+672,2021-01,Jan 2021,Sudeste,Espírito Santo,B.1.1.33,10
+673,2021-01,Jan 2021,Sudeste,Espírito Santo,B.1.1.7 (Alfa),1
+674,2021-01,Jan 2021,Sudeste,Espírito Santo,Outras,1
+675,2021-01,Jan 2021,Sudeste,Espírito Santo,P.1 (Gama),4
+676,2021-01,Jan 2021,Sudeste,Espírito Santo,P.2,21
+677,2021-01,Jan 2021,Sudeste,Minas Gerais,B.1.1.28,7
+678,2021-01,Jan 2021,Sudeste,Minas Gerais,B.1.1.33,3
+679,2021-01,Jan 2021,Sudeste,Minas Gerais,B.1.1.7 (Alfa),13
+680,2021-01,Jan 2021,Sudeste,Minas Gerais,Outras,2
+681,2021-01,Jan 2021,Sudeste,Minas Gerais,P.1 (Gama),2
+682,2021-01,Jan 2021,Sudeste,Minas Gerais,P.2,46
+683,2021-01,Jan 2021,Sudeste,Rio de Janeiro,B.1.1.28,9
+684,2021-01,Jan 2021,Sudeste,Rio de Janeiro,B.1.1.33,6
+685,2021-01,Jan 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),5
+686,2021-01,Jan 2021,Sudeste,Rio de Janeiro,Outras,2
+687,2021-01,Jan 2021,Sudeste,Rio de Janeiro,P.1 (Gama),4
+688,2021-01,Jan 2021,Sudeste,Rio de Janeiro,P.2,120
+689,2021-01,Jan 2021,Sudeste,São Paulo,B.1.1,1
+690,2021-01,Jan 2021,Sudeste,São Paulo,B.1.1.28,61
+691,2021-01,Jan 2021,Sudeste,São Paulo,B.1.1.33,6
+692,2021-01,Jan 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),21
+693,2021-01,Jan 2021,Sudeste,São Paulo,Outras,26
+694,2021-01,Jan 2021,Sudeste,São Paulo,P.1 (Gama),50
+695,2021-01,Jan 2021,Sudeste,São Paulo,P.2,130
+696,2021-01,Jan 2021,Sul,Paraná,B.1.1.28,9
+697,2021-01,Jan 2021,Sul,Paraná,B.1.1.33,2
+698,2021-01,Jan 2021,Sul,Paraná,B.1.1.7 (Alfa),3
+699,2021-01,Jan 2021,Sul,Paraná,Outras,3
+700,2021-01,Jan 2021,Sul,Paraná,P.1 (Gama),5
+701,2021-01,Jan 2021,Sul,Paraná,P.2,21
+702,2021-01,Jan 2021,Sul,Rio Grande do Sul,B.1.1,1
+703,2021-01,Jan 2021,Sul,Rio Grande do Sul,B.1.1.28,19
+704,2021-01,Jan 2021,Sul,Rio Grande do Sul,B.1.1.33,1
+705,2021-01,Jan 2021,Sul,Rio Grande do Sul,Outras,1
+706,2021-01,Jan 2021,Sul,Rio Grande do Sul,P.1 (Gama),6
+707,2021-01,Jan 2021,Sul,Rio Grande do Sul,P.2,43
+708,2021-01,Jan 2021,Sul,Santa Catarina,B.1.1.28,8
+709,2021-01,Jan 2021,Sul,Santa Catarina,B.1.1.33,2
+710,2021-01,Jan 2021,Sul,Santa Catarina,B.1.1.7 (Alfa),1
+711,2021-01,Jan 2021,Sul,Santa Catarina,Outras,4
+712,2021-01,Jan 2021,Sul,Santa Catarina,P.1 (Gama),9
+713,2021-01,Jan 2021,Sul,Santa Catarina,P.2,57
+714,2021-02,Fev 2021,Centro-oeste,Distrito Federal,Outras,1
+715,2021-02,Fev 2021,Centro-oeste,Goiás,B.1.1,1
+716,2021-02,Fev 2021,Centro-oeste,Goiás,B.1.1.28,3
+717,2021-02,Fev 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),20
+718,2021-02,Fev 2021,Centro-oeste,Goiás,Outras,1
+719,2021-02,Fev 2021,Centro-oeste,Goiás,P.1 (Gama),124
+720,2021-02,Fev 2021,Centro-oeste,Goiás,P.2,34
+721,2021-02,Fev 2021,Centro-oeste,Mato Grosso,P.1 (Gama),2
+722,2021-02,Fev 2021,Centro-oeste,Mato Grosso,P.2,6
+723,2021-02,Fev 2021,Centro-oeste,Mato Grosso do Sul,B.1.1.28,3
+724,2021-02,Fev 2021,Centro-oeste,Mato Grosso do Sul,P.1 (Gama),3
+725,2021-02,Fev 2021,Centro-oeste,Mato Grosso do Sul,P.2,4
+726,2021-02,Fev 2021,Nordeste,Alagoas,B.1.1,2
+727,2021-02,Fev 2021,Nordeste,Alagoas,B.1.1.28,3
+728,2021-02,Fev 2021,Nordeste,Alagoas,B.1.1.33,3
+729,2021-02,Fev 2021,Nordeste,Alagoas,Outras,2
+730,2021-02,Fev 2021,Nordeste,Alagoas,P.1 (Gama),32
+731,2021-02,Fev 2021,Nordeste,Alagoas,P.2,32
+732,2021-02,Fev 2021,Nordeste,Bahia,B.1.1,1
+733,2021-02,Fev 2021,Nordeste,Bahia,B.1.1.28,12
+734,2021-02,Fev 2021,Nordeste,Bahia,B.1.1.33,1
+735,2021-02,Fev 2021,Nordeste,Bahia,B.1.1.7 (Alfa),6
+736,2021-02,Fev 2021,Nordeste,Bahia,Outras,5
+737,2021-02,Fev 2021,Nordeste,Bahia,P.1 (Gama),50
+738,2021-02,Fev 2021,Nordeste,Bahia,P.2,40
+739,2021-02,Fev 2021,Nordeste,Ceará,P.1 (Gama),47
+740,2021-02,Fev 2021,Nordeste,Ceará,P.2,6
+741,2021-02,Fev 2021,Nordeste,Maranhão,B.1.1,1
+742,2021-02,Fev 2021,Nordeste,Maranhão,B.1.1.28,2
+743,2021-02,Fev 2021,Nordeste,Maranhão,Outras,13
+744,2021-02,Fev 2021,Nordeste,Maranhão,P.1 (Gama),28
+745,2021-02,Fev 2021,Nordeste,Maranhão,P.2,6
+746,2021-02,Fev 2021,Nordeste,Paraíba,B.1.1,1
+747,2021-02,Fev 2021,Nordeste,Paraíba,B.1.1.28,3
+748,2021-02,Fev 2021,Nordeste,Paraíba,P.1 (Gama),16
+749,2021-02,Fev 2021,Nordeste,Paraíba,P.2,7
+750,2021-02,Fev 2021,Nordeste,Pernambuco,B.1.1,1
+751,2021-02,Fev 2021,Nordeste,Pernambuco,P.1 (Gama),21
+752,2021-02,Fev 2021,Nordeste,Pernambuco,P.2,2
+753,2021-02,Fev 2021,Nordeste,Piauí,B.1.1.33,3
+754,2021-02,Fev 2021,Nordeste,Piauí,Outras,2
+755,2021-02,Fev 2021,Nordeste,Piauí,P.1 (Gama),2
+756,2021-02,Fev 2021,Nordeste,Piauí,P.2,1
+757,2021-02,Fev 2021,Nordeste,Rio Grande do Norte,B.1.1,2
+758,2021-02,Fev 2021,Nordeste,Rio Grande do Norte,B.1.1.28,1
+759,2021-02,Fev 2021,Nordeste,Rio Grande do Norte,Outras,2
+760,2021-02,Fev 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),21
+761,2021-02,Fev 2021,Nordeste,Rio Grande do Norte,P.2,14
+762,2021-02,Fev 2021,Nordeste,Sergipe,B.1.1,1
+763,2021-02,Fev 2021,Nordeste,Sergipe,B.1.1.28,6
+764,2021-02,Fev 2021,Nordeste,Sergipe,Outras,3
+765,2021-02,Fev 2021,Nordeste,Sergipe,P.1 (Gama),145
+766,2021-02,Fev 2021,Nordeste,Sergipe,P.2,18
+767,2021-02,Fev 2021,Norte,Acre,B.1.1.28,2
+768,2021-02,Fev 2021,Norte,Acre,Outras,2
+769,2021-02,Fev 2021,Norte,Acre,P.1 (Gama),13
+770,2021-02,Fev 2021,Norte,Amapá,Outras,2
+771,2021-02,Fev 2021,Norte,Amapá,P.1 (Gama),37
+772,2021-02,Fev 2021,Norte,Amapá,P.2,14
+773,2021-02,Fev 2021,Norte,Amazonas,Outras,1
+774,2021-02,Fev 2021,Norte,Amazonas,P.1 (Gama),130
+775,2021-02,Fev 2021,Norte,Pará,P.1 (Gama),56
+776,2021-02,Fev 2021,Norte,Pará,P.2,11
+777,2021-02,Fev 2021,Norte,Rondônia,P.1 (Gama),4
+778,2021-02,Fev 2021,Norte,Rondônia,P.2,1
+779,2021-02,Fev 2021,Norte,Roraima,P.1 (Gama),16
+780,2021-02,Fev 2021,Norte,Tocantins,B.1.1.28,2
+781,2021-02,Fev 2021,Norte,Tocantins,Outras,1
+782,2021-02,Fev 2021,Norte,Tocantins,P.1 (Gama),10
+783,2021-02,Fev 2021,Norte,Tocantins,P.2,7
+784,2021-02,Fev 2021,Sudeste,Espírito Santo,B.1.1.28,3
+785,2021-02,Fev 2021,Sudeste,Espírito Santo,B.1.1.33,1
+786,2021-02,Fev 2021,Sudeste,Espírito Santo,B.1.1.7 (Alfa),6
+787,2021-02,Fev 2021,Sudeste,Espírito Santo,P.1 (Gama),9
+788,2021-02,Fev 2021,Sudeste,Espírito Santo,P.2,11
+789,2021-02,Fev 2021,Sudeste,Minas Gerais,B.1.1,1
+790,2021-02,Fev 2021,Sudeste,Minas Gerais,B.1.1.28,8
+791,2021-02,Fev 2021,Sudeste,Minas Gerais,B.1.1.7 (Alfa),5
+792,2021-02,Fev 2021,Sudeste,Minas Gerais,P.1 (Gama),54
+793,2021-02,Fev 2021,Sudeste,Minas Gerais,P.2,80
+794,2021-02,Fev 2021,Sudeste,Rio de Janeiro,B.1.1.28,4
+795,2021-02,Fev 2021,Sudeste,Rio de Janeiro,B.1.1.33,1
+796,2021-02,Fev 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),5
+797,2021-02,Fev 2021,Sudeste,Rio de Janeiro,B.1.617.2 (Delta),1
+798,2021-02,Fev 2021,Sudeste,Rio de Janeiro,Outras,4
+799,2021-02,Fev 2021,Sudeste,Rio de Janeiro,P.1 (Gama),110
+800,2021-02,Fev 2021,Sudeste,Rio de Janeiro,P.2,53
+801,2021-02,Fev 2021,Sudeste,São Paulo,B.1.1,1
+802,2021-02,Fev 2021,Sudeste,São Paulo,B.1.1.28,65
+803,2021-02,Fev 2021,Sudeste,São Paulo,B.1.1.33,1
+804,2021-02,Fev 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),8
+805,2021-02,Fev 2021,Sudeste,São Paulo,Outras,19
+806,2021-02,Fev 2021,Sudeste,São Paulo,P.1 (Gama),225
+807,2021-02,Fev 2021,Sudeste,São Paulo,P.2,147
+808,2021-02,Fev 2021,Sul,Paraná,B.1.1.28,1
+809,2021-02,Fev 2021,Sul,Paraná,B.1.1.7 (Alfa),6
+810,2021-02,Fev 2021,Sul,Paraná,Outras,2
+811,2021-02,Fev 2021,Sul,Paraná,P.1 (Gama),12
+812,2021-02,Fev 2021,Sul,Paraná,P.2,8
+813,2021-02,Fev 2021,Sul,Rio Grande do Sul,B.1.1.28,13
+814,2021-02,Fev 2021,Sul,Rio Grande do Sul,B.1.1.33,2
+815,2021-02,Fev 2021,Sul,Rio Grande do Sul,B.1.1.7 (Alfa),1
+816,2021-02,Fev 2021,Sul,Rio Grande do Sul,Outras,2
+817,2021-02,Fev 2021,Sul,Rio Grande do Sul,P.1 (Gama),81
+818,2021-02,Fev 2021,Sul,Rio Grande do Sul,P.2,29
+819,2021-02,Fev 2021,Sul,Santa Catarina,B.1.1,1
+820,2021-02,Fev 2021,Sul,Santa Catarina,B.1.1.28,3
+821,2021-02,Fev 2021,Sul,Santa Catarina,B.1.1.7 (Alfa),1
+822,2021-02,Fev 2021,Sul,Santa Catarina,Outras,1
+823,2021-02,Fev 2021,Sul,Santa Catarina,P.1 (Gama),96
+824,2021-02,Fev 2021,Sul,Santa Catarina,P.2,31
+825,2021-03,Mar 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),10
+826,2021-03,Mar 2021,Centro-oeste,Goiás,P.1 (Gama),221
+827,2021-03,Mar 2021,Centro-oeste,Goiás,P.1.7,1
+828,2021-03,Mar 2021,Centro-oeste,Goiás,P.2,7
+829,2021-03,Mar 2021,Centro-oeste,Mato Grosso,P.1 (Gama),9
+830,2021-03,Mar 2021,Centro-oeste,Mato Grosso,P.2,1
+831,2021-03,Mar 2021,Centro-oeste,Mato Grosso do Sul,B.1.1.28,1
+832,2021-03,Mar 2021,Centro-oeste,Mato Grosso do Sul,P.1 (Gama),17
+833,2021-03,Mar 2021,Centro-oeste,Mato Grosso do Sul,P.1.7,1
+834,2021-03,Mar 2021,Centro-oeste,Mato Grosso do Sul,P.2,2
+835,2021-03,Mar 2021,Nordeste,Alagoas,P.1 (Gama),22
+836,2021-03,Mar 2021,Nordeste,Bahia,B.1.1,3
+837,2021-03,Mar 2021,Nordeste,Bahia,B.1.1.28,2
+838,2021-03,Mar 2021,Nordeste,Bahia,B.1.1.7 (Alfa),2
+839,2021-03,Mar 2021,Nordeste,Bahia,P.1 (Gama),71
+840,2021-03,Mar 2021,Nordeste,Bahia,P.1.7,1
+841,2021-03,Mar 2021,Nordeste,Bahia,P.2,8
+842,2021-03,Mar 2021,Nordeste,Ceará,P.1 (Gama),134
+843,2021-03,Mar 2021,Nordeste,Ceará,P.1.7,3
+844,2021-03,Mar 2021,Nordeste,Ceará,P.2,2
+845,2021-03,Mar 2021,Nordeste,Maranhão,Outras,3
+846,2021-03,Mar 2021,Nordeste,Maranhão,P.1 (Gama),28
+847,2021-03,Mar 2021,Nordeste,Paraíba,B.1.1.7 (Alfa),1
+848,2021-03,Mar 2021,Nordeste,Paraíba,P.1 (Gama),32
+849,2021-03,Mar 2021,Nordeste,Paraíba,P.2,3
+850,2021-03,Mar 2021,Nordeste,Pernambuco,B.1.1,1
+851,2021-03,Mar 2021,Nordeste,Pernambuco,P.1 (Gama),3
+852,2021-03,Mar 2021,Nordeste,Piauí,P.1 (Gama),1
+853,2021-03,Mar 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),10
+854,2021-03,Mar 2021,Nordeste,Sergipe,P.1 (Gama),47
+855,2021-03,Mar 2021,Nordeste,Sergipe,P.2,3
+856,2021-03,Mar 2021,Norte,Acre,P.1 (Gama),31
+857,2021-03,Mar 2021,Norte,Amapá,P.1 (Gama),22
+858,2021-03,Mar 2021,Norte,Amapá,P.2,1
+859,2021-03,Mar 2021,Norte,Amazonas,Outras,2
+860,2021-03,Mar 2021,Norte,Amazonas,P.1 (Gama),152
+861,2021-03,Mar 2021,Norte,Amazonas,P.1.4,3
+862,2021-03,Mar 2021,Norte,Pará,P.1 (Gama),36
+863,2021-03,Mar 2021,Norte,Pará,P.2,1
+864,2021-03,Mar 2021,Norte,Rondônia,P.1 (Gama),2
+865,2021-03,Mar 2021,Norte,Roraima,P.1 (Gama),2
+866,2021-03,Mar 2021,Norte,Tocantins,B.1.1.28,1
+867,2021-03,Mar 2021,Norte,Tocantins,P.1 (Gama),15
+868,2021-03,Mar 2021,Norte,Tocantins,P.1.7,1
+869,2021-03,Mar 2021,Sudeste,Espírito Santo,B.1.1.7 (Alfa),9
+870,2021-03,Mar 2021,Sudeste,Espírito Santo,P.1 (Gama),6
+871,2021-03,Mar 2021,Sudeste,Espírito Santo,P.2,1
+872,2021-03,Mar 2021,Sudeste,Minas Gerais,B.1.1.33,1
+873,2021-03,Mar 2021,Sudeste,Minas Gerais,B.1.1.7 (Alfa),19
+874,2021-03,Mar 2021,Sudeste,Minas Gerais,P.1 (Gama),69
+875,2021-03,Mar 2021,Sudeste,Minas Gerais,P.2,12
+876,2021-03,Mar 2021,Sudeste,Rio de Janeiro,B.1.1,1
+877,2021-03,Mar 2021,Sudeste,Rio de Janeiro,B.1.1.28,1
+878,2021-03,Mar 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),11
+879,2021-03,Mar 2021,Sudeste,Rio de Janeiro,Outras,1
+880,2021-03,Mar 2021,Sudeste,Rio de Janeiro,P.1 (Gama),405
+881,2021-03,Mar 2021,Sudeste,Rio de Janeiro,P.2,11
+882,2021-03,Mar 2021,Sudeste,São Paulo,B.1.1.28,55
+883,2021-03,Mar 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),106
+884,2021-03,Mar 2021,Sudeste,São Paulo,Outras,65
+885,2021-03,Mar 2021,Sudeste,São Paulo,P.1 (Gama),1544
+886,2021-03,Mar 2021,Sudeste,São Paulo,P.1.7,2
+887,2021-03,Mar 2021,Sudeste,São Paulo,P.2,109
+888,2021-03,Mar 2021,Sul,Paraná,B.1.1.28,4
+889,2021-03,Mar 2021,Sul,Paraná,B.1.1.7 (Alfa),1
+890,2021-03,Mar 2021,Sul,Paraná,P.1 (Gama),75
+891,2021-03,Mar 2021,Sul,Paraná,P.2,16
+892,2021-03,Mar 2021,Sul,Rio Grande do Sul,B.1.1.28,3
+893,2021-03,Mar 2021,Sul,Rio Grande do Sul,B.1.1.33,1
+894,2021-03,Mar 2021,Sul,Rio Grande do Sul,P.1 (Gama),122
+895,2021-03,Mar 2021,Sul,Rio Grande do Sul,P.2,6
+896,2021-03,Mar 2021,Sul,Santa Catarina,B.1.1.28,1
+897,2021-03,Mar 2021,Sul,Santa Catarina,B.1.1.33,1
+898,2021-03,Mar 2021,Sul,Santa Catarina,P.1 (Gama),86
+899,2021-03,Mar 2021,Sul,Santa Catarina,P.2,4
+900,2021-04,Abr 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),2
+901,2021-04,Abr 2021,Centro-oeste,Goiás,B.1.617.2 (Delta),3
+902,2021-04,Abr 2021,Centro-oeste,Goiás,P.1 (Gama),169
+903,2021-04,Abr 2021,Centro-oeste,Goiás,P.1.7,3
+904,2021-04,Abr 2021,Centro-oeste,Mato Grosso,B.1.1.7 (Alfa),1
+905,2021-04,Abr 2021,Centro-oeste,Mato Grosso,P.1 (Gama),8
+906,2021-04,Abr 2021,Centro-oeste,Mato Grosso,P.1.7,2
+907,2021-04,Abr 2021,Centro-oeste,Mato Grosso do Sul,P.1 (Gama),20
+908,2021-04,Abr 2021,Centro-oeste,Mato Grosso do Sul,P.2,2
+909,2021-04,Abr 2021,Nordeste,Alagoas,P.1 (Gama),55
+910,2021-04,Abr 2021,Nordeste,Alagoas,P.1.7,5
+911,2021-04,Abr 2021,Nordeste,Bahia,P.1 (Gama),35
+912,2021-04,Abr 2021,Nordeste,Bahia,P.1.7,1
+913,2021-04,Abr 2021,Nordeste,Bahia,P.2,2
+914,2021-04,Abr 2021,Nordeste,Ceará,P.1 (Gama),33
+915,2021-04,Abr 2021,Nordeste,Ceará,P.1.7,1
+916,2021-04,Abr 2021,Nordeste,Maranhão,P.1 (Gama),50
+917,2021-04,Abr 2021,Nordeste,Maranhão,P.1.7,3
+918,2021-04,Abr 2021,Nordeste,Paraíba,P.1 (Gama),24
+919,2021-04,Abr 2021,Nordeste,Paraíba,P.1.7,1
+920,2021-04,Abr 2021,Nordeste,Pernambuco,B.1.1.7 (Alfa),1
+921,2021-04,Abr 2021,Nordeste,Pernambuco,P.1 (Gama),29
+922,2021-04,Abr 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),6
+923,2021-04,Abr 2021,Nordeste,Rio Grande do Norte,P.2,2
+924,2021-04,Abr 2021,Nordeste,Sergipe,P.1 (Gama),1
+925,2021-04,Abr 2021,Norte,Acre,P.1 (Gama),22
+926,2021-04,Abr 2021,Norte,Amazonas,B.1.1.7 (Alfa),1
+927,2021-04,Abr 2021,Norte,Amazonas,Outras,21
+928,2021-04,Abr 2021,Norte,Amazonas,P.1 (Gama),107
+929,2021-04,Abr 2021,Norte,Amazonas,P.1.4,27
+930,2021-04,Abr 2021,Norte,Pará,P.1 (Gama),33
+931,2021-04,Abr 2021,Norte,Roraima,Outras,1
+932,2021-04,Abr 2021,Norte,Tocantins,P.1 (Gama),17
+933,2021-04,Abr 2021,Norte,Tocantins,P.1.7,1
+934,2021-04,Abr 2021,Sudeste,Espírito Santo,B.1.1.28,1
+935,2021-04,Abr 2021,Sudeste,Espírito Santo,B.1.1.7 (Alfa),5
+936,2021-04,Abr 2021,Sudeste,Espírito Santo,P.1 (Gama),25
+937,2021-04,Abr 2021,Sudeste,Espírito Santo,P.1.7,3
+938,2021-04,Abr 2021,Sudeste,Espírito Santo,P.2,2
+939,2021-04,Abr 2021,Sudeste,Minas Gerais,B.1.1.7 (Alfa),1
+940,2021-04,Abr 2021,Sudeste,Minas Gerais,P.1 (Gama),13
+941,2021-04,Abr 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),18
+942,2021-04,Abr 2021,Sudeste,Rio de Janeiro,Outras,3
+943,2021-04,Abr 2021,Sudeste,Rio de Janeiro,P.1 (Gama),874
+944,2021-04,Abr 2021,Sudeste,Rio de Janeiro,P.1.7,2
+945,2021-04,Abr 2021,Sudeste,Rio de Janeiro,P.2,7
+946,2021-04,Abr 2021,Sudeste,São Paulo,B.1.1,1
+947,2021-04,Abr 2021,Sudeste,São Paulo,B.1.1.28,13
+948,2021-04,Abr 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),97
+949,2021-04,Abr 2021,Sudeste,São Paulo,B.1.617.2 (Delta),2
+950,2021-04,Abr 2021,Sudeste,São Paulo,Outras,67
+951,2021-04,Abr 2021,Sudeste,São Paulo,P.1 (Gama),2251
+952,2021-04,Abr 2021,Sudeste,São Paulo,P.1.7,14
+953,2021-04,Abr 2021,Sudeste,São Paulo,P.2,19
+954,2021-04,Abr 2021,Sul,Paraná,B.1.1,1
+955,2021-04,Abr 2021,Sul,Paraná,B.1.1.7 (Alfa),2
+956,2021-04,Abr 2021,Sul,Paraná,B.1.617.2 (Delta),3
+957,2021-04,Abr 2021,Sul,Paraná,Outras,1
+958,2021-04,Abr 2021,Sul,Paraná,P.1 (Gama),164
+959,2021-04,Abr 2021,Sul,Paraná,P.1.4,2
+960,2021-04,Abr 2021,Sul,Paraná,P.1.7,3
+961,2021-04,Abr 2021,Sul,Paraná,P.2,3
+962,2021-04,Abr 2021,Sul,Rio Grande do Sul,B.1.1.28,2
+963,2021-04,Abr 2021,Sul,Rio Grande do Sul,P.1 (Gama),89
+964,2021-04,Abr 2021,Sul,Rio Grande do Sul,P.2,5
+965,2021-04,Abr 2021,Sul,Santa Catarina,B.1.1.7 (Alfa),1
+966,2021-04,Abr 2021,Sul,Santa Catarina,P.1 (Gama),66
+967,2021-04,Abr 2021,Sul,Santa Catarina,P.1.7,1
+968,2021-05,Mai 2021,Centro-oeste,Distrito Federal,P.1 (Gama),9
+969,2021-05,Mai 2021,Centro-oeste,Goiás,B.1.1.7 (Alfa),1
+970,2021-05,Mai 2021,Centro-oeste,Goiás,P.1 (Gama),155
+971,2021-05,Mai 2021,Centro-oeste,Goiás,P.1.7,26
+972,2021-05,Mai 2021,Centro-oeste,Mato Grosso,P.1 (Gama),21
+973,2021-05,Mai 2021,Centro-oeste,Mato Grosso do Sul,P.1 (Gama),1
+974,2021-05,Mai 2021,Nordeste,Alagoas,P.1 (Gama),54
+975,2021-05,Mai 2021,Nordeste,Alagoas,P.1.7,7
+976,2021-05,Mai 2021,Nordeste,Bahia,B.1.1.7 (Alfa),14
+977,2021-05,Mai 2021,Nordeste,Bahia,P.1 (Gama),111
+978,2021-05,Mai 2021,Nordeste,Bahia,P.1.7,3
+979,2021-05,Mai 2021,Nordeste,Bahia,P.2,1
+980,2021-05,Mai 2021,Nordeste,Ceará,P.1 (Gama),74
+981,2021-05,Mai 2021,Nordeste,Ceará,P.1.4,5
+982,2021-05,Mai 2021,Nordeste,Ceará,P.1.7,1
+983,2021-05,Mai 2021,Nordeste,Maranhão,B.1.617.2 (Delta),5
+984,2021-05,Mai 2021,Nordeste,Maranhão,P.1 (Gama),32
+985,2021-05,Mai 2021,Nordeste,Maranhão,P.1.7,13
+986,2021-05,Mai 2021,Nordeste,Paraíba,P.1 (Gama),15
+987,2021-05,Mai 2021,Nordeste,Pernambuco,B.1.1.7 (Alfa),2
+988,2021-05,Mai 2021,Nordeste,Pernambuco,P.1 (Gama),132
+989,2021-05,Mai 2021,Nordeste,Pernambuco,P.1.7,1
+990,2021-05,Mai 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),14
+991,2021-05,Mai 2021,Nordeste,Sergipe,Outras,1
+992,2021-05,Mai 2021,Nordeste,Sergipe,P.1 (Gama),15
+993,2021-05,Mai 2021,Norte,Amazonas,Outras,97
+994,2021-05,Mai 2021,Norte,Amazonas,P.1 (Gama),105
+995,2021-05,Mai 2021,Norte,Amazonas,P.1.4,64
+996,2021-05,Mai 2021,Norte,Pará,P.1 (Gama),23
+997,2021-05,Mai 2021,Norte,Pará,P.1.7,2
+998,2021-05,Mai 2021,Norte,Roraima,P.1 (Gama),1
+999,2021-05,Mai 2021,Norte,Tocantins,P.1 (Gama),12
+1000,2021-05,Mai 2021,Norte,Tocantins,P.1.7,7
+1001,2021-05,Mai 2021,Sudeste,Espírito Santo,P.1 (Gama),8
+1002,2021-05,Mai 2021,Sudeste,Minas Gerais,B.1.617.2 (Delta),1
+1003,2021-05,Mai 2021,Sudeste,Minas Gerais,P.1 (Gama),4
+1004,2021-05,Mai 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),14
+1005,2021-05,Mai 2021,Sudeste,Rio de Janeiro,Outras,5
+1006,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1 (Gama),886
+1007,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1.4,1
+1008,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.1.7,2
+1009,2021-05,Mai 2021,Sudeste,Rio de Janeiro,P.2,2
+1010,2021-05,Mai 2021,Sudeste,São Paulo,B.1.1.28,4
+1011,2021-05,Mai 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),95
+1012,2021-05,Mai 2021,Sudeste,São Paulo,B.1.617.2 (Delta),1
+1013,2021-05,Mai 2021,Sudeste,São Paulo,Outras,68
+1014,2021-05,Mai 2021,Sudeste,São Paulo,P.1 (Gama),2832
+1015,2021-05,Mai 2021,Sudeste,São Paulo,P.1.7,71
+1016,2021-05,Mai 2021,Sul,Paraná,B.1.1.7 (Alfa),2
+1017,2021-05,Mai 2021,Sul,Paraná,P.1 (Gama),90
+1018,2021-05,Mai 2021,Sul,Paraná,P.1.7,3
+1019,2021-05,Mai 2021,Sul,Rio Grande do Sul,B.1.1.28,24
+1020,2021-05,Mai 2021,Sul,Rio Grande do Sul,B.1.1.7 (Alfa),1
+1021,2021-05,Mai 2021,Sul,Rio Grande do Sul,Outras,1
+1022,2021-05,Mai 2021,Sul,Rio Grande do Sul,P.1 (Gama),132
+1023,2021-05,Mai 2021,Sul,Santa Catarina,P.1 (Gama),44
+1024,2021-05,Mai 2021,Sul,Santa Catarina,P.1.7,1
+1025,2021-06,Jun 2021,Centro-oeste,Goiás,P.1 (Gama),316
+1026,2021-06,Jun 2021,Centro-oeste,Goiás,P.1.7,113
+1027,2021-06,Jun 2021,Centro-oeste,Mato Grosso,Outras,1
+1028,2021-06,Jun 2021,Centro-oeste,Mato Grosso,P.1 (Gama),10
+1029,2021-06,Jun 2021,Nordeste,Alagoas,P.1 (Gama),63
+1030,2021-06,Jun 2021,Nordeste,Alagoas,P.1.7,2
+1031,2021-06,Jun 2021,Nordeste,Bahia,B.1.1,1
+1032,2021-06,Jun 2021,Nordeste,Bahia,B.1.1.7 (Alfa),21
+1033,2021-06,Jun 2021,Nordeste,Bahia,Outras,1
+1034,2021-06,Jun 2021,Nordeste,Bahia,P.1 (Gama),79
+1035,2021-06,Jun 2021,Nordeste,Ceará,P.1 (Gama),91
+1036,2021-06,Jun 2021,Nordeste,Maranhão,P.1 (Gama),2
+1037,2021-06,Jun 2021,Nordeste,Maranhão,P.1.7,4
+1038,2021-06,Jun 2021,Nordeste,Paraíba,P.1 (Gama),18
+1039,2021-06,Jun 2021,Nordeste,Paraíba,P.1.7,3
+1040,2021-06,Jun 2021,Nordeste,Pernambuco,P.1 (Gama),26
+1041,2021-06,Jun 2021,Nordeste,Pernambuco,P.1.7,3
+1042,2021-06,Jun 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),14
+1043,2021-06,Jun 2021,Nordeste,Sergipe,P.1 (Gama),4
+1044,2021-06,Jun 2021,Norte,Amazonas,Outras,106
+1045,2021-06,Jun 2021,Norte,Amazonas,P.1 (Gama),46
+1046,2021-06,Jun 2021,Norte,Amazonas,P.1.4,143
+1047,2021-06,Jun 2021,Norte,Amazonas,P.1.7,1
+1048,2021-06,Jun 2021,Norte,Pará,P.1 (Gama),62
+1049,2021-06,Jun 2021,Norte,Pará,P.1.7,5
+1050,2021-06,Jun 2021,Norte,Tocantins,B.1.617.2 (Delta),1
+1051,2021-06,Jun 2021,Norte,Tocantins,P.1 (Gama),10
+1052,2021-06,Jun 2021,Norte,Tocantins,P.1.7,10
+1053,2021-06,Jun 2021,Sudeste,Espírito Santo,P.1 (Gama),10
+1054,2021-06,Jun 2021,Sudeste,Minas Gerais,P.1 (Gama),5
+1055,2021-06,Jun 2021,Sudeste,Minas Gerais,P.1.7,1
+1056,2021-06,Jun 2021,Sudeste,Rio de Janeiro,B.1.1,2
+1057,2021-06,Jun 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),5
+1058,2021-06,Jun 2021,Sudeste,Rio de Janeiro,B.1.617.2 (Delta),63
+1059,2021-06,Jun 2021,Sudeste,Rio de Janeiro,Outras,37
+1060,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1 (Gama),937
+1061,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1.4,3
+1062,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.1.7,8
+1063,2021-06,Jun 2021,Sudeste,Rio de Janeiro,P.2,1
+1064,2021-06,Jun 2021,Sudeste,São Paulo,B.1.1.28,1
+1065,2021-06,Jun 2021,Sudeste,São Paulo,B.1.1.7 (Alfa),14
+1066,2021-06,Jun 2021,Sudeste,São Paulo,B.1.617.2 (Delta),6
+1067,2021-06,Jun 2021,Sudeste,São Paulo,Outras,30
+1068,2021-06,Jun 2021,Sudeste,São Paulo,P.1 (Gama),713
+1069,2021-06,Jun 2021,Sudeste,São Paulo,P.1.4,1
+1070,2021-06,Jun 2021,Sudeste,São Paulo,P.1.7,53
+1071,2021-06,Jun 2021,Sul,Paraná,B.1.617.2 (Delta),2
+1072,2021-06,Jun 2021,Sul,Paraná,P.1 (Gama),57
+1073,2021-06,Jun 2021,Sul,Paraná,P.1.7,4
+1074,2021-06,Jun 2021,Sul,Rio Grande do Sul,B.1.617.2 (Delta),1
+1075,2021-06,Jun 2021,Sul,Rio Grande do Sul,P.1 (Gama),35
+1076,2021-06,Jun 2021,Sul,Rio Grande do Sul,P.1.7,1
+1077,2021-06,Jun 2021,Sul,Santa Catarina,B.1.1.7 (Alfa),1
+1078,2021-06,Jun 2021,Sul,Santa Catarina,Outras,5
+1079,2021-06,Jun 2021,Sul,Santa Catarina,P.1 (Gama),55
+1080,2021-07,Jul 2021,Centro-oeste,Distrito Federal,P.1 (Gama),1
+1081,2021-07,Jul 2021,Centro-oeste,Goiás,B.1.617.2 (Delta),3
+1082,2021-07,Jul 2021,Centro-oeste,Goiás,Outras,1
+1083,2021-07,Jul 2021,Centro-oeste,Goiás,P.1 (Gama),60
+1084,2021-07,Jul 2021,Centro-oeste,Goiás,P.1.7,42
+1085,2021-07,Jul 2021,Centro-oeste,Mato Grosso,B.1.617.2 (Delta),1
+1086,2021-07,Jul 2021,Nordeste,Bahia,P.1 (Gama),9
+1087,2021-07,Jul 2021,Nordeste,Ceará,P.1 (Gama),1
+1088,2021-07,Jul 2021,Nordeste,Paraíba,P.1 (Gama),1
+1089,2021-07,Jul 2021,Nordeste,Pernambuco,B.1.617.2 (Delta),3
+1090,2021-07,Jul 2021,Nordeste,Pernambuco,P.1 (Gama),146
+1091,2021-07,Jul 2021,Nordeste,Pernambuco,P.1.4,2
+1092,2021-07,Jul 2021,Nordeste,Pernambuco,P.1.7,13
+1093,2021-07,Jul 2021,Nordeste,Rio Grande do Norte,P.1 (Gama),8
+1094,2021-07,Jul 2021,Norte,Amazonas,Outras,8
+1095,2021-07,Jul 2021,Norte,Amazonas,P.1 (Gama),4
+1096,2021-07,Jul 2021,Norte,Amazonas,P.1.4,35
+1097,2021-07,Jul 2021,Norte,Tocantins,P.1 (Gama),6
+1098,2021-07,Jul 2021,Norte,Tocantins,P.1.7,5
+1099,2021-07,Jul 2021,Sudeste,Espírito Santo,P.1 (Gama),9
+1100,2021-07,Jul 2021,Sudeste,Espírito Santo,P.1.7,1
+1101,2021-07,Jul 2021,Sudeste,Rio de Janeiro,B.1.1.7 (Alfa),1
+1102,2021-07,Jul 2021,Sudeste,Rio de Janeiro,B.1.617.2 (Delta),98
+1103,2021-07,Jul 2021,Sudeste,Rio de Janeiro,Outras,15
+1104,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1 (Gama),164
+1105,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1.4,4
+1106,2021-07,Jul 2021,Sudeste,Rio de Janeiro,P.1.7,4
+1107,2021-07,Jul 2021,Sudeste,São Paulo,B.1.617.2 (Delta),100
+1108,2021-07,Jul 2021,Sudeste,São Paulo,Outras,5
+1109,2021-07,Jul 2021,Sudeste,São Paulo,P.1 (Gama),154
+1110,2021-07,Jul 2021,Sudeste,São Paulo,P.1.4,2
+1111,2021-07,Jul 2021,Sudeste,São Paulo,P.1.7,13
+1112,2021-07,Jul 2021,Sul,Paraná,P.1 (Gama),7
+1113,2021-07,Jul 2021,Sul,Paraná,P.1.7,1
+1114,2021-07,Jul 2021,Sul,Paraná,P.2,1
+1115,2021-07,Jul 2021,Sul,Rio Grande do Sul,B.1.1.28,1
+1116,2021-07,Jul 2021,Sul,Rio Grande do Sul,P.1 (Gama),38
+1117,2021-07,Jul 2021,Sul,Santa Catarina,Outras,1
+1118,2021-07,Jul 2021,Sul,Santa Catarina,P.1 (Gama),8
