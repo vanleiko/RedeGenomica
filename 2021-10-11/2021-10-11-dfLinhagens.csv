@@ -1,0 +1,1424 @@
+,Date,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
+0,2020-02,Fev 2020,Nordeste,Bahia,Outros,B.1.1,1
+1,2020-02,Fev 2020,Sudeste,Espírito Santo,FIOCRUZ,Outras,1
+2,2020-02,Fev 2020,Sudeste,São Paulo,Outros,Outras,4
+3,2020-03,Mar 2020,Centro-oeste,Distrito Federal,FIOCRUZ,B.1.1.33,3
+4,2020-03,Mar 2020,Centro-oeste,Distrito Federal,Outros,B.1.1,1
+5,2020-03,Mar 2020,Centro-oeste,Distrito Federal,Outros,Outras,1
+6,2020-03,Mar 2020,Centro-oeste,Goiás,Outros,Outras,3
+7,2020-03,Mar 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.33,1
+8,2020-03,Mar 2020,Centro-oeste,Mato Grosso,Outros,Outras,2
+9,2020-03,Mar 2020,Nordeste,Alagoas,FIOCRUZ,B.1.1.28,1
+10,2020-03,Mar 2020,Nordeste,Bahia,FIOCRUZ,B.1.1,2
+11,2020-03,Mar 2020,Nordeste,Bahia,Outros,B.1.1,1
+12,2020-03,Mar 2020,Nordeste,Bahia,Outros,B.1.1.28,4
+13,2020-03,Mar 2020,Nordeste,Bahia,Outros,B.1.1.33,9
+14,2020-03,Mar 2020,Nordeste,Bahia,Outros,Outras,9
+15,2020-03,Mar 2020,Nordeste,Ceará,Outros,B.1.1.33,1
+16,2020-03,Mar 2020,Nordeste,Ceará,Outros,Outras,26
+17,2020-03,Mar 2020,Nordeste,Maranhão,Outros,B.1.1,1
+18,2020-03,Mar 2020,Nordeste,Maranhão,Outros,B.1.1.33,3
+19,2020-03,Mar 2020,Nordeste,Paraíba,Outros,Outras,1
+20,2020-03,Mar 2020,Nordeste,Piauí,Outros,B.1.1.33,1
+21,2020-03,Mar 2020,Nordeste,Sergipe,FIOCRUZ,B.1.1,2
+22,2020-03,Mar 2020,Nordeste,Sergipe,FIOCRUZ,B.1.1.28,1
+23,2020-03,Mar 2020,Nordeste,Sergipe,FIOCRUZ,B.1.1.33,1
+24,2020-03,Mar 2020,Nordeste,Sergipe,FIOCRUZ,Outras,1
+25,2020-03,Mar 2020,Nordeste,Sergipe,Outros,Outras,1
+26,2020-03,Mar 2020,Norte,Acre,Outros,B.1.1.33,3
+27,2020-03,Mar 2020,Norte,Acre,Outros,Outras,3
+28,2020-03,Mar 2020,Norte,Amapá,Outros,B.1.1.33,1
+29,2020-03,Mar 2020,Norte,Amazonas,FIOCRUZ,Outras,3
+30,2020-03,Mar 2020,Norte,Amazonas,Outros,Outras,1
+31,2020-03,Mar 2020,Norte,Pará,Outros,B.1.1,1
+32,2020-03,Mar 2020,Norte,Pará,Outros,B.1.1.28,2
+33,2020-03,Mar 2020,Norte,Pará,Outros,B.1.1.33,2
+34,2020-03,Mar 2020,Norte,Pará,Outros,Outras,3
+35,2020-03,Mar 2020,Sudeste,Minas Gerais,Outros,B.1.1,16
+36,2020-03,Mar 2020,Sudeste,Minas Gerais,Outros,B.1.1.28,3
+37,2020-03,Mar 2020,Sudeste,Minas Gerais,Outros,B.1.1.33,6
+38,2020-03,Mar 2020,Sudeste,Minas Gerais,Outros,Outras,30
+39,2020-03,Mar 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1,1
+40,2020-03,Mar 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,10
+41,2020-03,Mar 2020,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,4
+42,2020-03,Mar 2020,Sudeste,Rio de Janeiro,Outros,B.1.1,1
+43,2020-03,Mar 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,11
+44,2020-03,Mar 2020,Sudeste,Rio de Janeiro,Outros,Outras,16
+45,2020-03,Mar 2020,Sudeste,São Paulo,Outros,B.1.1,26
+46,2020-03,Mar 2020,Sudeste,São Paulo,Outros,B.1.1.28,135
+47,2020-03,Mar 2020,Sudeste,São Paulo,Outros,B.1.1.33,52
+48,2020-03,Mar 2020,Sudeste,São Paulo,Outros,Outras,42
+49,2020-03,Mar 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1,2
+50,2020-03,Mar 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,4
+51,2020-03,Mar 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,6
+52,2020-03,Mar 2020,Sul,Rio Grande do Sul,FIOCRUZ,Outras,2
+53,2020-03,Mar 2020,Sul,Rio Grande do Sul,Outros,B.1.1,5
+54,2020-03,Mar 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,5
+55,2020-03,Mar 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,4
+56,2020-03,Mar 2020,Sul,Rio Grande do Sul,Outros,Outras,10
+57,2020-03,Mar 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,1
+58,2020-03,Mar 2020,Sul,Santa Catarina,FIOCRUZ,Outras,3
+59,2020-03,Mar 2020,Sul,Santa Catarina,Outros,B.1.1,2
+60,2020-03,Mar 2020,Sul,Santa Catarina,Outros,B.1.1.28,3
+61,2020-03,Mar 2020,Sul,Santa Catarina,Outros,B.1.1.33,4
+62,2020-03,Mar 2020,Sul,Santa Catarina,Outros,Outras,2
+63,2020-04,Abr 2020,Centro-oeste,Distrito Federal,Outros,B.1.1.28,1
+64,2020-04,Abr 2020,Centro-oeste,Distrito Federal,Outros,B.1.1.33,1
+65,2020-04,Abr 2020,Centro-oeste,Goiás,Outros,B.1.1.33,4
+66,2020-04,Abr 2020,Centro-oeste,Goiás,Outros,Outras,3
+67,2020-04,Abr 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.28,1
+68,2020-04,Abr 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.33,2
+69,2020-04,Abr 2020,Nordeste,Alagoas,FIOCRUZ,B.1.1.28,1
+70,2020-04,Abr 2020,Nordeste,Alagoas,FIOCRUZ,B.1.1.33,1
+71,2020-04,Abr 2020,Nordeste,Bahia,Outros,B.1.1,2
+72,2020-04,Abr 2020,Nordeste,Bahia,Outros,B.1.1.28,8
+73,2020-04,Abr 2020,Nordeste,Bahia,Outros,B.1.1.33,31
+74,2020-04,Abr 2020,Nordeste,Bahia,Outros,Outras,5
+75,2020-04,Abr 2020,Nordeste,Ceará,FIOCRUZ,B.1.1.33,8
+76,2020-04,Abr 2020,Nordeste,Ceará,Outros,B.1.1,1
+77,2020-04,Abr 2020,Nordeste,Ceará,Outros,B.1.1.33,1
+78,2020-04,Abr 2020,Nordeste,Ceará,Outros,Outras,3
+79,2020-04,Abr 2020,Nordeste,Maranhão,Outros,B.1.1.33,17
+80,2020-04,Abr 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1,17
+81,2020-04,Abr 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1.33,7
+82,2020-04,Abr 2020,Nordeste,Paraíba,Outros,B.1.1,2
+83,2020-04,Abr 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1,52
+84,2020-04,Abr 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.28,3
+85,2020-04,Abr 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.33,1
+86,2020-04,Abr 2020,Nordeste,Pernambuco,FIOCRUZ,Outras,5
+87,2020-04,Abr 2020,Nordeste,Pernambuco,Outros,B.1.1,8
+88,2020-04,Abr 2020,Nordeste,Pernambuco,Outros,B.1.1.28,2
+89,2020-04,Abr 2020,Nordeste,Pernambuco,Outros,B.1.1.33,1
+90,2020-04,Abr 2020,Nordeste,Sergipe,FIOCRUZ,B.1.1,3
+91,2020-04,Abr 2020,Nordeste,Sergipe,FIOCRUZ,B.1.1.28,1
+92,2020-04,Abr 2020,Nordeste,Sergipe,FIOCRUZ,B.1.1.33,6
+93,2020-04,Abr 2020,Nordeste,Sergipe,FIOCRUZ,Outras,12
+94,2020-04,Abr 2020,Norte,Amapá,Outros,B.1.1.33,10
+95,2020-04,Abr 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,2
+96,2020-04,Abr 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,1
+97,2020-04,Abr 2020,Norte,Amazonas,FIOCRUZ,Outras,30
+98,2020-04,Abr 2020,Norte,Amazonas,Outros,B.1.1.33,2
+99,2020-04,Abr 2020,Norte,Amazonas,Outros,Outras,3
+100,2020-04,Abr 2020,Norte,Pará,Outros,B.1.1.28,29
+101,2020-04,Abr 2020,Norte,Pará,Outros,B.1.1.33,6
+102,2020-04,Abr 2020,Norte,Pará,Outros,Outras,2
+103,2020-04,Abr 2020,Norte,Roraima,Outros,B.1.1.33,1
+104,2020-04,Abr 2020,Norte,Roraima,Outros,Outras,1
+105,2020-04,Abr 2020,Sudeste,Espírito Santo,Outros,B.1.1.33,2
+106,2020-04,Abr 2020,Sudeste,Minas Gerais,Outros,B.1.1.28,5
+107,2020-04,Abr 2020,Sudeste,Minas Gerais,Outros,B.1.1.33,20
+108,2020-04,Abr 2020,Sudeste,Minas Gerais,Outros,Outras,6
+109,2020-04,Abr 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1,1
+110,2020-04,Abr 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,8
+111,2020-04,Abr 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,83
+112,2020-04,Abr 2020,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,4
+113,2020-04,Abr 2020,Sudeste,Rio de Janeiro,Outros,B.1.1,1
+114,2020-04,Abr 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.28,8
+115,2020-04,Abr 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,140
+116,2020-04,Abr 2020,Sudeste,Rio de Janeiro,Outros,Outras,6
+117,2020-04,Abr 2020,Sudeste,São Paulo,Outros,B.1.1,19
+118,2020-04,Abr 2020,Sudeste,São Paulo,Outros,B.1.1.28,325
+119,2020-04,Abr 2020,Sudeste,São Paulo,Outros,B.1.1.33,89
+120,2020-04,Abr 2020,Sudeste,São Paulo,Outros,Outras,24
+121,2020-04,Abr 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1,1
+122,2020-04,Abr 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,4
+123,2020-04,Abr 2020,Sul,Rio Grande do Sul,Outros,B.1.1,3
+124,2020-04,Abr 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,1
+125,2020-04,Abr 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,17
+126,2020-04,Abr 2020,Sul,Santa Catarina,Outros,B.1.1.28,1
+127,2020-04,Abr 2020,Sul,Santa Catarina,Outros,B.1.1.33,2
+128,2020-05,Mai 2020,Centro-oeste,Goiás,FIOCRUZ,B.1.1.33,1
+129,2020-05,Mai 2020,Nordeste,Alagoas,FIOCRUZ,B.1.1.28,1
+130,2020-05,Mai 2020,Nordeste,Alagoas,FIOCRUZ,B.1.1.33,3
+131,2020-05,Mai 2020,Nordeste,Bahia,Outros,B.1.1,1
+132,2020-05,Mai 2020,Nordeste,Bahia,Outros,B.1.1.28,9
+133,2020-05,Mai 2020,Nordeste,Bahia,Outros,B.1.1.33,5
+134,2020-05,Mai 2020,Nordeste,Bahia,Outros,Outras,1
+135,2020-05,Mai 2020,Nordeste,Ceará,FIOCRUZ,B.1.1.33,2
+136,2020-05,Mai 2020,Nordeste,Ceará,FIOCRUZ,Outras,7
+137,2020-05,Mai 2020,Nordeste,Maranhão,Outros,B.1.1.33,4
+138,2020-05,Mai 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1,3
+139,2020-05,Mai 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1.33,2
+140,2020-05,Mai 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1,28
+141,2020-05,Mai 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.28,2
+142,2020-05,Mai 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.33,4
+143,2020-05,Mai 2020,Nordeste,Pernambuco,FIOCRUZ,Outras,3
+144,2020-05,Mai 2020,Norte,Acre,Outros,B.1.1.33,2
+145,2020-05,Mai 2020,Norte,Amapá,Outros,B.1.1.33,6
+146,2020-05,Mai 2020,Norte,Amazonas,FIOCRUZ,B.1.1,1
+147,2020-05,Mai 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,8
+148,2020-05,Mai 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,6
+149,2020-05,Mai 2020,Norte,Amazonas,FIOCRUZ,Outras,11
+150,2020-05,Mai 2020,Norte,Amazonas,Outros,Outras,2
+151,2020-05,Mai 2020,Norte,Pará,Outros,B.1.1.28,6
+152,2020-05,Mai 2020,Norte,Pará,Outros,B.1.1.33,2
+153,2020-05,Mai 2020,Norte,Pará,Outros,Outras,1
+154,2020-05,Mai 2020,Norte,Rondônia,Outros,B.1.1.33,5
+155,2020-05,Mai 2020,Norte,Rondônia,Outros,Outras,2
+156,2020-05,Mai 2020,Norte,Roraima,Outros,B.1.1.33,1
+157,2020-05,Mai 2020,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.33,3
+158,2020-05,Mai 2020,Sudeste,Espírito Santo,Outros,B.1.1.33,2
+159,2020-05,Mai 2020,Sudeste,Minas Gerais,Outros,B.1.1.28,4
+160,2020-05,Mai 2020,Sudeste,Minas Gerais,Outros,B.1.1.33,3
+161,2020-05,Mai 2020,Sudeste,Minas Gerais,Outros,Outras,1
+162,2020-05,Mai 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,5
+163,2020-05,Mai 2020,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,1
+164,2020-05,Mai 2020,Sudeste,Rio de Janeiro,Outros,B.1.1,1
+165,2020-05,Mai 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.28,2
+166,2020-05,Mai 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,41
+167,2020-05,Mai 2020,Sudeste,Rio de Janeiro,Outros,Outras,4
+168,2020-05,Mai 2020,Sudeste,São Paulo,Outros,B.1.1,2
+169,2020-05,Mai 2020,Sudeste,São Paulo,Outros,B.1.1.28,102
+170,2020-05,Mai 2020,Sudeste,São Paulo,Outros,B.1.1.33,17
+171,2020-05,Mai 2020,Sudeste,São Paulo,Outros,Outras,3
+172,2020-05,Mai 2020,Sudeste,São Paulo,Outros,P.2,1
+173,2020-05,Mai 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1,3
+174,2020-05,Mai 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,1
+175,2020-05,Mai 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,24
+176,2020-05,Mai 2020,Sul,Rio Grande do Sul,FIOCRUZ,Outras,3
+177,2020-05,Mai 2020,Sul,Rio Grande do Sul,Outros,B.1.1,5
+178,2020-05,Mai 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,4
+179,2020-05,Mai 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,26
+180,2020-05,Mai 2020,Sul,Rio Grande do Sul,Outros,Outras,2
+181,2020-05,Mai 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,2
+182,2020-05,Mai 2020,Sul,Santa Catarina,FIOCRUZ,Outras,1
+183,2020-06,Jun 2020,Centro-oeste,Goiás,FIOCRUZ,B.1.1.33,9
+184,2020-06,Jun 2020,Centro-oeste,Goiás,Outros,B.1.1.28,1
+185,2020-06,Jun 2020,Centro-oeste,Goiás,Outros,B.1.1.33,2
+186,2020-06,Jun 2020,Centro-oeste,Mato Grosso,FIOCRUZ,B.1.1.28,1
+187,2020-06,Jun 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.28,1
+188,2020-06,Jun 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.33,5
+189,2020-06,Jun 2020,Nordeste,Bahia,Outros,B.1.1.28,6
+190,2020-06,Jun 2020,Nordeste,Bahia,Outros,B.1.1.33,6
+191,2020-06,Jun 2020,Nordeste,Bahia,Outros,Outras,1
+192,2020-06,Jun 2020,Nordeste,Ceará,FIOCRUZ,B.1.1.33,2
+193,2020-06,Jun 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1,5
+194,2020-06,Jun 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1.33,1
+195,2020-06,Jun 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1,1
+196,2020-06,Jun 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.28,3
+197,2020-06,Jun 2020,Nordeste,Pernambuco,Outros,B.1.1,34
+198,2020-06,Jun 2020,Nordeste,Pernambuco,Outros,B.1.1.28,3
+199,2020-06,Jun 2020,Nordeste,Pernambuco,Outros,B.1.1.33,5
+200,2020-06,Jun 2020,Nordeste,Pernambuco,Outros,Outras,5
+201,2020-06,Jun 2020,Norte,Acre,Outros,B.1.1.33,2
+202,2020-06,Jun 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,10
+203,2020-06,Jun 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,1
+204,2020-06,Jun 2020,Norte,Amazonas,FIOCRUZ,Outras,5
+205,2020-06,Jun 2020,Norte,Pará,Outros,B.1.1.28,3
+206,2020-06,Jun 2020,Norte,Pará,Outros,B.1.1.33,4
+207,2020-06,Jun 2020,Norte,Rondônia,Outros,B.1.1.33,1
+208,2020-06,Jun 2020,Norte,Roraima,Outros,B.1.1.33,2
+209,2020-06,Jun 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,15
+210,2020-06,Jun 2020,Sudeste,Rio de Janeiro,Outros,B.1.1,2
+211,2020-06,Jun 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.28,3
+212,2020-06,Jun 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,21
+213,2020-06,Jun 2020,Sudeste,São Paulo,Outros,B.1.1,1
+214,2020-06,Jun 2020,Sudeste,São Paulo,Outros,B.1.1.28,47
+215,2020-06,Jun 2020,Sudeste,São Paulo,Outros,B.1.1.33,20
+216,2020-06,Jun 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,1
+217,2020-06,Jun 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,5
+218,2020-06,Jun 2020,Sul,Rio Grande do Sul,FIOCRUZ,Outras,3
+219,2020-06,Jun 2020,Sul,Rio Grande do Sul,Outros,B.1.1,4
+220,2020-06,Jun 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,20
+221,2020-06,Jun 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,42
+222,2020-06,Jun 2020,Sul,Rio Grande do Sul,Outros,Outras,13
+223,2020-06,Jun 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.28,1
+224,2020-06,Jun 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,1
+225,2020-07,Jul 2020,Centro-oeste,Goiás,FIOCRUZ,B.1.1.33,2
+226,2020-07,Jul 2020,Centro-oeste,Goiás,Outros,B.1.1.28,1
+227,2020-07,Jul 2020,Centro-oeste,Goiás,Outros,B.1.1.33,2
+228,2020-07,Jul 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.33,1
+229,2020-07,Jul 2020,Nordeste,Bahia,FIOCRUZ,B.1.1,2
+230,2020-07,Jul 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.28,4
+231,2020-07,Jul 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.33,1
+232,2020-07,Jul 2020,Nordeste,Bahia,Outros,B.1.1.28,7
+233,2020-07,Jul 2020,Nordeste,Bahia,Outros,B.1.1.33,4
+234,2020-07,Jul 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1,1
+235,2020-07,Jul 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1.33,1
+236,2020-07,Jul 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1,8
+237,2020-07,Jul 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.28,4
+238,2020-07,Jul 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.33,4
+239,2020-07,Jul 2020,Nordeste,Pernambuco,Outros,B.1.1,20
+240,2020-07,Jul 2020,Nordeste,Pernambuco,Outros,B.1.1.28,2
+241,2020-07,Jul 2020,Nordeste,Pernambuco,Outros,B.1.1.33,4
+242,2020-07,Jul 2020,Nordeste,Sergipe,FIOCRUZ,B.1.1,1
+243,2020-07,Jul 2020,Nordeste,Sergipe,FIOCRUZ,Outras,1
+244,2020-07,Jul 2020,Norte,Amazonas,FIOCRUZ,B.1.1,1
+245,2020-07,Jul 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,6
+246,2020-07,Jul 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,5
+247,2020-07,Jul 2020,Norte,Amazonas,FIOCRUZ,Outras,4
+248,2020-07,Jul 2020,Norte,Pará,Outros,B.1.1.28,3
+249,2020-07,Jul 2020,Norte,Pará,Outros,B.1.1.33,3
+250,2020-07,Jul 2020,Norte,Pará,Outros,Outras,1
+251,2020-07,Jul 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.33,1
+252,2020-07,Jul 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1,3
+253,2020-07,Jul 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,2
+254,2020-07,Jul 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,32
+255,2020-07,Jul 2020,Sudeste,Rio de Janeiro,Outros,B.1.1,4
+256,2020-07,Jul 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.28,1
+257,2020-07,Jul 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,39
+258,2020-07,Jul 2020,Sudeste,São Paulo,Outros,B.1.1,5
+259,2020-07,Jul 2020,Sudeste,São Paulo,Outros,B.1.1.28,53
+260,2020-07,Jul 2020,Sudeste,São Paulo,Outros,B.1.1.33,12
+261,2020-07,Jul 2020,Sudeste,São Paulo,Outros,Outras,4
+262,2020-07,Jul 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1,1
+263,2020-07,Jul 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,3
+264,2020-07,Jul 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,4
+265,2020-07,Jul 2020,Sul,Rio Grande do Sul,FIOCRUZ,Outras,3
+266,2020-07,Jul 2020,Sul,Rio Grande do Sul,Outros,B.1.1,7
+267,2020-07,Jul 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,16
+268,2020-07,Jul 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,41
+269,2020-07,Jul 2020,Sul,Rio Grande do Sul,Outros,Outras,9
+270,2020-07,Jul 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.28,2
+271,2020-07,Jul 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,2
+272,2020-08,Ago 2020,Centro-oeste,Goiás,FIOCRUZ,B.1.1.33,6
+273,2020-08,Ago 2020,Centro-oeste,Goiás,Outros,B.1.1.28,3
+274,2020-08,Ago 2020,Centro-oeste,Goiás,Outros,B.1.1.33,5
+275,2020-08,Ago 2020,Centro-oeste,Goiás,Outros,Outras,1
+276,2020-08,Ago 2020,Centro-oeste,Mato Grosso,FIOCRUZ,B.1.1.33,1
+277,2020-08,Ago 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.33,1
+278,2020-08,Ago 2020,Nordeste,Bahia,FIOCRUZ,B.1.1,1
+279,2020-08,Ago 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.28,2
+280,2020-08,Ago 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.33,2
+281,2020-08,Ago 2020,Nordeste,Bahia,FIOCRUZ,Outras,1
+282,2020-08,Ago 2020,Nordeste,Bahia,Outros,B.1.1,1
+283,2020-08,Ago 2020,Nordeste,Bahia,Outros,B.1.1.28,3
+284,2020-08,Ago 2020,Nordeste,Bahia,Outros,B.1.1.33,4
+285,2020-08,Ago 2020,Nordeste,Ceará,FIOCRUZ,B.1.1.33,1
+286,2020-08,Ago 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1,5
+287,2020-08,Ago 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1.28,1
+288,2020-08,Ago 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1.33,2
+289,2020-08,Ago 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1,26
+290,2020-08,Ago 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.28,14
+291,2020-08,Ago 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.33,6
+292,2020-08,Ago 2020,Nordeste,Pernambuco,FIOCRUZ,Outras,5
+293,2020-08,Ago 2020,Nordeste,Sergipe,FIOCRUZ,B.1.1.28,2
+294,2020-08,Ago 2020,Norte,Acre,Outros,B.1.1,2
+295,2020-08,Ago 2020,Norte,Acre,Outros,B.1.1.33,12
+296,2020-08,Ago 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,4
+297,2020-08,Ago 2020,Norte,Amazonas,FIOCRUZ,Outras,2
+298,2020-08,Ago 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.28,1
+299,2020-08,Ago 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.33,3
+300,2020-08,Ago 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1,4
+301,2020-08,Ago 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,14
+302,2020-08,Ago 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,24
+303,2020-08,Ago 2020,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,1
+304,2020-08,Ago 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,9
+305,2020-08,Ago 2020,Sudeste,São Paulo,Outros,B.1.1,2
+306,2020-08,Ago 2020,Sudeste,São Paulo,Outros,B.1.1.28,28
+307,2020-08,Ago 2020,Sudeste,São Paulo,Outros,B.1.1.33,8
+308,2020-08,Ago 2020,Sudeste,São Paulo,Outros,Outras,1
+309,2020-08,Ago 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1,2
+310,2020-08,Ago 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,7
+311,2020-08,Ago 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,5
+312,2020-08,Ago 2020,Sul,Rio Grande do Sul,Outros,B.1.1,16
+313,2020-08,Ago 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,30
+314,2020-08,Ago 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,57
+315,2020-08,Ago 2020,Sul,Rio Grande do Sul,Outros,Outras,6
+316,2020-08,Ago 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.28,1
+317,2020-08,Ago 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,1
+318,2020-09,Set 2020,Centro-oeste,Distrito Federal,Outros,B.1.1,2
+319,2020-09,Set 2020,Centro-oeste,Distrito Federal,Outros,B.1.1.28,1
+320,2020-09,Set 2020,Centro-oeste,Distrito Federal,Outros,B.1.1.33,1
+321,2020-09,Set 2020,Centro-oeste,Distrito Federal,Outros,P.2,2
+322,2020-09,Set 2020,Centro-oeste,Goiás,FIOCRUZ,B.1.1.33,2
+323,2020-09,Set 2020,Centro-oeste,Goiás,Outros,B.1.1,1
+324,2020-09,Set 2020,Centro-oeste,Goiás,Outros,B.1.1.28,1
+325,2020-09,Set 2020,Centro-oeste,Goiás,Outros,B.1.1.33,2
+326,2020-09,Set 2020,Nordeste,Bahia,FIOCRUZ,B.1.1,3
+327,2020-09,Set 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.28,6
+328,2020-09,Set 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.33,9
+329,2020-09,Set 2020,Nordeste,Bahia,Outros,B.1.1.28,3
+330,2020-09,Set 2020,Nordeste,Bahia,Outros,B.1.1.33,4
+331,2020-09,Set 2020,Nordeste,Ceará,FIOCRUZ,B.1.1.33,1
+332,2020-09,Set 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1,9
+333,2020-09,Set 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1.33,2
+334,2020-09,Set 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1,37
+335,2020-09,Set 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.28,82
+336,2020-09,Set 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.33,26
+337,2020-09,Set 2020,Nordeste,Pernambuco,FIOCRUZ,Outras,6
+338,2020-09,Set 2020,Nordeste,Pernambuco,FIOCRUZ,P.1+P.1.* (Gama),1
+339,2020-09,Set 2020,Norte,Amazonas,FIOCRUZ,B.1.1,2
+340,2020-09,Set 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,9
+341,2020-09,Set 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,7
+342,2020-09,Set 2020,Norte,Amazonas,FIOCRUZ,Outras,4
+343,2020-09,Set 2020,Norte,Tocantins,Outros,B.1.1,1
+344,2020-09,Set 2020,Norte,Tocantins,Outros,B.1.1.28,4
+345,2020-09,Set 2020,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.33,14
+346,2020-09,Set 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.28,2
+347,2020-09,Set 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.33,2
+348,2020-09,Set 2020,Sudeste,Minas Gerais,Outros,B.1.1.28,2
+349,2020-09,Set 2020,Sudeste,Minas Gerais,Outros,B.1.1.33,1
+350,2020-09,Set 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,8
+351,2020-09,Set 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,35
+352,2020-09,Set 2020,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,1
+353,2020-09,Set 2020,Sudeste,Rio de Janeiro,Outros,B.1.1,2
+354,2020-09,Set 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.28,2
+355,2020-09,Set 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,5
+356,2020-09,Set 2020,Sudeste,Rio de Janeiro,Outros,Outras,2
+357,2020-09,Set 2020,Sudeste,São Paulo,Outros,B.1.1.28,13
+358,2020-09,Set 2020,Sudeste,São Paulo,Outros,B.1.1.33,2
+359,2020-09,Set 2020,Sudeste,São Paulo,Outros,Outras,1
+360,2020-09,Set 2020,Sudeste,São Paulo,Outros,P.2,1
+361,2020-09,Set 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,1
+362,2020-09,Set 2020,Sul,Rio Grande do Sul,Outros,B.1.1,4
+363,2020-09,Set 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,20
+364,2020-09,Set 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,36
+365,2020-09,Set 2020,Sul,Rio Grande do Sul,Outros,Outras,3
+366,2020-09,Set 2020,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),1
+367,2020-09,Set 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1,1
+368,2020-09,Set 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.28,2
+369,2020-09,Set 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,1
+370,2020-10,Out 2020,Centro-oeste,Distrito Federal,Outros,B.1.1.28,3
+371,2020-10,Out 2020,Centro-oeste,Distrito Federal,Outros,P.2,4
+372,2020-10,Out 2020,Centro-oeste,Goiás,Outros,B.1.1.28,2
+373,2020-10,Out 2020,Centro-oeste,Goiás,Outros,B.1.1.33,2
+374,2020-10,Out 2020,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),1
+375,2020-10,Out 2020,Centro-oeste,Goiás,Outros,P.2,1
+376,2020-10,Out 2020,Nordeste,Bahia,FIOCRUZ,B.1.1,1
+377,2020-10,Out 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.28,2
+378,2020-10,Out 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.33,5
+379,2020-10,Out 2020,Nordeste,Bahia,Outros,B.1.1.28,1
+380,2020-10,Out 2020,Nordeste,Bahia,Outros,P.2,1
+381,2020-10,Out 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1,6
+382,2020-10,Out 2020,Nordeste,Paraíba,FIOCRUZ,P.2,1
+383,2020-10,Out 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1,18
+384,2020-10,Out 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.28,29
+385,2020-10,Out 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.33,29
+386,2020-10,Out 2020,Nordeste,Pernambuco,FIOCRUZ,Outras,3
+387,2020-10,Out 2020,Nordeste,Pernambuco,FIOCRUZ,P.2,10
+388,2020-10,Out 2020,Nordeste,Piauí,Outros,B.1.1.28,2
+389,2020-10,Out 2020,Nordeste,Piauí,Outros,Outras,2
+390,2020-10,Out 2020,Norte,Amazonas,FIOCRUZ,B.1.1,2
+391,2020-10,Out 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,8
+392,2020-10,Out 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,2
+393,2020-10,Out 2020,Norte,Amazonas,FIOCRUZ,Outras,4
+394,2020-10,Out 2020,Norte,Pará,Outros,B.1.1,1
+395,2020-10,Out 2020,Norte,Pará,Outros,P.2,6
+396,2020-10,Out 2020,Norte,Tocantins,Outros,B.1.1.28,6
+397,2020-10,Out 2020,Norte,Tocantins,Outros,B.1.1.33,2
+398,2020-10,Out 2020,Norte,Tocantins,Outros,P.2,1
+399,2020-10,Out 2020,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.28,4
+400,2020-10,Out 2020,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.33,6
+401,2020-10,Out 2020,Sudeste,Espírito Santo,FIOCRUZ,P.2,3
+402,2020-10,Out 2020,Sudeste,Espírito Santo,Outros,B.1.1.28,1
+403,2020-10,Out 2020,Sudeste,Espírito Santo,Outros,B.1.1.33,1
+404,2020-10,Out 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.28,5
+405,2020-10,Out 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.33,5
+406,2020-10,Out 2020,Sudeste,Minas Gerais,Outros,B.1.1.28,3
+407,2020-10,Out 2020,Sudeste,Minas Gerais,Outros,B.1.1.33,1
+408,2020-10,Out 2020,Sudeste,Minas Gerais,Outros,P.2,1
+409,2020-10,Out 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,7
+410,2020-10,Out 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,24
+411,2020-10,Out 2020,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,5
+412,2020-10,Out 2020,Sudeste,Rio de Janeiro,Outros,B.1.1,1
+413,2020-10,Out 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.28,7
+414,2020-10,Out 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,19
+415,2020-10,Out 2020,Sudeste,Rio de Janeiro,Outros,P.2,20
+416,2020-10,Out 2020,Sudeste,São Paulo,Outros,B.1.1,1
+417,2020-10,Out 2020,Sudeste,São Paulo,Outros,B.1.1.28,22
+418,2020-10,Out 2020,Sudeste,São Paulo,Outros,B.1.1.33,6
+419,2020-10,Out 2020,Sudeste,São Paulo,Outros,Outras,3
+420,2020-10,Out 2020,Sudeste,São Paulo,Outros,P.2,5
+421,2020-10,Out 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,2
+422,2020-10,Out 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,2
+423,2020-10,Out 2020,Sul,Rio Grande do Sul,Outros,B.1.1,6
+424,2020-10,Out 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,24
+425,2020-10,Out 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,23
+426,2020-10,Out 2020,Sul,Rio Grande do Sul,Outros,Outras,8
+427,2020-10,Out 2020,Sul,Rio Grande do Sul,Outros,P.2,10
+428,2020-10,Out 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,1
+429,2020-11,Nov 2020,Centro-oeste,Distrito Federal,Outros,B.1.1.28,1
+430,2020-11,Nov 2020,Centro-oeste,Distrito Federal,Outros,P.2,2
+431,2020-11,Nov 2020,Centro-oeste,Goiás,Outros,P.2,1
+432,2020-11,Nov 2020,Centro-oeste,Mato Grosso,Outros,Outras,1
+433,2020-11,Nov 2020,Nordeste,Alagoas,FIOCRUZ,Outras,1
+434,2020-11,Nov 2020,Nordeste,Alagoas,FIOCRUZ,P.2,1
+435,2020-11,Nov 2020,Nordeste,Alagoas,Outros,B.1.1.28,1
+436,2020-11,Nov 2020,Nordeste,Alagoas,Outros,P.2,3
+437,2020-11,Nov 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.28,1
+438,2020-11,Nov 2020,Nordeste,Bahia,FIOCRUZ,B.1.1.33,1
+439,2020-11,Nov 2020,Nordeste,Bahia,FIOCRUZ,Outras,1
+440,2020-11,Nov 2020,Nordeste,Bahia,Outros,B.1.1.28,2
+441,2020-11,Nov 2020,Nordeste,Bahia,Outros,B.1.1.33,3
+442,2020-11,Nov 2020,Nordeste,Bahia,Outros,Outras,2
+443,2020-11,Nov 2020,Nordeste,Ceará,FIOCRUZ,B.1.1.28,3
+444,2020-11,Nov 2020,Nordeste,Ceará,FIOCRUZ,B.1.1.33,7
+445,2020-11,Nov 2020,Nordeste,Ceará,FIOCRUZ,P.2,2
+446,2020-11,Nov 2020,Nordeste,Maranhão,FIOCRUZ,Outras,4
+447,2020-11,Nov 2020,Nordeste,Maranhão,Outros,B.1.1,1
+448,2020-11,Nov 2020,Nordeste,Maranhão,Outros,B.1.1.28,1
+449,2020-11,Nov 2020,Nordeste,Maranhão,Outros,Outras,3
+450,2020-11,Nov 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1,9
+451,2020-11,Nov 2020,Nordeste,Paraíba,FIOCRUZ,B.1.1.33,3
+452,2020-11,Nov 2020,Nordeste,Paraíba,FIOCRUZ,Outras,2
+453,2020-11,Nov 2020,Nordeste,Paraíba,FIOCRUZ,P.2,2
+454,2020-11,Nov 2020,Nordeste,Paraíba,Outros,B.1.1,5
+455,2020-11,Nov 2020,Nordeste,Paraíba,Outros,B.1.1.28,2
+456,2020-11,Nov 2020,Nordeste,Paraíba,Outros,Outras,4
+457,2020-11,Nov 2020,Nordeste,Paraíba,Outros,P.2,1
+458,2020-11,Nov 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1,11
+459,2020-11,Nov 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.28,63
+460,2020-11,Nov 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.33,50
+461,2020-11,Nov 2020,Nordeste,Pernambuco,FIOCRUZ,Outras,9
+462,2020-11,Nov 2020,Nordeste,Pernambuco,FIOCRUZ,P.2,4
+463,2020-11,Nov 2020,Nordeste,Piauí,Outros,B.1.1.28,1
+464,2020-11,Nov 2020,Nordeste,Piauí,Outros,Outras,3
+465,2020-11,Nov 2020,Norte,Amapá,Outros,P.2,5
+466,2020-11,Nov 2020,Norte,Amazonas,FIOCRUZ,B.1.1,1
+467,2020-11,Nov 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,13
+468,2020-11,Nov 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,2
+469,2020-11,Nov 2020,Norte,Amazonas,FIOCRUZ,Outras,12
+470,2020-11,Nov 2020,Norte,Amazonas,FIOCRUZ,P.2,2
+471,2020-11,Nov 2020,Norte,Amazonas,Outros,B.1.1,3
+472,2020-11,Nov 2020,Norte,Amazonas,Outros,B.1.1.28,7
+473,2020-11,Nov 2020,Norte,Amazonas,Outros,B.1.1.33,1
+474,2020-11,Nov 2020,Norte,Amazonas,Outros,Outras,7
+475,2020-11,Nov 2020,Norte,Amazonas,Outros,P.2,1
+476,2020-11,Nov 2020,Norte,Pará,Outros,B.1.1,3
+477,2020-11,Nov 2020,Norte,Pará,Outros,B.1.1.28,2
+478,2020-11,Nov 2020,Norte,Pará,Outros,Outras,1
+479,2020-11,Nov 2020,Norte,Pará,Outros,P.2,10
+480,2020-11,Nov 2020,Norte,Roraima,Outros,B.1.1.28,1
+481,2020-11,Nov 2020,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.28,1
+482,2020-11,Nov 2020,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.33,7
+483,2020-11,Nov 2020,Sudeste,Espírito Santo,FIOCRUZ,P.2,2
+484,2020-11,Nov 2020,Sudeste,Espírito Santo,Outros,B.1.1.28,1
+485,2020-11,Nov 2020,Sudeste,Espírito Santo,Outros,B.1.1.33,2
+486,2020-11,Nov 2020,Sudeste,Espírito Santo,Outros,P.2,5
+487,2020-11,Nov 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.28,1
+488,2020-11,Nov 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.33,4
+489,2020-11,Nov 2020,Sudeste,Minas Gerais,FIOCRUZ,P.2,3
+490,2020-11,Nov 2020,Sudeste,Minas Gerais,Outros,B.1.1,1
+491,2020-11,Nov 2020,Sudeste,Minas Gerais,Outros,B.1.1.28,5
+492,2020-11,Nov 2020,Sudeste,Minas Gerais,Outros,B.1.1.33,1
+493,2020-11,Nov 2020,Sudeste,Minas Gerais,Outros,Outras,1
+494,2020-11,Nov 2020,Sudeste,Minas Gerais,Outros,P.2,10
+495,2020-11,Nov 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,5
+496,2020-11,Nov 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,10
+497,2020-11,Nov 2020,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,12
+498,2020-11,Nov 2020,Sudeste,Rio de Janeiro,Outros,B.1.1,3
+499,2020-11,Nov 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.28,12
+500,2020-11,Nov 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,10
+501,2020-11,Nov 2020,Sudeste,Rio de Janeiro,Outros,Outras,1
+502,2020-11,Nov 2020,Sudeste,Rio de Janeiro,Outros,P.2,21
+503,2020-11,Nov 2020,Sudeste,São Paulo,Outros,B.1.1,6
+504,2020-11,Nov 2020,Sudeste,São Paulo,Outros,B.1.1.28,39
+505,2020-11,Nov 2020,Sudeste,São Paulo,Outros,B.1.1.33,8
+506,2020-11,Nov 2020,Sudeste,São Paulo,Outros,Outras,20
+507,2020-11,Nov 2020,Sudeste,São Paulo,Outros,P.2,26
+508,2020-11,Nov 2020,Sul,Rio Grande do Sul,FIOCRUZ,P.2,3
+509,2020-11,Nov 2020,Sul,Rio Grande do Sul,Outros,B.1.1,2
+510,2020-11,Nov 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,52
+511,2020-11,Nov 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,17
+512,2020-11,Nov 2020,Sul,Rio Grande do Sul,Outros,Outras,42
+513,2020-11,Nov 2020,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),1
+514,2020-11,Nov 2020,Sul,Rio Grande do Sul,Outros,P.2,72
+515,2020-11,Nov 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,1
+516,2020-11,Nov 2020,Sul,Santa Catarina,FIOCRUZ,Outras,1
+517,2020-11,Nov 2020,Sul,Santa Catarina,FIOCRUZ,P.2,2
+518,2020-11,Nov 2020,Sul,Santa Catarina,Outros,B.1.1.28,1
+519,2020-11,Nov 2020,Sul,Santa Catarina,Outros,Outras,1
+520,2020-11,Nov 2020,Sul,Santa Catarina,Outros,P.2,3
+521,2020-12,Dez 2020,Centro-oeste,Distrito Federal,Outros,B.1.1.28,1
+522,2020-12,Dez 2020,Centro-oeste,Distrito Federal,Outros,B.1.1.7 (Alfa),2
+523,2020-12,Dez 2020,Centro-oeste,Goiás,FIOCRUZ,P.2,1
+524,2020-12,Dez 2020,Centro-oeste,Goiás,Outros,B.1.1,1
+525,2020-12,Dez 2020,Centro-oeste,Goiás,Outros,B.1.1.28,11
+526,2020-12,Dez 2020,Centro-oeste,Goiás,Outros,B.1.1.33,2
+527,2020-12,Dez 2020,Centro-oeste,Goiás,Outros,Outras,7
+528,2020-12,Dez 2020,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),1
+529,2020-12,Dez 2020,Centro-oeste,Goiás,Outros,P.2,29
+530,2020-12,Dez 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.28,2
+531,2020-12,Dez 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.33,3
+532,2020-12,Dez 2020,Centro-oeste,Mato Grosso,Outros,Outras,1
+533,2020-12,Dez 2020,Centro-oeste,Mato Grosso,Outros,P.2,3
+534,2020-12,Dez 2020,Nordeste,Alagoas,FIOCRUZ,B.1.1,1
+535,2020-12,Dez 2020,Nordeste,Alagoas,FIOCRUZ,B.1.1.33,1
+536,2020-12,Dez 2020,Nordeste,Alagoas,FIOCRUZ,Outras,2
+537,2020-12,Dez 2020,Nordeste,Alagoas,FIOCRUZ,P.2,15
+538,2020-12,Dez 2020,Nordeste,Alagoas,Outros,B.1.1.28,1
+539,2020-12,Dez 2020,Nordeste,Alagoas,Outros,P.2,10
+540,2020-12,Dez 2020,Nordeste,Bahia,FIOCRUZ,Outras,1
+541,2020-12,Dez 2020,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),2
+542,2020-12,Dez 2020,Nordeste,Bahia,FIOCRUZ,P.2,5
+543,2020-12,Dez 2020,Nordeste,Bahia,Outros,B.1.1.28,3
+544,2020-12,Dez 2020,Nordeste,Bahia,Outros,Outras,1
+545,2020-12,Dez 2020,Nordeste,Bahia,Outros,P.1+P.1.* (Gama),3
+546,2020-12,Dez 2020,Nordeste,Bahia,Outros,P.2,1
+547,2020-12,Dez 2020,Nordeste,Ceará,FIOCRUZ,B.1.1,2
+548,2020-12,Dez 2020,Nordeste,Ceará,FIOCRUZ,B.1.1.28,3
+549,2020-12,Dez 2020,Nordeste,Ceará,FIOCRUZ,B.1.1.33,8
+550,2020-12,Dez 2020,Nordeste,Ceará,FIOCRUZ,P.2,8
+551,2020-12,Dez 2020,Nordeste,Ceará,Outros,B.1.1.28,1
+552,2020-12,Dez 2020,Nordeste,Ceará,Outros,P.2,2
+553,2020-12,Dez 2020,Nordeste,Maranhão,FIOCRUZ,B.1.1.28,7
+554,2020-12,Dez 2020,Nordeste,Maranhão,FIOCRUZ,B.1.1.33,4
+555,2020-12,Dez 2020,Nordeste,Maranhão,FIOCRUZ,Outras,15
+556,2020-12,Dez 2020,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),1
+557,2020-12,Dez 2020,Nordeste,Maranhão,FIOCRUZ,P.2,10
+558,2020-12,Dez 2020,Nordeste,Maranhão,Outros,B.1.1.33,1
+559,2020-12,Dez 2020,Nordeste,Maranhão,Outros,Outras,8
+560,2020-12,Dez 2020,Nordeste,Maranhão,Outros,P.2,3
+561,2020-12,Dez 2020,Nordeste,Paraíba,FIOCRUZ,Outras,1
+562,2020-12,Dez 2020,Nordeste,Paraíba,Outros,B.1.1,6
+563,2020-12,Dez 2020,Nordeste,Paraíba,Outros,B.1.1.28,8
+564,2020-12,Dez 2020,Nordeste,Paraíba,Outros,B.1.1.33,2
+565,2020-12,Dez 2020,Nordeste,Paraíba,Outros,Outras,4
+566,2020-12,Dez 2020,Nordeste,Paraíba,Outros,P.2,10
+567,2020-12,Dez 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1,2
+568,2020-12,Dez 2020,Nordeste,Pernambuco,FIOCRUZ,B.1.1.33,1
+569,2020-12,Dez 2020,Nordeste,Pernambuco,FIOCRUZ,Outras,3
+570,2020-12,Dez 2020,Nordeste,Pernambuco,FIOCRUZ,P.2,14
+571,2020-12,Dez 2020,Nordeste,Pernambuco,Outros,Outras,1
+572,2020-12,Dez 2020,Nordeste,Pernambuco,Outros,P.2,1
+573,2020-12,Dez 2020,Norte,Acre,Outros,P.2,1
+574,2020-12,Dez 2020,Norte,Amapá,Outros,B.1.1.28,1
+575,2020-12,Dez 2020,Norte,Amapá,Outros,B.1.1.33,1
+576,2020-12,Dez 2020,Norte,Amapá,Outros,Outras,1
+577,2020-12,Dez 2020,Norte,Amapá,Outros,P.2,14
+578,2020-12,Dez 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,12
+579,2020-12,Dez 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,3
+580,2020-12,Dez 2020,Norte,Amazonas,FIOCRUZ,Outras,14
+581,2020-12,Dez 2020,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),56
+582,2020-12,Dez 2020,Norte,Amazonas,FIOCRUZ,P.2,10
+583,2020-12,Dez 2020,Norte,Amazonas,Outros,B.1.1,10
+584,2020-12,Dez 2020,Norte,Amazonas,Outros,B.1.1.28,19
+585,2020-12,Dez 2020,Norte,Amazonas,Outros,B.1.1.33,4
+586,2020-12,Dez 2020,Norte,Amazonas,Outros,Outras,13
+587,2020-12,Dez 2020,Norte,Amazonas,Outros,P.1+P.1.* (Gama),62
+588,2020-12,Dez 2020,Norte,Amazonas,Outros,P.2,34
+589,2020-12,Dez 2020,Norte,Pará,Outros,B.1.1,3
+590,2020-12,Dez 2020,Norte,Pará,Outros,B.1.1.28,1
+591,2020-12,Dez 2020,Norte,Pará,Outros,B.1.1.33,1
+592,2020-12,Dez 2020,Norte,Pará,Outros,Outras,2
+593,2020-12,Dez 2020,Norte,Pará,Outros,P.2,14
+594,2020-12,Dez 2020,Norte,Tocantins,Outros,P.2,1
+595,2020-12,Dez 2020,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.28,6
+596,2020-12,Dez 2020,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.33,6
+597,2020-12,Dez 2020,Sudeste,Espírito Santo,FIOCRUZ,Outras,1
+598,2020-12,Dez 2020,Sudeste,Espírito Santo,FIOCRUZ,P.2,9
+599,2020-12,Dez 2020,Sudeste,Espírito Santo,Outros,B.1.1.33,5
+600,2020-12,Dez 2020,Sudeste,Espírito Santo,Outros,P.2,6
+601,2020-12,Dez 2020,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.33,1
+602,2020-12,Dez 2020,Sudeste,Minas Gerais,FIOCRUZ,Outras,1
+603,2020-12,Dez 2020,Sudeste,Minas Gerais,FIOCRUZ,P.2,5
+604,2020-12,Dez 2020,Sudeste,Minas Gerais,Outros,B.1.1,1
+605,2020-12,Dez 2020,Sudeste,Minas Gerais,Outros,B.1.1.28,8
+606,2020-12,Dez 2020,Sudeste,Minas Gerais,Outros,B.1.1.33,2
+607,2020-12,Dez 2020,Sudeste,Minas Gerais,Outros,Outras,1
+608,2020-12,Dez 2020,Sudeste,Minas Gerais,Outros,P.2,19
+609,2020-12,Dez 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,1
+610,2020-12,Dez 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,5
+611,2020-12,Dez 2020,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,3
+612,2020-12,Dez 2020,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,55
+613,2020-12,Dez 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.28,4
+614,2020-12,Dez 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,3
+615,2020-12,Dez 2020,Sudeste,Rio de Janeiro,Outros,Outras,4
+616,2020-12,Dez 2020,Sudeste,Rio de Janeiro,Outros,P.2,57
+617,2020-12,Dez 2020,Sudeste,São Paulo,Outros,B.1.1,4
+618,2020-12,Dez 2020,Sudeste,São Paulo,Outros,B.1.1.28,26
+619,2020-12,Dez 2020,Sudeste,São Paulo,Outros,B.1.1.33,5
+620,2020-12,Dez 2020,Sudeste,São Paulo,Outros,Outras,15
+621,2020-12,Dez 2020,Sudeste,São Paulo,Outros,P.2,23
+622,2020-12,Dez 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,2
+623,2020-12,Dez 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,1
+624,2020-12,Dez 2020,Sul,Rio Grande do Sul,FIOCRUZ,Outras,7
+625,2020-12,Dez 2020,Sul,Rio Grande do Sul,FIOCRUZ,P.2,12
+626,2020-12,Dez 2020,Sul,Rio Grande do Sul,Outros,B.1.1,1
+627,2020-12,Dez 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,14
+628,2020-12,Dez 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,5
+629,2020-12,Dez 2020,Sul,Rio Grande do Sul,Outros,Outras,3
+630,2020-12,Dez 2020,Sul,Rio Grande do Sul,Outros,P.2,26
+631,2020-12,Dez 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.28,3
+632,2020-12,Dez 2020,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,1
+633,2020-12,Dez 2020,Sul,Santa Catarina,FIOCRUZ,Outras,5
+634,2020-12,Dez 2020,Sul,Santa Catarina,FIOCRUZ,P.2,36
+635,2020-12,Dez 2020,Sul,Santa Catarina,Outros,B.1.1.28,1
+636,2020-12,Dez 2020,Sul,Santa Catarina,Outros,Outras,1
+637,2020-12,Dez 2020,Sul,Santa Catarina,Outros,P.2,2
+638,2021-01,Jan 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),1
+639,2021-01,Jan 2021,Centro-oeste,Distrito Federal,Outros,P.2,1
+640,2021-01,Jan 2021,Centro-oeste,Goiás,Outros,B.1.1,1
+641,2021-01,Jan 2021,Centro-oeste,Goiás,Outros,B.1.1.28,5
+642,2021-01,Jan 2021,Centro-oeste,Goiás,Outros,B.1.1.33,2
+643,2021-01,Jan 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),6
+644,2021-01,Jan 2021,Centro-oeste,Goiás,Outros,Outras,5
+645,2021-01,Jan 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),44
+646,2021-01,Jan 2021,Centro-oeste,Goiás,Outros,P.2,72
+647,2021-01,Jan 2021,Centro-oeste,Mato Grosso,Outros,B.1.1,2
+648,2021-01,Jan 2021,Centro-oeste,Mato Grosso,Outros,B.1.1.28,3
+649,2021-01,Jan 2021,Centro-oeste,Mato Grosso,Outros,B.1.1.33,1
+650,2021-01,Jan 2021,Centro-oeste,Mato Grosso,Outros,B.1.1.7 (Alfa),2
+651,2021-01,Jan 2021,Centro-oeste,Mato Grosso,Outros,Outras,6
+652,2021-01,Jan 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),4
+653,2021-01,Jan 2021,Centro-oeste,Mato Grosso,Outros,P.2,8
+654,2021-01,Jan 2021,Nordeste,Alagoas,FIOCRUZ,B.1.1,2
+655,2021-01,Jan 2021,Nordeste,Alagoas,FIOCRUZ,B.1.1.28,2
+656,2021-01,Jan 2021,Nordeste,Alagoas,FIOCRUZ,B.1.1.33,2
+657,2021-01,Jan 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),13
+658,2021-01,Jan 2021,Nordeste,Alagoas,FIOCRUZ,P.2,16
+659,2021-01,Jan 2021,Nordeste,Alagoas,Outros,B.1.1.28,1
+660,2021-01,Jan 2021,Nordeste,Alagoas,Outros,P.1+P.1.* (Gama),1
+661,2021-01,Jan 2021,Nordeste,Alagoas,Outros,P.2,16
+662,2021-01,Jan 2021,Nordeste,Bahia,FIOCRUZ,B.1.1,1
+663,2021-01,Jan 2021,Nordeste,Bahia,FIOCRUZ,B.1.1.28,1
+664,2021-01,Jan 2021,Nordeste,Bahia,FIOCRUZ,B.1.1.7 (Alfa),3
+665,2021-01,Jan 2021,Nordeste,Bahia,FIOCRUZ,Outras,4
+666,2021-01,Jan 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),2
+667,2021-01,Jan 2021,Nordeste,Bahia,FIOCRUZ,P.2,20
+668,2021-01,Jan 2021,Nordeste,Bahia,Outros,B.1.1.28,3
+669,2021-01,Jan 2021,Nordeste,Bahia,Outros,B.1.1.33,2
+670,2021-01,Jan 2021,Nordeste,Bahia,Outros,B.1.1.7 (Alfa),1
+671,2021-01,Jan 2021,Nordeste,Bahia,Outros,Outras,4
+672,2021-01,Jan 2021,Nordeste,Bahia,Outros,P.1+P.1.* (Gama),11
+673,2021-01,Jan 2021,Nordeste,Bahia,Outros,P.2,29
+674,2021-01,Jan 2021,Nordeste,Ceará,FIOCRUZ,B.1.1,3
+675,2021-01,Jan 2021,Nordeste,Ceará,FIOCRUZ,B.1.1.28,5
+676,2021-01,Jan 2021,Nordeste,Ceará,FIOCRUZ,B.1.1.33,10
+677,2021-01,Jan 2021,Nordeste,Ceará,FIOCRUZ,Outras,6
+678,2021-01,Jan 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),24
+679,2021-01,Jan 2021,Nordeste,Ceará,FIOCRUZ,P.2,37
+680,2021-01,Jan 2021,Nordeste,Ceará,Outros,B.1.1,1
+681,2021-01,Jan 2021,Nordeste,Ceará,Outros,B.1.1.28,1
+682,2021-01,Jan 2021,Nordeste,Ceará,Outros,B.1.1.33,3
+683,2021-01,Jan 2021,Nordeste,Ceará,Outros,Outras,1
+684,2021-01,Jan 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),2
+685,2021-01,Jan 2021,Nordeste,Ceará,Outros,P.2,12
+686,2021-01,Jan 2021,Nordeste,Maranhão,FIOCRUZ,B.1.1.33,1
+687,2021-01,Jan 2021,Nordeste,Maranhão,FIOCRUZ,Outras,21
+688,2021-01,Jan 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),4
+689,2021-01,Jan 2021,Nordeste,Maranhão,FIOCRUZ,P.2,10
+690,2021-01,Jan 2021,Nordeste,Maranhão,Outros,B.1.1.28,2
+691,2021-01,Jan 2021,Nordeste,Maranhão,Outros,Outras,2
+692,2021-01,Jan 2021,Nordeste,Maranhão,Outros,P.1+P.1.* (Gama),4
+693,2021-01,Jan 2021,Nordeste,Maranhão,Outros,P.2,5
+694,2021-01,Jan 2021,Nordeste,Paraíba,FIOCRUZ,B.1.1.28,1
+695,2021-01,Jan 2021,Nordeste,Paraíba,FIOCRUZ,Outras,1
+696,2021-01,Jan 2021,Nordeste,Paraíba,Outros,B.1.1,4
+697,2021-01,Jan 2021,Nordeste,Paraíba,Outros,B.1.1.28,1
+698,2021-01,Jan 2021,Nordeste,Paraíba,Outros,B.1.1.33,1
+699,2021-01,Jan 2021,Nordeste,Paraíba,Outros,Outras,4
+700,2021-01,Jan 2021,Nordeste,Paraíba,Outros,P.1+P.1.* (Gama),5
+701,2021-01,Jan 2021,Nordeste,Paraíba,Outros,P.2,24
+702,2021-01,Jan 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.1,4
+703,2021-01,Jan 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.1.28,1
+704,2021-01,Jan 2021,Nordeste,Pernambuco,FIOCRUZ,Outras,1
+705,2021-01,Jan 2021,Nordeste,Pernambuco,FIOCRUZ,P.2,14
+706,2021-01,Jan 2021,Nordeste,Pernambuco,Outros,B.1.1.28,1
+707,2021-01,Jan 2021,Nordeste,Pernambuco,Outros,P.1+P.1.* (Gama),1
+708,2021-01,Jan 2021,Nordeste,Pernambuco,Outros,P.2,2
+709,2021-01,Jan 2021,Nordeste,Piauí,Outros,Outras,1
+710,2021-01,Jan 2021,Nordeste,Sergipe,FIOCRUZ,B.1.1.28,4
+711,2021-01,Jan 2021,Nordeste,Sergipe,FIOCRUZ,B.1.1.33,2
+712,2021-01,Jan 2021,Nordeste,Sergipe,FIOCRUZ,Outras,3
+713,2021-01,Jan 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),6
+714,2021-01,Jan 2021,Nordeste,Sergipe,FIOCRUZ,P.2,21
+715,2021-01,Jan 2021,Nordeste,Sergipe,Outros,B.1.1.28,3
+716,2021-01,Jan 2021,Nordeste,Sergipe,Outros,B.1.1.7 (Alfa),1
+717,2021-01,Jan 2021,Nordeste,Sergipe,Outros,P.1+P.1.* (Gama),1
+718,2021-01,Jan 2021,Nordeste,Sergipe,Outros,P.2,2
+719,2021-01,Jan 2021,Norte,Acre,Outros,B.1.1,1
+720,2021-01,Jan 2021,Norte,Acre,Outros,B.1.1.28,14
+721,2021-01,Jan 2021,Norte,Acre,Outros,B.1.1.33,5
+722,2021-01,Jan 2021,Norte,Acre,Outros,Outras,3
+723,2021-01,Jan 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),10
+724,2021-01,Jan 2021,Norte,Acre,Outros,P.2,3
+725,2021-01,Jan 2021,Norte,Amapá,FIOCRUZ,P.1+P.1.* (Gama),4
+726,2021-01,Jan 2021,Norte,Amapá,FIOCRUZ,P.2,41
+727,2021-01,Jan 2021,Norte,Amapá,Outros,B.1.1.33,1
+728,2021-01,Jan 2021,Norte,Amapá,Outros,Outras,2
+729,2021-01,Jan 2021,Norte,Amapá,Outros,P.1+P.1.* (Gama),5
+730,2021-01,Jan 2021,Norte,Amapá,Outros,P.2,18
+731,2021-01,Jan 2021,Norte,Amazonas,FIOCRUZ,Outras,1
+732,2021-01,Jan 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),99
+733,2021-01,Jan 2021,Norte,Amazonas,FIOCRUZ,P.2,4
+734,2021-01,Jan 2021,Norte,Amazonas,Outros,B.1.1.28,3
+735,2021-01,Jan 2021,Norte,Amazonas,Outros,B.1.1.33,2
+736,2021-01,Jan 2021,Norte,Amazonas,Outros,Outras,1
+737,2021-01,Jan 2021,Norte,Amazonas,Outros,P.1+P.1.* (Gama),73
+738,2021-01,Jan 2021,Norte,Amazonas,Outros,P.2,4
+739,2021-01,Jan 2021,Norte,Pará,FIOCRUZ,B.1.1,1
+740,2021-01,Jan 2021,Norte,Pará,FIOCRUZ,B.1.1.28,3
+741,2021-01,Jan 2021,Norte,Pará,FIOCRUZ,Outras,1
+742,2021-01,Jan 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),12
+743,2021-01,Jan 2021,Norte,Pará,FIOCRUZ,P.2,9
+744,2021-01,Jan 2021,Norte,Pará,Outros,B.1.1,1
+745,2021-01,Jan 2021,Norte,Pará,Outros,B.1.1.28,1
+746,2021-01,Jan 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),8
+747,2021-01,Jan 2021,Norte,Pará,Outros,P.2,16
+748,2021-01,Jan 2021,Norte,Rondônia,Outros,B.1.1.28,2
+749,2021-01,Jan 2021,Norte,Rondônia,Outros,B.1.1.33,6
+750,2021-01,Jan 2021,Norte,Rondônia,Outros,Outras,1
+751,2021-01,Jan 2021,Norte,Rondônia,Outros,P.1+P.1.* (Gama),5
+752,2021-01,Jan 2021,Norte,Rondônia,Outros,P.2,5
+753,2021-01,Jan 2021,Norte,Roraima,Outros,P.1+P.1.* (Gama),12
+754,2021-01,Jan 2021,Norte,Roraima,Outros,P.2,1
+755,2021-01,Jan 2021,Norte,Tocantins,Outros,B.1.1.28,1
+756,2021-01,Jan 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),2
+757,2021-01,Jan 2021,Norte,Tocantins,Outros,P.2,3
+758,2021-01,Jan 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.28,7
+759,2021-01,Jan 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.33,7
+760,2021-01,Jan 2021,Sudeste,Espírito Santo,FIOCRUZ,Outras,1
+761,2021-01,Jan 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),3
+762,2021-01,Jan 2021,Sudeste,Espírito Santo,FIOCRUZ,P.2,20
+763,2021-01,Jan 2021,Sudeste,Espírito Santo,Outros,B.1.1.33,3
+764,2021-01,Jan 2021,Sudeste,Espírito Santo,Outros,B.1.1.7 (Alfa),1
+765,2021-01,Jan 2021,Sudeste,Espírito Santo,Outros,P.1+P.1.* (Gama),1
+766,2021-01,Jan 2021,Sudeste,Espírito Santo,Outros,P.2,8
+767,2021-01,Jan 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.28,5
+768,2021-01,Jan 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.33,1
+769,2021-01,Jan 2021,Sudeste,Minas Gerais,FIOCRUZ,Outras,2
+770,2021-01,Jan 2021,Sudeste,Minas Gerais,FIOCRUZ,P.2,28
+771,2021-01,Jan 2021,Sudeste,Minas Gerais,Outros,B.1.1.28,1
+772,2021-01,Jan 2021,Sudeste,Minas Gerais,Outros,B.1.1.33,2
+773,2021-01,Jan 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),13
+774,2021-01,Jan 2021,Sudeste,Minas Gerais,Outros,Outras,1
+775,2021-01,Jan 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),2
+776,2021-01,Jan 2021,Sudeste,Minas Gerais,Outros,P.2,19
+777,2021-01,Jan 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,5
+778,2021-01,Jan 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,3
+779,2021-01,Jan 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.7 (Alfa),2
+780,2021-01,Jan 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),1
+781,2021-01,Jan 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,61
+782,2021-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.28,4
+783,2021-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.33,3
+784,2021-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),3
+785,2021-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,Outras,2
+786,2021-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),3
+787,2021-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,P.2,78
+788,2021-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1,2
+789,2021-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.28,56
+790,2021-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.33,6
+791,2021-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),21
+792,2021-01,Jan 2021,Sudeste,São Paulo,Outros,Outras,30
+793,2021-01,Jan 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),51
+794,2021-01,Jan 2021,Sudeste,São Paulo,Outros,P.2,133
+795,2021-01,Jan 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,3
+796,2021-01,Jan 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,1
+797,2021-01,Jan 2021,Sul,Rio Grande do Sul,FIOCRUZ,Outras,8
+798,2021-01,Jan 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1+P.1.* (Gama),3
+799,2021-01,Jan 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.2,21
+800,2021-01,Jan 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,6
+801,2021-01,Jan 2021,Sul,Rio Grande do Sul,Outros,Outras,5
+802,2021-01,Jan 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),6
+803,2021-01,Jan 2021,Sul,Rio Grande do Sul,Outros,P.2,25
+804,2021-01,Jan 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.28,6
+805,2021-01,Jan 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,2
+806,2021-01,Jan 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.7 (Alfa),1
+807,2021-01,Jan 2021,Sul,Santa Catarina,FIOCRUZ,Outras,5
+808,2021-01,Jan 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),13
+809,2021-01,Jan 2021,Sul,Santa Catarina,FIOCRUZ,P.2,51
+810,2021-01,Jan 2021,Sul,Santa Catarina,Outros,Outras,1
+811,2021-01,Jan 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),5
+812,2021-01,Jan 2021,Sul,Santa Catarina,Outros,P.2,12
+813,2021-02,Fev 2021,Centro-oeste,Distrito Federal,Outros,B.1.1.7 (Alfa),1
+814,2021-02,Fev 2021,Centro-oeste,Distrito Federal,Outros,Outras,1
+815,2021-02,Fev 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),1
+816,2021-02,Fev 2021,Centro-oeste,Goiás,Outros,B.1.1,2
+817,2021-02,Fev 2021,Centro-oeste,Goiás,Outros,B.1.1.28,3
+818,2021-02,Fev 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),20
+819,2021-02,Fev 2021,Centro-oeste,Goiás,Outros,Outras,1
+820,2021-02,Fev 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),126
+821,2021-02,Fev 2021,Centro-oeste,Goiás,Outros,P.2,45
+822,2021-02,Fev 2021,Centro-oeste,Mato Grosso,Outros,B.1.1,1
+823,2021-02,Fev 2021,Centro-oeste,Mato Grosso,Outros,B.1.1.28,1
+824,2021-02,Fev 2021,Centro-oeste,Mato Grosso,Outros,Outras,1
+825,2021-02,Fev 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),11
+826,2021-02,Fev 2021,Centro-oeste,Mato Grosso,Outros,P.2,10
+827,2021-02,Fev 2021,Nordeste,Alagoas,FIOCRUZ,B.1.1,2
+828,2021-02,Fev 2021,Nordeste,Alagoas,FIOCRUZ,B.1.1.28,2
+829,2021-02,Fev 2021,Nordeste,Alagoas,FIOCRUZ,B.1.1.33,4
+830,2021-02,Fev 2021,Nordeste,Alagoas,FIOCRUZ,Outras,2
+831,2021-02,Fev 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),29
+832,2021-02,Fev 2021,Nordeste,Alagoas,FIOCRUZ,P.2,36
+833,2021-02,Fev 2021,Nordeste,Alagoas,Outros,B.1.1,1
+834,2021-02,Fev 2021,Nordeste,Alagoas,Outros,P.1+P.1.* (Gama),4
+835,2021-02,Fev 2021,Nordeste,Alagoas,Outros,P.2,3
+836,2021-02,Fev 2021,Nordeste,Bahia,FIOCRUZ,B.1.1,1
+837,2021-02,Fev 2021,Nordeste,Bahia,FIOCRUZ,B.1.1.28,1
+838,2021-02,Fev 2021,Nordeste,Bahia,FIOCRUZ,B.1.1.7 (Alfa),2
+839,2021-02,Fev 2021,Nordeste,Bahia,FIOCRUZ,Outras,1
+840,2021-02,Fev 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),19
+841,2021-02,Fev 2021,Nordeste,Bahia,FIOCRUZ,P.2,24
+842,2021-02,Fev 2021,Nordeste,Bahia,Outros,B.1.1.28,9
+843,2021-02,Fev 2021,Nordeste,Bahia,Outros,B.1.1.33,1
+844,2021-02,Fev 2021,Nordeste,Bahia,Outros,B.1.1.7 (Alfa),4
+845,2021-02,Fev 2021,Nordeste,Bahia,Outros,Outras,7
+846,2021-02,Fev 2021,Nordeste,Bahia,Outros,P.1+P.1.* (Gama),31
+847,2021-02,Fev 2021,Nordeste,Bahia,Outros,P.2,26
+848,2021-02,Fev 2021,Nordeste,Ceará,FIOCRUZ,B.1.1.28,7
+849,2021-02,Fev 2021,Nordeste,Ceará,FIOCRUZ,B.1.1.33,2
+850,2021-02,Fev 2021,Nordeste,Ceará,FIOCRUZ,Outras,3
+851,2021-02,Fev 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),114
+852,2021-02,Fev 2021,Nordeste,Ceará,FIOCRUZ,P.2,45
+853,2021-02,Fev 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),9
+854,2021-02,Fev 2021,Nordeste,Ceará,Outros,P.2,1
+855,2021-02,Fev 2021,Nordeste,Maranhão,FIOCRUZ,B.1.1.28,1
+856,2021-02,Fev 2021,Nordeste,Maranhão,FIOCRUZ,Outras,9
+857,2021-02,Fev 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),22
+858,2021-02,Fev 2021,Nordeste,Maranhão,FIOCRUZ,P.2,5
+859,2021-02,Fev 2021,Nordeste,Maranhão,Outros,B.1.1,1
+860,2021-02,Fev 2021,Nordeste,Maranhão,Outros,B.1.1.28,1
+861,2021-02,Fev 2021,Nordeste,Maranhão,Outros,Outras,4
+862,2021-02,Fev 2021,Nordeste,Maranhão,Outros,P.1+P.1.* (Gama),6
+863,2021-02,Fev 2021,Nordeste,Maranhão,Outros,P.2,1
+864,2021-02,Fev 2021,Nordeste,Paraíba,FIOCRUZ,B.1.1,1
+865,2021-02,Fev 2021,Nordeste,Paraíba,FIOCRUZ,B.1.1.28,1
+866,2021-02,Fev 2021,Nordeste,Paraíba,FIOCRUZ,Outras,1
+867,2021-02,Fev 2021,Nordeste,Paraíba,FIOCRUZ,P.1+P.1.* (Gama),13
+868,2021-02,Fev 2021,Nordeste,Paraíba,FIOCRUZ,P.2,1
+869,2021-02,Fev 2021,Nordeste,Paraíba,Outros,B.1.1.28,1
+870,2021-02,Fev 2021,Nordeste,Paraíba,Outros,P.1+P.1.* (Gama),3
+871,2021-02,Fev 2021,Nordeste,Paraíba,Outros,P.2,6
+872,2021-02,Fev 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.1,1
+873,2021-02,Fev 2021,Nordeste,Pernambuco,FIOCRUZ,P.1+P.1.* (Gama),15
+874,2021-02,Fev 2021,Nordeste,Pernambuco,FIOCRUZ,P.2,4
+875,2021-02,Fev 2021,Nordeste,Pernambuco,Outros,P.1+P.1.* (Gama),8
+876,2021-02,Fev 2021,Nordeste,Pernambuco,Outros,P.2,1
+877,2021-02,Fev 2021,Nordeste,Piauí,Outros,B.1.1.33,3
+878,2021-02,Fev 2021,Nordeste,Piauí,Outros,Outras,3
+879,2021-02,Fev 2021,Nordeste,Piauí,Outros,P.1+P.1.* (Gama),13
+880,2021-02,Fev 2021,Nordeste,Piauí,Outros,P.2,2
+881,2021-02,Fev 2021,Nordeste,Sergipe,FIOCRUZ,B.1.1.28,3
+882,2021-02,Fev 2021,Nordeste,Sergipe,FIOCRUZ,B.1.1.33,1
+883,2021-02,Fev 2021,Nordeste,Sergipe,FIOCRUZ,Outras,3
+884,2021-02,Fev 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),114
+885,2021-02,Fev 2021,Nordeste,Sergipe,FIOCRUZ,P.2,21
+886,2021-02,Fev 2021,Nordeste,Sergipe,Outros,Outras,3
+887,2021-02,Fev 2021,Nordeste,Sergipe,Outros,P.1+P.1.* (Gama),32
+888,2021-02,Fev 2021,Nordeste,Sergipe,Outros,P.2,4
+889,2021-02,Fev 2021,Norte,Acre,Outros,B.1.1.28,2
+890,2021-02,Fev 2021,Norte,Acre,Outros,Outras,2
+891,2021-02,Fev 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),13
+892,2021-02,Fev 2021,Norte,Amapá,FIOCRUZ,P.1+P.1.* (Gama),27
+893,2021-02,Fev 2021,Norte,Amapá,FIOCRUZ,P.2,7
+894,2021-02,Fev 2021,Norte,Amapá,Outros,Outras,2
+895,2021-02,Fev 2021,Norte,Amapá,Outros,P.1+P.1.* (Gama),11
+896,2021-02,Fev 2021,Norte,Amapá,Outros,P.2,8
+897,2021-02,Fev 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),98
+898,2021-02,Fev 2021,Norte,Amazonas,Outros,P.1+P.1.* (Gama),34
+899,2021-02,Fev 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),48
+900,2021-02,Fev 2021,Norte,Pará,FIOCRUZ,P.2,11
+901,2021-02,Fev 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),8
+902,2021-02,Fev 2021,Norte,Pará,Outros,P.2,3
+903,2021-02,Fev 2021,Norte,Rondônia,Outros,P.1+P.1.* (Gama),4
+904,2021-02,Fev 2021,Norte,Rondônia,Outros,P.2,1
+905,2021-02,Fev 2021,Norte,Roraima,Outros,P.1+P.1.* (Gama),16
+906,2021-02,Fev 2021,Norte,Tocantins,Outros,B.1.1,1
+907,2021-02,Fev 2021,Norte,Tocantins,Outros,B.1.1.28,2
+908,2021-02,Fev 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),10
+909,2021-02,Fev 2021,Norte,Tocantins,Outros,P.2,9
+910,2021-02,Fev 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.28,2
+911,2021-02,Fev 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.33,1
+912,2021-02,Fev 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.7 (Alfa),4
+913,2021-02,Fev 2021,Sudeste,Espírito Santo,FIOCRUZ,Outras,1
+914,2021-02,Fev 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),9
+915,2021-02,Fev 2021,Sudeste,Espírito Santo,FIOCRUZ,P.2,6
+916,2021-02,Fev 2021,Sudeste,Espírito Santo,Outros,B.1.1,1
+917,2021-02,Fev 2021,Sudeste,Espírito Santo,Outros,B.1.1.7 (Alfa),2
+918,2021-02,Fev 2021,Sudeste,Espírito Santo,Outros,P.1+P.1.* (Gama),2
+919,2021-02,Fev 2021,Sudeste,Espírito Santo,Outros,P.2,7
+920,2021-02,Fev 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.28,7
+921,2021-02,Fev 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.7 (Alfa),3
+922,2021-02,Fev 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1+P.1.* (Gama),39
+923,2021-02,Fev 2021,Sudeste,Minas Gerais,FIOCRUZ,P.2,55
+924,2021-02,Fev 2021,Sudeste,Minas Gerais,Outros,B.1.1,2
+925,2021-02,Fev 2021,Sudeste,Minas Gerais,Outros,B.1.1.28,3
+926,2021-02,Fev 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),2
+927,2021-02,Fev 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),16
+928,2021-02,Fev 2021,Sudeste,Minas Gerais,Outros,P.2,36
+929,2021-02,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1,1
+930,2021-02,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,1
+931,2021-02,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.7 (Alfa),4
+932,2021-02,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,3
+933,2021-02,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),92
+934,2021-02,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,37
+935,2021-02,Fev 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.28,2
+936,2021-02,Fev 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),1
+937,2021-02,Fev 2021,Sudeste,Rio de Janeiro,Outros,Outras,3
+938,2021-02,Fev 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),24
+939,2021-02,Fev 2021,Sudeste,Rio de Janeiro,Outros,P.2,31
+940,2021-02,Fev 2021,Sudeste,São Paulo,Outros,B.1.1,1
+941,2021-02,Fev 2021,Sudeste,São Paulo,Outros,B.1.1.28,54
+942,2021-02,Fev 2021,Sudeste,São Paulo,Outros,B.1.1.33,1
+943,2021-02,Fev 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),8
+944,2021-02,Fev 2021,Sudeste,São Paulo,Outros,Outras,30
+945,2021-02,Fev 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),225
+946,2021-02,Fev 2021,Sudeste,São Paulo,Outros,P.2,156
+947,2021-02,Fev 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,1
+948,2021-02,Fev 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,2
+949,2021-02,Fev 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.7 (Alfa),1
+950,2021-02,Fev 2021,Sul,Rio Grande do Sul,FIOCRUZ,Outras,3
+951,2021-02,Fev 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1+P.1.* (Gama),19
+952,2021-02,Fev 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.2,13
+953,2021-02,Fev 2021,Sul,Rio Grande do Sul,Outros,B.1.1,1
+954,2021-02,Fev 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,4
+955,2021-02,Fev 2021,Sul,Rio Grande do Sul,Outros,Outras,6
+956,2021-02,Fev 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),79
+957,2021-02,Fev 2021,Sul,Rio Grande do Sul,Outros,P.2,22
+958,2021-02,Fev 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.28,1
+959,2021-02,Fev 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.7 (Alfa),1
+960,2021-02,Fev 2021,Sul,Santa Catarina,FIOCRUZ,Outras,3
+961,2021-02,Fev 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),114
+962,2021-02,Fev 2021,Sul,Santa Catarina,FIOCRUZ,P.2,28
+963,2021-02,Fev 2021,Sul,Santa Catarina,Outros,B.1.1,1
+964,2021-02,Fev 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),9
+965,2021-02,Fev 2021,Sul,Santa Catarina,Outros,P.2,5
+966,2021-03,Mar 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),9
+967,2021-03,Mar 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),10
+968,2021-03,Mar 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),223
+969,2021-03,Mar 2021,Centro-oeste,Goiás,Outros,P.2,9
+970,2021-03,Mar 2021,Centro-oeste,Mato Grosso,Outros,Outras,2
+971,2021-03,Mar 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),30
+972,2021-03,Mar 2021,Centro-oeste,Mato Grosso,Outros,P.2,3
+973,2021-03,Mar 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),22
+974,2021-03,Mar 2021,Nordeste,Bahia,FIOCRUZ,B.1.1,3
+975,2021-03,Mar 2021,Nordeste,Bahia,FIOCRUZ,Outras,1
+976,2021-03,Mar 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),42
+977,2021-03,Mar 2021,Nordeste,Bahia,FIOCRUZ,P.2,3
+978,2021-03,Mar 2021,Nordeste,Bahia,Outros,B.1.1.28,1
+979,2021-03,Mar 2021,Nordeste,Bahia,Outros,B.1.1.7 (Alfa),2
+980,2021-03,Mar 2021,Nordeste,Bahia,Outros,P.1+P.1.* (Gama),30
+981,2021-03,Mar 2021,Nordeste,Bahia,Outros,P.2,7
+982,2021-03,Mar 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),132
+983,2021-03,Mar 2021,Nordeste,Ceará,FIOCRUZ,P.2,2
+984,2021-03,Mar 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),5
+985,2021-03,Mar 2021,Nordeste,Maranhão,FIOCRUZ,Outras,3
+986,2021-03,Mar 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),25
+987,2021-03,Mar 2021,Nordeste,Maranhão,Outros,P.1+P.1.* (Gama),3
+988,2021-03,Mar 2021,Nordeste,Paraíba,FIOCRUZ,B.1.1.7 (Alfa),1
+989,2021-03,Mar 2021,Nordeste,Paraíba,FIOCRUZ,P.1+P.1.* (Gama),29
+990,2021-03,Mar 2021,Nordeste,Paraíba,FIOCRUZ,P.2,3
+991,2021-03,Mar 2021,Nordeste,Paraíba,Outros,P.1+P.1.* (Gama),3
+992,2021-03,Mar 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.1,1
+993,2021-03,Mar 2021,Nordeste,Pernambuco,FIOCRUZ,P.1+P.1.* (Gama),4
+994,2021-03,Mar 2021,Nordeste,Pernambuco,Outros,P.1+P.1.* (Gama),3
+995,2021-03,Mar 2021,Nordeste,Piauí,FIOCRUZ,P.1+P.1.* (Gama),2
+996,2021-03,Mar 2021,Nordeste,Piauí,Outros,P.1+P.1.* (Gama),1
+997,2021-03,Mar 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),47
+998,2021-03,Mar 2021,Nordeste,Sergipe,FIOCRUZ,P.2,3
+999,2021-03,Mar 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),31
+1000,2021-03,Mar 2021,Norte,Amapá,FIOCRUZ,P.1+P.1.* (Gama),16
+1001,2021-03,Mar 2021,Norte,Amapá,FIOCRUZ,P.2,1
+1002,2021-03,Mar 2021,Norte,Amapá,Outros,P.1+P.1.* (Gama),7
+1003,2021-03,Mar 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),158
+1004,2021-03,Mar 2021,Norte,Amazonas,Outros,P.1+P.1.* (Gama),16
+1005,2021-03,Mar 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),32
+1006,2021-03,Mar 2021,Norte,Pará,FIOCRUZ,P.2,1
+1007,2021-03,Mar 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),5
+1008,2021-03,Mar 2021,Norte,Rondônia,Outros,P.1+P.1.* (Gama),2
+1009,2021-03,Mar 2021,Norte,Roraima,Outros,P.1+P.1.* (Gama),2
+1010,2021-03,Mar 2021,Norte,Tocantins,Outros,B.1.1.28,1
+1011,2021-03,Mar 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),16
+1012,2021-03,Mar 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.7 (Alfa),8
+1013,2021-03,Mar 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),7
+1014,2021-03,Mar 2021,Sudeste,Espírito Santo,FIOCRUZ,P.2,2
+1015,2021-03,Mar 2021,Sudeste,Espírito Santo,Outros,B.1.1.7 (Alfa),2
+1016,2021-03,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.33,1
+1017,2021-03,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.7 (Alfa),1
+1018,2021-03,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1+P.1.* (Gama),41
+1019,2021-03,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,P.2,7
+1020,2021-03,Mar 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),18
+1021,2021-03,Mar 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),31
+1022,2021-03,Mar 2021,Sudeste,Minas Gerais,Outros,P.2,7
+1023,2021-03,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,1
+1024,2021-03,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.7 (Alfa),5
+1025,2021-03,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,1
+1026,2021-03,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),129
+1027,2021-03,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,3
+1028,2021-03,Mar 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),7
+1029,2021-03,Mar 2021,Sudeste,Rio de Janeiro,Outros,Outras,1
+1030,2021-03,Mar 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),280
+1031,2021-03,Mar 2021,Sudeste,Rio de Janeiro,Outros,P.2,10
+1032,2021-03,Mar 2021,Sudeste,São Paulo,FIOCRUZ,B.1.1.28,2
+1033,2021-03,Mar 2021,Sudeste,São Paulo,FIOCRUZ,B.1.1.7 (Alfa),1
+1034,2021-03,Mar 2021,Sudeste,São Paulo,FIOCRUZ,P.1+P.1.* (Gama),44
+1035,2021-03,Mar 2021,Sudeste,São Paulo,FIOCRUZ,P.2,5
+1036,2021-03,Mar 2021,Sudeste,São Paulo,Outros,B.1.1.28,48
+1037,2021-03,Mar 2021,Sudeste,São Paulo,Outros,B.1.1.33,2
+1038,2021-03,Mar 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),105
+1039,2021-03,Mar 2021,Sudeste,São Paulo,Outros,Outras,68
+1040,2021-03,Mar 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),1530
+1041,2021-03,Mar 2021,Sudeste,São Paulo,Outros,P.2,111
+1042,2021-03,Mar 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,1
+1043,2021-03,Mar 2021,Sul,Rio Grande do Sul,FIOCRUZ,Outras,1
+1044,2021-03,Mar 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1+P.1.* (Gama),47
+1045,2021-03,Mar 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.2,2
+1046,2021-03,Mar 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,1
+1047,2021-03,Mar 2021,Sul,Rio Grande do Sul,Outros,Outras,4
+1048,2021-03,Mar 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),128
+1049,2021-03,Mar 2021,Sul,Rio Grande do Sul,Outros,P.2,15
+1050,2021-03,Mar 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,1
+1051,2021-03,Mar 2021,Sul,Santa Catarina,FIOCRUZ,Outras,1
+1052,2021-03,Mar 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),79
+1053,2021-03,Mar 2021,Sul,Santa Catarina,FIOCRUZ,P.2,4
+1054,2021-03,Mar 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),13
+1055,2021-03,Mar 2021,Sul,Santa Catarina,Outros,P.2,1
+1056,2021-04,Abr 2021,Centro-oeste,Goiás,FIOCRUZ,B.1.617.2+AY.* (Delta),2
+1057,2021-04,Abr 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),3
+1058,2021-04,Abr 2021,Centro-oeste,Goiás,Outros,B.1.617.2+AY.* (Delta),1
+1059,2021-04,Abr 2021,Centro-oeste,Goiás,Outros,Outras,1
+1060,2021-04,Abr 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),178
+1061,2021-04,Abr 2021,Centro-oeste,Mato Grosso,Outros,B.1.1.7 (Alfa),1
+1062,2021-04,Abr 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),11
+1063,2021-04,Abr 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),60
+1064,2021-04,Abr 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),13
+1065,2021-04,Abr 2021,Nordeste,Bahia,FIOCRUZ,P.2,1
+1066,2021-04,Abr 2021,Nordeste,Bahia,Outros,B.1.1.28,1
+1067,2021-04,Abr 2021,Nordeste,Bahia,Outros,P.1+P.1.* (Gama),24
+1068,2021-04,Abr 2021,Nordeste,Bahia,Outros,P.2,1
+1069,2021-04,Abr 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),85
+1070,2021-04,Abr 2021,Nordeste,Ceará,FIOCRUZ,P.2,1
+1071,2021-04,Abr 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),54
+1072,2021-04,Abr 2021,Nordeste,Paraíba,FIOCRUZ,P.1+P.1.* (Gama),25
+1073,2021-04,Abr 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.1.7 (Alfa),2
+1074,2021-04,Abr 2021,Nordeste,Pernambuco,FIOCRUZ,P.1+P.1.* (Gama),117
+1075,2021-04,Abr 2021,Nordeste,Pernambuco,Outros,P.1+P.1.* (Gama),12
+1076,2021-04,Abr 2021,Nordeste,Piauí,FIOCRUZ,P.1+P.1.* (Gama),15
+1077,2021-04,Abr 2021,Nordeste,Piauí,Outros,P.1+P.1.* (Gama),5
+1078,2021-04,Abr 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),1
+1079,2021-04,Abr 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),22
+1080,2021-04,Abr 2021,Norte,Amazonas,FIOCRUZ,B.1.1.7 (Alfa),1
+1081,2021-04,Abr 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),165
+1082,2021-04,Abr 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),34
+1083,2021-04,Abr 2021,Norte,Roraima,FIOCRUZ,P.1+P.1.* (Gama),1
+1084,2021-04,Abr 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),18
+1085,2021-04,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.7 (Alfa),5
+1086,2021-04,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,Outras,1
+1087,2021-04,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),29
+1088,2021-04,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,P.2,2
+1089,2021-04,Abr 2021,Sudeste,Espírito Santo,Outros,P.1+P.1.* (Gama),1
+1090,2021-04,Abr 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1+P.1.* (Gama),4
+1091,2021-04,Abr 2021,Sudeste,Minas Gerais,Outros,B.1.1,2
+1092,2021-04,Abr 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),6
+1093,2021-04,Abr 2021,Sudeste,Minas Gerais,Outros,Outras,2
+1094,2021-04,Abr 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),77
+1095,2021-04,Abr 2021,Sudeste,Minas Gerais,Outros,P.2,1
+1096,2021-04,Abr 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.7 (Alfa),1
+1097,2021-04,Abr 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),110
+1098,2021-04,Abr 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,1
+1099,2021-04,Abr 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),17
+1100,2021-04,Abr 2021,Sudeste,Rio de Janeiro,Outros,Outras,3
+1101,2021-04,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),782
+1102,2021-04,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.2,7
+1103,2021-04,Abr 2021,Sudeste,São Paulo,FIOCRUZ,P.1+P.1.* (Gama),1
+1104,2021-04,Abr 2021,Sudeste,São Paulo,Outros,B.1.1,6
+1105,2021-04,Abr 2021,Sudeste,São Paulo,Outros,B.1.1.28,12
+1106,2021-04,Abr 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),102
+1107,2021-04,Abr 2021,Sudeste,São Paulo,Outros,Outras,70
+1108,2021-04,Abr 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),2357
+1109,2021-04,Abr 2021,Sudeste,São Paulo,Outros,P.2,19
+1110,2021-04,Abr 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1+P.1.* (Gama),38
+1111,2021-04,Abr 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.2,1
+1112,2021-04,Abr 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,2
+1113,2021-04,Abr 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),66
+1114,2021-04,Abr 2021,Sul,Rio Grande do Sul,Outros,P.2,4
+1115,2021-04,Abr 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.7 (Alfa),1
+1116,2021-04,Abr 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),92
+1117,2021-04,Abr 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),7
+1118,2021-05,Mai 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),61
+1119,2021-05,Mai 2021,Centro-oeste,Goiás,FIOCRUZ,P.1+P.1.* (Gama),7
+1120,2021-05,Mai 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),2
+1121,2021-05,Mai 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),243
+1122,2021-05,Mai 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),39
+1123,2021-05,Mai 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),60
+1124,2021-05,Mai 2021,Nordeste,Alagoas,Outros,P.1+P.1.* (Gama),2
+1125,2021-05,Mai 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),11
+1126,2021-05,Mai 2021,Nordeste,Bahia,Outros,B.1.1,1
+1127,2021-05,Mai 2021,Nordeste,Bahia,Outros,B.1.1.7 (Alfa),14
+1128,2021-05,Mai 2021,Nordeste,Bahia,Outros,P.1+P.1.* (Gama),109
+1129,2021-05,Mai 2021,Nordeste,Bahia,Outros,P.2,1
+1130,2021-05,Mai 2021,Nordeste,Ceará,FIOCRUZ,Outras,1
+1131,2021-05,Mai 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),116
+1132,2021-05,Mai 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),16
+1133,2021-05,Mai 2021,Nordeste,Maranhão,FIOCRUZ,B.1.617.2+AY.* (Delta),5
+1134,2021-05,Mai 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),43
+1135,2021-05,Mai 2021,Nordeste,Maranhão,Outros,P.1+P.1.* (Gama),5
+1136,2021-05,Mai 2021,Nordeste,Paraíba,FIOCRUZ,P.1+P.1.* (Gama),81
+1137,2021-05,Mai 2021,Nordeste,Paraíba,Outros,P.1+P.1.* (Gama),5
+1138,2021-05,Mai 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.1.7 (Alfa),2
+1139,2021-05,Mai 2021,Nordeste,Pernambuco,FIOCRUZ,P.1+P.1.* (Gama),137
+1140,2021-05,Mai 2021,Nordeste,Pernambuco,Outros,P.1+P.1.* (Gama),13
+1141,2021-05,Mai 2021,Nordeste,Piauí,FIOCRUZ,P.1+P.1.* (Gama),33
+1142,2021-05,Mai 2021,Nordeste,Piauí,Outros,P.1+P.1.* (Gama),15
+1143,2021-05,Mai 2021,Nordeste,Sergipe,FIOCRUZ,Outras,1
+1144,2021-05,Mai 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),15
+1145,2021-05,Mai 2021,Nordeste,Sergipe,Outros,P.1+P.1.* (Gama),1
+1146,2021-05,Mai 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),1
+1147,2021-05,Mai 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),285
+1148,2021-05,Mai 2021,Norte,Amazonas,Outros,B.1.1,1
+1149,2021-05,Mai 2021,Norte,Amazonas,Outros,P.1+P.1.* (Gama),3
+1150,2021-05,Mai 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),19
+1151,2021-05,Mai 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),41
+1152,2021-05,Mai 2021,Norte,Roraima,FIOCRUZ,P.1+P.1.* (Gama),1
+1153,2021-05,Mai 2021,Norte,Tocantins,FIOCRUZ,P.1+P.1.* (Gama),7
+1154,2021-05,Mai 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),45
+1155,2021-05,Mai 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),8
+1156,2021-05,Mai 2021,Sudeste,Espírito Santo,Outros,P.1+P.1.* (Gama),1
+1157,2021-05,Mai 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),3
+1158,2021-05,Mai 2021,Sudeste,Minas Gerais,Outros,B.1.617.2+AY.* (Delta),1
+1159,2021-05,Mai 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),11
+1160,2021-05,Mai 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),79
+1161,2021-05,Mai 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),19
+1162,2021-05,Mai 2021,Sudeste,Rio de Janeiro,Outros,Outras,4
+1163,2021-05,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),1106
+1164,2021-05,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.2,2
+1165,2021-05,Mai 2021,Sudeste,São Paulo,FIOCRUZ,B.1.1.7 (Alfa),15
+1166,2021-05,Mai 2021,Sudeste,São Paulo,FIOCRUZ,P.1+P.1.* (Gama),364
+1167,2021-05,Mai 2021,Sudeste,São Paulo,Outros,B.1.1,1
+1168,2021-05,Mai 2021,Sudeste,São Paulo,Outros,B.1.1.28,1
+1169,2021-05,Mai 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),82
+1170,2021-05,Mai 2021,Sudeste,São Paulo,Outros,B.1.617.2+AY.* (Delta),1
+1171,2021-05,Mai 2021,Sudeste,São Paulo,Outros,Outras,67
+1172,2021-05,Mai 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),2671
+1173,2021-05,Mai 2021,Sudeste,São Paulo,Outros,P.2,1
+1174,2021-05,Mai 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.7 (Alfa),1
+1175,2021-05,Mai 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1+P.1.* (Gama),96
+1176,2021-05,Mai 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,24
+1177,2021-05,Mai 2021,Sul,Rio Grande do Sul,Outros,Outras,1
+1178,2021-05,Mai 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),53
+1179,2021-05,Mai 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.7 (Alfa),1
+1180,2021-05,Mai 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),65
+1181,2021-05,Mai 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),6
+1182,2021-06,Jun 2021,Centro-oeste,Distrito Federal,Outros,B.1.1.7 (Alfa),3
+1183,2021-06,Jun 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),86
+1184,2021-06,Jun 2021,Centro-oeste,Goiás,FIOCRUZ,P.1+P.1.* (Gama),11
+1185,2021-06,Jun 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),1
+1186,2021-06,Jun 2021,Centro-oeste,Goiás,Outros,B.1.617.2+AY.* (Delta),2
+1187,2021-06,Jun 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),562
+1188,2021-06,Jun 2021,Centro-oeste,Mato Grosso,Outros,Outras,1
+1189,2021-06,Jun 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),29
+1190,2021-06,Jun 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),87
+1191,2021-06,Jun 2021,Nordeste,Alagoas,Outros,P.1+P.1.* (Gama),6
+1192,2021-06,Jun 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),12
+1193,2021-06,Jun 2021,Nordeste,Bahia,Outros,B.1.1,1
+1194,2021-06,Jun 2021,Nordeste,Bahia,Outros,B.1.1.7 (Alfa),23
+1195,2021-06,Jun 2021,Nordeste,Bahia,Outros,Outras,6
+1196,2021-06,Jun 2021,Nordeste,Bahia,Outros,P.1+P.1.* (Gama),135
+1197,2021-06,Jun 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),386
+1198,2021-06,Jun 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),12
+1199,2021-06,Jun 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),12
+1200,2021-06,Jun 2021,Nordeste,Maranhão,Outros,Outras,1
+1201,2021-06,Jun 2021,Nordeste,Maranhão,Outros,P.1+P.1.* (Gama),19
+1202,2021-06,Jun 2021,Nordeste,Paraíba,FIOCRUZ,B.1.617.2+AY.* (Delta),1
+1203,2021-06,Jun 2021,Nordeste,Paraíba,FIOCRUZ,P.1+P.1.* (Gama),22
+1204,2021-06,Jun 2021,Nordeste,Paraíba,Outros,P.1+P.1.* (Gama),7
+1205,2021-06,Jun 2021,Nordeste,Pernambuco,FIOCRUZ,P.1+P.1.* (Gama),85
+1206,2021-06,Jun 2021,Nordeste,Pernambuco,Outros,Outras,2
+1207,2021-06,Jun 2021,Nordeste,Pernambuco,Outros,P.1+P.1.* (Gama),98
+1208,2021-06,Jun 2021,Nordeste,Piauí,FIOCRUZ,P.1+P.1.* (Gama),13
+1209,2021-06,Jun 2021,Nordeste,Piauí,Outros,P.1+P.1.* (Gama),10
+1210,2021-06,Jun 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),9
+1211,2021-06,Jun 2021,Nordeste,Sergipe,Outros,P.1+P.1.* (Gama),5
+1212,2021-06,Jun 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),1
+1213,2021-06,Jun 2021,Norte,Amapá,FIOCRUZ,P.1+P.1.* (Gama),35
+1214,2021-06,Jun 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),322
+1215,2021-06,Jun 2021,Norte,Amazonas,Outros,P.1+P.1.* (Gama),1
+1216,2021-06,Jun 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),68
+1217,2021-06,Jun 2021,Norte,Pará,Outros,B.1.1,1
+1218,2021-06,Jun 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),17
+1219,2021-06,Jun 2021,Norte,Rondônia,Outros,P.1+P.1.* (Gama),12
+1220,2021-06,Jun 2021,Norte,Tocantins,FIOCRUZ,P.1+P.1.* (Gama),20
+1221,2021-06,Jun 2021,Norte,Tocantins,Outros,B.1.617.2+AY.* (Delta),1
+1222,2021-06,Jun 2021,Norte,Tocantins,Outros,Outras,1
+1223,2021-06,Jun 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),14
+1224,2021-06,Jun 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),41
+1225,2021-06,Jun 2021,Sudeste,Espírito Santo,Outros,P.1+P.1.* (Gama),1
+1226,2021-06,Jun 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1+P.1.* (Gama),16
+1227,2021-06,Jun 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),21
+1228,2021-06,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1,1
+1229,2021-06,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.617.2+AY.* (Delta),20
+1230,2021-06,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),199
+1231,2021-06,Jun 2021,Sudeste,Rio de Janeiro,Outros,B.1.1,1
+1232,2021-06,Jun 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),5
+1233,2021-06,Jun 2021,Sudeste,Rio de Janeiro,Outros,B.1.617.2+AY.* (Delta),63
+1234,2021-06,Jun 2021,Sudeste,Rio de Janeiro,Outros,Outras,8
+1235,2021-06,Jun 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),951
+1236,2021-06,Jun 2021,Sudeste,Rio de Janeiro,Outros,P.2,1
+1237,2021-06,Jun 2021,Sudeste,São Paulo,FIOCRUZ,B.1.1.7 (Alfa),8
+1238,2021-06,Jun 2021,Sudeste,São Paulo,FIOCRUZ,P.1+P.1.* (Gama),213
+1239,2021-06,Jun 2021,Sudeste,São Paulo,Outros,B.1.1,2
+1240,2021-06,Jun 2021,Sudeste,São Paulo,Outros,B.1.1.28,1
+1241,2021-06,Jun 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),19
+1242,2021-06,Jun 2021,Sudeste,São Paulo,Outros,B.1.617.2+AY.* (Delta),8
+1243,2021-06,Jun 2021,Sudeste,São Paulo,Outros,Outras,33
+1244,2021-06,Jun 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),1386
+1245,2021-06,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.7 (Alfa),1
+1246,2021-06,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,Outras,2
+1247,2021-06,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1+P.1.* (Gama),172
+1248,2021-06,Jun 2021,Sul,Rio Grande do Sul,Outros,B.1.617.2+AY.* (Delta),4
+1249,2021-06,Jun 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),41
+1250,2021-06,Jun 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.7 (Alfa),1
+1251,2021-06,Jun 2021,Sul,Santa Catarina,FIOCRUZ,B.1.617.2+AY.* (Delta),1
+1252,2021-06,Jun 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),87
+1253,2021-06,Jun 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),28
+1254,2021-07,Jul 2021,Centro-oeste,Distrito Federal,Outros,B.1.617.2+AY.* (Delta),4
+1255,2021-07,Jul 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),67
+1256,2021-07,Jul 2021,Centro-oeste,Goiás,FIOCRUZ,B.1.617.2+AY.* (Delta),7
+1257,2021-07,Jul 2021,Centro-oeste,Goiás,FIOCRUZ,P.1+P.1.* (Gama),104
+1258,2021-07,Jul 2021,Centro-oeste,Goiás,Outros,B.1.617.2+AY.* (Delta),7
+1259,2021-07,Jul 2021,Centro-oeste,Goiás,Outros,Outras,1
+1260,2021-07,Jul 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),251
+1261,2021-07,Jul 2021,Centro-oeste,Mato Grosso,Outros,B.1.617.2+AY.* (Delta),10
+1262,2021-07,Jul 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),26
+1263,2021-07,Jul 2021,Nordeste,Alagoas,FIOCRUZ,B.1.617.2+AY.* (Delta),3
+1264,2021-07,Jul 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),137
+1265,2021-07,Jul 2021,Nordeste,Alagoas,Outros,P.1+P.1.* (Gama),1
+1266,2021-07,Jul 2021,Nordeste,Alagoas,Outros,P.2,1
+1267,2021-07,Jul 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),12
+1268,2021-07,Jul 2021,Nordeste,Bahia,Outros,B.1.1.7 (Alfa),1
+1269,2021-07,Jul 2021,Nordeste,Bahia,Outros,B.1.617.2+AY.* (Delta),4
+1270,2021-07,Jul 2021,Nordeste,Bahia,Outros,Outras,1
+1271,2021-07,Jul 2021,Nordeste,Bahia,Outros,P.1+P.1.* (Gama),121
+1272,2021-07,Jul 2021,Nordeste,Ceará,FIOCRUZ,B.1.617.2+AY.* (Delta),17
+1273,2021-07,Jul 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),116
+1274,2021-07,Jul 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),3
+1275,2021-07,Jul 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),25
+1276,2021-07,Jul 2021,Nordeste,Maranhão,Outros,P.1+P.1.* (Gama),7
+1277,2021-07,Jul 2021,Nordeste,Paraíba,FIOCRUZ,B.1.617.2+AY.* (Delta),4
+1278,2021-07,Jul 2021,Nordeste,Paraíba,FIOCRUZ,P.1+P.1.* (Gama),21
+1279,2021-07,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.617.2+AY.* (Delta),8
+1280,2021-07,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,P.1+P.1.* (Gama),521
+1281,2021-07,Jul 2021,Nordeste,Pernambuco,Outros,P.1+P.1.* (Gama),3
+1282,2021-07,Jul 2021,Nordeste,Piauí,FIOCRUZ,P.1+P.1.* (Gama),1
+1283,2021-07,Jul 2021,Nordeste,Sergipe,FIOCRUZ,B.1.617.2+AY.* (Delta),1
+1284,2021-07,Jul 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),40
+1285,2021-07,Jul 2021,Norte,Amapá,FIOCRUZ,P.1+P.1.* (Gama),67
+1286,2021-07,Jul 2021,Norte,Amazonas,FIOCRUZ,B.1.617.2+AY.* (Delta),2
+1287,2021-07,Jul 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),184
+1288,2021-07,Jul 2021,Norte,Amazonas,Outros,P.1+P.1.* (Gama),1
+1289,2021-07,Jul 2021,Norte,Pará,FIOCRUZ,B.1.617.2+AY.* (Delta),1
+1290,2021-07,Jul 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),37
+1291,2021-07,Jul 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),21
+1292,2021-07,Jul 2021,Norte,Rondônia,FIOCRUZ,P.1+P.1.* (Gama),1
+1293,2021-07,Jul 2021,Norte,Roraima,FIOCRUZ,P.1+P.1.* (Gama),1
+1294,2021-07,Jul 2021,Norte,Tocantins,FIOCRUZ,B.1.617.2+AY.* (Delta),1
+1295,2021-07,Jul 2021,Norte,Tocantins,FIOCRUZ,P.1+P.1.* (Gama),22
+1296,2021-07,Jul 2021,Norte,Tocantins,Outros,Outras,1
+1297,2021-07,Jul 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),6
+1298,2021-07,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.7 (Alfa),2
+1299,2021-07,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.617.2+AY.* (Delta),20
+1300,2021-07,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),151
+1301,2021-07,Jul 2021,Sudeste,Espírito Santo,Outros,B.1.617.2+AY.* (Delta),1
+1302,2021-07,Jul 2021,Sudeste,Espírito Santo,Outros,P.1+P.1.* (Gama),3
+1303,2021-07,Jul 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.617.2+AY.* (Delta),24
+1304,2021-07,Jul 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),12
+1305,2021-07,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.617.2+AY.* (Delta),91
+1306,2021-07,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),92
+1307,2021-07,Jul 2021,Sudeste,Rio de Janeiro,Outros,B.1.1,3
+1308,2021-07,Jul 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),3
+1309,2021-07,Jul 2021,Sudeste,Rio de Janeiro,Outros,B.1.617.2+AY.* (Delta),380
+1310,2021-07,Jul 2021,Sudeste,Rio de Janeiro,Outros,Outras,13
+1311,2021-07,Jul 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),405
+1312,2021-07,Jul 2021,Sudeste,São Paulo,FIOCRUZ,P.1+P.1.* (Gama),1
+1313,2021-07,Jul 2021,Sudeste,São Paulo,Outros,B.1.1,1
+1314,2021-07,Jul 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),5
+1315,2021-07,Jul 2021,Sudeste,São Paulo,Outros,B.1.617.2+AY.* (Delta),262
+1316,2021-07,Jul 2021,Sudeste,São Paulo,Outros,Outras,13
+1317,2021-07,Jul 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),972
+1318,2021-07,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.617.2+AY.* (Delta),60
+1319,2021-07,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1+P.1.* (Gama),78
+1320,2021-07,Jul 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,1
+1321,2021-07,Jul 2021,Sul,Rio Grande do Sul,Outros,B.1.617.2+AY.* (Delta),23
+1322,2021-07,Jul 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),84
+1323,2021-07,Jul 2021,Sul,Santa Catarina,FIOCRUZ,B.1.617.2+AY.* (Delta),67
+1324,2021-07,Jul 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),94
+1325,2021-07,Jul 2021,Sul,Santa Catarina,Outros,B.1.617.2+AY.* (Delta),1
+1326,2021-07,Jul 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),21
+1327,2021-08,Ago 2021,Centro-oeste,Distrito Federal,Outros,B.1.617.2+AY.* (Delta),29
+1328,2021-08,Ago 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),40
+1329,2021-08,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,B.1.617.2+AY.* (Delta),24
+1330,2021-08,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,P.1+P.1.* (Gama),59
+1331,2021-08,Ago 2021,Centro-oeste,Goiás,Outros,B.1.617.2+AY.* (Delta),79
+1332,2021-08,Ago 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),391
+1333,2021-08,Ago 2021,Centro-oeste,Mato Grosso,Outros,B.1.617.2+AY.* (Delta),5
+1334,2021-08,Ago 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),13
+1335,2021-08,Ago 2021,Nordeste,Alagoas,FIOCRUZ,B.1.617.2+AY.* (Delta),3
+1336,2021-08,Ago 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),11
+1337,2021-08,Ago 2021,Nordeste,Alagoas,Outros,P.1+P.1.* (Gama),1
+1338,2021-08,Ago 2021,Nordeste,Bahia,FIOCRUZ,B.1.617.2+AY.* (Delta),1
+1339,2021-08,Ago 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),7
+1340,2021-08,Ago 2021,Nordeste,Bahia,Outros,B.1.617.2+AY.* (Delta),39
+1341,2021-08,Ago 2021,Nordeste,Bahia,Outros,Outras,2
+1342,2021-08,Ago 2021,Nordeste,Bahia,Outros,P.1+P.1.* (Gama),66
+1343,2021-08,Ago 2021,Nordeste,Ceará,FIOCRUZ,B.1.617.2+AY.* (Delta),3
+1344,2021-08,Ago 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),1
+1345,2021-08,Ago 2021,Nordeste,Ceará,Outros,B.1.617.2+AY.* (Delta),1
+1346,2021-08,Ago 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),1
+1347,2021-08,Ago 2021,Nordeste,Maranhão,FIOCRUZ,B.1.617.2+AY.* (Delta),2
+1348,2021-08,Ago 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),15
+1349,2021-08,Ago 2021,Nordeste,Maranhão,Outros,P.1+P.1.* (Gama),1
+1350,2021-08,Ago 2021,Nordeste,Paraíba,FIOCRUZ,B.1.617.2+AY.* (Delta),236
+1351,2021-08,Ago 2021,Nordeste,Paraíba,FIOCRUZ,P.1+P.1.* (Gama),42
+1352,2021-08,Ago 2021,Nordeste,Paraíba,Outros,B.1.617.2+AY.* (Delta),4
+1353,2021-08,Ago 2021,Nordeste,Paraíba,Outros,P.1+P.1.* (Gama),4
+1354,2021-08,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.617.2+AY.* (Delta),25
+1355,2021-08,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,P.1+P.1.* (Gama),95
+1356,2021-08,Ago 2021,Nordeste,Pernambuco,Outros,B.1.617.2+AY.* (Delta),42
+1357,2021-08,Ago 2021,Nordeste,Pernambuco,Outros,P.1+P.1.* (Gama),59
+1358,2021-08,Ago 2021,Nordeste,Piauí,Outros,B.1.617.2+AY.* (Delta),3
+1359,2021-08,Ago 2021,Nordeste,Piauí,Outros,P.1+P.1.* (Gama),13
+1360,2021-08,Ago 2021,Nordeste,Sergipe,FIOCRUZ,B.1.617.2+AY.* (Delta),2
+1361,2021-08,Ago 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),29
+1362,2021-08,Ago 2021,Norte,Amapá,FIOCRUZ,B.1.617.2+AY.* (Delta),7
+1363,2021-08,Ago 2021,Norte,Amapá,FIOCRUZ,P.1+P.1.* (Gama),53
+1364,2021-08,Ago 2021,Norte,Amapá,Outros,P.1+P.1.* (Gama),1
+1365,2021-08,Ago 2021,Norte,Amazonas,FIOCRUZ,B.1.617.2+AY.* (Delta),29
+1366,2021-08,Ago 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),179
+1367,2021-08,Ago 2021,Norte,Pará,FIOCRUZ,B.1.617.2+AY.* (Delta),11
+1368,2021-08,Ago 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),72
+1369,2021-08,Ago 2021,Norte,Tocantins,FIOCRUZ,B.1.617.2+AY.* (Delta),4
+1370,2021-08,Ago 2021,Norte,Tocantins,Outros,B.1.617.2+AY.* (Delta),1
+1371,2021-08,Ago 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),2
+1372,2021-08,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.617.2+AY.* (Delta),180
+1373,2021-08,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),46
+1374,2021-08,Ago 2021,Sudeste,Espírito Santo,Outros,B.1.617.2+AY.* (Delta),1
+1375,2021-08,Ago 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.617.2+AY.* (Delta),16
+1376,2021-08,Ago 2021,Sudeste,Minas Gerais,Outros,B.1.617.2+AY.* (Delta),33
+1377,2021-08,Ago 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),72
+1378,2021-08,Ago 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.617.2+AY.* (Delta),208
+1379,2021-08,Ago 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),17
+1380,2021-08,Ago 2021,Sudeste,Rio de Janeiro,Outros,B.1.617.2+AY.* (Delta),330
+1381,2021-08,Ago 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),40
+1382,2021-08,Ago 2021,Sudeste,São Paulo,FIOCRUZ,B.1.617.2+AY.* (Delta),1
+1383,2021-08,Ago 2021,Sudeste,São Paulo,Outros,B.1.1,1
+1384,2021-08,Ago 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),4
+1385,2021-08,Ago 2021,Sudeste,São Paulo,Outros,B.1.617.2+AY.* (Delta),3106
+1386,2021-08,Ago 2021,Sudeste,São Paulo,Outros,Outras,16
+1387,2021-08,Ago 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),400
+1388,2021-08,Ago 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.617.2+AY.* (Delta),48
+1389,2021-08,Ago 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1+P.1.* (Gama),1
+1390,2021-08,Ago 2021,Sul,Rio Grande do Sul,Outros,B.1.617.2+AY.* (Delta),64
+1391,2021-08,Ago 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),23
+1392,2021-08,Ago 2021,Sul,Santa Catarina,FIOCRUZ,B.1.617.2+AY.* (Delta),118
+1393,2021-08,Ago 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),28
+1394,2021-08,Ago 2021,Sul,Santa Catarina,Outros,B.1.617.2+AY.* (Delta),5
+1395,2021-08,Ago 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),23
+1396,2021-09,Set 2021,Centro-oeste,Goiás,Outros,B.1.617.2+AY.* (Delta),187
+1397,2021-09,Set 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),71
+1398,2021-09,Set 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),1
+1399,2021-09,Set 2021,Nordeste,Bahia,FIOCRUZ,B.1.617.2+AY.* (Delta),3
+1400,2021-09,Set 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),2
+1401,2021-09,Set 2021,Nordeste,Bahia,Outros,B.1.617.2+AY.* (Delta),32
+1402,2021-09,Set 2021,Nordeste,Paraíba,FIOCRUZ,B.1.617.2+AY.* (Delta),19
+1403,2021-09,Set 2021,Nordeste,Paraíba,FIOCRUZ,P.1+P.1.* (Gama),1
+1404,2021-09,Set 2021,Nordeste,Sergipe,FIOCRUZ,B.1.617.2+AY.* (Delta),1
+1405,2021-09,Set 2021,Norte,Amazonas,FIOCRUZ,B.1.617.2+AY.* (Delta),51
+1406,2021-09,Set 2021,Norte,Amazonas,FIOCRUZ,Outras,1
+1407,2021-09,Set 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),89
+1408,2021-09,Set 2021,Norte,Pará,FIOCRUZ,B.1.617.2+AY.* (Delta),11
+1409,2021-09,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.617.2+AY.* (Delta),111
+1410,2021-09,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),7
+1411,2021-09,Set 2021,Sudeste,Minas Gerais,Outros,B.1.617.2+AY.* (Delta),35
+1412,2021-09,Set 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),16
+1413,2021-09,Set 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.617.2+AY.* (Delta),114
+1414,2021-09,Set 2021,Sudeste,São Paulo,Outros,B.1.1,1
+1415,2021-09,Set 2021,Sudeste,São Paulo,Outros,B.1.1.28,3
+1416,2021-09,Set 2021,Sudeste,São Paulo,Outros,B.1.617.2+AY.* (Delta),2538
+1417,2021-09,Set 2021,Sudeste,São Paulo,Outros,Outras,14
+1418,2021-09,Set 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),64
+1419,2021-09,Set 2021,Sul,Rio Grande do Sul,Outros,B.1.617.2+AY.* (Delta),6
+1420,2021-09,Set 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),7
+1421,2021-09,Set 2021,Sul,Santa Catarina,FIOCRUZ,B.1.617.2+AY.* (Delta),44
+1422,2021-09,Set 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),7
