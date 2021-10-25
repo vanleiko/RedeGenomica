@@ -605,7 +605,7 @@
 1068,2021-01-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,3
 1069,2021-01-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,N.9,Não VOC/VOI,Não VOC/VOI,2
 1070,2021-01-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,2
-1071,2021-01-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1071,2021-01-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1072,2021-01-01,Jan 2021,Sudeste,Rio de Janeiro,Outros,P.2,P.2,Não VOC/VOI,78
 1073,2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1,Não VOC/VOI,Não VOC/VOI,1
 1074,2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.277,Não VOC/VOI,Não VOC/VOI,1
@@ -623,7 +623,7 @@
 1086,2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,N.9,Não VOC/VOI,Não VOC/VOI,10
 1087,2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,45
 1088,2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1089,2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,5
+1089,2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,5
 1090,2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.2,P.2,Não VOC/VOI,133
 1091,2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.7,Não VOC/VOI,Não VOC/VOI,4
 1092,2021-01-01,Jan 2021,Sul,Paraná,FIOCRUZ,B.1.1.33,Não VOC/VOI,Não VOC/VOI,1
@@ -667,7 +667,7 @@
 1130,2021-02-01,Fev 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,20
 1131,2021-02-01,Fev 2021,Centro-oeste,Goiás,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,124
 1132,2021-02-01,Fev 2021,Centro-oeste,Goiás,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1133,2021-02-01,Fev 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1133,2021-02-01,Fev 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1134,2021-02-01,Fev 2021,Centro-oeste,Goiás,Outros,P.2,P.2,Não VOC/VOI,45
 1135,2021-02-01,Fev 2021,Centro-oeste,Mato Grosso,Outros,B.1.1,Não VOC/VOI,Não VOC/VOI,1
 1136,2021-02-01,Fev 2021,Centro-oeste,Mato Grosso,Outros,B.1.1.28,Não VOC/VOI,Não VOC/VOI,1
@@ -680,7 +680,7 @@
 1143,2021-02-01,Fev 2021,Centro-oeste,Mato Grosso do Sul,Outros,B.1.1.28,Não VOC/VOI,Não VOC/VOI,4
 1144,2021-02-01,Fev 2021,Centro-oeste,Mato Grosso do Sul,Outros,B.1.1.448,Não VOC/VOI,Não VOC/VOI,1
 1145,2021-02-01,Fev 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,11
-1146,2021-02-01,Fev 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1146,2021-02-01,Fev 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1147,2021-02-01,Fev 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.2,P.2,Não VOC/VOI,30
 1148,2021-02-01,Fev 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.7,Não VOC/VOI,Não VOC/VOI,2
 1149,2021-02-01,Fev 2021,Nordeste,Alagoas,FIOCRUZ,B.1.1,Não VOC/VOI,Não VOC/VOI,2
@@ -717,7 +717,7 @@
 1180,2021-02-01,Fev 2021,Nordeste,Ceará,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,109
 1181,2021-02-01,Fev 2021,Nordeste,Ceará,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,3
 1182,2021-02-01,Fev 2021,Nordeste,Ceará,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-1183,2021-02-01,Fev 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1183,2021-02-01,Fev 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1184,2021-02-01,Fev 2021,Nordeste,Ceará,FIOCRUZ,P.2,P.2,Não VOC/VOI,45
 1185,2021-02-01,Fev 2021,Nordeste,Ceará,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,8
 1186,2021-02-01,Fev 2021,Nordeste,Ceará,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
@@ -759,7 +759,7 @@
 1222,2021-02-01,Fev 2021,Nordeste,Rio Grande do Norte,Outros,N.9,Não VOC/VOI,Não VOC/VOI,1
 1223,2021-02-01,Fev 2021,Nordeste,Rio Grande do Norte,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,11
 1224,2021-02-01,Fev 2021,Nordeste,Rio Grande do Norte,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-1225,2021-02-01,Fev 2021,Nordeste,Rio Grande do Norte,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1225,2021-02-01,Fev 2021,Nordeste,Rio Grande do Norte,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1226,2021-02-01,Fev 2021,Nordeste,Rio Grande do Norte,Outros,P.2,P.2,Não VOC/VOI,11
 1227,2021-02-01,Fev 2021,Nordeste,Sergipe,FIOCRUZ,B.1.1,Não VOC/VOI,Não VOC/VOI,1
 1228,2021-02-01,Fev 2021,Nordeste,Sergipe,FIOCRUZ,B.1.1.28,Não VOC/VOI,Não VOC/VOI,4
@@ -801,7 +801,7 @@
 1264,2021-02-01,Fev 2021,Sudeste,Espírito Santo,Outros,B.1.1,Não VOC/VOI,Não VOC/VOI,1
 1265,2021-02-01,Fev 2021,Sudeste,Espírito Santo,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,2
 1266,2021-02-01,Fev 2021,Sudeste,Espírito Santo,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
-1267,2021-02-01,Fev 2021,Sudeste,Espírito Santo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1267,2021-02-01,Fev 2021,Sudeste,Espírito Santo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1268,2021-02-01,Fev 2021,Sudeste,Espírito Santo,Outros,P.2,P.2,Não VOC/VOI,7
 1269,2021-02-01,Fev 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.28,Não VOC/VOI,Não VOC/VOI,7
 1270,2021-02-01,Fev 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,3
@@ -812,7 +812,7 @@
 1275,2021-02-01,Fev 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,2
 1276,2021-02-01,Fev 2021,Sudeste,Minas Gerais,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,12
 1277,2021-02-01,Fev 2021,Sudeste,Minas Gerais,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1278,2021-02-01,Fev 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,3
+1278,2021-02-01,Fev 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,3
 1279,2021-02-01,Fev 2021,Sudeste,Minas Gerais,Outros,P.2,P.2,Não VOC/VOI,36
 1280,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,Não VOC/VOI,Não VOC/VOI,1
 1281,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.348,Não VOC/VOI,Não VOC/VOI,1
@@ -820,7 +820,7 @@
 1283,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,4
 1284,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,N.10,Não VOC/VOI,Não VOC/VOI,1
 1285,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,91
-1286,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1286,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1287,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,P.2,Não VOC/VOI,37
 1288,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.6,Não VOC/VOI,Não VOC/VOI,1
 1289,2021-02-01,Fev 2021,Sudeste,Rio de Janeiro,Outros,B.1,Não VOC/VOI,Não VOC/VOI,1
@@ -841,7 +841,7 @@
 1304,2021-02-01,Fev 2021,Sudeste,São Paulo,Outros,N.9,Não VOC/VOI,Não VOC/VOI,6
 1305,2021-02-01,Fev 2021,Sudeste,São Paulo,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,191
 1306,2021-02-01,Fev 2021,Sudeste,São Paulo,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,13
-1307,2021-02-01,Fev 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,21
+1307,2021-02-01,Fev 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,21
 1308,2021-02-01,Fev 2021,Sudeste,São Paulo,Outros,P.2,P.2,Não VOC/VOI,156
 1309,2021-02-01,Fev 2021,Sudeste,São Paulo,Outros,P.4,Não VOC/VOI,Não VOC/VOI,4
 1310,2021-02-01,Fev 2021,Sudeste,São Paulo,Outros,P.6,Não VOC/VOI,Não VOC/VOI,2
@@ -855,7 +855,7 @@
 1318,2021-02-01,Fev 2021,Sul,Paraná,Outros,C.36,Não VOC/VOI,Não VOC/VOI,1
 1319,2021-02-01,Fev 2021,Sul,Paraná,Outros,N.9,Não VOC/VOI,Não VOC/VOI,1
 1320,2021-02-01,Fev 2021,Sul,Paraná,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,12
-1321,2021-02-01,Fev 2021,Sul,Paraná,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1321,2021-02-01,Fev 2021,Sul,Paraná,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1322,2021-02-01,Fev 2021,Sul,Paraná,Outros,P.2,P.2,Não VOC/VOI,13
 1323,2021-02-01,Fev 2021,Sul,Paraná,Outros,P.7,Não VOC/VOI,Não VOC/VOI,1
 1324,2021-02-01,Fev 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,Não VOC/VOI,Não VOC/VOI,1
@@ -869,7 +869,7 @@
 1332,2021-02-01,Fev 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,Não VOC/VOI,Não VOC/VOI,4
 1333,2021-02-01,Fev 2021,Sul,Rio Grande do Sul,Outros,B.1.1.332,Não VOC/VOI,Não VOC/VOI,1
 1334,2021-02-01,Fev 2021,Sul,Rio Grande do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,74
-1335,2021-02-01,Fev 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,5
+1335,2021-02-01,Fev 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,5
 1336,2021-02-01,Fev 2021,Sul,Rio Grande do Sul,Outros,P.2,P.2,Não VOC/VOI,22
 1337,2021-02-01,Fev 2021,Sul,Rio Grande do Sul,Outros,P.7,Não VOC/VOI,Não VOC/VOI,5
 1338,2021-02-01,Fev 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.28,Não VOC/VOI,Não VOC/VOI,1
@@ -885,7 +885,7 @@
 1348,2021-03-01,Mar 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,10
 1349,2021-03-01,Mar 2021,Centro-oeste,Goiás,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,198
 1350,2021-03-01,Mar 2021,Centro-oeste,Goiás,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,4
-1351,2021-03-01,Mar 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,20
+1351,2021-03-01,Mar 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,20
 1352,2021-03-01,Mar 2021,Centro-oeste,Goiás,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1353,2021-03-01,Mar 2021,Centro-oeste,Goiás,Outros,P.2,P.2,Não VOC/VOI,9
 1354,2021-03-01,Mar 2021,Centro-oeste,Mato Grosso,Outros,B.1.1.161,Não VOC/VOI,Não VOC/VOI,2
@@ -908,7 +908,7 @@
 1371,2021-03-01,Mar 2021,Nordeste,Bahia,Outros,P.2,P.2,Não VOC/VOI,7
 1372,2021-03-01,Mar 2021,Nordeste,Ceará,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,120
 1373,2021-03-01,Mar 2021,Nordeste,Ceará,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,10
-1374,2021-03-01,Mar 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1374,2021-03-01,Mar 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1375,2021-03-01,Mar 2021,Nordeste,Ceará,FIOCRUZ,P.2,P.2,Não VOC/VOI,2
 1376,2021-03-01,Mar 2021,Nordeste,Ceará,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,5
 1377,2021-03-01,Mar 2021,Nordeste,Maranhão,FIOCRUZ,N.10,Não VOC/VOI,Não VOC/VOI,1
@@ -950,32 +950,32 @@
 1413,2021-03-01,Mar 2021,Norte,Tocantins,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1414,2021-03-01,Mar 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,8
 1415,2021-03-01,Mar 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,6
-1416,2021-03-01,Mar 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1416,2021-03-01,Mar 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1417,2021-03-01,Mar 2021,Sudeste,Espírito Santo,FIOCRUZ,P.2,P.2,Não VOC/VOI,2
 1418,2021-03-01,Mar 2021,Sudeste,Espírito Santo,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,2
 1419,2021-03-01,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.33,Não VOC/VOI,Não VOC/VOI,1
 1420,2021-03-01,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1421,2021-03-01,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,40
-1422,2021-03-01,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1422,2021-03-01,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1423,2021-03-01,Mar 2021,Sudeste,Minas Gerais,FIOCRUZ,P.2,P.2,Não VOC/VOI,7
 1424,2021-03-01,Mar 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,18
 1425,2021-03-01,Mar 2021,Sudeste,Minas Gerais,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,22
 1426,2021-03-01,Mar 2021,Sudeste,Minas Gerais,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,4
-1427,2021-03-01,Mar 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1427,2021-03-01,Mar 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1428,2021-03-01,Mar 2021,Sudeste,Minas Gerais,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,4
 1429,2021-03-01,Mar 2021,Sudeste,Minas Gerais,Outros,P.2,P.2,Não VOC/VOI,7
 1430,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.28,Não VOC/VOI,Não VOC/VOI,1
 1431,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,5
 1432,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,124
 1433,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-1434,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+1434,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 1435,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,P.2,Não VOC/VOI,3
 1436,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,7
 1437,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,Outros,N.9,Não VOC/VOI,Não VOC/VOI,1
 1438,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,255
 1439,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,16
 1440,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,2
-1441,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,6
+1441,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,6
 1442,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,Outros,P.1.9 (Gama),P.1.* (Gama),VOC/VOI,1
 1443,2021-03-01,Mar 2021,Sudeste,Rio de Janeiro,Outros,P.2,P.2,Não VOC/VOI,10
 1444,2021-03-01,Mar 2021,Sudeste,São Paulo,FIOCRUZ,B.1.1.28,Não VOC/VOI,Não VOC/VOI,2
@@ -995,7 +995,7 @@
 1458,2021-03-01,Mar 2021,Sudeste,São Paulo,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1017
 1459,2021-03-01,Mar 2021,Sudeste,São Paulo,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,62
 1460,2021-03-01,Mar 2021,Sudeste,São Paulo,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,1
-1461,2021-03-01,Mar 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,441
+1461,2021-03-01,Mar 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,441
 1462,2021-03-01,Mar 2021,Sudeste,São Paulo,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 1463,2021-03-01,Mar 2021,Sudeste,São Paulo,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,4
 1464,2021-03-01,Mar 2021,Sudeste,São Paulo,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,3
@@ -1009,7 +1009,7 @@
 1472,2021-03-01,Mar 2021,Sul,Paraná,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1473,2021-03-01,Mar 2021,Sul,Paraná,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,93
 1474,2021-03-01,Mar 2021,Sul,Paraná,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-1475,2021-03-01,Mar 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1475,2021-03-01,Mar 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1476,2021-03-01,Mar 2021,Sul,Paraná,FIOCRUZ,P.1.9 (Gama),P.1.* (Gama),VOC/VOI,1
 1477,2021-03-01,Mar 2021,Sul,Paraná,FIOCRUZ,P.2,P.2,Não VOC/VOI,16
 1478,2021-03-01,Mar 2021,Sul,Paraná,Outros,B.1.1.28,Não VOC/VOI,Não VOC/VOI,2
@@ -1023,7 +1023,7 @@
 1486,2021-03-01,Mar 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,Não VOC/VOI,Não VOC/VOI,1
 1487,2021-03-01,Mar 2021,Sul,Rio Grande do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,125
 1488,2021-03-01,Mar 2021,Sul,Rio Grande do Sul,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1489,2021-03-01,Mar 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1489,2021-03-01,Mar 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1490,2021-03-01,Mar 2021,Sul,Rio Grande do Sul,Outros,P.2,P.2,Não VOC/VOI,15
 1491,2021-03-01,Mar 2021,Sul,Rio Grande do Sul,Outros,P.7,Não VOC/VOI,Não VOC/VOI,4
 1492,2021-03-01,Mar 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.33,Não VOC/VOI,Não VOC/VOI,1
@@ -1038,7 +1038,7 @@
 1501,2021-04-01,Abr 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,3
 1502,2021-04-01,Abr 2021,Centro-oeste,Goiás,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,179
 1503,2021-04-01,Abr 2021,Centro-oeste,Goiás,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,1
-1504,2021-04-01,Abr 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,12
+1504,2021-04-01,Abr 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,12
 1505,2021-04-01,Abr 2021,Centro-oeste,Goiás,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,6
 1506,2021-04-01,Abr 2021,Centro-oeste,Mato Grosso,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1507,2021-04-01,Abr 2021,Centro-oeste,Mato Grosso,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,9
@@ -1046,12 +1046,12 @@
 1509,2021-04-01,Abr 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,32
 1510,2021-04-01,Abr 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.2,P.2,Não VOC/VOI,4
 1511,2021-04-01,Abr 2021,Nordeste,Alagoas,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,59
-1512,2021-04-01,Abr 2021,Nordeste,Alagoas,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1512,2021-04-01,Abr 2021,Nordeste,Alagoas,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1513,2021-04-01,Abr 2021,Nordeste,Bahia,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,13
 1514,2021-04-01,Abr 2021,Nordeste,Bahia,FIOCRUZ,P.2,P.2,Não VOC/VOI,1
 1515,2021-04-01,Abr 2021,Nordeste,Bahia,Outros,B.1.1.28,Não VOC/VOI,Não VOC/VOI,1
 1516,2021-04-01,Abr 2021,Nordeste,Bahia,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,23
-1517,2021-04-01,Abr 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1517,2021-04-01,Abr 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1518,2021-04-01,Abr 2021,Nordeste,Bahia,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1519,2021-04-01,Abr 2021,Nordeste,Bahia,Outros,P.2,P.2,Não VOC/VOI,1
 1520,2021-04-01,Abr 2021,Nordeste,Ceará,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,58
@@ -1063,7 +1063,7 @@
 1526,2021-04-01,Abr 2021,Nordeste,Paraíba,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1527,2021-04-01,Abr 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,2
 1528,2021-04-01,Abr 2021,Nordeste,Pernambuco,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,117
-1529,2021-04-01,Abr 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1529,2021-04-01,Abr 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1530,2021-04-01,Abr 2021,Nordeste,Pernambuco,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,12
 1531,2021-04-01,Abr 2021,Nordeste,Piauí,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,15
 1532,2021-04-01,Abr 2021,Nordeste,Piauí,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,5
@@ -1071,7 +1071,7 @@
 1534,2021-04-01,Abr 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.2,P.2,Não VOC/VOI,2
 1535,2021-04-01,Abr 2021,Nordeste,Sergipe,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 1536,2021-04-01,Abr 2021,Norte,Acre,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,20
-1537,2021-04-01,Abr 2021,Norte,Acre,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1537,2021-04-01,Abr 2021,Norte,Acre,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1538,2021-04-01,Abr 2021,Norte,Acre,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 1539,2021-04-01,Abr 2021,Norte,Amazonas,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1540,2021-04-01,Abr 2021,Norte,Amazonas,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,115
@@ -1087,7 +1087,7 @@
 1550,2021-04-01,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,6
 1551,2021-04-01,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,25
 1552,2021-04-01,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,3
-1553,2021-04-01,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1553,2021-04-01,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1554,2021-04-01,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,P.2,P.2,Não VOC/VOI,2
 1555,2021-04-01,Abr 2021,Sudeste,Espírito Santo,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 1556,2021-04-01,Abr 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,4
@@ -1096,19 +1096,19 @@
 1559,2021-04-01,Abr 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,6
 1560,2021-04-01,Abr 2021,Sudeste,Minas Gerais,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,68
 1561,2021-04-01,Abr 2021,Sudeste,Minas Gerais,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1562,2021-04-01,Abr 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1562,2021-04-01,Abr 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1563,2021-04-01,Abr 2021,Sudeste,Minas Gerais,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,6
 1564,2021-04-01,Abr 2021,Sudeste,Minas Gerais,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,1
 1565,2021-04-01,Abr 2021,Sudeste,Minas Gerais,Outros,P.2,P.2,Não VOC/VOI,1
 1566,2021-04-01,Abr 2021,Sudeste,Minas Gerais,Outros,P.6,Não VOC/VOI,Não VOC/VOI,1
 1567,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1568,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,109
-1569,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1569,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1570,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,P.2,Não VOC/VOI,1
 1571,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,17
 1572,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,750
 1573,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,12
-1574,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,17
+1574,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,17
 1575,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
 1576,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.1.9 (Gama),P.1.* (Gama),VOC/VOI,1
 1577,2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.2,P.2,Não VOC/VOI,7
@@ -1125,7 +1125,7 @@
 1588,2021-04-01,Abr 2021,Sudeste,São Paulo,Outros,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,1
 1589,2021-04-01,Abr 2021,Sudeste,São Paulo,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,19
 1590,2021-04-01,Abr 2021,Sudeste,São Paulo,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,2
-1591,2021-04-01,Abr 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,801
+1591,2021-04-01,Abr 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,801
 1592,2021-04-01,Abr 2021,Sudeste,São Paulo,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,4
 1593,2021-04-01,Abr 2021,Sudeste,São Paulo,Outros,P.1.16 (Gama),P.1.* (Gama),VOC/VOI,2
 1594,2021-04-01,Abr 2021,Sudeste,São Paulo,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,4
@@ -1140,18 +1140,18 @@
 1603,2021-04-01,Abr 2021,Sul,Paraná,FIOCRUZ,N.10,Não VOC/VOI,Não VOC/VOI,1
 1604,2021-04-01,Abr 2021,Sul,Paraná,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,172
 1605,2021-04-01,Abr 2021,Sul,Paraná,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1606,2021-04-01,Abr 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+1606,2021-04-01,Abr 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 1607,2021-04-01,Abr 2021,Sul,Paraná,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,3
 1608,2021-04-01,Abr 2021,Sul,Paraná,FIOCRUZ,P.2,P.2,Não VOC/VOI,5
 1609,2021-04-01,Abr 2021,Sul,Paraná,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1610,2021-04-01,Abr 2021,Sul,Paraná,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,39
-1611,2021-04-01,Abr 2021,Sul,Paraná,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,6
+1611,2021-04-01,Abr 2021,Sul,Paraná,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,6
 1612,2021-04-01,Abr 2021,Sul,Paraná,Outros,P.2,P.2,Não VOC/VOI,1
 1613,2021-04-01,Abr 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,38
 1614,2021-04-01,Abr 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.2,P.2,Não VOC/VOI,1
 1615,2021-04-01,Abr 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,Não VOC/VOI,Não VOC/VOI,2
 1616,2021-04-01,Abr 2021,Sul,Rio Grande do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,59
-1617,2021-04-01,Abr 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+1617,2021-04-01,Abr 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 1618,2021-04-01,Abr 2021,Sul,Rio Grande do Sul,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,3
 1619,2021-04-01,Abr 2021,Sul,Rio Grande do Sul,Outros,P.2,P.2,Não VOC/VOI,4
 1620,2021-04-01,Abr 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
@@ -1160,30 +1160,30 @@
 1623,2021-04-01,Abr 2021,Sul,Santa Catarina,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,7
 1624,2021-05-01,Mai 2021,Centro-oeste,Distrito Federal,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,54
 1625,2021-05-01,Mai 2021,Centro-oeste,Distrito Federal,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-1626,2021-05-01,Mai 2021,Centro-oeste,Distrito Federal,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1626,2021-05-01,Mai 2021,Centro-oeste,Distrito Federal,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1627,2021-05-01,Mai 2021,Centro-oeste,Distrito Federal,Outros,P.1.9 (Gama),P.1.* (Gama),VOC/VOI,4
 1628,2021-05-01,Mai 2021,Centro-oeste,Goiás,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,4
-1629,2021-05-01,Mai 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1629,2021-05-01,Mai 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1630,2021-05-01,Mai 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
 1631,2021-05-01,Mai 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,2
 1632,2021-05-01,Mai 2021,Centro-oeste,Goiás,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,195
 1633,2021-05-01,Mai 2021,Centro-oeste,Goiás,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,4
-1634,2021-05-01,Mai 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,15
+1634,2021-05-01,Mai 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,15
 1635,2021-05-01,Mai 2021,Centro-oeste,Goiás,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,33
 1636,2021-05-01,Mai 2021,Centro-oeste,Mato Grosso,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,38
 1637,2021-05-01,Mai 2021,Centro-oeste,Mato Grosso,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1638,2021-05-01,Mai 2021,Centro-oeste,Mato Grosso do Sul,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,3
 1639,2021-05-01,Mai 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,62
 1640,2021-05-01,Mai 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1641,2021-05-01,Mai 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,13
+1641,2021-05-01,Mai 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,13
 1642,2021-05-01,Mai 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,4
 1643,2021-05-01,Mai 2021,Nordeste,Alagoas,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,54
-1644,2021-05-01,Mai 2021,Nordeste,Alagoas,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,6
+1644,2021-05-01,Mai 2021,Nordeste,Alagoas,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,6
 1645,2021-05-01,Mai 2021,Nordeste,Alagoas,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,2
 1646,2021-05-01,Mai 2021,Nordeste,Bahia,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,11
 1647,2021-05-01,Mai 2021,Nordeste,Bahia,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,14
 1648,2021-05-01,Mai 2021,Nordeste,Bahia,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,102
-1649,2021-05-01,Mai 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,3
+1649,2021-05-01,Mai 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,3
 1650,2021-05-01,Mai 2021,Nordeste,Bahia,Outros,P.1.16 (Gama),P.1.* (Gama),VOC/VOI,1
 1651,2021-05-01,Mai 2021,Nordeste,Bahia,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,3
 1652,2021-05-01,Mai 2021,Nordeste,Bahia,Outros,P.2,P.2,Não VOC/VOI,1
@@ -1191,7 +1191,7 @@
 1654,2021-05-01,Mai 2021,Nordeste,Ceará,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,105
 1655,2021-05-01,Mai 2021,Nordeste,Ceará,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,4
 1656,2021-05-01,Mai 2021,Nordeste,Ceará,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1657,2021-05-01,Mai 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,5
+1657,2021-05-01,Mai 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,5
 1658,2021-05-01,Mai 2021,Nordeste,Ceará,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1659,2021-05-01,Mai 2021,Nordeste,Ceará,FIOCRUZ,P.5,Não VOC/VOI,Não VOC/VOI,1
 1660,2021-05-01,Mai 2021,Nordeste,Ceará,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,7
@@ -1199,10 +1199,10 @@
 1662,2021-05-01,Mai 2021,Nordeste,Ceará,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,3
 1663,2021-05-01,Mai 2021,Nordeste,Maranhão,FIOCRUZ,AY.6 (Delta),AY.* (Delta),VOC/VOI,5
 1664,2021-05-01,Mai 2021,Nordeste,Maranhão,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,29
-1665,2021-05-01,Mai 2021,Nordeste,Maranhão,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1665,2021-05-01,Mai 2021,Nordeste,Maranhão,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1666,2021-05-01,Mai 2021,Nordeste,Maranhão,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,13
 1667,2021-05-01,Mai 2021,Nordeste,Maranhão,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,3
-1668,2021-05-01,Mai 2021,Nordeste,Maranhão,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1668,2021-05-01,Mai 2021,Nordeste,Maranhão,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1669,2021-05-01,Mai 2021,Nordeste,Maranhão,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1670,2021-05-01,Mai 2021,Nordeste,Paraíba,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,79
 1671,2021-05-01,Mai 2021,Nordeste,Paraíba,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
@@ -1211,28 +1211,28 @@
 1674,2021-05-01,Mai 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,2
 1675,2021-05-01,Mai 2021,Nordeste,Pernambuco,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,130
 1676,2021-05-01,Mai 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-1677,2021-05-01,Mai 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,3
+1677,2021-05-01,Mai 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,3
 1678,2021-05-01,Mai 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,2
 1679,2021-05-01,Mai 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1680,2021-05-01,Mai 2021,Nordeste,Pernambuco,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,12
 1681,2021-05-01,Mai 2021,Nordeste,Pernambuco,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 1682,2021-05-01,Mai 2021,Nordeste,Piauí,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,30
 1683,2021-05-01,Mai 2021,Nordeste,Piauí,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1684,2021-05-01,Mai 2021,Nordeste,Piauí,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1684,2021-05-01,Mai 2021,Nordeste,Piauí,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1685,2021-05-01,Mai 2021,Nordeste,Piauí,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,13
-1686,2021-05-01,Mai 2021,Nordeste,Piauí,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1686,2021-05-01,Mai 2021,Nordeste,Piauí,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1687,2021-05-01,Mai 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,1
 1688,2021-05-01,Mai 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,10
 1689,2021-05-01,Mai 2021,Nordeste,Rio Grande do Norte,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,6
-1690,2021-05-01,Mai 2021,Nordeste,Rio Grande do Norte,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1690,2021-05-01,Mai 2021,Nordeste,Rio Grande do Norte,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1691,2021-05-01,Mai 2021,Nordeste,Sergipe,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,14
-1692,2021-05-01,Mai 2021,Nordeste,Sergipe,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1692,2021-05-01,Mai 2021,Nordeste,Sergipe,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1693,2021-05-01,Mai 2021,Nordeste,Sergipe,FIOCRUZ,P.4,Não VOC/VOI,Não VOC/VOI,1
 1694,2021-05-01,Mai 2021,Nordeste,Sergipe,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 1695,2021-05-01,Mai 2021,Norte,Acre,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 1696,2021-05-01,Mai 2021,Norte,Amazonas,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,113
 1697,2021-05-01,Mai 2021,Norte,Amazonas,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1698,2021-05-01,Mai 2021,Norte,Amazonas,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1698,2021-05-01,Mai 2021,Norte,Amazonas,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1699,2021-05-01,Mai 2021,Norte,Amazonas,FIOCRUZ,P.1.3 (Gama),P.1.* (Gama),VOC/VOI,24
 1700,2021-05-01,Mai 2021,Norte,Amazonas,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,69
 1701,2021-05-01,Mai 2021,Norte,Amazonas,FIOCRUZ,P.1.5 (Gama),P.1.* (Gama),VOC/VOI,4
@@ -1240,7 +1240,7 @@
 1703,2021-05-01,Mai 2021,Norte,Amazonas,Outros,B.1.1,Não VOC/VOI,Não VOC/VOI,1
 1704,2021-05-01,Mai 2021,Norte,Amazonas,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,3
 1705,2021-05-01,Mai 2021,Norte,Pará,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,16
-1706,2021-05-01,Mai 2021,Norte,Pará,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1706,2021-05-01,Mai 2021,Norte,Pará,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1707,2021-05-01,Mai 2021,Norte,Pará,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
 1708,2021-05-01,Mai 2021,Norte,Pará,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,41
 1709,2021-05-01,Mai 2021,Norte,Roraima,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,32
@@ -1252,23 +1252,23 @@
 1715,2021-05-01,Mai 2021,Norte,Tocantins,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,33
 1716,2021-05-01,Mai 2021,Norte,Tocantins,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,12
 1717,2021-05-01,Mai 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,7
-1718,2021-05-01,Mai 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1718,2021-05-01,Mai 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1719,2021-05-01,Mai 2021,Sudeste,Espírito Santo,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 1720,2021-05-01,Mai 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,2
 1721,2021-05-01,Mai 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1722,2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,3
 1723,2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,1
 1724,2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,10
-1725,2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1725,2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1726,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,75
 1727,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,3
-1728,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,3
+1728,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,3
 1729,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.9 (Gama),P.1.* (Gama),VOC/VOI,1
 1730,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,19
 1731,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1060
 1732,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,5
 1733,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,2
-1734,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,25
+1734,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,25
 1735,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,1
 1736,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
 1737,2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,3
@@ -1279,7 +1279,7 @@
 1742,2021-05-01,Mai 2021,Sudeste,São Paulo,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,246
 1743,2021-05-01,Mai 2021,Sudeste,São Paulo,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,4
 1744,2021-05-01,Mai 2021,Sudeste,São Paulo,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,5
-1745,2021-05-01,Mai 2021,Sudeste,São Paulo,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,98
+1745,2021-05-01,Mai 2021,Sudeste,São Paulo,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,98
 1746,2021-05-01,Mai 2021,Sudeste,São Paulo,FIOCRUZ,P.1.5 (Gama),P.1.* (Gama),VOC/VOI,1
 1747,2021-05-01,Mai 2021,Sudeste,São Paulo,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,10
 1748,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,B.1.1.28,Não VOC/VOI,Não VOC/VOI,2
@@ -1292,7 +1292,7 @@
 1755,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1.11 (Gama),P.1.* (Gama),VOC/VOI,5
 1756,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,21
 1757,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,2
-1758,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,736
+1758,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,736
 1759,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,5
 1760,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1.16 (Gama),P.1.* (Gama),VOC/VOI,3
 1761,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,4
@@ -1304,7 +1304,7 @@
 1767,2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.6,Não VOC/VOI,Não VOC/VOI,1
 1768,2021-05-01,Mai 2021,Sul,Paraná,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,2
 1769,2021-05-01,Mai 2021,Sul,Paraná,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,91
-1770,2021-05-01,Mai 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+1770,2021-05-01,Mai 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 1771,2021-05-01,Mai 2021,Sul,Paraná,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,3
 1772,2021-05-01,Mai 2021,Sul,Paraná,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1773,2021-05-01,Mai 2021,Sul,Paraná,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,59
@@ -1314,44 +1314,44 @@
 1777,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,92
 1778,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,2
 1779,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1780,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1780,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1781,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,B.1.1,Não VOC/VOI,Não VOC/VOI,1
 1782,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,Não VOC/VOI,Não VOC/VOI,23
 1783,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,C.37 (Lambda),Outras VOC/VOI,VOC/VOI,1
 1784,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,49
-1785,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1785,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1786,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,P.1.16 (Gama),P.1.* (Gama),VOC/VOI,2
 1787,2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,1
 1788,2021-05-01,Mai 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1789,2021-05-01,Mai 2021,Sul,Santa Catarina,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,63
-1790,2021-05-01,Mai 2021,Sul,Santa Catarina,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1790,2021-05-01,Mai 2021,Sul,Santa Catarina,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1791,2021-05-01,Mai 2021,Sul,Santa Catarina,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1792,2021-05-01,Mai 2021,Sul,Santa Catarina,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,5
 1793,2021-05-01,Mai 2021,Sul,Santa Catarina,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1794,2021-06-01,Jun 2021,Centro-oeste,Distrito Federal,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,3
 1795,2021-06-01,Jun 2021,Centro-oeste,Distrito Federal,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,77
 1796,2021-06-01,Jun 2021,Centro-oeste,Distrito Federal,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1797,2021-06-01,Jun 2021,Centro-oeste,Distrito Federal,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+1797,2021-06-01,Jun 2021,Centro-oeste,Distrito Federal,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 1798,2021-06-01,Jun 2021,Centro-oeste,Distrito Federal,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 1799,2021-06-01,Jun 2021,Centro-oeste,Distrito Federal,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,3
 1800,2021-06-01,Jun 2021,Centro-oeste,Goiás,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,7
-1801,2021-06-01,Jun 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1801,2021-06-01,Jun 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1802,2021-06-01,Jun 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,3
 1803,2021-06-01,Jun 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1804,2021-06-01,Jun 2021,Centro-oeste,Goiás,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,2
 1805,2021-06-01,Jun 2021,Centro-oeste,Goiás,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,424
 1806,2021-06-01,Jun 2021,Centro-oeste,Goiás,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-1807,2021-06-01,Jun 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,9
+1807,2021-06-01,Jun 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,9
 1808,2021-06-01,Jun 2021,Centro-oeste,Goiás,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,134
 1809,2021-06-01,Jun 2021,Centro-oeste,Mato Grosso,Outros,B.1.621 (Mu),Outras VOC/VOI,VOC/VOI,2
 1810,2021-06-01,Jun 2021,Centro-oeste,Mato Grosso,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,27
-1811,2021-06-01,Jun 2021,Centro-oeste,Mato Grosso,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1811,2021-06-01,Jun 2021,Centro-oeste,Mato Grosso,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1812,2021-06-01,Jun 2021,Centro-oeste,Mato Grosso,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 1813,2021-06-01,Jun 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,44
-1814,2021-06-01,Jun 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+1814,2021-06-01,Jun 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 1815,2021-06-01,Jun 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,11
 1816,2021-06-01,Jun 2021,Nordeste,Alagoas,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,84
-1817,2021-06-01,Jun 2021,Nordeste,Alagoas,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,3
+1817,2021-06-01,Jun 2021,Nordeste,Alagoas,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,3
 1818,2021-06-01,Jun 2021,Nordeste,Alagoas,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,6
 1819,2021-06-01,Jun 2021,Nordeste,Bahia,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,12
 1820,2021-06-01,Jun 2021,Nordeste,Bahia,Outros,B.1,Não VOC/VOI,Não VOC/VOI,1
@@ -1360,18 +1360,18 @@
 1823,2021-06-01,Jun 2021,Nordeste,Bahia,Outros,B.1.78,Não VOC/VOI,Não VOC/VOI,1
 1824,2021-06-01,Jun 2021,Nordeste,Bahia,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,129
 1825,2021-06-01,Jun 2021,Nordeste,Bahia,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1826,2021-06-01,Jun 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,5
+1826,2021-06-01,Jun 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,5
 1827,2021-06-01,Jun 2021,Nordeste,Bahia,Outros,P.4,Não VOC/VOI,Não VOC/VOI,4
 1828,2021-06-01,Jun 2021,Nordeste,Ceará,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,318
 1829,2021-06-01,Jun 2021,Nordeste,Ceará,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,23
 1830,2021-06-01,Jun 2021,Nordeste,Ceará,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-1831,2021-06-01,Jun 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1831,2021-06-01,Jun 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1832,2021-06-01,Jun 2021,Nordeste,Ceará,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,38
 1833,2021-06-01,Jun 2021,Nordeste,Ceará,FIOCRUZ,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,3
 1834,2021-06-01,Jun 2021,Nordeste,Ceará,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,9
 1835,2021-06-01,Jun 2021,Nordeste,Ceará,Outros,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,1
 1836,2021-06-01,Jun 2021,Nordeste,Ceará,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1837,2021-06-01,Jun 2021,Nordeste,Ceará,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1837,2021-06-01,Jun 2021,Nordeste,Ceará,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1838,2021-06-01,Jun 2021,Nordeste,Maranhão,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,4
 1839,2021-06-01,Jun 2021,Nordeste,Maranhão,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,8
 1840,2021-06-01,Jun 2021,Nordeste,Maranhão,Outros,B.1.1.33,Não VOC/VOI,Não VOC/VOI,1
@@ -1391,22 +1391,22 @@
 1854,2021-06-01,Jun 2021,Nordeste,Pernambuco,Outros,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,1
 1855,2021-06-01,Jun 2021,Nordeste,Pernambuco,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,3
 1856,2021-06-01,Jun 2021,Nordeste,Piauí,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,11
-1857,2021-06-01,Jun 2021,Nordeste,Piauí,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1857,2021-06-01,Jun 2021,Nordeste,Piauí,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1858,2021-06-01,Jun 2021,Nordeste,Piauí,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1859,2021-06-01,Jun 2021,Nordeste,Piauí,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,10
 1860,2021-06-01,Jun 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,3
 1861,2021-06-01,Jun 2021,Nordeste,Rio Grande do Norte,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,16
-1862,2021-06-01,Jun 2021,Nordeste,Rio Grande do Norte,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1862,2021-06-01,Jun 2021,Nordeste,Rio Grande do Norte,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1863,2021-06-01,Jun 2021,Nordeste,Sergipe,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,8
-1864,2021-06-01,Jun 2021,Nordeste,Sergipe,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1864,2021-06-01,Jun 2021,Nordeste,Sergipe,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1865,2021-06-01,Jun 2021,Nordeste,Sergipe,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,5
 1866,2021-06-01,Jun 2021,Norte,Acre,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 1867,2021-06-01,Jun 2021,Norte,Amapá,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,31
-1868,2021-06-01,Jun 2021,Norte,Amapá,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1868,2021-06-01,Jun 2021,Norte,Amapá,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1869,2021-06-01,Jun 2021,Norte,Amapá,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,3
 1870,2021-06-01,Jun 2021,Norte,Amazonas,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,53
 1871,2021-06-01,Jun 2021,Norte,Amazonas,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,1
-1872,2021-06-01,Jun 2021,Norte,Amazonas,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1872,2021-06-01,Jun 2021,Norte,Amazonas,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1873,2021-06-01,Jun 2021,Norte,Amazonas,FIOCRUZ,P.1.3 (Gama),P.1.* (Gama),VOC/VOI,2
 1874,2021-06-01,Jun 2021,Norte,Amazonas,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,152
 1875,2021-06-01,Jun 2021,Norte,Amazonas,FIOCRUZ,P.1.5 (Gama),P.1.* (Gama),VOC/VOI,3
@@ -1423,19 +1423,19 @@
 1886,2021-06-01,Jun 2021,Norte,Roraima,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,33
 1887,2021-06-01,Jun 2021,Norte,Roraima,FIOCRUZ,P.1.6 (Gama),P.1.* (Gama),VOC/VOI,9
 1888,2021-06-01,Jun 2021,Norte,Tocantins,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,9
-1889,2021-06-01,Jun 2021,Norte,Tocantins,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1889,2021-06-01,Jun 2021,Norte,Tocantins,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1890,2021-06-01,Jun 2021,Norte,Tocantins,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,10
 1891,2021-06-01,Jun 2021,Norte,Tocantins,Outros,B.1.380,Não VOC/VOI,Não VOC/VOI,1
 1892,2021-06-01,Jun 2021,Norte,Tocantins,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,1
 1893,2021-06-01,Jun 2021,Norte,Tocantins,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,11
-1894,2021-06-01,Jun 2021,Norte,Tocantins,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1894,2021-06-01,Jun 2021,Norte,Tocantins,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1895,2021-06-01,Jun 2021,Norte,Tocantins,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
 1896,2021-06-01,Jun 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,38
-1897,2021-06-01,Jun 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,3
+1897,2021-06-01,Jun 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,3
 1898,2021-06-01,Jun 2021,Sudeste,Espírito Santo,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 1899,2021-06-01,Jun 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1900,2021-06-01,Jun 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,33
-1901,2021-06-01,Jun 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1901,2021-06-01,Jun 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1902,2021-06-01,Jun 2021,Sudeste,Minas Gerais,FIOCRUZ,P.6,Não VOC/VOI,Não VOC/VOI,1
 1903,2021-06-01,Jun 2021,Sudeste,Minas Gerais,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,19
 1904,2021-06-01,Jun 2021,Sudeste,Minas Gerais,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
@@ -1443,7 +1443,7 @@
 1906,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,19
 1907,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,179
 1908,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,1
-1909,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,3
+1909,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,3
 1910,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,4
 1911,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.9 (Gama),P.1.* (Gama),VOC/VOI,16
 1912,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,AY.39 (Delta),AY.39 (Delta),VOC/VOI,2
@@ -1453,7 +1453,7 @@
 1916,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,B.1.621 (Mu),Outras VOC/VOI,VOC/VOI,1
 1917,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,803
 1918,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,18
-1919,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,23
+1919,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,23
 1920,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,P.1.16 (Gama),P.1.* (Gama),VOC/VOI,1
 1921,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,9
 1922,2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,3
@@ -1467,7 +1467,7 @@
 1930,2021-06-01,Jun 2021,Sudeste,São Paulo,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,8
 1931,2021-06-01,Jun 2021,Sudeste,São Paulo,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,130
 1932,2021-06-01,Jun 2021,Sudeste,São Paulo,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,3
-1933,2021-06-01,Jun 2021,Sudeste,São Paulo,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,75
+1933,2021-06-01,Jun 2021,Sudeste,São Paulo,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,75
 1934,2021-06-01,Jun 2021,Sudeste,São Paulo,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,6
 1935,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,AY.6 (Delta),AY.* (Delta),VOC/VOI,3
 1936,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,B.1,Não VOC/VOI,Não VOC/VOI,1
@@ -1480,7 +1480,7 @@
 1943,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,5
 1944,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1.11 (Gama),P.1.* (Gama),VOC/VOI,1
 1945,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,17
-1946,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,224
+1946,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,224
 1947,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 1948,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,1
 1949,2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,1
@@ -1492,19 +1492,19 @@
 1955,2021-06-01,Jun 2021,Sul,Paraná,FIOCRUZ,B.1.351 (Beta),Outras VOC/VOI,VOC/VOI,1
 1956,2021-06-01,Jun 2021,Sul,Paraná,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,21
 1957,2021-06-01,Jun 2021,Sul,Paraná,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,161
-1958,2021-06-01,Jun 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1958,2021-06-01,Jun 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1959,2021-06-01,Jun 2021,Sul,Paraná,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,13
 1960,2021-06-01,Jun 2021,Sul,Paraná,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,3
 1961,2021-06-01,Jun 2021,Sul,Paraná,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,186
 1962,2021-06-01,Jun 2021,Sul,Paraná,Outros,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,1
 1963,2021-06-01,Jun 2021,Sul,Paraná,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1964,2021-06-01,Jun 2021,Sul,Paraná,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1964,2021-06-01,Jun 2021,Sul,Paraná,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1965,2021-06-01,Jun 2021,Sul,Paraná,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,11
 1966,2021-06-01,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 1967,2021-06-01,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,C.37 (Lambda),Outras VOC/VOI,VOC/VOI,2
 1968,2021-06-01,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,167
 1969,2021-06-01,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,1
-1970,2021-06-01,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+1970,2021-06-01,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 1971,2021-06-01,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,1
 1972,2021-06-01,Jun 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 1973,2021-06-01,Jun 2021,Sul,Rio Grande do Sul,Outros,AY.39 (Delta),AY.39 (Delta),VOC/VOI,1
@@ -1526,20 +1526,20 @@
 1989,2021-07-01,Jul 2021,Centro-oeste,Goiás,FIOCRUZ,AY.7.2 (Delta),AY.* (Delta),VOC/VOI,1
 1990,2021-07-01,Jul 2021,Centro-oeste,Goiás,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,6
 1991,2021-07-01,Jul 2021,Centro-oeste,Goiás,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,51
-1992,2021-07-01,Jul 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+1992,2021-07-01,Jul 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 1993,2021-07-01,Jul 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,52
 1994,2021-07-01,Jul 2021,Centro-oeste,Goiás,Outros,B.1,Não VOC/VOI,Não VOC/VOI,1
 1995,2021-07-01,Jul 2021,Centro-oeste,Goiás,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,7
 1996,2021-07-01,Jul 2021,Centro-oeste,Goiás,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,131
 1997,2021-07-01,Jul 2021,Centro-oeste,Goiás,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-1998,2021-07-01,Jul 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,7
+1998,2021-07-01,Jul 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,7
 1999,2021-07-01,Jul 2021,Centro-oeste,Goiás,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 2000,2021-07-01,Jul 2021,Centro-oeste,Goiás,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,112
 2001,2021-07-01,Jul 2021,Centro-oeste,Mato Grosso,Outros,AY.23 (Delta),AY.* (Delta),VOC/VOI,1
 2002,2021-07-01,Jul 2021,Centro-oeste,Mato Grosso,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,9
 2003,2021-07-01,Jul 2021,Centro-oeste,Mato Grosso,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,21
 2004,2021-07-01,Jul 2021,Centro-oeste,Mato Grosso,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-2005,2021-07-01,Jul 2021,Centro-oeste,Mato Grosso,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2005,2021-07-01,Jul 2021,Centro-oeste,Mato Grosso,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2006,2021-07-01,Jul 2021,Centro-oeste,Mato Grosso,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 2007,2021-07-01,Jul 2021,Centro-oeste,Mato Grosso,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
 2008,2021-07-01,Jul 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,13
@@ -1548,25 +1548,25 @@
 2011,2021-07-01,Jul 2021,Nordeste,Alagoas,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,129
 2012,2021-07-01,Jul 2021,Nordeste,Alagoas,FIOCRUZ,P.1.11 (Gama),P.1.* (Gama),VOC/VOI,1
 2013,2021-07-01,Jul 2021,Nordeste,Alagoas,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,3
-2014,2021-07-01,Jul 2021,Nordeste,Alagoas,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+2014,2021-07-01,Jul 2021,Nordeste,Alagoas,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 2015,2021-07-01,Jul 2021,Nordeste,Alagoas,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
 2016,2021-07-01,Jul 2021,Nordeste,Alagoas,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
 2017,2021-07-01,Jul 2021,Nordeste,Alagoas,Outros,P.2,P.2,Não VOC/VOI,1
 2018,2021-07-01,Jul 2021,Nordeste,Bahia,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,11
-2019,2021-07-01,Jul 2021,Nordeste,Bahia,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2019,2021-07-01,Jul 2021,Nordeste,Bahia,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2020,2021-07-01,Jul 2021,Nordeste,Bahia,Outros,B.1.1.7 (Alfa),Outras VOC/VOI,VOC/VOI,1
 2021,2021-07-01,Jul 2021,Nordeste,Bahia,Outros,B.1.566,Não VOC/VOI,Não VOC/VOI,1
 2022,2021-07-01,Jul 2021,Nordeste,Bahia,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,5
 2023,2021-07-01,Jul 2021,Nordeste,Bahia,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,113
 2024,2021-07-01,Jul 2021,Nordeste,Bahia,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-2025,2021-07-01,Jul 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,6
+2025,2021-07-01,Jul 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,6
 2026,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,AY.26 (Delta),AY.* (Delta),VOC/VOI,4
 2027,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,AY.3 (Delta),AY.* (Delta),VOC/VOI,1
 2028,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,12
 2029,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,80
 2030,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,5
 2031,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,7
-2032,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+2032,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 2033,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,1
 2034,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,16
 2035,2021-07-01,Jul 2021,Nordeste,Ceará,FIOCRUZ,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,5
@@ -1575,7 +1575,7 @@
 2038,2021-07-01,Jul 2021,Nordeste,Maranhão,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,1
 2039,2021-07-01,Jul 2021,Nordeste,Maranhão,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,12
 2040,2021-07-01,Jul 2021,Nordeste,Maranhão,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
-2041,2021-07-01,Jul 2021,Nordeste,Maranhão,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2041,2021-07-01,Jul 2021,Nordeste,Maranhão,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2042,2021-07-01,Jul 2021,Nordeste,Maranhão,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,5
 2043,2021-07-01,Jul 2021,Nordeste,Paraíba,FIOCRUZ,AY.33 (Delta),AY.* (Delta),VOC/VOI,1
 2044,2021-07-01,Jul 2021,Nordeste,Paraíba,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,3
@@ -1585,7 +1585,7 @@
 2048,2021-07-01,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,9
 2049,2021-07-01,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,446
 2050,2021-07-01,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,8
-2051,2021-07-01,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,10
+2051,2021-07-01,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,10
 2052,2021-07-01,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,8
 2053,2021-07-01,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.16 (Gama),P.1.* (Gama),VOC/VOI,1
 2054,2021-07-01,Jul 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,3
@@ -1594,12 +1594,12 @@
 2057,2021-07-01,Jul 2021,Nordeste,Piauí,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 2058,2021-07-01,Jul 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,14
 2059,2021-07-01,Jul 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,1
-2060,2021-07-01,Jul 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+2060,2021-07-01,Jul 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 2061,2021-07-01,Jul 2021,Nordeste,Rio Grande do Norte,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 2062,2021-07-01,Jul 2021,Nordeste,Sergipe,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,1
 2063,2021-07-01,Jul 2021,Nordeste,Sergipe,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,30
 2064,2021-07-01,Jul 2021,Nordeste,Sergipe,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-2065,2021-07-01,Jul 2021,Nordeste,Sergipe,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+2065,2021-07-01,Jul 2021,Nordeste,Sergipe,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 2066,2021-07-01,Jul 2021,Nordeste,Sergipe,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,4
 2067,2021-07-01,Jul 2021,Norte,Amapá,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,60
 2068,2021-07-01,Jul 2021,Norte,Amapá,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,2
@@ -1616,7 +1616,7 @@
 2079,2021-07-01,Jul 2021,Norte,Pará,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,22
 2080,2021-07-01,Jul 2021,Norte,Pará,FIOCRUZ,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,1
 2081,2021-07-01,Jul 2021,Norte,Pará,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-2082,2021-07-01,Jul 2021,Norte,Pará,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2082,2021-07-01,Jul 2021,Norte,Pará,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2083,2021-07-01,Jul 2021,Norte,Pará,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,1
 2084,2021-07-01,Jul 2021,Norte,Pará,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,11
 2085,2021-07-01,Jul 2021,Norte,Pará,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,13
@@ -1642,7 +1642,7 @@
 2105,2021-07-01,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,140
 2106,2021-07-01,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.11 (Gama),P.1.* (Gama),VOC/VOI,1
 2107,2021-07-01,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-2108,2021-07-01,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,15
+2108,2021-07-01,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,15
 2109,2021-07-01,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,17
 2110,2021-07-01,Jul 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.9 (Gama),P.1.* (Gama),VOC/VOI,3
 2111,2021-07-01,Jul 2021,Sudeste,Espírito Santo,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,1
@@ -1660,7 +1660,7 @@
 2123,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,AY.39 (Delta),AY.39 (Delta),VOC/VOI,3
 2124,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,95
 2125,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,70
-2126,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+2126,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 2127,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,1
 2128,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,4
 2129,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1.9 (Gama),P.1.* (Gama),VOC/VOI,16
@@ -1682,7 +1682,7 @@
 2145,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,365
 2146,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,289
 2147,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,17
-2148,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,5
+2148,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,5
 2149,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,1
 2150,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,Outros,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,3
 2151,2021-07-01,Jul 2021,Sudeste,Rio de Janeiro,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,12
@@ -1696,7 +1696,7 @@
 2159,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,AY.14 (Delta),AY.* (Delta),VOC/VOI,1
 2160,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,AY.20 (Delta),AY.* (Delta),VOC/VOI,5
 2161,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,AY.26 (Delta),AY.* (Delta),VOC/VOI,1
-2162,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,AY.34 (Delta),AY.34 (Delta),VOC/VOI,13
+2162,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,AY.34 (Delta),AY.* (Delta),VOC/VOI,13
 2163,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,AY.39 (Delta),AY.39 (Delta),VOC/VOI,2
 2164,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,AY.5 (Delta),AY.* (Delta),VOC/VOI,4
 2165,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,AY.5.1 (Delta),AY.* (Delta),VOC/VOI,2
@@ -1709,7 +1709,7 @@
 2172,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.1.10 (Gama),P.1.* (Gama),VOC/VOI,2
 2173,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.1.11 (Gama),P.1.* (Gama),VOC/VOI,9
 2174,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,5
-2175,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,147
+2175,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,147
 2176,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,5
 2177,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,2
 2178,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,2
@@ -1720,7 +1720,7 @@
 2183,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.5,Não VOC/VOI,Não VOC/VOI,3
 2184,2021-07-01,Jul 2021,Sudeste,São Paulo,Outros,P.6,Não VOC/VOI,Não VOC/VOI,1
 2185,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,AY.33 (Delta),AY.* (Delta),VOC/VOI,4
-2186,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,AY.34 (Delta),AY.34 (Delta),VOC/VOI,4
+2186,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,AY.34 (Delta),AY.* (Delta),VOC/VOI,4
 2187,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,AY.38 (Delta),AY.* (Delta),VOC/VOI,1
 2188,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,AY.4 (Delta),AY.4 (Delta),VOC/VOI,3
 2189,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,AY.5 (Delta),AY.* (Delta),VOC/VOI,2
@@ -1728,7 +1728,7 @@
 2191,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,C.37 (Lambda),Outras VOC/VOI,VOC/VOI,1
 2192,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,72
 2193,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-2194,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+2194,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 2195,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,13
 2196,2021-07-01,Jul 2021,Sul,Paraná,FIOCRUZ,P.2,P.2,Não VOC/VOI,2
 2197,2021-07-01,Jul 2021,Sul,Paraná,Outros,B.1.1.318,Não VOC/VOI,Não VOC/VOI,1
@@ -1736,7 +1736,7 @@
 2199,2021-07-01,Jul 2021,Sul,Paraná,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,19
 2200,2021-07-01,Jul 2021,Sul,Paraná,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,131
 2201,2021-07-01,Jul 2021,Sul,Paraná,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-2202,2021-07-01,Jul 2021,Sul,Paraná,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2202,2021-07-01,Jul 2021,Sul,Paraná,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2203,2021-07-01,Jul 2021,Sul,Paraná,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,23
 2204,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,AY.20 (Delta),AY.* (Delta),VOC/VOI,1
 2205,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,AY.5 (Delta),AY.* (Delta),VOC/VOI,2
@@ -1744,7 +1744,7 @@
 2207,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,55
 2208,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,70
 2209,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-2210,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+2210,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 2211,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,1
 2212,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
 2213,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,Outros,AY.39 (Delta),AY.39 (Delta),VOC/VOI,1
@@ -1753,7 +1753,7 @@
 2216,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,21
 2217,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,72
 2218,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-2219,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+2219,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 2220,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 2221,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,2
 2222,2021-07-01,Jul 2021,Sul,Rio Grande do Sul,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,4
@@ -1763,13 +1763,13 @@
 2226,2021-07-01,Jul 2021,Sul,Santa Catarina,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,64
 2227,2021-07-01,Jul 2021,Sul,Santa Catarina,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,67
 2228,2021-07-01,Jul 2021,Sul,Santa Catarina,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-2229,2021-07-01,Jul 2021,Sul,Santa Catarina,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,3
+2229,2021-07-01,Jul 2021,Sul,Santa Catarina,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,3
 2230,2021-07-01,Jul 2021,Sul,Santa Catarina,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,6
 2231,2021-07-01,Jul 2021,Sul,Santa Catarina,FIOCRUZ,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,17
 2232,2021-07-01,Jul 2021,Sul,Santa Catarina,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,1
 2233,2021-07-01,Jul 2021,Sul,Santa Catarina,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,16
 2234,2021-07-01,Jul 2021,Sul,Santa Catarina,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-2235,2021-07-01,Jul 2021,Sul,Santa Catarina,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+2235,2021-07-01,Jul 2021,Sul,Santa Catarina,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 2236,2021-07-01,Jul 2021,Sul,Santa Catarina,Outros,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,2
 2237,2021-08-01,Ago 2021,Centro-oeste,Distrito Federal,Outros,AY.20 (Delta),AY.* (Delta),VOC/VOI,1
 2238,2021-08-01,Ago 2021,Centro-oeste,Distrito Federal,Outros,AY.25 (Delta),AY.* (Delta),VOC/VOI,1
@@ -1782,7 +1782,7 @@
 2245,2021-08-01,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,AY.39 (Delta),AY.39 (Delta),VOC/VOI,1
 2246,2021-08-01,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,23
 2247,2021-08-01,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,18
-2248,2021-08-01,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2248,2021-08-01,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2249,2021-08-01,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 2250,2021-08-01,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,39
 2251,2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,AY.20 (Delta),AY.* (Delta),VOC/VOI,1
@@ -1792,7 +1792,7 @@
 2255,2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,69
 2256,2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,135
 2257,2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,1
-2258,2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,5
+2258,2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,5
 2259,2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,4
 2260,2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,247
 2261,2021-08-01,Ago 2021,Centro-oeste,Mato Grosso,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,5
@@ -1807,14 +1807,14 @@
 2270,2021-08-01,Ago 2021,Nordeste,Alagoas,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 2271,2021-08-01,Ago 2021,Nordeste,Bahia,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,1
 2272,2021-08-01,Ago 2021,Nordeste,Bahia,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,6
-2273,2021-08-01,Ago 2021,Nordeste,Bahia,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2273,2021-08-01,Ago 2021,Nordeste,Bahia,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2274,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,AY.39 (Delta),AY.39 (Delta),VOC/VOI,3
 2275,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,AY.4 (Delta),AY.4 (Delta),VOC/VOI,1
 2276,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,B,Não VOC/VOI,Não VOC/VOI,1
 2277,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,B.1.351 (Beta),Outras VOC/VOI,VOC/VOI,1
 2278,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,37
 2279,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,52
-2280,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+2280,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 2281,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,9
 2282,2021-08-01,Ago 2021,Nordeste,Bahia,Outros,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,1
 2283,2021-08-01,Ago 2021,Nordeste,Ceará,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,3
@@ -1828,7 +1828,7 @@
 2291,2021-08-01,Ago 2021,Nordeste,Paraíba,FIOCRUZ,AY.10 (Delta),AY.* (Delta),VOC/VOI,1
 2292,2021-08-01,Ago 2021,Nordeste,Paraíba,FIOCRUZ,AY.26 (Delta),AY.* (Delta),VOC/VOI,1
 2293,2021-08-01,Ago 2021,Nordeste,Paraíba,FIOCRUZ,AY.33 (Delta),AY.* (Delta),VOC/VOI,1
-2294,2021-08-01,Ago 2021,Nordeste,Paraíba,FIOCRUZ,AY.34 (Delta),AY.34 (Delta),VOC/VOI,1
+2294,2021-08-01,Ago 2021,Nordeste,Paraíba,FIOCRUZ,AY.34 (Delta),AY.* (Delta),VOC/VOI,1
 2295,2021-08-01,Ago 2021,Nordeste,Paraíba,FIOCRUZ,AY.39 (Delta),AY.39 (Delta),VOC/VOI,7
 2296,2021-08-01,Ago 2021,Nordeste,Paraíba,FIOCRUZ,AY.39.1 (Delta),AY.* (Delta),VOC/VOI,2
 2297,2021-08-01,Ago 2021,Nordeste,Paraíba,FIOCRUZ,AY.4.4 (Delta),AY.* (Delta),VOC/VOI,1
@@ -1840,11 +1840,11 @@
 2303,2021-08-01,Ago 2021,Nordeste,Paraíba,FIOCRUZ,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,2
 2304,2021-08-01,Ago 2021,Nordeste,Paraíba,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,4
 2305,2021-08-01,Ago 2021,Nordeste,Paraíba,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,3
-2306,2021-08-01,Ago 2021,Nordeste,Paraíba,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2306,2021-08-01,Ago 2021,Nordeste,Paraíba,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2307,2021-08-01,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,32
 2308,2021-08-01,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,79
 2309,2021-08-01,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,4
-2310,2021-08-01,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+2310,2021-08-01,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 2311,2021-08-01,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 2312,2021-08-01,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,19
 2313,2021-08-01,Ago 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,1
@@ -1859,10 +1859,10 @@
 2322,2021-08-01,Ago 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,AY.20 (Delta),AY.* (Delta),VOC/VOI,1
 2323,2021-08-01,Ago 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,54
 2324,2021-08-01,Ago 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,11
-2325,2021-08-01,Ago 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2325,2021-08-01,Ago 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2326,2021-08-01,Ago 2021,Nordeste,Sergipe,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,4
 2327,2021-08-01,Ago 2021,Nordeste,Sergipe,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,27
-2328,2021-08-01,Ago 2021,Nordeste,Sergipe,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2328,2021-08-01,Ago 2021,Nordeste,Sergipe,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2329,2021-08-01,Ago 2021,Nordeste,Sergipe,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,1
 2330,2021-08-01,Ago 2021,Norte,Amapá,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,7
 2331,2021-08-01,Ago 2021,Norte,Amapá,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,45
@@ -1883,7 +1883,7 @@
 2346,2021-08-01,Ago 2021,Norte,Pará,FIOCRUZ,AY.4 (Delta),AY.4 (Delta),VOC/VOI,2
 2347,2021-08-01,Ago 2021,Norte,Pará,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,7
 2348,2021-08-01,Ago 2021,Norte,Pará,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,39
-2349,2021-08-01,Ago 2021,Norte,Pará,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,7
+2349,2021-08-01,Ago 2021,Norte,Pará,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,7
 2350,2021-08-01,Ago 2021,Norte,Pará,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,4
 2351,2021-08-01,Ago 2021,Norte,Pará,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,22
 2352,2021-08-01,Ago 2021,Norte,Roraima,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,19
@@ -1903,7 +1903,7 @@
 2366,2021-08-01,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,189
 2367,2021-08-01,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,47
 2368,2021-08-01,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,2
-2369,2021-08-01,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,4
+2369,2021-08-01,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,4
 2370,2021-08-01,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,1
 2371,2021-08-01,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,6
 2372,2021-08-01,Ago 2021,Sudeste,Espírito Santo,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,1
@@ -1917,7 +1917,7 @@
 2380,2021-08-01,Ago 2021,Sudeste,Minas Gerais,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,33
 2381,2021-08-01,Ago 2021,Sudeste,Minas Gerais,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,32
 2382,2021-08-01,Ago 2021,Sudeste,Minas Gerais,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,1
-2383,2021-08-01,Ago 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2383,2021-08-01,Ago 2021,Sudeste,Minas Gerais,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2384,2021-08-01,Ago 2021,Sudeste,Minas Gerais,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,37
 2385,2021-08-01,Ago 2021,Sudeste,Minas Gerais,Outros,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,1
 2386,2021-08-01,Ago 2021,Sudeste,Rio de Janeiro,FIOCRUZ,AY.14 (Delta),AY.* (Delta),VOC/VOI,1
@@ -1957,7 +1957,7 @@
 2420,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,AY.3 (Delta),AY.* (Delta),VOC/VOI,1
 2421,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,AY.32 (Delta),AY.* (Delta),VOC/VOI,1
 2422,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,AY.33 (Delta),AY.* (Delta),VOC/VOI,27
-2423,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,AY.34 (Delta),AY.34 (Delta),VOC/VOI,173
+2423,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,AY.34 (Delta),AY.* (Delta),VOC/VOI,173
 2424,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,AY.35 (Delta),AY.* (Delta),VOC/VOI,1
 2425,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,AY.36 (Delta),AY.* (Delta),VOC/VOI,68
 2426,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,AY.39 (Delta),AY.39 (Delta),VOC/VOI,72
@@ -1981,7 +1981,7 @@
 2444,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1.11 (Gama),P.1.* (Gama),VOC/VOI,18
 2445,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,8
 2446,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,1
-2447,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,39
+2447,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,39
 2448,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1.16 (Gama),P.1.* (Gama),VOC/VOI,2
 2449,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,1
 2450,2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,76
@@ -1993,7 +1993,7 @@
 2456,2021-08-01,Ago 2021,Sul,Paraná,FIOCRUZ,AY.4 (Delta),AY.4 (Delta),VOC/VOI,2
 2457,2021-08-01,Ago 2021,Sul,Paraná,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,29
 2458,2021-08-01,Ago 2021,Sul,Paraná,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,20
-2459,2021-08-01,Ago 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2459,2021-08-01,Ago 2021,Sul,Paraná,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2460,2021-08-01,Ago 2021,Sul,Paraná,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,8
 2461,2021-08-01,Ago 2021,Sul,Paraná,FIOCRUZ,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,1
 2462,2021-08-01,Ago 2021,Sul,Paraná,Outros,AY.20 (Delta),AY.* (Delta),VOC/VOI,1
@@ -2015,7 +2015,7 @@
 2478,2021-08-01,Ago 2021,Sul,Rio Grande do Sul,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,60
 2479,2021-08-01,Ago 2021,Sul,Rio Grande do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,22
 2480,2021-08-01,Ago 2021,Sul,Rio Grande do Sul,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
-2481,2021-08-01,Ago 2021,Sul,Santa Catarina,FIOCRUZ,AY.34 (Delta),AY.34 (Delta),VOC/VOI,2
+2481,2021-08-01,Ago 2021,Sul,Santa Catarina,FIOCRUZ,AY.34 (Delta),AY.* (Delta),VOC/VOI,2
 2482,2021-08-01,Ago 2021,Sul,Santa Catarina,FIOCRUZ,AY.36 (Delta),AY.* (Delta),VOC/VOI,1
 2483,2021-08-01,Ago 2021,Sul,Santa Catarina,FIOCRUZ,AY.39 (Delta),AY.39 (Delta),VOC/VOI,1
 2484,2021-08-01,Ago 2021,Sul,Santa Catarina,FIOCRUZ,AY.4 (Delta),AY.4 (Delta),VOC/VOI,1
@@ -2033,7 +2033,7 @@
 2496,2021-09-01,Set 2021,Centro-oeste,Goiás,Outros,AY.22 (Delta),AY.* (Delta),VOC/VOI,1
 2497,2021-09-01,Set 2021,Centro-oeste,Goiás,Outros,AY.23.1 (Delta),AY.* (Delta),VOC/VOI,1
 2498,2021-09-01,Set 2021,Centro-oeste,Goiás,Outros,AY.26 (Delta),AY.* (Delta),VOC/VOI,2
-2499,2021-09-01,Set 2021,Centro-oeste,Goiás,Outros,AY.34 (Delta),AY.34 (Delta),VOC/VOI,1
+2499,2021-09-01,Set 2021,Centro-oeste,Goiás,Outros,AY.34 (Delta),AY.* (Delta),VOC/VOI,1
 2500,2021-09-01,Set 2021,Centro-oeste,Goiás,Outros,AY.39 (Delta),AY.39 (Delta),VOC/VOI,5
 2501,2021-09-01,Set 2021,Centro-oeste,Goiás,Outros,AY.4.3 (Delta),AY.* (Delta),VOC/VOI,1
 2502,2021-09-01,Set 2021,Centro-oeste,Goiás,Outros,AY.6 (Delta),AY.* (Delta),VOC/VOI,1
@@ -2044,7 +2044,7 @@
 2507,2021-09-01,Set 2021,Centro-oeste,Mato Grosso,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 2508,2021-09-01,Set 2021,Centro-oeste,Mato Grosso do Sul,Outros,AY.4 (Delta),AY.4 (Delta),VOC/VOI,1
 2509,2021-09-01,Set 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
-2510,2021-09-01,Set 2021,Nordeste,Alagoas,FIOCRUZ,AY.34 (Delta),AY.34 (Delta),VOC/VOI,1
+2510,2021-09-01,Set 2021,Nordeste,Alagoas,FIOCRUZ,AY.34 (Delta),AY.* (Delta),VOC/VOI,1
 2511,2021-09-01,Set 2021,Nordeste,Alagoas,FIOCRUZ,AY.39 (Delta),AY.39 (Delta),VOC/VOI,1
 2512,2021-09-01,Set 2021,Nordeste,Alagoas,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,45
 2513,2021-09-01,Set 2021,Nordeste,Alagoas,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,4
@@ -2052,7 +2052,7 @@
 2515,2021-09-01,Set 2021,Nordeste,Bahia,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,2
 2516,2021-09-01,Set 2021,Nordeste,Bahia,Outros,AY.1 (Delta),AY.* (Delta),VOC/VOI,1
 2517,2021-09-01,Set 2021,Nordeste,Bahia,Outros,AY.33 (Delta),AY.* (Delta),VOC/VOI,2
-2518,2021-09-01,Set 2021,Nordeste,Bahia,Outros,AY.34 (Delta),AY.34 (Delta),VOC/VOI,2
+2518,2021-09-01,Set 2021,Nordeste,Bahia,Outros,AY.34 (Delta),AY.* (Delta),VOC/VOI,2
 2519,2021-09-01,Set 2021,Nordeste,Bahia,Outros,AY.36 (Delta),AY.* (Delta),VOC/VOI,1
 2520,2021-09-01,Set 2021,Nordeste,Bahia,Outros,AY.39 (Delta),AY.39 (Delta),VOC/VOI,1
 2521,2021-09-01,Set 2021,Nordeste,Bahia,Outros,AY.5 (Delta),AY.* (Delta),VOC/VOI,1
@@ -2063,12 +2063,12 @@
 2526,2021-09-01,Set 2021,Nordeste,Paraíba,FIOCRUZ,AY.39 (Delta),AY.39 (Delta),VOC/VOI,5
 2527,2021-09-01,Set 2021,Nordeste,Paraíba,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,14
 2528,2021-09-01,Set 2021,Nordeste,Paraíba,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,1
-2529,2021-09-01,Set 2021,Nordeste,Pernambuco,FIOCRUZ,AY.34 (Delta),AY.34 (Delta),VOC/VOI,1
+2529,2021-09-01,Set 2021,Nordeste,Pernambuco,FIOCRUZ,AY.34 (Delta),AY.* (Delta),VOC/VOI,1
 2530,2021-09-01,Set 2021,Nordeste,Pernambuco,FIOCRUZ,AY.39 (Delta),AY.39 (Delta),VOC/VOI,3
 2531,2021-09-01,Set 2021,Nordeste,Pernambuco,FIOCRUZ,AY.6 (Delta),AY.* (Delta),VOC/VOI,9
 2532,2021-09-01,Set 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,140
 2533,2021-09-01,Set 2021,Nordeste,Pernambuco,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,14
-2534,2021-09-01,Set 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,1
+2534,2021-09-01,Set 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,1
 2535,2021-09-01,Set 2021,Nordeste,Pernambuco,FIOCRUZ,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,2
 2536,2021-09-01,Set 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,AY.33 (Delta),AY.* (Delta),VOC/VOI,1
 2537,2021-09-01,Set 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,AY.4 (Delta),AY.4 (Delta),VOC/VOI,1
@@ -2077,7 +2077,7 @@
 2540,2021-09-01,Set 2021,Nordeste,Sergipe,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,8
 2541,2021-09-01,Set 2021,Nordeste,Sergipe,FIOCRUZ,P.1 (Gama),P.1 (Gama),VOC/VOI,1
 2542,2021-09-01,Set 2021,Norte,Amazonas,FIOCRUZ,AY.33 (Delta),AY.* (Delta),VOC/VOI,1
-2543,2021-09-01,Set 2021,Norte,Amazonas,FIOCRUZ,AY.34 (Delta),AY.34 (Delta),VOC/VOI,2
+2543,2021-09-01,Set 2021,Norte,Amazonas,FIOCRUZ,AY.34 (Delta),AY.* (Delta),VOC/VOI,2
 2544,2021-09-01,Set 2021,Norte,Amazonas,FIOCRUZ,AY.4 (Delta),AY.4 (Delta),VOC/VOI,1
 2545,2021-09-01,Set 2021,Norte,Amazonas,FIOCRUZ,AY.6 (Delta),AY.* (Delta),VOC/VOI,1
 2546,2021-09-01,Set 2021,Norte,Amazonas,FIOCRUZ,AY.9 (Delta),AY.* (Delta),VOC/VOI,1
@@ -2088,14 +2088,14 @@
 2551,2021-09-01,Set 2021,Norte,Amazonas,FIOCRUZ,P.1.4 (Gama),P.1.4 (Gama),VOC/VOI,97
 2552,2021-09-01,Set 2021,Norte,Amazonas,FIOCRUZ,P.1.6 (Gama),P.1.* (Gama),VOC/VOI,31
 2553,2021-09-01,Set 2021,Norte,Amazonas,FIOCRUZ,P.1.8 (Gama),P.1.* (Gama),VOC/VOI,1
-2554,2021-09-01,Set 2021,Norte,Pará,FIOCRUZ,AY.34 (Delta),AY.34 (Delta),VOC/VOI,1
+2554,2021-09-01,Set 2021,Norte,Pará,FIOCRUZ,AY.34 (Delta),AY.* (Delta),VOC/VOI,1
 2555,2021-09-01,Set 2021,Norte,Pará,FIOCRUZ,AY.39 (Delta),AY.39 (Delta),VOC/VOI,1
 2556,2021-09-01,Set 2021,Norte,Pará,FIOCRUZ,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,9
 2557,2021-09-01,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.10 (Delta),AY.* (Delta),VOC/VOI,1
 2558,2021-09-01,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.20 (Delta),AY.* (Delta),VOC/VOI,1
 2559,2021-09-01,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.26 (Delta),AY.* (Delta),VOC/VOI,1
 2560,2021-09-01,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.3 (Delta),AY.* (Delta),VOC/VOI,3
-2561,2021-09-01,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.34 (Delta),AY.34 (Delta),VOC/VOI,5
+2561,2021-09-01,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.34 (Delta),AY.* (Delta),VOC/VOI,5
 2562,2021-09-01,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.36 (Delta),AY.* (Delta),VOC/VOI,1
 2563,2021-09-01,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.39 (Delta),AY.39 (Delta),VOC/VOI,3
 2564,2021-09-01,Set 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.4 (Delta),AY.4 (Delta),VOC/VOI,2
@@ -2129,7 +2129,7 @@
 2592,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,AY.29 (Delta),AY.* (Delta),VOC/VOI,3
 2593,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,AY.3 (Delta),AY.* (Delta),VOC/VOI,4
 2594,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,AY.33 (Delta),AY.* (Delta),VOC/VOI,34
-2595,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,AY.34 (Delta),AY.34 (Delta),VOC/VOI,262
+2595,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,AY.34 (Delta),AY.* (Delta),VOC/VOI,262
 2596,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,AY.35 (Delta),AY.* (Delta),VOC/VOI,3
 2597,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,AY.36 (Delta),AY.* (Delta),VOC/VOI,98
 2598,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,AY.38 (Delta),AY.* (Delta),VOC/VOI,1
@@ -2155,7 +2155,7 @@
 2618,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1.11 (Gama),P.1.* (Gama),VOC/VOI,4
 2619,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1.12 (Gama),P.1.* (Gama),VOC/VOI,4
 2620,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1.13 (Gama),P.1.* (Gama),VOC/VOI,2
-2621,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,2
+2621,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,2
 2622,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1.15 (Gama),P.1.* (Gama),VOC/VOI,1
 2623,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1.16 (Gama),P.1.* (Gama),VOC/VOI,1
 2624,2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,45
@@ -2166,7 +2166,7 @@
 2629,2021-09-01,Set 2021,Sul,Rio Grande do Sul,Outros,AY.4 (Delta),AY.4 (Delta),VOC/VOI,1
 2630,2021-09-01,Set 2021,Sul,Rio Grande do Sul,Outros,B.1.617.2 (Delta),B.1.617.2 (Delta),VOC/VOI,5
 2631,2021-09-01,Set 2021,Sul,Rio Grande do Sul,Outros,P.1 (Gama),P.1 (Gama),VOC/VOI,1
-2632,2021-09-01,Set 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.14 (Gama),VOC/VOI,3
+2632,2021-09-01,Set 2021,Sul,Rio Grande do Sul,Outros,P.1.14 (Gama),P.1.* (Gama),VOC/VOI,3
 2633,2021-09-01,Set 2021,Sul,Rio Grande do Sul,Outros,P.1.17 (Gama),P.1.* (Gama),VOC/VOI,1
 2634,2021-09-01,Set 2021,Sul,Rio Grande do Sul,Outros,P.1.9 (Gama),P.1.* (Gama),VOC/VOI,2
 2635,2021-09-01,Set 2021,Sul,Santa Catarina,FIOCRUZ,AY.23.1 (Delta),AY.* (Delta),VOC/VOI,1
@@ -2184,7 +2184,7 @@
 2647,2021-10-01,Out 2021,Centro-oeste,Goiás,Outros,P.1.7 (Gama),P.1.7 (Gama),VOC/VOI,5
 2648,2021-10-01,Out 2021,Norte,Amazonas,FIOCRUZ,P.1.6 (Gama),P.1.* (Gama),VOC/VOI,1
 2649,2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.29 (Delta),AY.* (Delta),VOC/VOI,3
-2650,2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.34 (Delta),AY.34 (Delta),VOC/VOI,8
+2650,2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.34 (Delta),AY.* (Delta),VOC/VOI,8
 2651,2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.36 (Delta),AY.* (Delta),VOC/VOI,1
 2652,2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.4 (Delta),AY.4 (Delta),VOC/VOI,11
 2653,2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.5 (Delta),AY.* (Delta),VOC/VOI,1
