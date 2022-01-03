@@ -1,28 +1,28 @@
-,UF,ESTADO,DELTA,ALFA OU OMICRON
-0,AC,Acre,503,235
-1,AL,Alagoas,775,46
-2,AP,Amapá,871,464
-3,AM,Amazonas,816,331
-4,BA,Bahia,512,248
-5,CE,Ceará,476,147
-6,DF,Distrito Federal,349,387
-7,ES,Espírito Santo,179,146
-8,GO,Goiás,395,24
-9,MA,Maranhão,359,487
-10,MT,Mato Grosso,746,423
-11,MS,Mato Grosso do Sul,252,445
-12,MG,Minas Gerais,652,59
-13,PA,Pará,907,254
-14,PB,Paraíba,897,498
-15,PR,Paraná,66,210
-16,PE,Pernambuco,69,68
-17,PI,Piauí,133,475
-18,RJ,Rio de Janeiro,167,392
-19,RN,Rio Grande do Norte,137,207
-20,RS,Rio Grande do Sul,389,198
-21,RO,Rondônia,939,324
-22,RR,Roraima,492,361
-23,SC,Santa Catarina,208,225
-24,SP,São Paulo,620,117
-25,SE,Sergipe,172,450
-26,TO,Tocantins,640,133
+,UF,ESTADO,DELTA,ALFA OU OMICRON,TOTAL DE AMOSTRAS,ALFA OU OMICRON (%)
+0,AC,Acre,5,131,136,96.3
+1,AL,Alagoas,354,189,543,34.8
+2,AP,Amapá,633,436,1069,40.8
+3,AM,Amazonas,752,188,940,20.0
+4,BA,Bahia,811,25,836,3.0
+5,CE,Ceará,681,108,789,13.7
+6,DF,Distrito Federal,607,86,693,12.4
+7,ES,Espírito Santo,140,183,323,56.7
+8,GO,Goiás,202,483,685,70.5
+9,MA,Maranhão,974,247,1221,20.2
+10,MT,Mato Grosso,787,56,843,6.6
+11,MS,Mato Grosso do Sul,809,438,1247,35.1
+12,MG,Minas Gerais,906,321,1227,26.2
+13,PA,Pará,195,425,620,68.5
+14,PB,Paraíba,778,378,1156,32.7
+15,PR,Paraná,283,15,298,5.0
+16,PE,Pernambuco,163,87,250,34.8
+17,PI,Piauí,860,365,1225,29.8
+18,RJ,Rio de Janeiro,477,0,477,0.0
+19,RN,Rio Grande do Norte,304,495,799,62.0
+20,RS,Rio Grande do Sul,160,313,473,66.2
+21,RO,Rondônia,615,30,645,4.7
+22,RR,Roraima,351,381,732,52.0
+23,SC,Santa Catarina,540,202,742,27.2
+24,SP,São Paulo,912,92,1004,9.2
+25,SE,Sergipe,427,279,706,39.5
+26,TO,Tocantins,140,404,544,74.3
