@@ -1,28 +1,28 @@
-Unnamed: 0,UF,ESTADO,DELTA,ALFA OU OMICRON,TOTAL DE AMOSTRAS,ALFA OU OMICRON (%)
-0,AC,Acre,5,131,136,96.3
-1,AL,Alagoas,354,189,543,34.8
-2,AP,Amapá,633,436,1069,40.8
-3,AM,Amazonas,752,188,940,20.0
-4,BA,Bahia,811,25,836,3.0
-5,CE,Ceará,681,108,789,13.7
-6,DF,Distrito Federal,607,86,693,12.4
-7,ES,Espírito Santo,140,183,323,56.7
-8,GO,Goiás,202,483,685,70.5
-9,MA,Maranhão,974,247,1221,20.2
-10,MT,Mato Grosso,787,56,843,6.6
-11,MS,Mato Grosso do Sul,809,438,1247,35.1
-12,MG,Minas Gerais,906,321,1227,26.2
-13,PA,Pará,195,425,620,68.5
-14,PB,Paraíba,778,378,1156,32.7
-15,PR,Paraná,283,15,298,5.0
-16,PE,Pernambuco,163,87,250,34.8
-17,PI,Piauí,860,365,1225,29.8
-18,RJ,Rio de Janeiro,477,0,477,0.0
-19,RN,Rio Grande do Norte,304,495,799,62.0
-20,RS,Rio Grande do Sul,160,313,473,66.2
-21,RO,Rondônia,615,30,645,4.7
-22,RR,Roraima,351,381,732,52.0
-23,SC,Santa Catarina,540,202,742,27.2
-24,SP,São Paulo,912,92,1004,9.2
-25,SE,Sergipe,427,279,706,39.5
-26,TO,Tocantins,140,404,544,74.3
+UF,Estado,Provável Delta,Provável Omicron,Total de Amostras,Provável Omicron (%)
+AC,Acre,219,154,373,41.3
+AL,Alagoas,312,419,731,57.3
+AP,Amapá,236,256,492,52.0
+AM,Amazonas,463,459,922,49.8
+BA,Bahia,417,461,878,52.5
+CE,Ceará,203,235,438,53.7
+DF,Distrito Federal,550,248,798,31.1
+ES,Espírito Santo,986,322,1308,24.6
+GO,Goiás,55,465,520,89.4
+MA,Maranhão,221,225,446,50.4
+MT,Mato Grosso,859,277,1136,24.4
+MS,Mato Grosso do Sul,563,106,669,15.8
+MG,Minas Gerais,834,121,955,12.7
+PA,Pará,164,308,472,65.3
+PB,Paraíba,480,144,624,23.1
+PR,Paraná,982,428,1410,30.4
+PE,Pernambuco,660,376,1036,36.3
+PI,Piauí,534,189,723,26.1
+RJ,Rio de Janeiro,907,12,919,1.3
+RN,Rio Grande do Norte,380,262,642,40.8
+RS,Rio Grande do Sul,521,57,578,9.9
+RO,Rondônia,184,96,280,34.3
+RR,Roraima,705,249,954,26.1
+SC,Santa Catarina,481,439,920,47.7
+SP,São Paulo,119,217,336,64.6
+SE,Sergipe,321,131,452,29.0
+TO,Tocantins,105,490,595,82.4
