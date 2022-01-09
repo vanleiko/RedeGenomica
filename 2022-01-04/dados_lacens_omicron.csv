@@ -1,45 +1,45 @@
-DATA_COLETA,UF_COLETA,Inconclusivo,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,MV_PORCENTAGEM_OMICRON,Estado
-2021-12-02,SC,0,1,0,1,0.0,,Santa Catarina
-2021-12-03,SC,0,2,0,2,0.0,,Santa Catarina
-2021-12-05,SC,0,1,0,1,0.0,,Santa Catarina
-2021-12-06,SC,0,3,0,3,0.0,3.1,Santa Catarina
-2021-12-07,SC,0,2,0,2,0.0,3.9,Santa Catarina
-2021-12-08,SC,0,13,0,13,0.0,3.9,Santa Catarina
-2021-12-09,SC,0,33,9,42,21.4,6.3,Santa Catarina
-2021-12-10,SC,0,30,2,32,6.2,8.6,Santa Catarina
-2021-12-11,SC,0,9,0,9,0.0,10.6,Santa Catarina
-2021-12-12,SC,0,5,1,6,16.7,12.7,Santa Catarina
-2021-12-13,SC,0,43,8,51,15.7,13.7,Santa Catarina
-2021-12-14,SC,0,43,7,50,14.0,16.7,Santa Catarina
-2021-12-15,SC,0,46,8,54,14.8,20.2,Santa Catarina
-2021-12-16,SC,0,35,14,49,28.6,17.8,Santa Catarina
-2021-12-17,SC,0,30,11,41,26.8,25.6,Santa Catarina
-2021-12-18,SC,0,3,1,4,25.0,27.5,Santa Catarina
-2021-12-19,SC,0,1,0,1,0.0,32.5,Santa Catarina
-2021-12-20,RJ,1,2,7,10,70.0,33.2,Rio de Janeiro
-2021-12-20,SC,0,8,3,11,27.3,35.8,Santa Catarina
-2021-12-21,RJ,1,0,1,2,50.0,41.8,Rio de Janeiro
-2021-12-21,SC,0,22,11,33,33.3,56.1,Santa Catarina
-2021-12-22,SC,0,17,14,31,45.2,54.4,Santa Catarina
-2021-12-22,RJ,0,1,2,3,66.7,60.0,Rio de Janeiro
-2021-12-23,RJ,0,0,7,7,100.0,61.9,Rio de Janeiro
-2021-12-23,SC,0,10,14,24,58.3,71.4,Santa Catarina
-2021-12-24,RJ,0,1,2,3,66.7,70.7,Rio de Janeiro
-2021-12-24,SC,0,7,12,19,63.2,75.5,Santa Catarina
-2021-12-25,RJ,0,0,1,1,100.0,61.2,Rio de Janeiro
-2021-12-25,SC,0,3,2,5,40.0,66.5,Santa Catarina
-2021-12-26,RJ,0,0,2,2,100.0,64.1,Rio de Janeiro
-2021-12-26,SC,0,2,0,2,0.0,69.3,Santa Catarina
-2021-12-27,RJ,0,2,41,43,95.3,68.6,Rio de Janeiro
-2021-12-27,SC,0,2,2,4,50.0,76.1,Santa Catarina
-2021-12-28,SC,0,0,2,2,100.0,74.7,Santa Catarina
-2021-12-28,RJ,2,5,138,145,95.2,89.0,Rio de Janeiro
-2021-12-29,RJ,4,3,85,92,92.4,89.7,Rio de Janeiro
-2021-12-30,RJ,0,3,27,30,90.0,96.3,Rio de Janeiro
-2021-12-31,RJ,0,0,15,15,100.0,93.9,Rio de Janeiro
-2022-01-01,RJ,0,0,16,16,100.0,90.3,Rio de Janeiro
-2022-01-02,RJ,0,1,27,28,96.4,84.6,Rio de Janeiro
-2022-01-03,RJ,3,2,25,30,83.3,74.3,Rio de Janeiro
-2022-01-04,RJ,11,1,28,40,70.0,,Rio de Janeiro
-2022-01-05,RJ,11,0,12,23,52.2,,Rio de Janeiro
-2022-01-06,RJ,9,0,2,11,18.2,,Rio de Janeiro
+DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,MV_PORCENTAGEM_OMICRON,Inconclusivo,Estado
+2021-12-02,SC,1,0,1,0.0,,,Santa Catarina
+2021-12-03,SC,2,0,2,0.0,,,Santa Catarina
+2021-12-05,SC,1,0,1,0.0,,,Santa Catarina
+2021-12-06,SC,3,0,3,0.0,3.1,,Santa Catarina
+2021-12-07,SC,2,0,2,0.0,3.9,,Santa Catarina
+2021-12-08,SC,13,0,13,0.0,3.9,,Santa Catarina
+2021-12-09,SC,33,9,42,21.4,6.3,,Santa Catarina
+2021-12-10,SC,30,2,32,6.2,8.6,,Santa Catarina
+2021-12-11,SC,9,0,9,0.0,10.6,,Santa Catarina
+2021-12-12,SC,5,1,6,16.7,12.7,,Santa Catarina
+2021-12-13,SC,43,8,51,15.7,13.7,,Santa Catarina
+2021-12-14,SC,43,7,50,14.0,16.7,,Santa Catarina
+2021-12-15,SC,46,8,54,14.8,20.2,,Santa Catarina
+2021-12-16,SC,35,14,49,28.6,17.8,,Santa Catarina
+2021-12-17,SC,30,11,41,26.8,19.5,,Santa Catarina
+2021-12-18,SC,3,1,4,25.0,22.3,,Santa Catarina
+2021-12-19,SC,1,0,1,0.0,26.6,,Santa Catarina
+2021-12-20,SC,8,3,11,27.3,30.8,,Santa Catarina
+2021-12-21,SC,22,11,33,33.3,36.0,,Santa Catarina
+2021-12-22,SC,17,14,31,45.2,38.2,,Santa Catarina
+2021-12-23,SC,10,14,24,58.3,38.2,,Santa Catarina
+2021-12-24,SC,7,12,19,63.2,41.4,,Santa Catarina
+2021-12-25,SC,3,2,5,40.0,51.0,,Santa Catarina
+2021-12-26,SC,2,0,2,0.0,,,Santa Catarina
+2021-12-27,SC,2,2,4,50.0,,,Santa Catarina
+2021-12-28,SC,0,2,2,100.0,,,Santa Catarina
+2021-12-20,RJ,2,7,10,70.0,,1.0,Rio de Janeiro
+2021-12-21,RJ,0,1,2,50.0,,1.0,Rio de Janeiro
+2021-12-22,RJ,1,2,3,66.7,,0.0,Rio de Janeiro
+2021-12-23,RJ,0,7,7,100.0,79.1,0.0,Rio de Janeiro
+2021-12-24,RJ,1,2,3,66.7,82.7,0.0,Rio de Janeiro
+2021-12-25,RJ,0,1,1,100.0,89.1,0.0,Rio de Janeiro
+2021-12-26,RJ,0,2,2,100.0,92.8,0.0,Rio de Janeiro
+2021-12-27,RJ,2,41,43,95.3,91.4,0.0,Rio de Janeiro
+2021-12-28,RJ,5,138,145,95.2,96.1,2.0,Rio de Janeiro
+2021-12-29,RJ,3,85,92,92.4,96.1,4.0,Rio de Janeiro
+2021-12-30,RJ,3,27,30,90.0,95.6,0.0,Rio de Janeiro
+2021-12-31,RJ,0,15,15,100.0,93.9,0.0,Rio de Janeiro
+2022-01-01,RJ,0,16,16,100.0,90.3,0.0,Rio de Janeiro
+2022-01-02,RJ,1,27,28,96.4,84.6,0.0,Rio de Janeiro
+2022-01-03,RJ,2,25,30,83.3,74.3,3.0,Rio de Janeiro
+2022-01-04,RJ,1,28,40,70.0,,11.0,Rio de Janeiro
+2022-01-05,RJ,0,12,23,52.2,,11.0,Rio de Janeiro
+2022-01-06,RJ,0,2,11,18.2,,9.0,Rio de Janeiro
