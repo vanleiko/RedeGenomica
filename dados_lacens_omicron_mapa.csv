@@ -1,6 +1,6 @@
 UF_COLETA,Estado,TOTAL,Ômicron (%)
 AC,Acre,95,14.3
-AM,Amazonas,96,95.8
+AM,Amazonas,257,94.0
 AP,Amapá,66,0.0
 BA,Bahia,175,62.9
 CE,Ceará,508,91.8
@@ -14,7 +14,7 @@ RS,Rio Grande do Sul,82,90.0
 SC,Santa Catarina,492,51.0
 SE,Sergipe,60,14.3
 SP,São Paulo,464,99.9
-TO,Tocantins,183,21.3
+TO,Tocantins,184,21.3
 AL,Alagoas,0,0.0
 DF,Distrito Federal,0,0.0
 ES,Espírito Santo,0,0.0
