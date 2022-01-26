@@ -1,8 +1,11 @@
 DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,MV_PORCENTAGEM_OMICRON,Estado
 2021-12-01,AC,1,0,1,0.0,,Acre
-2021-12-07,AC,2,0,2,0.0,,Acre
-2021-12-09,AC,5,0,5,0.0,,Acre
-2021-12-10,AC,1,0,1,0.0,0.0,Acre
+2021-12-03,AC,7,0,7,0.0,,Acre
+2021-12-05,AC,3,0,3,0.0,,Acre
+2021-12-06,AC,8,0,8,0.0,0.0,Acre
+2021-12-07,AC,2,0,2,0.0,0.0,Acre
+2021-12-09,AC,8,0,8,0.0,0.0,Acre
+2021-12-10,AC,3,0,3,0.0,0.0,Acre
 2021-12-11,AC,3,0,3,0.0,0.0,Acre
 2021-12-13,AC,16,0,16,0.0,0.0,Acre
 2021-12-14,AC,4,0,4,0.0,0.0,Acre
@@ -17,21 +20,62 @@ DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,
 2021-12-27,AC,1,0,1,0.0,14.3,Acre
 2021-12-28,AC,4,0,4,0.0,14.3,Acre
 2021-12-29,AC,5,0,5,0.0,14.3,Acre
-2021-12-31,AC,0,1,1,100.0,,Acre
-2022-01-06,AC,1,0,1,0.0,,Acre
-2022-01-07,AC,1,0,1,0.0,,Acre
-2021-12-30,AM,1,0,1,0.0,,Amazonas
-2022-01-02,AM,0,9,9,100.0,,Amazonas
-2022-01-03,AM,2,13,15,86.7,,Amazonas
+2021-12-31,AC,0,1,1,100.0,14.3,Acre
+2022-01-03,AC,3,0,3,0.0,14.3,Acre
+2022-01-04,AC,1,0,1,0.0,14.3,Acre
+2022-01-05,AC,5,0,5,0.0,14.3,Acre
+2022-01-06,AC,2,0,2,0.0,0.0,Acre
+2022-01-07,AC,3,0,3,0.0,,Acre
+2022-01-10,AC,1,0,1,0.0,,Acre
+2022-01-11,AC,1,0,1,0.0,,Acre
+2021-09-03,AM,2,0,2,0.0,,Amazonas
+2021-09-08,AM,2,0,2,0.0,,Amazonas
+2021-09-09,AM,1,0,1,0.0,,Amazonas
+2021-09-10,AM,1,0,1,0.0,0.0,Amazonas
+2021-09-14,AM,1,0,1,0.0,0.0,Amazonas
+2021-09-18,AM,1,0,1,0.0,0.0,Amazonas
+2021-09-20,AM,1,0,1,0.0,0.0,Amazonas
+2021-09-24,AM,1,0,1,0.0,0.0,Amazonas
+2021-09-27,AM,1,0,1,0.0,0.0,Amazonas
+2021-09-29,AM,3,0,3,0.0,0.0,Amazonas
+2021-10-02,AM,2,0,2,0.0,0.0,Amazonas
+2021-10-10,AM,1,0,1,0.0,0.0,Amazonas
+2021-10-11,AM,1,0,1,0.0,0.0,Amazonas
+2021-10-13,AM,1,0,1,0.0,0.0,Amazonas
+2021-10-15,AM,1,0,1,0.0,0.0,Amazonas
+2021-10-18,AM,2,0,2,0.0,0.0,Amazonas
+2021-10-19,AM,3,0,3,0.0,0.0,Amazonas
+2021-10-20,AM,1,0,1,0.0,0.0,Amazonas
+2021-10-24,AM,1,0,1,0.0,0.0,Amazonas
+2021-10-25,AM,1,0,1,0.0,0.0,Amazonas
+2021-10-30,AM,1,0,1,0.0,0.0,Amazonas
+2021-10-31,AM,3,0,3,0.0,0.0,Amazonas
+2021-11-01,AM,1,0,1,0.0,0.0,Amazonas
+2021-11-10,AM,4,0,4,0.0,0.0,Amazonas
+2021-11-11,AM,2,0,2,0.0,0.0,Amazonas
+2021-11-16,AM,1,0,1,0.0,0.0,Amazonas
+2021-11-17,AM,2,0,2,0.0,0.0,Amazonas
+2021-11-18,AM,1,0,1,0.0,0.0,Amazonas
+2021-11-20,AM,4,0,4,0.0,0.0,Amazonas
+2021-11-22,AM,2,0,2,0.0,14.3,Amazonas
+2021-11-23,AM,1,0,1,0.0,26.7,Amazonas
+2021-12-30,AM,1,0,1,0.0,41.0,Amazonas
+2022-01-02,AM,0,9,9,100.0,53.0,Amazonas
+2022-01-03,AM,2,13,15,86.7,65.8,Amazonas
 2022-01-04,AM,0,41,41,100.0,79.7,Amazonas
 2022-01-05,AM,8,43,51,84.3,94.0,Amazonas
 2022-01-06,AM,6,50,56,89.3,94.0,Amazonas
 2022-01-07,AM,2,80,82,97.6,,Amazonas
 2022-01-08,AM,0,1,1,100.0,,Amazonas
 2022-01-09,AM,0,1,1,100.0,,Amazonas
-2021-12-06,AP,6,0,6,0.0,,Amapá
-2021-12-07,AP,9,0,9,0.0,,Amapá
-2021-12-08,AP,6,0,6,0.0,,Amapá
+2021-08-09,AP,1,0,1,0.0,,Amapá
+2021-09-10,AP,3,0,3,0.0,,Amapá
+2021-09-20,AP,1,0,1,0.0,,Amapá
+2021-09-21,AP,1,0,1,0.0,0.0,Amapá
+2021-09-23,AP,1,0,1,0.0,0.0,Amapá
+2021-12-06,AP,6,0,6,0.0,0.0,Amapá
+2021-12-07,AP,9,0,9,0.0,0.0,Amapá
+2021-12-08,AP,6,0,6,0.0,3.6,Amapá
 2021-12-09,AP,7,0,7,0.0,10.7,Amapá
 2021-12-10,AP,4,0,4,0.0,14.3,Amapá
 2021-12-11,AP,3,1,4,25.0,14.3,Amapá
@@ -82,9 +126,13 @@ DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,
 2022-01-04,CE,0,68,68,100.0,,Ceará
 2022-01-05,CE,5,98,103,95.1,,Ceará
 2022-01-06,CE,1,51,52,98.1,,Ceará
-2021-12-05,PA,1,0,1,0.0,,Pará
-2021-12-06,PA,2,0,2,0.0,,Pará
-2021-12-09,PA,5,0,5,0.0,,Pará
+2021-09-20,PA,1,0,1,0.0,,Pará
+2021-10-18,PA,2,0,2,0.0,,Pará
+2021-11-18,PA,1,0,1,0.0,,Pará
+2021-11-24,PA,1,0,1,0.0,0.0,Pará
+2021-12-05,PA,1,0,1,0.0,0.0,Pará
+2021-12-06,PA,2,0,2,0.0,0.0,Pará
+2021-12-09,PA,5,0,5,0.0,0.0,Pará
 2021-12-10,PA,3,0,3,0.0,0.0,Pará
 2021-12-12,PA,1,0,1,0.0,0.0,Pará
 2021-12-13,PA,2,0,2,0.0,0.0,Pará
@@ -102,9 +150,13 @@ DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,
 2021-12-30,PA,13,4,17,23.5,20.3,Pará
 2021-12-31,PA,4,0,4,0.0,33.5,Pará
 2022-01-01,PA,5,7,12,58.3,46.8,Pará
-2022-01-02,PA,3,1,4,25.0,,Pará
-2022-01-03,PA,1,38,39,97.4,,Pará
-2022-01-04,PA,1,32,33,97.0,,Pará
+2022-01-02,PA,3,1,4,25.0,57.3,Pará
+2022-01-03,PA,1,38,39,97.4,68.2,Pará
+2022-01-04,PA,1,32,33,97.0,82.5,Pará
+2022-01-05,PA,0,3,3,100.0,88.5,Pará
+2022-01-12,PA,0,5,5,100.0,,Pará
+2022-01-13,PA,0,1,1,100.0,,Pará
+2022-01-17,PA,0,1,1,100.0,,Pará
 2021-11-05,PB,1,0,1,0.0,,Paraíba
 2021-11-10,PB,1,0,1,0.0,,Paraíba
 2021-11-29,PB,10,0,10,0.0,,Paraíba
@@ -124,13 +176,13 @@ DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,
 2021-12-16,PB,2,0,2,0.0,4.6,Paraíba
 2021-12-17,PB,7,1,8,12.5,5.7,Paraíba
 2021-12-19,PB,4,0,4,0.0,8.2,Paraíba
-2021-12-20,PB,3,0,3,0.0,6.3,Paraíba
-2021-12-21,PB,13,1,14,7.1,8.7,Paraíba
-2021-12-22,PB,14,3,17,17.6,6.9,Paraíba
-2021-12-23,PB,13,1,14,7.1,14.1,Paraíba
-2021-12-24,PB,5,1,6,16.7,17.6,Paraíba
-2021-12-25,PB,6,0,6,0.0,19.5,Paraíba
-2021-12-26,PB,1,1,2,50.0,17.0,Paraíba
+2021-12-20,PB,3,0,3,0.0,5.3,Paraíba
+2021-12-21,PB,13,1,14,7.1,7.7,Paraíba
+2021-12-22,PB,14,3,17,17.6,5.9,Paraíba
+2021-12-23,PB,14,0,14,0.0,13.1,Paraíba
+2021-12-24,PB,5,1,6,16.7,16.6,Paraíba
+2021-12-25,PB,6,0,6,0.0,18.5,Paraíba
+2021-12-26,PB,1,1,2,50.0,16.0,Paraíba
 2021-12-27,PB,18,6,24,25.0,18.0,Paraíba
 2021-12-28,PB,12,3,15,20.0,15.6,Paraíba
 2021-12-29,PB,13,0,13,0.0,15.6,Paraíba
@@ -141,6 +193,9 @@ DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,
 2022-01-04,PB,10,9,19,47.4,,Paraíba
 2022-01-05,PB,0,1,1,100.0,,Paraíba
 2022-01-06,PB,0,4,4,100.0,,Paraíba
+2022-01-12,PI,0,2,2,100.0,84.6,Piauí
+2022-01-13,PI,2,8,10,80.0,84.6,Piauí
+2022-01-14,PI,4,23,27,85.2,84.6,Piauí
 2021-12-20,RJ,2,7,9,77.8,,Rio de Janeiro
 2021-12-21,RJ,0,1,1,100.0,,Rio de Janeiro
 2021-12-22,RJ,1,2,3,66.7,,Rio de Janeiro
@@ -153,7 +208,7 @@ DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,
 2021-12-29,RJ,3,85,88,96.6,96.9,Rio de Janeiro
 2021-12-30,RJ,3,27,30,90.0,96.4,Rio de Janeiro
 2021-12-31,RJ,0,15,15,100.0,96.0,Rio de Janeiro
-2022-01-01,RJ,0,14,14,100.0,96.0,Rio de Janeiro
+2022-01-01,RJ,0,13,13,100.0,96.0,Rio de Janeiro
 2022-01-02,RJ,1,27,28,96.4,96.4,Rio de Janeiro
 2022-01-03,RJ,2,24,26,92.3,97.9,Rio de Janeiro
 2022-01-04,RJ,1,27,28,96.4,,Rio de Janeiro
@@ -163,15 +218,19 @@ DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,
 2021-12-21,RN,3,0,3,0.0,,Rio Grande do Norte
 2021-12-22,RN,8,1,9,11.1,,Rio Grande do Norte
 2021-12-23,RN,6,0,6,0.0,8.7,Rio Grande do Norte
-2021-12-31,RN,2,0,2,0.0,18.8,Rio Grande do Norte
-2022-01-02,RN,1,0,1,0.0,26.9,Rio Grande do Norte
-2022-01-03,RN,6,6,12,50.0,39.6,Rio Grande do Norte
-2022-01-04,RN,5,12,17,70.6,39.6,Rio Grande do Norte
-2022-01-05,RN,13,17,30,56.7,53.9,Rio Grande do Norte
-2022-01-06,RN,0,3,3,100.0,68.2,Rio Grande do Norte
-2022-01-10,RN,1,0,1,0.0,,Rio Grande do Norte
-2022-01-11,RN,0,1,1,100.0,,Rio Grande do Norte
+2021-12-31,RN,2,0,2,0.0,18.3,Rio Grande do Norte
+2022-01-02,RN,1,0,1,0.0,27.0,Rio Grande do Norte
+2022-01-03,RN,6,6,12,50.0,37.0,Rio Grande do Norte
+2022-01-04,RN,6,12,18,66.7,48.7,Rio Grande do Norte
+2022-01-05,RN,14,22,36,61.1,62.9,Rio Grande do Norte
+2022-01-06,RN,4,17,21,81.0,77.2,Rio Grande do Norte
+2022-01-07,RN,4,18,22,81.8,81.6,Rio Grande do Norte
+2022-01-08,RN,0,3,3,100.0,83.5,Rio Grande do Norte
+2022-01-09,RN,0,10,10,100.0,89.1,Rio Grande do Norte
+2022-01-10,RN,5,21,26,80.8,91.8,Rio Grande do Norte
+2022-01-11,RN,1,4,5,80.0,,Rio Grande do Norte
 2022-01-13,RN,0,2,2,100.0,,Rio Grande do Norte
+2022-01-15,RN,0,1,1,100.0,,Rio Grande do Norte
 2021-12-22,RO,1,0,1,0.0,,Rondônia
 2021-12-23,RO,7,0,7,0.0,,Rondônia
 2021-12-24,RO,3,0,3,0.0,,Rondônia
@@ -301,7 +360,7 @@ DATA_COLETA,UF_COLETA,Provavel_Delta,Provavel_Omicron,TOTAL,PORCENTAGEM_OMICRON,
 2022-01-08,SP,0,39,39,100.0,,São Paulo
 2022-01-10,SP,0,12,12,100.0,,São Paulo
 2022-01-11,SP,0,1,1,100.0,,São Paulo
-2021-12-20,TO,37,1,38,2.6,,Tocantins
+2021-12-20,TO,36,1,37,2.7,,Tocantins
 2021-12-21,TO,27,3,30,10.0,,Tocantins
 2021-12-22,TO,11,0,11,0.0,,Tocantins
 2021-12-23,TO,15,0,15,0.0,11.3,Tocantins
