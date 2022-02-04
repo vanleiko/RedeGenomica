@@ -244,6 +244,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2020-06-01,Jun 2020,Nordeste,Pernambuco,Outros,B.1.1.28,3
 2020-06-01,Jun 2020,Nordeste,Pernambuco,Outros,B.1.1.33,5
 2020-06-01,Jun 2020,Nordeste,Pernambuco,Outros,Outras,4
+2020-06-01,Jun 2020,Nordeste,Rio Grande do Norte,Outros,Outras,1
 2020-06-01,Jun 2020,Norte,Acre,Outros,B.1.1.33,2
 2020-06-01,Jun 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,10
 2020-06-01,Jun 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,1
@@ -449,6 +450,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2020-09-01,Set 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.1,4
 2020-09-01,Set 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.1.33,5
 2020-09-01,Set 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,Outras,1
+2020-09-01,Set 2020,Nordeste,Rio Grande do Norte,Outros,B.1.1.33,1
 2020-09-01,Set 2020,Norte,Amazonas,FIOCRUZ,B.1.1,1
 2020-09-01,Set 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,9
 2020-09-01,Set 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,7
@@ -521,6 +523,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2020-10-01,Out 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.1.28,3
 2020-10-01,Out 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.1.33,3
 2020-10-01,Out 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,Outras,1
+2020-10-01,Out 2020,Nordeste,Rio Grande do Norte,Outros,Outras,1
 2020-10-01,Out 2020,Norte,Amazonas,FIOCRUZ,B.1.1,2
 2020-10-01,Out 2020,Norte,Amazonas,FIOCRUZ,B.1.1.28,8
 2020-10-01,Out 2020,Norte,Amazonas,FIOCRUZ,B.1.1.33,2
@@ -565,7 +568,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2020-10-01,Out 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.28,2
 2020-10-01,Out 2020,Sul,Rio Grande do Sul,FIOCRUZ,B.1.1.33,2
 2020-10-01,Out 2020,Sul,Rio Grande do Sul,Outros,B.1.1,6
-2020-10-01,Out 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,25
+2020-10-01,Out 2020,Sul,Rio Grande do Sul,Outros,B.1.1.28,26
 2020-10-01,Out 2020,Sul,Rio Grande do Sul,Outros,B.1.1.33,24
 2020-10-01,Out 2020,Sul,Rio Grande do Sul,Outros,Outras,6
 2020-10-01,Out 2020,Sul,Rio Grande do Sul,Outros,P.2,10
@@ -619,6 +622,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2020-11-01,Nov 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.1.28,1
 2020-11-01,Nov 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.1.33,3
 2020-11-01,Nov 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,Outras,1
+2020-11-01,Nov 2020,Nordeste,Rio Grande do Norte,Outros,B.1.1,1
 2020-11-01,Nov 2020,Nordeste,Rio Grande do Norte,Outros,B.1.1.28,1
 2020-11-01,Nov 2020,Nordeste,Rio Grande do Norte,Outros,B.1.1.33,2
 2020-11-01,Nov 2020,Nordeste,Rio Grande do Norte,Outros,Outras,1
@@ -745,10 +749,10 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2020-12-01,Dez 2020,Nordeste,Pernambuco,Outros,P.2,1
 2020-12-01,Dez 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.1,1
 2020-12-01,Dez 2020,Nordeste,Rio Grande do Norte,FIOCRUZ,P.2,7
-2020-12-01,Dez 2020,Nordeste,Rio Grande do Norte,Outros,B.1.1,4
+2020-12-01,Dez 2020,Nordeste,Rio Grande do Norte,Outros,B.1.1,5
 2020-12-01,Dez 2020,Nordeste,Rio Grande do Norte,Outros,B.1.1.28,2
 2020-12-01,Dez 2020,Nordeste,Rio Grande do Norte,Outros,B.1.1.33,1
-2020-12-01,Dez 2020,Nordeste,Rio Grande do Norte,Outros,P.2,5
+2020-12-01,Dez 2020,Nordeste,Rio Grande do Norte,Outros,P.2,6
 2020-12-01,Dez 2020,Norte,Acre,Outros,P.2,1
 2020-12-01,Dez 2020,Norte,Amapá,Outros,B.1.1.28,1
 2020-12-01,Dez 2020,Norte,Amapá,Outros,B.1.1.33,1
@@ -905,7 +909,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-01-01,Jan 2021,Nordeste,Piauí,Outros,Outras,1
 2021-01-01,Jan 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.1.28,1
 2021-01-01,Jan 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.2,3
-2021-01-01,Jan 2021,Nordeste,Rio Grande do Norte,Outros,B.1.1,1
+2021-01-01,Jan 2021,Nordeste,Rio Grande do Norte,Outros,B.1.1,2
 2021-01-01,Jan 2021,Nordeste,Rio Grande do Norte,Outros,B.1.1.28,2
 2021-01-01,Jan 2021,Nordeste,Rio Grande do Norte,Outros,Outras,1
 2021-01-01,Jan 2021,Nordeste,Rio Grande do Norte,Outros,P.1+P.1.* (Gama),12
@@ -1243,7 +1247,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-03-01,Mar 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,B.1.1.7 (Alfa),1
 2021-03-01,Mar 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1+P.1.* (Gama),59
 2021-03-01,Mar 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.2,7
-2021-03-01,Mar 2021,Nordeste,Rio Grande do Norte,Outros,P.1+P.1.* (Gama),1
+2021-03-01,Mar 2021,Nordeste,Rio Grande do Norte,Outros,P.1+P.1.* (Gama),2
 2021-03-01,Mar 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),47
 2021-03-01,Mar 2021,Nordeste,Sergipe,FIOCRUZ,P.2,3
 2021-03-01,Mar 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),37
@@ -1255,7 +1259,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-03-01,Mar 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),32
 2021-03-01,Mar 2021,Norte,Pará,FIOCRUZ,P.2,1
 2021-03-01,Mar 2021,Norte,Pará,Outros,B.1.1.33,1
-2021-03-01,Mar 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),8
+2021-03-01,Mar 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),9
 2021-03-01,Mar 2021,Norte,Pará,Outros,P.2,1
 2021-03-01,Mar 2021,Norte,Rondônia,Outros,P.1+P.1.* (Gama),2
 2021-03-01,Mar 2021,Norte,Roraima,Outros,P.1+P.1.* (Gama),4
@@ -1319,6 +1323,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-03-01,Mar 2021,Sul,Santa Catarina,FIOCRUZ,P.2,4
 2021-03-01,Mar 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),30
 2021-03-01,Mar 2021,Sul,Santa Catarina,Outros,P.2,2
+2021-04-01,Abr 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),1
 2021-04-01,Abr 2021,Centro-oeste,Goiás,FIOCRUZ,AY.*+B.1.617.2 (Delta),2
 2021-04-01,Abr 2021,Centro-oeste,Goiás,Outros,AY.*+B.1.617.2 (Delta),1
 2021-04-01,Abr 2021,Centro-oeste,Goiás,Outros,B.1.1.7 (Alfa),3
@@ -1336,6 +1341,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-04-01,Abr 2021,Nordeste,Bahia,Outros,P.2,1
 2021-04-01,Abr 2021,Nordeste,Ceará,FIOCRUZ,AY.*+B.1.617.2 (Delta),1
 2021-04-01,Abr 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),205
+2021-04-01,Abr 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),1
 2021-04-01,Abr 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),54
 2021-04-01,Abr 2021,Nordeste,Paraíba,FIOCRUZ,P.1+P.1.* (Gama),25
 2021-04-01,Abr 2021,Nordeste,Pernambuco,FIOCRUZ,B.1.1.7 (Alfa),2
@@ -1351,7 +1357,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-04-01,Abr 2021,Norte,Amazonas,FIOCRUZ,B.1.1.7 (Alfa),1
 2021-04-01,Abr 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),165
 2021-04-01,Abr 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),34
-2021-04-01,Abr 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),1
+2021-04-01,Abr 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),2
 2021-04-01,Abr 2021,Norte,Roraima,FIOCRUZ,P.1+P.1.* (Gama),1
 2021-04-01,Abr 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),18
 2021-04-01,Abr 2021,Sudeste,Espírito Santo,FIOCRUZ,B.1.1,1
@@ -1371,7 +1377,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.2,1
 2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),17
 2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,Outras,3
-2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),782
+2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),787
 2021-04-01,Abr 2021,Sudeste,Rio de Janeiro,Outros,P.2,7
 2021-04-01,Abr 2021,Sudeste,São Paulo,FIOCRUZ,P.1+P.1.* (Gama),1
 2021-04-01,Abr 2021,Sudeste,São Paulo,Outros,AY.*+B.1.617.2 (Delta),1
@@ -1404,7 +1410,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-05-01,Mai 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),247
 2021-05-01,Mai 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),39
 2021-05-01,Mai 2021,Centro-oeste,Mato Grosso do Sul,Outros,B.1.1.7 (Alfa),3
-2021-05-01,Mai 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1+P.1.* (Gama),80
+2021-05-01,Mai 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1+P.1.* (Gama),83
 2021-05-01,Mai 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),60
 2021-05-01,Mai 2021,Nordeste,Alagoas,Outros,P.1+P.1.* (Gama),2
 2021-05-01,Mai 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),227
@@ -1413,7 +1419,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-05-01,Mai 2021,Nordeste,Bahia,Outros,P.2,1
 2021-05-01,Mai 2021,Nordeste,Ceará,FIOCRUZ,Outras,1
 2021-05-01,Mai 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),253
-2021-05-01,Mai 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),17
+2021-05-01,Mai 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),18
 2021-05-01,Mai 2021,Nordeste,Maranhão,FIOCRUZ,AY.*+B.1.617.2 (Delta),8
 2021-05-01,Mai 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),43
 2021-05-01,Mai 2021,Nordeste,Maranhão,Outros,P.1+P.1.* (Gama),6
@@ -1430,14 +1436,15 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-05-01,Mai 2021,Nordeste,Rio Grande do Norte,Outros,P.1+P.1.* (Gama),7
 2021-05-01,Mai 2021,Nordeste,Sergipe,FIOCRUZ,Outras,1
 2021-05-01,Mai 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),15
-2021-05-01,Mai 2021,Nordeste,Sergipe,Outros,P.1+P.1.* (Gama),1
+2021-05-01,Mai 2021,Nordeste,Sergipe,Outros,P.1+P.1.* (Gama),3
 2021-05-01,Mai 2021,Norte,Acre,Outros,Outras,7
 2021-05-01,Mai 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),27
 2021-05-01,Mai 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),285
 2021-05-01,Mai 2021,Norte,Amazonas,Outros,B.1.1,1
 2021-05-01,Mai 2021,Norte,Amazonas,Outros,P.1+P.1.* (Gama),3
 2021-05-01,Mai 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),19
-2021-05-01,Mai 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),41
+2021-05-01,Mai 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),43
+2021-05-01,Mai 2021,Norte,Rondônia,Outros,P.1+P.1.* (Gama),1
 2021-05-01,Mai 2021,Norte,Roraima,FIOCRUZ,P.1+P.1.* (Gama),44
 2021-05-01,Mai 2021,Norte,Tocantins,FIOCRUZ,P.1+P.1.* (Gama),7
 2021-05-01,Mai 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),49
@@ -1446,13 +1453,13 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-05-01,Mai 2021,Sudeste,Minas Gerais,FIOCRUZ,AY.*+B.1.617.2 (Delta),1
 2021-05-01,Mai 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1+P.1.* (Gama),34
 2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,AY.*+B.1.617.2 (Delta),1
-2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),3
-2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),11
+2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,B.1.1.7 (Alfa),4
+2021-05-01,Mai 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),16
 2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,FIOCRUZ,AY.*+B.1.617.2 (Delta),2
 2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),138
 2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),19
 2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,Outras,2
-2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),1109
+2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.1+P.1.* (Gama),1111
 2021-05-01,Mai 2021,Sudeste,Rio de Janeiro,Outros,P.2,2
 2021-05-01,Mai 2021,Sudeste,São Paulo,FIOCRUZ,B.1.1.7 (Alfa),15
 2021-05-01,Mai 2021,Sudeste,São Paulo,FIOCRUZ,P.1+P.1.* (Gama),364
@@ -1460,7 +1467,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,B.1.1,1
 2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),170
 2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,Outras,73
-2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),3690
+2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),3695
 2021-05-01,Mai 2021,Sudeste,São Paulo,Outros,P.2,2
 2021-05-01,Mai 2021,Sul,Paraná,FIOCRUZ,B.1.1.7 (Alfa),3
 2021-05-01,Mai 2021,Sul,Paraná,FIOCRUZ,P.1+P.1.* (Gama),186
@@ -1470,7 +1477,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-05-01,Mai 2021,Sul,Rio Grande do Sul,FIOCRUZ,P.1+P.1.* (Gama),96
 2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,B.1.1.28,24
 2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,Outras,1
-2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),53
+2021-05-01,Mai 2021,Sul,Rio Grande do Sul,Outros,P.1+P.1.* (Gama),55
 2021-05-01,Mai 2021,Sul,Santa Catarina,FIOCRUZ,B.1.1.7 (Alfa),1
 2021-05-01,Mai 2021,Sul,Santa Catarina,FIOCRUZ,P.1+P.1.* (Gama),66
 2021-05-01,Mai 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),6
@@ -1482,7 +1489,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-06-01,Jun 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),569
 2021-06-01,Jun 2021,Centro-oeste,Mato Grosso,Outros,Outras,1
 2021-06-01,Jun 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),29
-2021-06-01,Jun 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1+P.1.* (Gama),59
+2021-06-01,Jun 2021,Centro-oeste,Mato Grosso do Sul,Outros,P.1+P.1.* (Gama),60
 2021-06-01,Jun 2021,Nordeste,Alagoas,FIOCRUZ,P.1+P.1.* (Gama),87
 2021-06-01,Jun 2021,Nordeste,Alagoas,Outros,P.1+P.1.* (Gama),7
 2021-06-01,Jun 2021,Nordeste,Bahia,FIOCRUZ,P.1+P.1.* (Gama),156
@@ -1508,6 +1515,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-06-01,Jun 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,P.1+P.1.* (Gama),65
 2021-06-01,Jun 2021,Nordeste,Rio Grande do Norte,Outros,P.1+P.1.* (Gama),22
 2021-06-01,Jun 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),9
+2021-06-01,Jun 2021,Nordeste,Sergipe,Outros,Outras,1
 2021-06-01,Jun 2021,Nordeste,Sergipe,Outros,P.1+P.1.* (Gama),5
 2021-06-01,Jun 2021,Norte,Acre,Outros,Outras,2
 2021-06-01,Jun 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),13
@@ -1527,10 +1535,10 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-06-01,Jun 2021,Sudeste,Minas Gerais,FIOCRUZ,B.1.1.7 (Alfa),2
 2021-06-01,Jun 2021,Sudeste,Minas Gerais,FIOCRUZ,Outras,1
 2021-06-01,Jun 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1+P.1.* (Gama),87
-2021-06-01,Jun 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),21
+2021-06-01,Jun 2021,Sudeste,Minas Gerais,Outros,P.1+P.1.* (Gama),22
 2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,AY.*+B.1.617.2 (Delta),21
 2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,FIOCRUZ,P.1+P.1.* (Gama),266
-2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,AY.*+B.1.617.2 (Delta),63
+2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,AY.*+B.1.617.2 (Delta),64
 2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.28,1
 2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,B.1.1.7 (Alfa),5
 2021-06-01,Jun 2021,Sudeste,Rio de Janeiro,Outros,Outras,7
@@ -1543,7 +1551,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,B.1.1.28,2
 2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),226
 2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,Outras,64
-2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),6008
+2021-06-01,Jun 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),6009
 2021-06-01,Jun 2021,Sul,Paraná,FIOCRUZ,AY.*+B.1.617.2 (Delta),23
 2021-06-01,Jun 2021,Sul,Paraná,FIOCRUZ,B.1.1.7 (Alfa),2
 2021-06-01,Jun 2021,Sul,Paraná,FIOCRUZ,Outras,1
@@ -1656,11 +1664,11 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-07-01,Jul 2021,Sul,Santa Catarina,Outros,AY.*+B.1.617.2 (Delta),1
 2021-07-01,Jul 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),21
 2021-08-01,Ago 2021,Centro-oeste,Distrito Federal,Outros,AY.*+B.1.617.2 (Delta),36
-2021-08-01,Ago 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),43
+2021-08-01,Ago 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),44
 2021-08-01,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,AY.*+B.1.617.2 (Delta),48
 2021-08-01,Ago 2021,Centro-oeste,Goiás,FIOCRUZ,P.1+P.1.* (Gama),79
 2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,AY.*+B.1.617.2 (Delta),79
-2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),393
+2021-08-01,Ago 2021,Centro-oeste,Goiás,Outros,P.1+P.1.* (Gama),395
 2021-08-01,Ago 2021,Centro-oeste,Mato Grosso,Outros,AY.*+B.1.617.2 (Delta),12
 2021-08-01,Ago 2021,Centro-oeste,Mato Grosso,Outros,P.1+P.1.* (Gama),19
 2021-08-01,Ago 2021,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,AY.*+B.1.617.2 (Delta),1
@@ -1702,6 +1710,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-08-01,Ago 2021,Nordeste,Rio Grande do Norte,Outros,P.1+P.1.* (Gama),10
 2021-08-01,Ago 2021,Nordeste,Sergipe,FIOCRUZ,AY.*+B.1.617.2 (Delta),4
 2021-08-01,Ago 2021,Nordeste,Sergipe,FIOCRUZ,P.1+P.1.* (Gama),29
+2021-08-01,Ago 2021,Norte,Acre,Outros,P.1+P.1.* (Gama),1
 2021-08-01,Ago 2021,Norte,Amapá,FIOCRUZ,AY.*+B.1.617.2 (Delta),10
 2021-08-01,Ago 2021,Norte,Amapá,FIOCRUZ,P.1+P.1.* (Gama),57
 2021-08-01,Ago 2021,Norte,Amapá,Outros,AY.*+B.1.617.2 (Delta),1
@@ -1709,14 +1718,17 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-08-01,Ago 2021,Norte,Amazonas,FIOCRUZ,AY.*+B.1.617.2 (Delta),43
 2021-08-01,Ago 2021,Norte,Amazonas,FIOCRUZ,Outras,3
 2021-08-01,Ago 2021,Norte,Amazonas,FIOCRUZ,P.1+P.1.* (Gama),495
+2021-08-01,Ago 2021,Norte,Amazonas,Outros,P.1+P.1.* (Gama),1
 2021-08-01,Ago 2021,Norte,Pará,FIOCRUZ,AY.*+B.1.617.2 (Delta),16
 2021-08-01,Ago 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),81
+2021-08-01,Ago 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),4
 2021-08-01,Ago 2021,Norte,Rondônia,FIOCRUZ,AY.*+B.1.617.2 (Delta),4
 2021-08-01,Ago 2021,Norte,Rondônia,FIOCRUZ,P.1+P.1.* (Gama),27
+2021-08-01,Ago 2021,Norte,Rondônia,Outros,P.1+P.1.* (Gama),7
 2021-08-01,Ago 2021,Norte,Roraima,FIOCRUZ,P.1+P.1.* (Gama),72
 2021-08-01,Ago 2021,Norte,Tocantins,FIOCRUZ,AY.*+B.1.617.2 (Delta),4
-2021-08-01,Ago 2021,Norte,Tocantins,Outros,AY.*+B.1.617.2 (Delta),10
-2021-08-01,Ago 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),33
+2021-08-01,Ago 2021,Norte,Tocantins,Outros,AY.*+B.1.617.2 (Delta),11
+2021-08-01,Ago 2021,Norte,Tocantins,Outros,P.1+P.1.* (Gama),39
 2021-08-01,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,AY.*+B.1.617.2 (Delta),212
 2021-08-01,Ago 2021,Sudeste,Espírito Santo,FIOCRUZ,P.1+P.1.* (Gama),60
 2021-08-01,Ago 2021,Sudeste,Espírito Santo,Outros,AY.*+B.1.617.2 (Delta),1
@@ -1735,7 +1747,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,AY.*+B.1.617.2 (Delta),3416
 2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,B.1.1.7 (Alfa),15
 2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,Outras,19
-2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),1703
+2021-08-01,Ago 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),1705
 2021-08-01,Ago 2021,Sul,Paraná,FIOCRUZ,AY.*+B.1.617.2 (Delta),41
 2021-08-01,Ago 2021,Sul,Paraná,FIOCRUZ,P.1+P.1.* (Gama),33
 2021-08-01,Ago 2021,Sul,Paraná,Outros,AY.*+B.1.617.2 (Delta),167
@@ -1750,7 +1762,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-08-01,Ago 2021,Sul,Santa Catarina,Outros,AY.*+B.1.617.2 (Delta),9
 2021-08-01,Ago 2021,Sul,Santa Catarina,Outros,P.1+P.1.* (Gama),43
 2021-09-01,Set 2021,Centro-oeste,Distrito Federal,Outros,AY.*+B.1.617.2 (Delta),206
-2021-09-01,Set 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),12
+2021-09-01,Set 2021,Centro-oeste,Distrito Federal,Outros,P.1+P.1.* (Gama),13
 2021-09-01,Set 2021,Centro-oeste,Goiás,FIOCRUZ,AY.*+B.1.617.2 (Delta),173
 2021-09-01,Set 2021,Centro-oeste,Goiás,FIOCRUZ,P.1+P.1.* (Gama),43
 2021-09-01,Set 2021,Centro-oeste,Goiás,Outros,AY.*+B.1.617.2 (Delta),222
@@ -1770,6 +1782,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-09-01,Set 2021,Nordeste,Ceará,FIOCRUZ,AY.*+B.1.617.2 (Delta),292
 2021-09-01,Set 2021,Nordeste,Ceará,FIOCRUZ,P.1+P.1.* (Gama),52
 2021-09-01,Set 2021,Nordeste,Ceará,Outros,AY.*+B.1.617.2 (Delta),3
+2021-09-01,Set 2021,Nordeste,Ceará,Outros,P.1+P.1.* (Gama),1
 2021-09-01,Set 2021,Nordeste,Maranhão,FIOCRUZ,AY.*+B.1.617.2 (Delta),40
 2021-09-01,Set 2021,Nordeste,Maranhão,FIOCRUZ,P.1+P.1.* (Gama),16
 2021-09-01,Set 2021,Nordeste,Maranhão,Outros,AY.*+B.1.617.2 (Delta),2
@@ -1825,7 +1838,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-09-01,Set 2021,Sudeste,São Paulo,Outros,B.1.1,2
 2021-09-01,Set 2021,Sudeste,São Paulo,Outros,B.1.1.28,1
 2021-09-01,Set 2021,Sudeste,São Paulo,Outros,Outras,16
-2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),293
+2021-09-01,Set 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),295
 2021-09-01,Set 2021,Sul,Paraná,FIOCRUZ,AY.*+B.1.617.2 (Delta),174
 2021-09-01,Set 2021,Sul,Paraná,FIOCRUZ,P.1+P.1.* (Gama),2
 2021-09-01,Set 2021,Sul,Paraná,Outros,AY.*+B.1.617.2 (Delta),140
@@ -1878,7 +1891,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-10-01,Out 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),14
 2021-10-01,Out 2021,Norte,Pará,Outros,AY.*+B.1.617.2 (Delta),3
 2021-10-01,Out 2021,Norte,Pará,Outros,P.1+P.1.* (Gama),2
-2021-10-01,Out 2021,Norte,Rondônia,FIOCRUZ,AY.*+B.1.617.2 (Delta),104
+2021-10-01,Out 2021,Norte,Rondônia,FIOCRUZ,AY.*+B.1.617.2 (Delta),109
 2021-10-01,Out 2021,Norte,Rondônia,FIOCRUZ,P.1+P.1.* (Gama),1
 2021-10-01,Out 2021,Norte,Rondônia,Outros,AY.*+B.1.617.2 (Delta),1
 2021-10-01,Out 2021,Norte,Roraima,FIOCRUZ,AY.*+B.1.617.2 (Delta),27
@@ -1932,7 +1945,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-11-01,Nov 2021,Nordeste,Piauí,Outros,AY.*+B.1.617.2 (Delta),29
 2021-11-01,Nov 2021,Nordeste,Piauí,Outros,P.1+P.1.* (Gama),1
 2021-11-01,Nov 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,AY.*+B.1.617.2 (Delta),19
-2021-11-01,Nov 2021,Nordeste,Rio Grande do Norte,Outros,AY.*+B.1.617.2 (Delta),22
+2021-11-01,Nov 2021,Nordeste,Rio Grande do Norte,Outros,AY.*+B.1.617.2 (Delta),23
 2021-11-01,Nov 2021,Nordeste,Sergipe,FIOCRUZ,AY.*+B.1.617.2 (Delta),9
 2021-11-01,Nov 2021,Norte,Amapá,FIOCRUZ,AY.*+B.1.617.2 (Delta),41
 2021-11-01,Nov 2021,Norte,Amapá,Outros,P.1+P.1.* (Gama),1
@@ -1942,6 +1955,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-11-01,Nov 2021,Norte,Pará,FIOCRUZ,AY.*+B.1.617.2 (Delta),236
 2021-11-01,Nov 2021,Norte,Pará,FIOCRUZ,P.1+P.1.* (Gama),2
 2021-11-01,Nov 2021,Norte,Pará,Outros,AY.*+B.1.617.2 (Delta),2
+2021-11-01,Nov 2021,Norte,Rondônia,FIOCRUZ,AY.*+B.1.617.2 (Delta),68
 2021-11-01,Nov 2021,Norte,Roraima,FIOCRUZ,AY.*+B.1.617.2 (Delta),5
 2021-11-01,Nov 2021,Norte,Tocantins,FIOCRUZ,AY.*+B.1.617.2 (Delta),35
 2021-11-01,Nov 2021,Norte,Tocantins,FIOCRUZ,P.1+P.1.* (Gama),1
@@ -1963,7 +1977,7 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-11-01,Nov 2021,Sul,Paraná,FIOCRUZ,AY.*+B.1.617.2 (Delta),138
 2021-11-01,Nov 2021,Sul,Paraná,FIOCRUZ,BA.* (Omicron),1
 2021-11-01,Nov 2021,Sul,Paraná,Outros,AY.*+B.1.617.2 (Delta),57
-2021-11-01,Nov 2021,Sul,Rio Grande do Sul,Outros,AY.*+B.1.617.2 (Delta),89
+2021-11-01,Nov 2021,Sul,Rio Grande do Sul,Outros,AY.*+B.1.617.2 (Delta),90
 2021-11-01,Nov 2021,Sul,Santa Catarina,FIOCRUZ,AY.*+B.1.617.2 (Delta),228
 2021-11-01,Nov 2021,Sul,Santa Catarina,Outros,AY.*+B.1.617.2 (Delta),527
 2021-12-01,Dez 2021,Centro-oeste,Distrito Federal,Outros,BA.* (Omicron),2
@@ -1986,30 +2000,32 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2021-12-01,Dez 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,AY.*+B.1.617.2 (Delta),19
 2021-12-01,Dez 2021,Nordeste,Rio Grande do Norte,FIOCRUZ,BA.* (Omicron),3
 2021-12-01,Dez 2021,Norte,Amapá,FIOCRUZ,AY.*+B.1.617.2 (Delta),2
-2021-12-01,Dez 2021,Norte,Amazonas,FIOCRUZ,AY.*+B.1.617.2 (Delta),316
-2021-12-01,Dez 2021,Norte,Amazonas,FIOCRUZ,BA.* (Omicron),27
+2021-12-01,Dez 2021,Norte,Amazonas,FIOCRUZ,AY.*+B.1.617.2 (Delta),319
+2021-12-01,Dez 2021,Norte,Amazonas,FIOCRUZ,BA.* (Omicron),29
 2021-12-01,Dez 2021,Norte,Pará,FIOCRUZ,AY.*+B.1.617.2 (Delta),2
+2021-12-01,Dez 2021,Norte,Rondônia,FIOCRUZ,AY.*+B.1.617.2 (Delta),7
 2021-12-01,Dez 2021,Norte,Roraima,FIOCRUZ,AY.*+B.1.617.2 (Delta),1
 2021-12-01,Dez 2021,Norte,Tocantins,FIOCRUZ,AY.*+B.1.617.2 (Delta),14
 2021-12-01,Dez 2021,Norte,Tocantins,Outros,BA.* (Omicron),1
 2021-12-01,Dez 2021,Sudeste,Espírito Santo,FIOCRUZ,BA.* (Omicron),20
 2021-12-01,Dez 2021,Sudeste,Minas Gerais,FIOCRUZ,AY.*+B.1.617.2 (Delta),28
-2021-12-01,Dez 2021,Sudeste,Minas Gerais,FIOCRUZ,BA.* (Omicron),22
+2021-12-01,Dez 2021,Sudeste,Minas Gerais,FIOCRUZ,BA.* (Omicron),23
 2021-12-01,Dez 2021,Sudeste,Minas Gerais,FIOCRUZ,P.1+P.1.* (Gama),1
 2021-12-01,Dez 2021,Sudeste,Minas Gerais,Outros,AY.*+B.1.617.2 (Delta),3
 2021-12-01,Dez 2021,Sudeste,Minas Gerais,Outros,BA.* (Omicron),13
 2021-12-01,Dez 2021,Sudeste,Rio de Janeiro,FIOCRUZ,AY.*+B.1.617.2 (Delta),5
 2021-12-01,Dez 2021,Sudeste,Rio de Janeiro,FIOCRUZ,BA.* (Omicron),101
-2021-12-01,Dez 2021,Sudeste,Rio de Janeiro,Outros,AY.*+B.1.617.2 (Delta),25
-2021-12-01,Dez 2021,Sudeste,São Paulo,Outros,AY.*+B.1.617.2 (Delta),1347
-2021-12-01,Dez 2021,Sudeste,São Paulo,Outros,BA.* (Omicron),1133
+2021-12-01,Dez 2021,Sudeste,Rio de Janeiro,Outros,AY.*+B.1.617.2 (Delta),32
+2021-12-01,Dez 2021,Sudeste,Rio de Janeiro,Outros,BA.* (Omicron),178
+2021-12-01,Dez 2021,Sudeste,São Paulo,Outros,AY.*+B.1.617.2 (Delta),1361
+2021-12-01,Dez 2021,Sudeste,São Paulo,Outros,BA.* (Omicron),1246
 2021-12-01,Dez 2021,Sudeste,São Paulo,Outros,P.1+P.1.* (Gama),50
 2021-12-01,Dez 2021,Sul,Paraná,FIOCRUZ,AY.*+B.1.617.2 (Delta),9
 2021-12-01,Dez 2021,Sul,Paraná,FIOCRUZ,BA.* (Omicron),15
 2021-12-01,Dez 2021,Sul,Paraná,Outros,Outras,1
 2021-12-01,Dez 2021,Sul,Rio Grande do Sul,FIOCRUZ,BA.* (Omicron),5
-2021-12-01,Dez 2021,Sul,Rio Grande do Sul,Outros,AY.*+B.1.617.2 (Delta),7
-2021-12-01,Dez 2021,Sul,Rio Grande do Sul,Outros,BA.* (Omicron),1
+2021-12-01,Dez 2021,Sul,Rio Grande do Sul,Outros,AY.*+B.1.617.2 (Delta),26
+2021-12-01,Dez 2021,Sul,Rio Grande do Sul,Outros,BA.* (Omicron),4
 2021-12-01,Dez 2021,Sul,Santa Catarina,FIOCRUZ,AY.*+B.1.617.2 (Delta),114
 2021-12-01,Dez 2021,Sul,Santa Catarina,FIOCRUZ,BA.* (Omicron),148
 2021-12-01,Dez 2021,Sul,Santa Catarina,Outros,AY.*+B.1.617.2 (Delta),213
@@ -2021,17 +2037,27 @@ Data,Periodo,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.* (Omicron),28
 2022-01-01,Jan 2022,Nordeste,Ceará,FIOCRUZ,AY.*+B.1.617.2 (Delta),8
 2022-01-01,Jan 2022,Nordeste,Ceará,FIOCRUZ,BA.* (Omicron),388
-2022-01-01,Jan 2022,Nordeste,Maranhão,FIOCRUZ,BA.* (Omicron),1
 2022-01-01,Jan 2022,Nordeste,Pernambuco,FIOCRUZ,AY.*+B.1.617.2 (Delta),15
 2022-01-01,Jan 2022,Nordeste,Pernambuco,FIOCRUZ,BA.* (Omicron),277
-2022-01-01,Jan 2022,Norte,Amazonas,FIOCRUZ,AY.*+B.1.617.2 (Delta),41
-2022-01-01,Jan 2022,Norte,Amazonas,FIOCRUZ,BA.* (Omicron),876
+2022-01-01,Jan 2022,Nordeste,Rio Grande do Norte,Outros,BA.* (Omicron),9
+2022-01-01,Jan 2022,Norte,Amazonas,FIOCRUZ,AY.*+B.1.617.2 (Delta),42
+2022-01-01,Jan 2022,Norte,Amazonas,FIOCRUZ,BA.* (Omicron),1120
+2022-01-01,Jan 2022,Norte,Pará,Outros,BA.* (Omicron),12
+2022-01-01,Jan 2022,Norte,Rondônia,FIOCRUZ,AY.*+B.1.617.2 (Delta),1
+2022-01-01,Jan 2022,Norte,Rondônia,FIOCRUZ,BA.* (Omicron),12
 2022-01-01,Jan 2022,Norte,Tocantins,FIOCRUZ,BA.* (Omicron),24
-2022-01-01,Jan 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.* (Omicron),101
+2022-01-01,Jan 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.* (Omicron),103
 2022-01-01,Jan 2022,Sudeste,Rio de Janeiro,FIOCRUZ,AY.*+B.1.617.2 (Delta),12
 2022-01-01,Jan 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BA.* (Omicron),280
-2022-01-01,Jan 2022,Sudeste,São Paulo,Outros,BA.* (Omicron),132
+2022-01-01,Jan 2022,Sudeste,Rio de Janeiro,Outros,AY.*+B.1.617.2 (Delta),3
+2022-01-01,Jan 2022,Sudeste,Rio de Janeiro,Outros,BA.* (Omicron),187
+2022-01-01,Jan 2022,Sudeste,São Paulo,Outros,AY.*+B.1.617.2 (Delta),33
+2022-01-01,Jan 2022,Sudeste,São Paulo,Outros,BA.* (Omicron),2411
+2022-01-01,Jan 2022,Sudeste,São Paulo,Outros,Outras,1
 2022-01-01,Jan 2022,Sul,Paraná,FIOCRUZ,BA.* (Omicron),1
+2022-01-01,Jan 2022,Sul,Paraná,Outros,BA.* (Omicron),13
+2022-01-01,Jan 2022,Sul,Rio Grande do Sul,Outros,AY.*+B.1.617.2 (Delta),3
+2022-01-01,Jan 2022,Sul,Rio Grande do Sul,Outros,BA.* (Omicron),55
 2022-01-01,Jan 2022,Sul,Santa Catarina,FIOCRUZ,BA.* (Omicron),79
 2022-01-01,Jan 2022,Sul,Santa Catarina,Outros,AY.*+B.1.617.2 (Delta),7
 2022-01-01,Jan 2022,Sul,Santa Catarina,Outros,BA.* (Omicron),87
