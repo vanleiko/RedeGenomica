@@ -1,10 +1,4 @@
 Data,Periodo,Região,Estado,Laboratório,Variante,Variantes relevantes,Classificação,Quantidade
-2020-01-01,Jan 2020,Centro-oeste,Mato Grosso,Outros,B.1.1.28,Outras,Não VOC,1
-2020-01-01,Jan 2020,Norte,Acre,Outros,B.1.1.33,Outras,Não VOC,1
-2020-01-01,Jan 2020,Norte,Pará,Outros,B.1,Outras,Não VOC,1
-2020-01-01,Jan 2020,Sudeste,Rio de Janeiro,FIOCRUZ,B.1.1.33,Outras,Não VOC,1
-2020-01-01,Jan 2020,Sudeste,Rio de Janeiro,Outros,B.1.1.33,Outras,Não VOC,1
-2020-01-01,Jan 2020,Sul,Paraná,FIOCRUZ,B.1.1.33,Outras,Não VOC,5
 2020-11-01,Nov 2020,Centro-oeste,Distrito Federal,Outros,B.1.1.28,Outras,Não VOC,1
 2020-11-01,Nov 2020,Centro-oeste,Distrito Federal,Outros,P.2,Outras,Não VOC,2
 2020-11-01,Nov 2020,Centro-oeste,Goiás,Outros,P.2,Outras,Não VOC,1
