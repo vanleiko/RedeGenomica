@@ -3,7 +3,7 @@ AC,Acre,468,100.0
 AM,Amazonas,654,99.1
 AP,Amapá,1215,100.0
 BA,Bahia,1185,98.0
-CE,Ceará,6991,100.0
+CE,Ceará,6999,100.0
 DF,Distrito Federal,750,100.0
 MA,Maranhão,626,98.6
 MG,Minas Gerais,1007,100.0
@@ -14,11 +14,11 @@ PI,Piauí,227,97.7
 RJ,Rio de Janeiro,922,100.0
 RN,Rio Grande do Norte,252,97.1
 RO,Rondônia,546,100.0
-RR,Roraima,508,92.9
-RS,Rio Grande do Sul,1779,100.0
+RR,Roraima,514,92.9
+RS,Rio Grande do Sul,2041,100.0
 SC,Santa Catarina,492,51.0
 SE,Sergipe,29,14.3
-SP,São Paulo,463,99.9
+SP,São Paulo,467,99.9
 TO,Tocantins,747,99.3
 AL,Alagoas,0,0.0
 ES,Espírito Santo,0,0.0
