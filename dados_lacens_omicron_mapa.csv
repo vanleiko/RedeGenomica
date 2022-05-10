@@ -1,28 +1,28 @@
-UF_COLETA,Estado,TOTAL,Ômicron (%)
-AC,Acre,468,100.0
-AM,Amazonas,654,99.1
-AP,Amapá,1215,100.0
-BA,Bahia,1185,98.0
-CE,Ceará,6999,100.0
-DF,Distrito Federal,750,100.0
-MA,Maranhão,626,98.6
-MG,Minas Gerais,1007,100.0
-MS,Mato Grosso do Sul,487,94.5
-PA,Pará,422,100.0
-PB,Paraíba,439,85.0
-PI,Piauí,227,97.7
-RJ,Rio de Janeiro,922,100.0
-RN,Rio Grande do Norte,252,97.1
-RO,Rondônia,546,100.0
-RR,Roraima,514,92.9
-RS,Rio Grande do Sul,2041,100.0
-SC,Santa Catarina,492,51.0
-SE,Sergipe,29,14.3
-SP,São Paulo,467,99.9
-TO,Tocantins,747,99.3
-AL,Alagoas,0,0.0
-ES,Espírito Santo,0,0.0
-GO,Goiás,0,0.0
-MT,Mato Grosso,0,0.0
-PR,Paraná,0,0.0
-PE,Pernambuco,0,0.0
+UF_COLETA,Estado,Amostras,ULTIMA_MV_PORC_OMICRON,% Provável BA.1,% Provável BA.2,Última coleta
+AC,Acre,440,100.0,100.0,0.0,13-02-2022
+AM,Amazonas,730,100.0,94.1,5.9,22-02-2022
+AP,Amapá,1192,100.0,100.0,0.0,21-02-2022
+BA,Bahia,1121,100.0,60.0,40.0,29-03-2022
+CE,Ceará,6985,100.0,100.0,0.0,08-04-2022
+DF,Distrito Federal,744,100.0,100.0,0.0,19-03-2022
+MA,Maranhão,1248,100.0,98.8,1.2,25-01-2022
+MG,Minas Gerais,999,100.0,99.8,0.2,06-02-2022
+MS,Mato Grosso do Sul,474,100.0,100.0,0.0,13-01-2022
+PA,Pará,426,100.0,100.0,0.0,15-02-2022
+PB,Paraíba,408,100.0,100.0,0.0,12-01-2022
+PI,Piauí,220,100.0,100.0,0.0,02-02-2022
+RJ,Rio de Janeiro,923,100.0,100.0,0.0,15-03-2022
+RN,Rio Grande do Norte,231,100.0,98.0,2.0,04-02-2022
+RO,Rondônia,508,100.0,100.0,0.0,14-03-2022
+RR,Roraima,522,100.0,71.1,28.9,18-02-2022
+RS,Rio Grande do Sul,1988,100.0,51.2,48.8,18-04-2022
+SC,Santa Catarina,492,51.0,51.0,0.0,28-12-2021
+SE,Sergipe,29,14.3,14.3,0.0,26-12-2021
+SP,São Paulo,467,100.0,99.9,0.1,17-01-2022
+TO,Tocantins,654,100.0,100.0,0.0,31-01-2022
+AL,Alagoas,0,0.0,0.0,0.0,Sem dados
+ES,Espírito Santo,0,0.0,0.0,0.0,Sem dados
+GO,Goiás,0,0.0,0.0,0.0,Sem dados
+MT,Mato Grosso,0,0.0,0.0,0.0,Sem dados
+PR,Paraná,0,0.0,0.0,0.0,Sem dados
+PE,Pernambuco,0,0.0,0.0,0.0,Sem dados

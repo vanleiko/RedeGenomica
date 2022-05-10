@@ -4032,24 +4032,29 @@ Data,Periodo,Região,Estado,Laboratório,Variante,Variantes relevantes,Classific
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,AY.43.2 (Delta),AY.*+B.1.617.2 (Delta),VOC,1
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,AY.46.3 (Delta),AY.*+B.1.617.2 (Delta),VOC,1
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,AY.99.2 (Delta),AY.99.2 (Delta),VOC,15
-2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1 (Omicron),BA.1 (Omicron),VOC,3
-2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,11
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1 (Omicron),BA.1 (Omicron),VOC,8
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,24
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.1.1 (Omicron),BA.* (Omicron),VOC,2
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.1.12 (Omicron),BA.* (Omicron),VOC,5
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.1.14 (Omicron),BA.* (Omicron),VOC,1
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.1.16 (Omicron),BA.* (Omicron),VOC,14
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.1.2 (Omicron),BA.* (Omicron),VOC,4
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.1.8 (Omicron),BA.* (Omicron),VOC,2
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.13 (Omicron),BA.* (Omicron),VOC,1
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.13.1 (Omicron),BA.* (Omicron),VOC,2
-2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.14 (Omicron),BA.1.14 (Omicron),VOC,36
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.14 (Omicron),BA.1.14 (Omicron),VOC,41
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,7
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.14.2 (Omicron),BA.* (Omicron),VOC,7
-2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,46
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,48
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.16 (Omicron),BA.* (Omicron),VOC,6
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.17 (Omicron),BA.* (Omicron),VOC,7
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.17.2 (Omicron),BA.* (Omicron),VOC,15
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.18 (Omicron),BA.* (Omicron),VOC,1
 2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.19 (Omicron),BA.* (Omicron),VOC,3
-2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.9 (Omicron),BA.* (Omicron),VOC,2
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.20 (Omicron),BA.* (Omicron),VOC,2
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.1.9 (Omicron),BA.* (Omicron),VOC,3
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.2 (Omicron),BA.2 (Omicron),VOC,1
+2022-01-01,Jan 2022,Nordeste,Bahia,Outros,BA.2.9 (Omicron),BA.* (Omicron),VOC,2
 2022-01-01,Jan 2022,Nordeste,Ceará,FIOCRUZ,AY.34.1.1 (Delta),AY.*+B.1.617.2 (Delta),VOC,2
 2022-01-01,Jan 2022,Nordeste,Ceará,FIOCRUZ,AY.4.2 (Delta),AY.*+B.1.617.2 (Delta),VOC,1
 2022-01-01,Jan 2022,Nordeste,Ceará,FIOCRUZ,AY.99.1 (Delta),AY.*+B.1.617.2 (Delta),VOC,1
@@ -4656,9 +4661,9 @@ Data,Periodo,Região,Estado,Laboratório,Variante,Variantes relevantes,Classific
 2022-02-01,Fev 2022,Nordeste,Bahia,FIOCRUZ,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,70
 2022-02-01,Fev 2022,Nordeste,Bahia,FIOCRUZ,BA.1.16 (Omicron),BA.* (Omicron),VOC,2
 2022-02-01,Fev 2022,Nordeste,Bahia,FIOCRUZ,BA.1.17.2 (Omicron),BA.* (Omicron),VOC,1
-2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1 (Omicron),BA.1 (Omicron),VOC,13
-2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,22
-2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.1.1 (Omicron),BA.* (Omicron),VOC,5
+2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1 (Omicron),BA.1 (Omicron),VOC,17
+2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,37
+2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.1.1 (Omicron),BA.* (Omicron),VOC,6
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.1.12 (Omicron),BA.* (Omicron),VOC,8
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.1.14 (Omicron),BA.* (Omicron),VOC,1
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.1.16 (Omicron),BA.* (Omicron),VOC,24
@@ -4666,11 +4671,11 @@ Data,Periodo,Região,Estado,Laboratório,Variante,Variantes relevantes,Classific
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.1.7 (Omicron),BA.* (Omicron),VOC,3
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.13 (Omicron),BA.* (Omicron),VOC,1
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.13.1 (Omicron),BA.* (Omicron),VOC,4
-2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.14 (Omicron),BA.1.14 (Omicron),VOC,41
-2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,8
+2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.14 (Omicron),BA.1.14 (Omicron),VOC,49
+2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,14
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.14.2 (Omicron),BA.* (Omicron),VOC,2
-2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,16
-2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.16 (Omicron),BA.* (Omicron),VOC,5
+2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,20
+2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.16 (Omicron),BA.* (Omicron),VOC,6
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.17 (Omicron),BA.* (Omicron),VOC,6
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.17.2 (Omicron),BA.* (Omicron),VOC,24
 2022-02-01,Fev 2022,Nordeste,Bahia,Outros,BA.1.18 (Omicron),BA.* (Omicron),VOC,1
@@ -4782,7 +4787,7 @@ Data,Periodo,Região,Estado,Laboratório,Variante,Variantes relevantes,Classific
 2022-02-01,Fev 2022,Norte,Acre,Outros,BA.1.14 (Omicron),BA.1.14 (Omicron),VOC,2
 2022-02-01,Fev 2022,Norte,Acre,Outros,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,1
 2022-02-01,Fev 2022,Norte,Acre,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,1
-2022-02-01,Fev 2022,Norte,Acre,Outros,BA.1.17.2 (Omicron),BA.* (Omicron),VOC,6
+2022-02-01,Fev 2022,Norte,Acre,Outros,BA.1.17.2 (Omicron),BA.* (Omicron),VOC,7
 2022-02-01,Fev 2022,Norte,Acre,Outros,BA.1.20 (Omicron),BA.* (Omicron),VOC,1
 2022-02-01,Fev 2022,Norte,Amapá,FIOCRUZ,BA.1.1.1 (Omicron),BA.* (Omicron),VOC,2
 2022-02-01,Fev 2022,Norte,Amapá,FIOCRUZ,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,4
@@ -4803,14 +4808,14 @@ Data,Periodo,Região,Estado,Laboratório,Variante,Variantes relevantes,Classific
 2022-02-01,Fev 2022,Norte,Amazonas,FIOCRUZ,BA.1.9 (Omicron),BA.* (Omicron),VOC,9
 2022-02-01,Fev 2022,Norte,Pará,FIOCRUZ,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,1
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1 (Omicron),BA.1 (Omicron),VOC,2
-2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,35
+2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,36
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.1.1 (Omicron),BA.* (Omicron),VOC,1
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.1.10 (Omicron),BA.* (Omicron),VOC,1
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.1.13 (Omicron),BA.* (Omicron),VOC,1
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.1.14 (Omicron),BA.* (Omicron),VOC,2
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.1.15 (Omicron),BA.* (Omicron),VOC,1
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.14 (Omicron),BA.1.14 (Omicron),VOC,15
-2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,85
+2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,89
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.14.2 (Omicron),BA.* (Omicron),VOC,4
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,5
 2022-02-01,Fev 2022,Norte,Pará,Outros,BA.1.16 (Omicron),BA.* (Omicron),VOC,3
@@ -5080,14 +5085,15 @@ Data,Periodo,Região,Estado,Laboratório,Variante,Variantes relevantes,Classific
 2022-03-01,Mar 2022,Nordeste,Bahia,FIOCRUZ,BA.1.16 (Omicron),BA.* (Omicron),VOC,2
 2022-03-01,Mar 2022,Nordeste,Bahia,FIOCRUZ,BA.1.4 (Omicron),BA.* (Omicron),VOC,1
 2022-03-01,Mar 2022,Nordeste,Bahia,FIOCRUZ,BA.2.9 (Omicron),BA.* (Omicron),VOC,3
-2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1 (Omicron),BA.1 (Omicron),VOC,7
-2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,10
+2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1 (Omicron),BA.1 (Omicron),VOC,8
+2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,12
 2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.1.1 (Omicron),BA.* (Omicron),VOC,1
 2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.1.2 (Omicron),BA.* (Omicron),VOC,1
-2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.14 (Omicron),BA.1.14 (Omicron),VOC,8
+2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.14 (Omicron),BA.1.14 (Omicron),VOC,11
 2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,4
-2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,3
+2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,4
 2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.17.2 (Omicron),BA.* (Omicron),VOC,2
+2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.1.9 (Omicron),BA.* (Omicron),VOC,1
 2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.2 (Omicron),BA.2 (Omicron),VOC,4
 2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.2.5 (Omicron),BA.* (Omicron),VOC,1
 2022-03-01,Mar 2022,Nordeste,Bahia,Outros,BA.2.9 (Omicron),BA.* (Omicron),VOC,1
@@ -5310,18 +5316,22 @@ Data,Periodo,Região,Estado,Laboratório,Variante,Variantes relevantes,Classific
 2022-03-01,Mar 2022,Sul,Santa Catarina,Outros,BA.3 (Omicron),BA.* (Omicron),VOC,1
 2022-04-01,Abr 2022,Nordeste,Ceará,FIOCRUZ,BA.1.20 (Omicron),BA.* (Omicron),VOC,1
 2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1 (Omicron),BA.1 (Omicron),VOC,6
-2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,19
-2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,4
-2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,2
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,23
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1.14.1 (Omicron),BA.* (Omicron),VOC,5
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1.15 (Omicron),BA.1.15 (Omicron),VOC,3
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1.16 (Omicron),BA.* (Omicron),VOC,1
 2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1.17 (Omicron),BA.* (Omicron),VOC,3
 2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.1.17.2 (Omicron),BA.* (Omicron),VOC,2
-2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2 (Omicron),BA.2 (Omicron),VOC,14
-2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.10 (Omicron),BA.* (Omicron),VOC,2
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2 (Omicron),BA.2 (Omicron),VOC,18
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.10 (Omicron),BA.* (Omicron),VOC,4
 2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.12 (Omicron),BA.* (Omicron),VOC,2
-2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.13 (Omicron),BA.* (Omicron),VOC,1
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.13 (Omicron),BA.* (Omicron),VOC,2
 2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.16 (Omicron),BA.* (Omicron),VOC,1
-2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.3 (Omicron),BA.* (Omicron),VOC,1
-2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.9 (Omicron),BA.* (Omicron),VOC,30
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.3 (Omicron),BA.* (Omicron),VOC,2
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.5 (Omicron),BA.* (Omicron),VOC,2
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.6 (Omicron),BA.* (Omicron),VOC,1
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,BA.2.9 (Omicron),BA.* (Omicron),VOC,43
+2022-04-01,Abr 2022,Sudeste,São Paulo,Outros,XE (Omicron),BA.* (Omicron),VOC,1
 2022-04-01,Abr 2022,Sul,Santa Catarina,Outros,BA.1.1 (Omicron),BA.1.1 (Omicron),VOC,5
 2022-04-01,Abr 2022,Sul,Santa Catarina,Outros,BA.2 (Omicron),BA.2 (Omicron),VOC,8
 2022-04-01,Abr 2022,Sul,Santa Catarina,Outros,BA.2.5 (Omicron),BA.* (Omicron),VOC,7
