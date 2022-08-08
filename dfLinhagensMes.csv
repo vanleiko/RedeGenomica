@@ -1,9 +1,12 @@
 Linhagem,Frequencia,Porcentagem
-BA.5.2.1 (Omicron),422,36.5
-BA.5.1 (Omicron),337,29.2
-BA.4 (Omicron),152,13.2
-BA.5.* (Omicron),79,6.8
-BA.2.* (Omicron),71,6.1
-BA.4.* (Omicron),57,4.9
-BA.2 (Omicron),35,3.0
-Outras,2,0.2
+BA.5.2.1 (Omicron),763,39.8
+BA.5.1 (Omicron),514,26.8
+BA.4 (Omicron),232,12.1
+BA.5.* (Omicron),120,6.3
+BA.2.* (Omicron),95,5.0
+BA.2 (Omicron),92,4.8
+BA.4.* (Omicron),86,4.5
+Outras,10,0.5
+BA.1.1 (Omicron),2,0.1
+BA.1.* (Omicron),1,0.1
+BA.1 (Omicron),1,0.1
