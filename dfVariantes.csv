@@ -6858,7 +6858,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-07-01,Jul 2022,Nordeste,Bahia,FIOCRUZ,BF.12,Outras,2
 2022-07-01,Jul 2022,Nordeste,Bahia,Outros,BA.1.14.1,BA.1.* (Omicron),2
 2022-07-01,Jul 2022,Nordeste,Bahia,Outros,BA.4,BA.4.* (Omicron),29
-2022-07-01,Jul 2022,Nordeste,Bahia,Outros,BA.4.1,BA.4.* (Omicron),12
+2022-07-01,Jul 2022,Nordeste,Bahia,Outros,BA.4.1,BA.4.* (Omicron),13
 2022-07-01,Jul 2022,Nordeste,Bahia,Outros,BA.4.6,BA.4.* (Omicron),2
 2022-07-01,Jul 2022,Nordeste,Bahia,Outros,BA.5.1,BA.5.1 (Omicron),35
 2022-07-01,Jul 2022,Nordeste,Bahia,Outros,BA.5.1.22,BA.5.* (Omicron),1
@@ -7668,9 +7668,10 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-10-01,Out 2022,Centro-oeste,Mato Grosso,Outros,BQ.1.1,BQ.1.1 (Omicron),1
 2022-10-01,Out 2022,Nordeste,Alagoas,FIOCRUZ,BQ.1.1,BQ.1.1 (Omicron),1
 2022-10-01,Out 2022,Nordeste,Bahia,FIOCRUZ,BA.5.3.1,BA.5.3.1 (Omicron),1
-2022-10-01,Out 2022,Nordeste,Bahia,Outros,BA.5.1,BA.5.1 (Omicron),2
+2022-10-01,Out 2022,Nordeste,Bahia,Outros,BA.5.1,BA.5.1 (Omicron),7
 2022-10-01,Out 2022,Nordeste,Bahia,Outros,BA.5.2.1,BA.5.2.1 (Omicron),2
-2022-10-01,Out 2022,Nordeste,Bahia,Outros,BQ.1.1,BQ.1.1 (Omicron),4
+2022-10-01,Out 2022,Nordeste,Bahia,Outros,BA.5.3.1,BA.5.3.1 (Omicron),1
+2022-10-01,Out 2022,Nordeste,Bahia,Outros,BQ.1.1,BQ.1.1 (Omicron),5
 2022-10-01,Out 2022,Nordeste,Bahia,Outros,BQ.1.18,BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Nordeste,Ceará,FIOCRUZ,BA.4.6,BA.4.* (Omicron),1
 2022-10-01,Out 2022,Nordeste,Ceará,Outros,BA.4.6,BA.4.* (Omicron),1
@@ -7829,6 +7830,13 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,BA.5.1,BA.5.1 (Omicron),2
 2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,BA.5.3.1,BA.5.3.1 (Omicron),2
 2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,BQ.1.1,BQ.1.1 (Omicron),3
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,BA.4.6,BA.4.* (Omicron),1
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,BA.5.1,BA.5.1 (Omicron),6
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,BA.5.2.1,BA.5.2.1 (Omicron),1
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,BA.5.3.1,BA.5.3.1 (Omicron),7
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,BQ.1,BQ.1.* (Omicron),4
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,BQ.1.1,BQ.1.1 (Omicron),36
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,XBB,Outras,1
 2022-11-01,Nov 2022,Nordeste,Ceará,FIOCRUZ,BA.4,BA.4.* (Omicron),1
 2022-11-01,Nov 2022,Nordeste,Ceará,FIOCRUZ,BA.5.1,BA.5.1 (Omicron),1
 2022-11-01,Nov 2022,Nordeste,Ceará,FIOCRUZ,BA.5.3.1,BA.5.3.1 (Omicron),3
