@@ -3268,7 +3268,7 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-09-01,Set 2022,Norte,Amazonas,FIOCRUZ,Outras,23
 2022-09-01,Set 2022,Norte,Pará,Outros,BA.4+BA.4.* (Omicron),2
 2022-09-01,Set 2022,Norte,Pará,Outros,BA.5+BA.5.* (Omicron),3
-2022-09-01,Set 2022,Norte,Pará,Outros,Outras,2
+2022-09-01,Set 2022,Norte,Pará,Outros,DL.1,2
 2022-09-01,Set 2022,Norte,Rondônia,FIOCRUZ,BA.5+BA.5.* (Omicron),1
 2022-09-01,Set 2022,Norte,Tocantins,FIOCRUZ,BA.5+BA.5.* (Omicron),3
 2022-09-01,Set 2022,Sudeste,Espírito Santo,Outros,BA.4+BA.4.* (Omicron),5
@@ -3308,18 +3308,19 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-09-01,Set 2022,Sul,Santa Catarina,Outros,Outras,5
 2022-10-01,Out 2022,Centro-oeste,Distrito Federal,Outros,BA.5+BA.5.* (Omicron),9
 2022-10-01,Out 2022,Centro-oeste,Distrito Federal,Outros,BQ.1+BQ.1.* (Omicron),2
-2022-10-01,Out 2022,Centro-oeste,Distrito Federal,Outros,Outras,3
+2022-10-01,Out 2022,Centro-oeste,Distrito Federal,Outros,DL.1,1
+2022-10-01,Out 2022,Centro-oeste,Distrito Federal,Outros,Outras,2
 2022-10-01,Out 2022,Centro-oeste,Goiás,Outros,Outras,1
 2022-10-01,Out 2022,Centro-oeste,Mato Grosso,Outros,BQ.1+BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Nordeste,Alagoas,FIOCRUZ,BQ.1+BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Nordeste,Bahia,FIOCRUZ,BA.5+BA.5.* (Omicron),1
 2022-10-01,Out 2022,Nordeste,Bahia,Outros,BA.5+BA.5.* (Omicron),5
 2022-10-01,Out 2022,Nordeste,Bahia,Outros,BQ.1+BQ.1.* (Omicron),7
-2022-10-01,Out 2022,Nordeste,Bahia,Outros,Outras,5
+2022-10-01,Out 2022,Nordeste,Bahia,Outros,DL.1,5
 2022-10-01,Out 2022,Nordeste,Ceará,FIOCRUZ,BA.4+BA.4.* (Omicron),1
-2022-10-01,Out 2022,Nordeste,Ceará,FIOCRUZ,Outras,1
+2022-10-01,Out 2022,Nordeste,Ceará,FIOCRUZ,DL.1,1
 2022-10-01,Out 2022,Nordeste,Ceará,Outros,BA.4+BA.4.* (Omicron),1
-2022-10-01,Out 2022,Nordeste,Ceará,Outros,Outras,1
+2022-10-01,Out 2022,Nordeste,Ceará,Outros,DL.1,1
 2022-10-01,Out 2022,Nordeste,Maranhão,FIOCRUZ,BA.5+BA.5.* (Omicron),1
 2022-10-01,Out 2022,Nordeste,Paraíba,FIOCRUZ,BA.1+BA.1.* (Omicron),1
 2022-10-01,Out 2022,Nordeste,Paraíba,FIOCRUZ,BA.4+BA.4.* (Omicron),2
@@ -3327,15 +3328,18 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-10-01,Out 2022,Nordeste,Pernambuco,FIOCRUZ,BA.4+BA.4.* (Omicron),2
 2022-10-01,Out 2022,Nordeste,Pernambuco,FIOCRUZ,BA.5+BA.5.* (Omicron),5
 2022-10-01,Out 2022,Nordeste,Pernambuco,FIOCRUZ,BQ.1+BQ.1.* (Omicron),6
-2022-10-01,Out 2022,Nordeste,Pernambuco,FIOCRUZ,Outras,54
+2022-10-01,Out 2022,Nordeste,Pernambuco,FIOCRUZ,DL.1,53
+2022-10-01,Out 2022,Nordeste,Pernambuco,FIOCRUZ,Outras,1
 2022-10-01,Out 2022,Nordeste,Pernambuco,Outros,BA.5+BA.5.* (Omicron),10
 2022-10-01,Out 2022,Nordeste,Pernambuco,Outros,BQ.1+BQ.1.* (Omicron),2
-2022-10-01,Out 2022,Nordeste,Pernambuco,Outros,Outras,35
+2022-10-01,Out 2022,Nordeste,Pernambuco,Outros,DL.1,34
+2022-10-01,Out 2022,Nordeste,Pernambuco,Outros,Outras,1
 2022-10-01,Out 2022,Norte,Amazonas,FIOCRUZ,BA.5+BA.5.* (Omicron),2
 2022-10-01,Out 2022,Norte,Amazonas,FIOCRUZ,BQ.1+BQ.1.* (Omicron),1
-2022-10-01,Out 2022,Norte,Amazonas,FIOCRUZ,Outras,535
+2022-10-01,Out 2022,Norte,Amazonas,FIOCRUZ,DL.1,4
+2022-10-01,Out 2022,Norte,Amazonas,FIOCRUZ,Outras,531
 2022-10-01,Out 2022,Norte,Amazonas,Outros,Outras,3
-2022-10-01,Out 2022,Norte,Pará,Outros,Outras,10
+2022-10-01,Out 2022,Norte,Pará,Outros,DL.1,10
 2022-10-01,Out 2022,Norte,Tocantins,FIOCRUZ,BA.5+BA.5.* (Omicron),1
 2022-10-01,Out 2022,Norte,Tocantins,Outros,BQ.1+BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,Espírito Santo,Outros,BA.2+BA.2.* (Omicron),1
@@ -3355,12 +3359,15 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-10-01,Out 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BA.4+BA.4.* (Omicron),7
 2022-10-01,Out 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BA.5+BA.5.* (Omicron),26
 2022-10-01,Out 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BQ.1+BQ.1.* (Omicron),15
-2022-10-01,Out 2022,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,14
+2022-10-01,Out 2022,Sudeste,Rio de Janeiro,FIOCRUZ,DL.1,12
+2022-10-01,Out 2022,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,2
 2022-10-01,Out 2022,Sudeste,Rio de Janeiro,Outros,BA.2+BA.2.* (Omicron),6
 2022-10-01,Out 2022,Sudeste,Rio de Janeiro,Outros,BA.4+BA.4.* (Omicron),22
 2022-10-01,Out 2022,Sudeste,Rio de Janeiro,Outros,BA.5+BA.5.* (Omicron),80
 2022-10-01,Out 2022,Sudeste,Rio de Janeiro,Outros,BQ.1+BQ.1.* (Omicron),21
-2022-10-01,Out 2022,Sudeste,Rio de Janeiro,Outros,Outras,36
+2022-10-01,Out 2022,Sudeste,Rio de Janeiro,Outros,DL.1,12
+2022-10-01,Out 2022,Sudeste,Rio de Janeiro,Outros,Outras,23
+2022-10-01,Out 2022,Sudeste,Rio de Janeiro,Outros,XBB.*,1
 2022-10-01,Out 2022,Sudeste,São Paulo,FIOCRUZ,B.1.617.2+AY.* (Delta),1
 2022-10-01,Out 2022,Sudeste,São Paulo,FIOCRUZ,BA.4+BA.4.* (Omicron),2
 2022-10-01,Out 2022,Sudeste,São Paulo,FIOCRUZ,BA.5+BA.5.* (Omicron),3
@@ -3369,7 +3376,9 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.4+BA.4.* (Omicron),35
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5+BA.5.* (Omicron),185
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1+BQ.1.* (Omicron),124
-2022-10-01,Out 2022,Sudeste,São Paulo,Outros,Outras,44
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,DL.1,6
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,Outras,37
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,XBB.*,1
 2022-10-01,Out 2022,Sul,Paraná,FIOCRUZ,BA.4+BA.4.* (Omicron),3
 2022-10-01,Out 2022,Sul,Paraná,FIOCRUZ,BA.5+BA.5.* (Omicron),11
 2022-10-01,Out 2022,Sul,Paraná,FIOCRUZ,BQ.1+BQ.1.* (Omicron),4
@@ -3377,7 +3386,8 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-10-01,Out 2022,Sul,Paraná,Outros,BA.2+BA.2.* (Omicron),5
 2022-10-01,Out 2022,Sul,Paraná,Outros,BA.4+BA.4.* (Omicron),5
 2022-10-01,Out 2022,Sul,Paraná,Outros,BA.5+BA.5.* (Omicron),22
-2022-10-01,Out 2022,Sul,Paraná,Outros,Outras,6
+2022-10-01,Out 2022,Sul,Paraná,Outros,Outras,5
+2022-10-01,Out 2022,Sul,Paraná,Outros,XBB.*,1
 2022-10-01,Out 2022,Sul,Rio Grande do Sul,Outros,BA.4+BA.4.* (Omicron),13
 2022-10-01,Out 2022,Sul,Rio Grande do Sul,Outros,BA.5+BA.5.* (Omicron),23
 2022-10-01,Out 2022,Sul,Rio Grande do Sul,Outros,BQ.1+BQ.1.* (Omicron),3
@@ -3386,51 +3396,64 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-10-01,Out 2022,Sul,Santa Catarina,FIOCRUZ,BA.4+BA.4.* (Omicron),10
 2022-10-01,Out 2022,Sul,Santa Catarina,FIOCRUZ,BA.5+BA.5.* (Omicron),23
 2022-10-01,Out 2022,Sul,Santa Catarina,FIOCRUZ,BQ.1+BQ.1.* (Omicron),14
-2022-10-01,Out 2022,Sul,Santa Catarina,FIOCRUZ,Outras,6
+2022-10-01,Out 2022,Sul,Santa Catarina,FIOCRUZ,DL.1,1
+2022-10-01,Out 2022,Sul,Santa Catarina,FIOCRUZ,Outras,5
 2022-10-01,Out 2022,Sul,Santa Catarina,Outros,BA.4+BA.4.* (Omicron),3
 2022-10-01,Out 2022,Sul,Santa Catarina,Outros,BA.5+BA.5.* (Omicron),11
 2022-10-01,Out 2022,Sul,Santa Catarina,Outros,BQ.1+BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Sul,Santa Catarina,Outros,Outras,4
 2022-11-01,Nov 2022,Centro-oeste,Goiás,Outros,BA.5+BA.5.* (Omicron),2
 2022-11-01,Nov 2022,Centro-oeste,Goiás,Outros,BQ.1+BQ.1.* (Omicron),32
-2022-11-01,Nov 2022,Centro-oeste,Goiás,Outros,Outras,8
+2022-11-01,Nov 2022,Centro-oeste,Goiás,Outros,Outras,7
+2022-11-01,Nov 2022,Centro-oeste,Goiás,Outros,XBB.*,1
 2022-11-01,Nov 2022,Centro-oeste,Mato Grosso,Outros,BA.2+BA.2.* (Omicron),2
 2022-11-01,Nov 2022,Centro-oeste,Mato Grosso,Outros,BA.5+BA.5.* (Omicron),1
 2022-11-01,Nov 2022,Centro-oeste,Mato Grosso,Outros,BQ.1+BQ.1.* (Omicron),28
-2022-11-01,Nov 2022,Centro-oeste,Mato Grosso,Outros,Outras,9
+2022-11-01,Nov 2022,Centro-oeste,Mato Grosso,Outros,Outras,5
+2022-11-01,Nov 2022,Centro-oeste,Mato Grosso,Outros,XBB.*,4
 2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,BA.2+BA.2.* (Omicron),2
 2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,BA.5+BA.5.* (Omicron),6
 2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,BQ.1+BQ.1.* (Omicron),66
-2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,Outras,9
+2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,DL.1,5
+2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,Outras,1
+2022-11-01,Nov 2022,Nordeste,Bahia,FIOCRUZ,XBB.*,3
 2022-11-01,Nov 2022,Nordeste,Bahia,Outros,BA.4+BA.4.* (Omicron),3
 2022-11-01,Nov 2022,Nordeste,Bahia,Outros,BA.5+BA.5.* (Omicron),20
 2022-11-01,Nov 2022,Nordeste,Bahia,Outros,BQ.1+BQ.1.* (Omicron),156
-2022-11-01,Nov 2022,Nordeste,Bahia,Outros,Outras,21
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,DL.1,12
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,Outras,5
+2022-11-01,Nov 2022,Nordeste,Bahia,Outros,XBB.*,4
 2022-11-01,Nov 2022,Nordeste,Ceará,FIOCRUZ,BA.4+BA.4.* (Omicron),2
 2022-11-01,Nov 2022,Nordeste,Ceará,FIOCRUZ,BA.5+BA.5.* (Omicron),1
 2022-11-01,Nov 2022,Nordeste,Ceará,FIOCRUZ,BQ.1+BQ.1.* (Omicron),6
-2022-11-01,Nov 2022,Nordeste,Ceará,FIOCRUZ,Outras,7
+2022-11-01,Nov 2022,Nordeste,Ceará,FIOCRUZ,DL.1,3
+2022-11-01,Nov 2022,Nordeste,Ceará,FIOCRUZ,Outras,4
 2022-11-01,Nov 2022,Nordeste,Maranhão,FIOCRUZ,BA.5+BA.5.* (Omicron),2
 2022-11-01,Nov 2022,Nordeste,Maranhão,FIOCRUZ,BQ.1+BQ.1.* (Omicron),1
-2022-11-01,Nov 2022,Nordeste,Maranhão,FIOCRUZ,Outras,2
+2022-11-01,Nov 2022,Nordeste,Maranhão,FIOCRUZ,DL.1,2
 2022-11-01,Nov 2022,Nordeste,Maranhão,Outros,BA.5+BA.5.* (Omicron),16
 2022-11-01,Nov 2022,Nordeste,Maranhão,Outros,BQ.1+BQ.1.* (Omicron),9
-2022-11-01,Nov 2022,Nordeste,Maranhão,Outros,Outras,18
+2022-11-01,Nov 2022,Nordeste,Maranhão,Outros,DL.1,17
+2022-11-01,Nov 2022,Nordeste,Maranhão,Outros,Outras,1
 2022-11-01,Nov 2022,Nordeste,Paraíba,FIOCRUZ,BA.4+BA.4.* (Omicron),1
 2022-11-01,Nov 2022,Nordeste,Paraíba,FIOCRUZ,BA.5+BA.5.* (Omicron),1
 2022-11-01,Nov 2022,Nordeste,Paraíba,FIOCRUZ,BQ.1+BQ.1.* (Omicron),48
 2022-11-01,Nov 2022,Nordeste,Pernambuco,FIOCRUZ,BA.5+BA.5.* (Omicron),37
 2022-11-01,Nov 2022,Nordeste,Pernambuco,FIOCRUZ,BQ.1+BQ.1.* (Omicron),37
-2022-11-01,Nov 2022,Nordeste,Pernambuco,FIOCRUZ,Outras,106
+2022-11-01,Nov 2022,Nordeste,Pernambuco,FIOCRUZ,DL.1,102
+2022-11-01,Nov 2022,Nordeste,Pernambuco,FIOCRUZ,Outras,3
+2022-11-01,Nov 2022,Nordeste,Pernambuco,FIOCRUZ,XBB.*,1
 2022-11-01,Nov 2022,Nordeste,Rio Grande do Norte,FIOCRUZ,BA.5+BA.5.* (Omicron),10
 2022-11-01,Nov 2022,Nordeste,Rio Grande do Norte,FIOCRUZ,BQ.1+BQ.1.* (Omicron),51
-2022-11-01,Nov 2022,Nordeste,Rio Grande do Norte,FIOCRUZ,Outras,47
+2022-11-01,Nov 2022,Nordeste,Rio Grande do Norte,FIOCRUZ,DL.1,41
+2022-11-01,Nov 2022,Nordeste,Rio Grande do Norte,FIOCRUZ,Outras,6
 2022-11-01,Nov 2022,Nordeste,Sergipe,FIOCRUZ,BQ.1+BQ.1.* (Omicron),1
 2022-11-01,Nov 2022,Norte,Acre,FIOCRUZ,BQ.1+BQ.1.* (Omicron),1
 2022-11-01,Nov 2022,Norte,Acre,FIOCRUZ,Outras,37
 2022-11-01,Nov 2022,Norte,Amazonas,FIOCRUZ,BA.5+BA.5.* (Omicron),2
 2022-11-01,Nov 2022,Norte,Amazonas,FIOCRUZ,BQ.1+BQ.1.* (Omicron),1
-2022-11-01,Nov 2022,Norte,Amazonas,FIOCRUZ,Outras,220
+2022-11-01,Nov 2022,Norte,Amazonas,FIOCRUZ,DL.1,1
+2022-11-01,Nov 2022,Norte,Amazonas,FIOCRUZ,Outras,219
 2022-11-01,Nov 2022,Norte,Rondônia,FIOCRUZ,Outras,3
 2022-11-01,Nov 2022,Norte,Roraima,FIOCRUZ,Outras,9
 2022-11-01,Nov 2022,Norte,Tocantins,FIOCRUZ,BA.2+BA.2.* (Omicron),1
@@ -3440,37 +3463,47 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,BA.4+BA.4.* (Omicron),5
 2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,BA.5+BA.5.* (Omicron),15
 2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,BQ.1+BQ.1.* (Omicron),35
-2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,Outras,18
+2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,DL.1,10
+2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,Outras,6
+2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,XBB.*,2
 2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.2+BA.2.* (Omicron),4
 2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.4+BA.4.* (Omicron),2
 2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.5+BA.5.* (Omicron),31
 2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,BQ.1+BQ.1.* (Omicron),234
-2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,Outras,26
+2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,DL.1,9
+2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,Outras,15
+2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,XBB.*,2
 2022-11-01,Nov 2022,Sudeste,Minas Gerais,Outros,BA.4+BA.4.* (Omicron),5
 2022-11-01,Nov 2022,Sudeste,Minas Gerais,Outros,BA.5+BA.5.* (Omicron),15
 2022-11-01,Nov 2022,Sudeste,Minas Gerais,Outros,BQ.1+BQ.1.* (Omicron),60
-2022-11-01,Nov 2022,Sudeste,Minas Gerais,Outros,Outras,11
+2022-11-01,Nov 2022,Sudeste,Minas Gerais,Outros,DL.1,6
+2022-11-01,Nov 2022,Sudeste,Minas Gerais,Outros,Outras,5
 2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BA.4+BA.4.* (Omicron),15
 2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BA.5+BA.5.* (Omicron),53
 2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BQ.1+BQ.1.* (Omicron),134
-2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,78
+2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,FIOCRUZ,DL.1,37
+2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,38
+2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,FIOCRUZ,XBB.*,3
 2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,Outros,BA.1+BA.1.* (Omicron),1
 2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,Outros,BA.2+BA.2.* (Omicron),8
 2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,Outros,BA.4+BA.4.* (Omicron),43
 2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,Outros,BA.5+BA.5.* (Omicron),146
 2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,Outros,BQ.1+BQ.1.* (Omicron),273
-2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,Outros,Outras,155
+2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,Outros,DL.1,65
+2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,Outros,Outras,84
+2022-11-01,Nov 2022,Sudeste,Rio de Janeiro,Outros,XBB.*,6
 2022-11-01,Nov 2022,Sudeste,São Paulo,FIOCRUZ,BA.5+BA.5.* (Omicron),5
 2022-11-01,Nov 2022,Sudeste,São Paulo,FIOCRUZ,BQ.1+BQ.1.* (Omicron),10
 2022-11-01,Nov 2022,Sudeste,São Paulo,FIOCRUZ,Outras,3
 2022-11-01,Nov 2022,Sudeste,São Paulo,Outros,BA.4+BA.4.* (Omicron),6
 2022-11-01,Nov 2022,Sudeste,São Paulo,Outros,BA.5+BA.5.* (Omicron),73
 2022-11-01,Nov 2022,Sudeste,São Paulo,Outros,BQ.1+BQ.1.* (Omicron),176
-2022-11-01,Nov 2022,Sudeste,São Paulo,Outros,Outras,10
+2022-11-01,Nov 2022,Sudeste,São Paulo,Outros,DL.1,2
+2022-11-01,Nov 2022,Sudeste,São Paulo,Outros,Outras,8
 2022-11-01,Nov 2022,Sul,Paraná,FIOCRUZ,BA.4+BA.4.* (Omicron),3
 2022-11-01,Nov 2022,Sul,Paraná,FIOCRUZ,BA.5+BA.5.* (Omicron),2
 2022-11-01,Nov 2022,Sul,Paraná,FIOCRUZ,BQ.1+BQ.1.* (Omicron),8
-2022-11-01,Nov 2022,Sul,Paraná,FIOCRUZ,Outras,1
+2022-11-01,Nov 2022,Sul,Paraná,FIOCRUZ,DL.1,1
 2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.4+BA.4.* (Omicron),7
 2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.5+BA.5.* (Omicron),18
 2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BQ.1+BQ.1.* (Omicron),56
@@ -3482,18 +3515,23 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-12-01,Dez 2022,Centro-oeste,Distrito Federal,Outros,BA.2+BA.2.* (Omicron),1
 2022-12-01,Dez 2022,Centro-oeste,Goiás,Outros,BA.5+BA.5.* (Omicron),3
 2022-12-01,Dez 2022,Centro-oeste,Goiás,Outros,BQ.1+BQ.1.* (Omicron),15
-2022-12-01,Dez 2022,Centro-oeste,Goiás,Outros,Outras,10
+2022-12-01,Dez 2022,Centro-oeste,Goiás,Outros,DL.1,2
+2022-12-01,Dez 2022,Centro-oeste,Goiás,Outros,Outras,7
+2022-12-01,Dez 2022,Centro-oeste,Goiás,Outros,XBB.*,1
 2022-12-01,Dez 2022,Centro-oeste,Mato Grosso,Outros,BQ.1+BQ.1.* (Omicron),7
-2022-12-01,Dez 2022,Centro-oeste,Mato Grosso,Outros,Outras,3
+2022-12-01,Dez 2022,Centro-oeste,Mato Grosso,Outros,DL.1,1
+2022-12-01,Dez 2022,Centro-oeste,Mato Grosso,Outros,Outras,1
+2022-12-01,Dez 2022,Centro-oeste,Mato Grosso,Outros,XBB.*,1
 2022-12-01,Dez 2022,Nordeste,Bahia,FIOCRUZ,BQ.1+BQ.1.* (Omicron),3
 2022-12-01,Dez 2022,Nordeste,Bahia,Outros,BA.5+BA.5.* (Omicron),5
 2022-12-01,Dez 2022,Nordeste,Bahia,Outros,BQ.1+BQ.1.* (Omicron),39
-2022-12-01,Dez 2022,Nordeste,Bahia,Outros,Outras,1
-2022-12-01,Dez 2022,Nordeste,Rio Grande do Norte,FIOCRUZ,Outras,1
+2022-12-01,Dez 2022,Nordeste,Bahia,Outros,DL.1,1
+2022-12-01,Dez 2022,Nordeste,Rio Grande do Norte,FIOCRUZ,DL.1,1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BA.2+BA.2.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BA.5+BA.5.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1+BQ.1.* (Omicron),14
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,Outras,3
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,Outras,2
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,XBB.*,1
 2022-12-01,Dez 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BA.5+BA.5.* (Omicron),2
 2022-12-01,Dez 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BQ.1+BQ.1.* (Omicron),4
 2022-12-01,Dez 2022,Sudeste,Rio de Janeiro,FIOCRUZ,Outras,1
