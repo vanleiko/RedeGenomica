@@ -121,7 +121,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2020-11-01,Nov 2020,Sudeste,São Paulo,FIOCRUZ,P.7,Outras,3
 2020-11-01,Nov 2020,Sudeste,São Paulo,Outros,B.1,Outras,18
 2020-11-01,Nov 2020,Sudeste,São Paulo,Outros,B.1.1,Outras,5
-2020-11-01,Nov 2020,Sudeste,São Paulo,Outros,B.1.1.28,Outras,83
+2020-11-01,Nov 2020,Sudeste,São Paulo,Outros,B.1.1.28,Outras,86
 2020-11-01,Nov 2020,Sudeste,São Paulo,Outros,B.1.1.33,Outras,27
 2020-11-01,Nov 2020,Sudeste,São Paulo,Outros,B.1.1.332,Outras,4
 2020-11-01,Nov 2020,Sudeste,São Paulo,Outros,B.1.420,Outras,1
@@ -314,7 +314,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2020-12-01,Dez 2020,Sudeste,São Paulo,Outros,B.1.1,Outras,6
 2020-12-01,Dez 2020,Sudeste,São Paulo,Outros,B.1.1.222,Outras,2
 2020-12-01,Dez 2020,Sudeste,São Paulo,Outros,B.1.1.28,Outras,80
-2020-12-01,Dez 2020,Sudeste,São Paulo,Outros,B.1.1.33,Outras,14
+2020-12-01,Dez 2020,Sudeste,São Paulo,Outros,B.1.1.33,Outras,15
 2020-12-01,Dez 2020,Sudeste,São Paulo,Outros,B.1.1.332,Outras,2
 2020-12-01,Dez 2020,Sudeste,São Paulo,Outros,B.1.1.371,Outras,1
 2020-12-01,Dez 2020,Sudeste,São Paulo,Outros,B.1.1.7,Outras,4
@@ -578,7 +578,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1,Outras,7
 2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1,Outras,3
 2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.274,Outras,1
-2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.28,Outras,141
+2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.28,Outras,142
 2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.33,Outras,13
 2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.332,Outras,3
 2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,B.1.1.336,Outras,2
@@ -594,8 +594,8 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.1,Gama,54
 2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.1.12,Gama,1
 2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.1.14,Gama,18
-2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.2,Outras,371
-2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.7,Outras,9
+2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.2,Outras,372
+2021-01-01,Jan 2021,Sudeste,São Paulo,Outros,P.7,Outras,10
 2021-01-01,Jan 2021,Sul,Paraná,FIOCRUZ,B.1.1.28,Outras,9
 2021-01-01,Jan 2021,Sul,Paraná,FIOCRUZ,B.1.1.33,Outras,1
 2021-01-01,Jan 2021,Sul,Paraná,FIOCRUZ,P.1,Gama,8
@@ -3199,8 +3199,8 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.39,Delta,1
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.4.5,Delta,1
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.42,Delta,6
-2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.43,Delta,361
-2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.43.1,Delta,235
+2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.43,Delta,362
+2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.43.1,Delta,236
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.43.2,Delta,204
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.43.7,Delta,19
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.44,Delta,2
@@ -3215,7 +3215,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.9.2,Delta,2
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.92,Delta,3
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.99.1,Delta,36
-2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.99.2,Delta,1936
+2021-10-01,Out 2021,Sudeste,São Paulo,Outros,AY.99.2,Delta,1937
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,B.1,Outras,1
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,B.1.617.2,Outras,5
 2021-10-01,Out 2021,Sudeste,São Paulo,Outros,P.1,Gama,16
@@ -3555,7 +3555,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2021-11-01,Nov 2021,Sudeste,Espírito Santo,Outros,AY.36,Delta,1
 2021-11-01,Nov 2021,Sudeste,Espírito Santo,Outros,AY.44,Delta,1
 2021-11-01,Nov 2021,Sudeste,Espírito Santo,Outros,AY.46.3,Delta,2
-2021-11-01,Nov 2021,Sudeste,Espírito Santo,Outros,AY.99.1,Delta,20
+2021-11-01,Nov 2021,Sudeste,Espírito Santo,Outros,AY.99.1,Delta,19
 2021-11-01,Nov 2021,Sudeste,Espírito Santo,Outros,AY.99.2,Delta,36
 2021-11-01,Nov 2021,Sudeste,Espírito Santo,Outros,BA.1,BA.1.* (Omicron),1
 2021-11-01,Nov 2021,Sudeste,Minas Gerais,FIOCRUZ,AY.101,Delta,1
@@ -3581,7 +3581,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2021-11-01,Nov 2021,Sudeste,Minas Gerais,Outros,AY.46.3,Delta,3
 2021-11-01,Nov 2021,Sudeste,Minas Gerais,Outros,AY.47,Delta,1
 2021-11-01,Nov 2021,Sudeste,Minas Gerais,Outros,AY.6,Delta,6
-2021-11-01,Nov 2021,Sudeste,Minas Gerais,Outros,AY.99.1,Delta,13
+2021-11-01,Nov 2021,Sudeste,Minas Gerais,Outros,AY.99.1,Delta,14
 2021-11-01,Nov 2021,Sudeste,Minas Gerais,Outros,AY.99.2,Delta,92
 2021-11-01,Nov 2021,Sudeste,Minas Gerais,Outros,B.1.617.2,Outras,21
 2021-11-01,Nov 2021,Sudeste,Minas Gerais,Outros,BA.1,BA.1.* (Omicron),3
@@ -4493,10 +4493,11 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-01-01,Jan 2022,Nordeste,Pernambuco,FIOCRUZ,BA.1.20,BA.1.* (Omicron),4
 2022-01-01,Jan 2022,Nordeste,Pernambuco,FIOCRUZ,BA.1.9,BA.1.* (Omicron),7
 2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,B,Outras,5
-2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1,BA.1.* (Omicron),16
-2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1.1,BA.1.* (Omicron),9
-2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1.1.1,BA.1.* (Omicron),3
+2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1,BA.1.* (Omicron),19
+2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1.1,BA.1.* (Omicron),10
+2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1.1.1,BA.1.* (Omicron),4
 2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1.1.18,BA.1.* (Omicron),1
+2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1.14,BA.1.* (Omicron),1
 2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1.14.1,BA.1.* (Omicron),6
 2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1.15,BA.1.* (Omicron),3
 2022-01-01,Jan 2022,Nordeste,Pernambuco,Outros,BA.1.20,BA.1.* (Omicron),1
@@ -5097,13 +5098,13 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-02-01,Fev 2022,Nordeste,Pernambuco,FIOCRUZ,BA.1.14.2,BA.1.* (Omicron),1
 2022-02-01,Fev 2022,Nordeste,Pernambuco,FIOCRUZ,BA.1.15,BA.1.* (Omicron),11
 2022-02-01,Fev 2022,Nordeste,Pernambuco,FIOCRUZ,BA.1.9,BA.1.* (Omicron),1
-2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1,BA.1.* (Omicron),70
-2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.1,BA.1.* (Omicron),42
-2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.1.1,BA.1.* (Omicron),14
+2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1,BA.1.* (Omicron),80
+2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.1,BA.1.* (Omicron),48
+2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.1.1,BA.1.* (Omicron),15
 2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.1.18,BA.1.* (Omicron),3
-2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.14,BA.1.* (Omicron),7
-2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.14.1,BA.1.* (Omicron),17
-2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.15,BA.1.* (Omicron),10
+2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.14,BA.1.* (Omicron),8
+2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.14.1,BA.1.* (Omicron),18
+2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.15,BA.1.* (Omicron),11
 2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.17,BA.1.* (Omicron),1
 2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.17.2,BA.1.* (Omicron),4
 2022-02-01,Fev 2022,Nordeste,Pernambuco,Outros,BA.1.9,BA.1.* (Omicron),1
@@ -5249,7 +5250,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.1.15,BA.1.* (Omicron),9
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.2,BA.2.* (Omicron),4
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,AY.99.2,Delta,1
-2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.1,BA.1.* (Omicron),54
+2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.1,BA.1.* (Omicron),56
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.1.1,BA.1.* (Omicron),54
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.1.1.1,BA.1.* (Omicron),14
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.1.1.14,BA.1.* (Omicron),2
@@ -5260,7 +5261,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.1.15,BA.1.* (Omicron),5
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.1.17,BA.1.* (Omicron),1
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.1.17.2,BA.1.* (Omicron),2
-2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.2,BA.2.* (Omicron),64
+2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.2,BA.2.* (Omicron),65
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.2.3,BA.2.* (Omicron),3
 2022-02-01,Fev 2022,Sudeste,Minas Gerais,Outros,BA.2.9.3,BA.2.* (Omicron),1
 2022-02-01,Fev 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BA.1,BA.1.* (Omicron),28
@@ -5514,12 +5515,13 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-03-01,Mar 2022,Nordeste,Pernambuco,FIOCRUZ,BA.1.15,BA.1.* (Omicron),7
 2022-03-01,Mar 2022,Nordeste,Pernambuco,FIOCRUZ,BA.2,BA.2.* (Omicron),5
 2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,B,Outras,4
-2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1,BA.1.* (Omicron),5
-2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.1,BA.1.* (Omicron),10
-2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.1.1,BA.1.* (Omicron),1
+2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1,BA.1.* (Omicron),11
+2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.1,BA.1.* (Omicron),14
+2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.1.1,BA.1.* (Omicron),3
+2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.1.10,BA.1.* (Omicron),1
 2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.14,BA.1.* (Omicron),8
 2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.14.1,BA.1.* (Omicron),4
-2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.15,BA.1.* (Omicron),7
+2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.15,BA.1.* (Omicron),10
 2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.1.17.2,BA.1.* (Omicron),5
 2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.2,BA.2.* (Omicron),3
 2022-03-01,Mar 2022,Nordeste,Pernambuco,Outros,BA.2.13,BA.2.* (Omicron),1
@@ -6198,19 +6200,20 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.1,BA.1.* (Omicron),1
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.1.1,BA.1.* (Omicron),2
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.1.15,BA.1.* (Omicron),1
-2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2,BA.2.* (Omicron),162
+2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2,BA.2.* (Omicron),166
+2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.1,BA.2.* (Omicron),1
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.10,BA.2.* (Omicron),1
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.12.1,BA.2.* (Omicron),7
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.13,BA.2.* (Omicron),1
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.23,BA.2.* (Omicron),4
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.35,BA.2.* (Omicron),1
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.47,BA.2.* (Omicron),1
-2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.56,BA.2.* (Omicron),7
+2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.56,BA.2.* (Omicron),8
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.63,BA.2.* (Omicron),2
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.81,BA.2.* (Omicron),3
-2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.9,BA.2.* (Omicron),17
+2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.2.9,BA.2.* (Omicron),18
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.4.1,BA.4.* (Omicron),1
-2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.5.2.1,BA.5.* (Omicron),3
+2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BA.5.2.1,BA.5.* (Omicron),4
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,BF.1,Outras,1
 2022-05-01,Mai 2022,Sudeste,Minas Gerais,Outros,XAG,Outras,5
 2022-05-01,Mai 2022,Sudeste,Rio de Janeiro,FIOCRUZ,BA.1,BA.1.* (Omicron),1
@@ -6840,17 +6843,17 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,FIOCRUZ,BF.1,Outras,4
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,FIOCRUZ,BF.8,Outras,1
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,FIOCRUZ,XAG,Outras,2
-2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2,BA.2.* (Omicron),59
+2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2,BA.2.* (Omicron),60
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.12.1,BA.2.* (Omicron),8
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.23,BA.2.* (Omicron),1
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.48,BA.2.* (Omicron),1
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.56,BA.2.* (Omicron),1
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.63,BA.2.* (Omicron),2
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.81,BA.2.* (Omicron),6
-2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.9,BA.2.* (Omicron),4
+2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.9,BA.2.* (Omicron),5
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.9.2,BA.2.* (Omicron),1
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.2.9.3,BA.2.* (Omicron),1
-2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.4,BA.4.* (Omicron),4
+2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.4,BA.4.* (Omicron),5
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.4.1,BA.4.* (Omicron),7
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.5.1,BA.5.* (Omicron),18
 2022-06-01,Jun 2022,Sudeste,Minas Gerais,Outros,BA.5.1.1,BA.5.* (Omicron),1
@@ -6970,7 +6973,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.2.9.3,BA.2.* (Omicron),30
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.4,BA.4.* (Omicron),458
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.4.1,BA.4.* (Omicron),54
-2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.4.6,BA.4.* (Omicron),10
+2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.4.6,BA.4.* (Omicron),11
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.5,BA.5.* (Omicron),8
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.5.1,BA.5.* (Omicron),440
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.5.1.1,BA.5.* (Omicron),1
@@ -6980,7 +6983,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.5.1.22,BA.5.* (Omicron),12
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.5.1.23,BA.5.* (Omicron),5
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.5.2,BA.5.* (Omicron),4
-2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.5.2.1,BA.5.* (Omicron),300
+2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.5.2.1,BA.5.* (Omicron),301
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BA.5.6,BA.5.* (Omicron),6
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BE.1,Outras,1
 2022-06-01,Jun 2022,Sudeste,São Paulo,Outros,BF.12,Outras,2
@@ -7027,19 +7030,26 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,FIOCRUZ,BA.5.2.1,BA.5.* (Omicron),1
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,FIOCRUZ,XAG,Outras,15
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.1,BA.1.* (Omicron),1
-2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.1.1,BA.1.* (Omicron),1
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.1.1,BA.1.* (Omicron),3
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.1.1.1,BA.1.* (Omicron),1
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.1.15,BA.1.* (Omicron),1
-2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2,BA.2.* (Omicron),88
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2,BA.2.* (Omicron),95
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2.10.1,BA.2.* (Omicron),1
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2.12.1,BA.2.* (Omicron),1
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2.23,BA.2.* (Omicron),3
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2.3,BA.2.* (Omicron),1
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2.36,BA.2.* (Omicron),1
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2.56,BA.2.* (Omicron),3
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2.65,BA.2.* (Omicron),1
-2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2.9,BA.2.* (Omicron),2
-2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.5.1,BA.5.* (Omicron),4
-2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.5.2.1,BA.5.* (Omicron),8
-2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,XAG,Outras,55
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2.9,BA.2.* (Omicron),3
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.5.1,BA.5.* (Omicron),5
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.5.1.15,BA.5.* (Omicron),1
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.5.2,BA.5.* (Omicron),3
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.5.2.1,BA.5.* (Omicron),9
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.5.3.1,BA.5.* (Omicron),1
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BE.1.1,Outras,1
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BQ.1.1.18,BQ.1.* (Omicron),1
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,XAG,Outras,61
 2022-06-01,Jun 2022,Sul,Santa Catarina,FIOCRUZ,BA.2,BA.2.* (Omicron),121
 2022-06-01,Jun 2022,Sul,Santa Catarina,FIOCRUZ,BA.2.12.1,BA.2.* (Omicron),23
 2022-06-01,Jun 2022,Sul,Santa Catarina,FIOCRUZ,BA.2.23,BA.2.* (Omicron),12
@@ -7601,22 +7611,26 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,FIOCRUZ,XAG,Outras,5
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.1.1,BA.1.* (Omicron),2
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.1.14.2,BA.1.* (Omicron),1
-2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.2,BA.2.* (Omicron),29
+2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.2,BA.2.* (Omicron),30
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.2.12,BA.2.* (Omicron),1
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.2.12.1,BA.2.* (Omicron),5
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.2.56,BA.2.* (Omicron),6
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.2.65,BA.2.* (Omicron),2
-2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.4,BA.4.* (Omicron),7
+2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.4,BA.4.* (Omicron),8
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.4.6,BA.4.* (Omicron),11
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.5,BA.5.* (Omicron),2
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.5.1,BA.5.* (Omicron),23
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.5.2,BA.5.* (Omicron),6
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.5.2.1,BA.5.* (Omicron),64
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.5.2.10,BA.5.* (Omicron),1
+2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BA.5.3.1,BA.5.* (Omicron),1
+2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BE.1,Outras,2
+2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BE.1.1,Outras,1
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BF.12,Outras,1
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BF.28,Outras,2
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BF.31,Outras,2
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BF.6,Outras,1
+2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,BQ.1.1,BQ.1.1 (Omicron),1
 2022-07-01,Jul 2022,Sul,Rio Grande do Sul,Outros,XAG,Outras,8
 2022-07-01,Jul 2022,Sul,Santa Catarina,FIOCRUZ,BA.2,BA.2.* (Omicron),18
 2022-07-01,Jul 2022,Sul,Santa Catarina,FIOCRUZ,BA.2.1,BA.2.* (Omicron),1
@@ -7891,7 +7905,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-08-01,Ago 2022,Sudeste,São Paulo,Outros,BA.5.1.30,BA.5.* (Omicron),1
 2022-08-01,Ago 2022,Sudeste,São Paulo,Outros,BA.5.1.5,BA.5.* (Omicron),5
 2022-08-01,Ago 2022,Sudeste,São Paulo,Outros,BA.5.2,BA.5.* (Omicron),10
-2022-08-01,Ago 2022,Sudeste,São Paulo,Outros,BA.5.2.1,BA.5.* (Omicron),371
+2022-08-01,Ago 2022,Sudeste,São Paulo,Outros,BA.5.2.1,BA.5.* (Omicron),372
 2022-08-01,Ago 2022,Sudeste,São Paulo,Outros,BA.5.2.10,BA.5.* (Omicron),4
 2022-08-01,Ago 2022,Sudeste,São Paulo,Outros,BA.5.2.20,BA.5.* (Omicron),1
 2022-08-01,Ago 2022,Sudeste,São Paulo,Outros,BA.5.3.1,BA.5.* (Omicron),2
@@ -8106,7 +8120,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-09-01,Set 2022,Sudeste,São Paulo,Outros,BF.14,Outras,1
 2022-09-01,Set 2022,Sudeste,São Paulo,Outros,BF.4,Outras,1
 2022-09-01,Set 2022,Sudeste,São Paulo,Outros,BF.5,Outras,4
-2022-09-01,Set 2022,Sudeste,São Paulo,Outros,BF.7,Outras,3
+2022-09-01,Set 2022,Sudeste,São Paulo,Outros,BF.7,Outras,4
 2022-09-01,Set 2022,Sudeste,São Paulo,Outros,BF.7.4.1,Outras,1
 2022-09-01,Set 2022,Sudeste,São Paulo,Outros,BF.7.8,Outras,1
 2022-09-01,Set 2022,Sudeste,São Paulo,Outros,BL.1,Outras,4
@@ -8321,6 +8335,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5.1,BA.5.* (Omicron),26
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5.1.2,BA.5.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5.1.21,BA.5.* (Omicron),1
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5.1.23,BA.5.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5.1.27,BA.5.* (Omicron),3
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5.2,BA.5.* (Omicron),8
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5.2.1,BA.5.* (Omicron),37
@@ -8330,22 +8345,23 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5.3.1,BA.5.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BA.5.6.2,BA.5.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BE.1,Outras,1
-2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BE.10,BE.10 (Omicron),119
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BE.10,BE.10 (Omicron),123
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BE.4.1,Outras,1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BE.9,BE.9 (Omicron),7
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BF.4,Outras,1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BF.5,Outras,3
-2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BF.7,Outras,13
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BF.7,Outras,14
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BF.7.1,Outras,2
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BF.7.5,Outras,1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BF.7.8,Outras,1
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BL.1,Outras,1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BL.2,Outras,1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BN.1,Outras,1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BN.1.3.1,Outras,1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BN.1.5,Outras,1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BN.3.1,Outras,1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1,BQ.1.* (Omicron),4
-2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1,BQ.1.1 (Omicron),67
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1,BQ.1.1 (Omicron),71
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1.10,BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1.16,BQ.1.* (Omicron),2
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1.17,BQ.1.* (Omicron),2
@@ -8354,8 +8370,10 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1.23,BQ.1.* (Omicron),7
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1.3,BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1.31,BQ.1.* (Omicron),3
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1.32,BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1.4,BQ.1.* (Omicron),2
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.1.8,BQ.1.* (Omicron),1
+2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.13,BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.18,BQ.1.* (Omicron),2
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,BQ.1.5,BQ.1.* (Omicron),1
 2022-10-01,Out 2022,Sudeste,São Paulo,Outros,CK.2.1.1,Outras,1
@@ -8773,7 +8791,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,BQ.1.14,BQ.1.* (Omicron),4
 2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,BQ.1.18,BQ.1.* (Omicron),6
 2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,BQ.1.23,BQ.1.* (Omicron),1
-2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,DL.1,DL.1 (Omicron),10
+2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,DL.1,DL.1 (Omicron),9
 2022-11-01,Nov 2022,Sudeste,Espírito Santo,Outros,XBB.1,XBB.* (Omicron),2
 2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.2.3.20,BA.2.* (Omicron),1
 2022-11-01,Nov 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.4.6,BA.4.* (Omicron),6
@@ -9082,7 +9100,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.2.10.1,BA.2.* (Omicron),1
 2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.4.6,BA.4.* (Omicron),8
 2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.5.1,BA.5.* (Omicron),4
-2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.5.2,BA.5.* (Omicron),3
+2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.5.2,BA.5.* (Omicron),4
 2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.5.2.1,BA.5.* (Omicron),3
 2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.5.2.24,BA.5.* (Omicron),1
 2022-11-01,Nov 2022,Sul,Rio Grande do Sul,Outros,BA.5.2.6,BA.5.* (Omicron),1
@@ -9341,11 +9359,13 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BA.2.10.1,BA.2.* (Omicron),1
 2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BA.5,BA.5.* (Omicron),1
 2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BA.5.1.15,BA.5.* (Omicron),1
+2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BE.1.1,Outras,1
+2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BE.10,BE.10 (Omicron),1
 2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BE.9,BE.9 (Omicron),5
 2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BQ.1,BQ.1.* (Omicron),1
-2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BQ.1.1,BQ.1.1 (Omicron),21
+2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BQ.1.1,BQ.1.1 (Omicron),22
 2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,BQ.1.1.4,BQ.1.* (Omicron),1
-2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,DL.1,DL.1 (Omicron),16
+2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,DL.1,DL.1 (Omicron),17
 2022-12-01,Dez 2022,Nordeste,Maranhão,Outros,XBB.1,XBB.* (Omicron),3
 2022-12-01,Dez 2022,Nordeste,Paraíba,FIOCRUZ,BA.1,BA.1.* (Omicron),1
 2022-12-01,Dez 2022,Nordeste,Paraíba,FIOCRUZ,BA.5.2,BA.5.* (Omicron),1
@@ -9460,29 +9480,30 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BA.5.2.1,BA.5.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BA.5.3.1,BA.5.* (Omicron),5
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BE.1.1,Outras,1
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BE.10,BE.10 (Omicron),6
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BE.10,BE.10 (Omicron),8
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BE.7,Outras,1
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BE.9,BE.9 (Omicron),12
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BE.9,BE.9 (Omicron),17
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BF.7.5,Outras,1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BN.1.3.1,Outras,1
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BN.1.5,Outras,1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1,BQ.1.* (Omicron),1
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1,BQ.1.1 (Omicron),36
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.11,BQ.1.* (Omicron),2
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1,BQ.1.1 (Omicron),50
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.11,BQ.1.* (Omicron),3
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.13,BQ.1.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.17,BQ.1.* (Omicron),1
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.18,BQ.1.* (Omicron),36
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.18,BQ.1.* (Omicron),37
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.25,BQ.1.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.28,BQ.1.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.31,BQ.1.* (Omicron),2
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.32,BQ.1.* (Omicron),2
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.32,BQ.1.* (Omicron),4
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.4,BQ.1.* (Omicron),2
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.1.6,BQ.1.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.14,BQ.1.* (Omicron),1
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.18,BQ.1.* (Omicron),15
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.2,BQ.1.* (Omicron),4
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.18,BQ.1.* (Omicron),19
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.2,BQ.1.* (Omicron),5
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,BQ.1.27,BQ.1.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,DL.1,DL.1 (Omicron),3
-2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,XBB.1,XBB.* (Omicron),1
+2022-12-01,Dez 2022,Sudeste,Espírito Santo,Outros,XBB.1,XBB.* (Omicron),3
 2022-12-01,Dez 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.2,BA.2.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.2.10.1,BA.2.* (Omicron),1
 2022-12-01,Dez 2022,Sudeste,Minas Gerais,FIOCRUZ,BA.4.6,BA.4.* (Omicron),1
@@ -9711,10 +9732,12 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2022-12-01,Dez 2022,Sul,Rio Grande do Sul,FIOCRUZ,BQ.1.1,BQ.1.1 (Omicron),7
 2022-12-01,Dez 2022,Sul,Rio Grande do Sul,FIOCRUZ,BQ.1.1.13,BQ.1.* (Omicron),1
 2022-12-01,Dez 2022,Sul,Rio Grande do Sul,FIOCRUZ,DJ.1.3,Outras,1
+2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BA.2,BA.2.* (Omicron),1
 2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BA.4,BA.4.* (Omicron),1
 2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BA.4.6,BA.4.* (Omicron),3
+2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BA.4.6.5,BA.4.* (Omicron),1
 2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BA.5.1.27,BA.5.* (Omicron),1
-2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BA.5.2,BA.5.* (Omicron),1
+2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BA.5.2,BA.5.* (Omicron),3
 2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BA.5.2.1,BA.5.* (Omicron),1
 2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BA.5.3.1,BA.5.* (Omicron),11
 2022-12-01,Dez 2022,Sul,Rio Grande do Sul,Outros,BE.10,BE.10 (Omicron),4
@@ -9793,13 +9816,14 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,BE.10,BE.10 (Omicron),5
 2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,BE.9,BE.9 (Omicron),4
 2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,BQ.1,BQ.1.* (Omicron),3
-2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,BQ.1.1,BQ.1.1 (Omicron),19
+2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,BQ.1.1,BQ.1.1 (Omicron),20
 2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,BQ.1.1.18,BQ.1.* (Omicron),8
 2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,BQ.1.1.32,BQ.1.* (Omicron),2
 2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,BQ.1.1.4,BQ.1.* (Omicron),1
+2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,CL.1,Outras,1
 2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,XBB,XBB.* (Omicron),1
-2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,XBB.1,XBB.* (Omicron),11
-2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,XBB.1.5,XBB.* (Omicron),4
+2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,XBB.1,XBB.* (Omicron),13
+2023-01-01,Jan 2023,Centro-oeste,Goiás,Outros,XBB.1.5,XBB.* (Omicron),6
 2023-01-01,Jan 2023,Centro-oeste,Mato Grosso,FIOCRUZ,BQ.1.1,BQ.1.1 (Omicron),3
 2023-01-01,Jan 2023,Centro-oeste,Mato Grosso,FIOCRUZ,DL.1,DL.1 (Omicron),1
 2023-01-01,Jan 2023,Centro-oeste,Mato Grosso,Outros,BQ.1.1,BQ.1.1 (Omicron),1
@@ -9828,6 +9852,8 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2023-01-01,Jan 2023,Nordeste,Ceará,Outros,CK.1,Outras,1
 2023-01-01,Jan 2023,Nordeste,Maranhão,Outros,BQ.1.1.31,BQ.1.* (Omicron),1
 2023-01-01,Jan 2023,Nordeste,Maranhão,Outros,DL.1,DL.1 (Omicron),1
+2023-01-01,Jan 2023,Nordeste,Maranhão,Outros,XBB.1,XBB.* (Omicron),1
+2023-01-01,Jan 2023,Nordeste,Maranhão,Outros,XBB.1.5,XBB.* (Omicron),1
 2023-01-01,Jan 2023,Nordeste,Pernambuco,FIOCRUZ,BE.10,BE.10 (Omicron),1
 2023-01-01,Jan 2023,Nordeste,Pernambuco,FIOCRUZ,BQ.1.1,BQ.1.1 (Omicron),4
 2023-01-01,Jan 2023,Norte,Amazonas,FIOCRUZ,BA.5.3.1,BA.5.* (Omicron),2
@@ -9859,6 +9885,7 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2023-01-01,Jan 2023,Sudeste,Espírito Santo,Outros,BA.2,BA.2.* (Omicron),1
 2023-01-01,Jan 2023,Sudeste,Espírito Santo,Outros,BE.10,BE.10 (Omicron),1
 2023-01-01,Jan 2023,Sudeste,Espírito Santo,Outros,BE.9,BE.9 (Omicron),12
+2023-01-01,Jan 2023,Sudeste,Espírito Santo,Outros,BQ.1,BQ.1.* (Omicron),1
 2023-01-01,Jan 2023,Sudeste,Espírito Santo,Outros,BQ.1.1,BQ.1.1 (Omicron),26
 2023-01-01,Jan 2023,Sudeste,Espírito Santo,Outros,BQ.1.1.10,BQ.1.* (Omicron),1
 2023-01-01,Jan 2023,Sudeste,Espírito Santo,Outros,BQ.1.1.11,BQ.1.* (Omicron),1
@@ -9974,12 +10001,11 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2023-01-01,Jan 2023,Sudeste,São Paulo,Outros,CL.1,Outras,2
 2023-01-01,Jan 2023,Sudeste,São Paulo,Outros,DL.1,DL.1 (Omicron),4
 2023-01-01,Jan 2023,Sudeste,São Paulo,Outros,DN.1,Outras,1
-2023-01-01,Jan 2023,Sudeste,São Paulo,Outros,XBB.1,XBB.* (Omicron),39
+2023-01-01,Jan 2023,Sudeste,São Paulo,Outros,XBB.1,XBB.* (Omicron),40
 2023-01-01,Jan 2023,Sudeste,São Paulo,Outros,XBB.1.5,XBB.* (Omicron),22
 2023-01-01,Jan 2023,Sudeste,São Paulo,Outros,XBB.1.9,XBB.* (Omicron),1
 2023-01-01,Jan 2023,Sudeste,São Paulo,Outros,XBB.3,XBB.* (Omicron),1
 2023-01-01,Jan 2023,Sudeste,São Paulo,Outros,XBF,Outras,2
-2023-01-01,Jan 2023,Sul,Paraná,Outros,BQ.1,BQ.1.* (Omicron),1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,FIOCRUZ,BE.10,BE.10 (Omicron),2
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,FIOCRUZ,BE.9,BE.9 (Omicron),8
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,FIOCRUZ,BQ.1,BQ.1.* (Omicron),1
@@ -9996,20 +10022,25 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,FIOCRUZ,BQ.1.23,BQ.1.* (Omicron),1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,FIOCRUZ,CK.1,Outras,1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,FIOCRUZ,XBB.1,XBB.* (Omicron),1
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BA.5,BA.5.* (Omicron),1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BE.1.1.1,Outras,1
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BE.9,BE.9 (Omicron),5
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1,BQ.1.1 (Omicron),25
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BE.9,BE.9 (Omicron),15
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1,BQ.1.1 (Omicron),42
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.11,BQ.1.* (Omicron),1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.13,BQ.1.* (Omicron),1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.17,BQ.1.* (Omicron),1
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.18,BQ.1.* (Omicron),3
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.29,BQ.1.* (Omicron),3
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.31,BQ.1.* (Omicron),2
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.32,BQ.1.* (Omicron),4
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.18,BQ.1.* (Omicron),5
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.29,BQ.1.* (Omicron),4
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.31,BQ.1.* (Omicron),3
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.32,BQ.1.* (Omicron),8
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.4,BQ.1.* (Omicron),1
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.5,BQ.1.* (Omicron),1
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.5,BQ.1.* (Omicron),2
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.11,BQ.1.* (Omicron),2
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.18,BQ.1.* (Omicron),1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,BQ.1.23,BQ.1.* (Omicron),1
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,CK.1,Outras,3
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,CK.2,Outras,1
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,DJ.1.3,Outras,1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,DL.1,DL.1 (Omicron),3
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,XBB.1,XBB.* (Omicron),1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outros,XBB.1.5,XBB.* (Omicron),1
@@ -10035,18 +10066,24 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2023-01-01,Jan 2023,Sul,Santa Catarina,FIOCRUZ,DL.1,DL.1 (Omicron),1
 2023-01-01,Jan 2023,Sul,Santa Catarina,FIOCRUZ,XBB.1,XBB.* (Omicron),8
 2023-01-01,Jan 2023,Sul,Santa Catarina,FIOCRUZ,XBB.1.5,XBB.* (Omicron),12
-2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,BA.2,BA.2.* (Omicron),11
+2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,BA.2,BA.2.* (Omicron),1
 2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,BA.2.10.1,BA.2.* (Omicron),1
-2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,BA.5.3.1,BA.5.* (Omicron),3
+2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,BA.5.3.1,BA.5.* (Omicron),5
 2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,CV.1,Outras,1
-2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,XBB.1,XBB.* (Omicron),3
-2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,XBB.1.4,XBB.* (Omicron),3
-2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,XBB.1.5,XBB.* (Omicron),2
+2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,XBB.1,XBB.* (Omicron),8
+2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,XBB.1.4,XBB.* (Omicron),7
+2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outros,XBB.1.5,XBB.* (Omicron),7
+2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,BE.10,BE.10 (Omicron),1
 2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,BQ.1.1,BQ.1.1 (Omicron),1
-2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,BQ.1.1.18,BQ.1.* (Omicron),2
+2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,BQ.1.1.18,BQ.1.* (Omicron),3
+2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,BQ.1.1.22,BQ.1.* (Omicron),1
+2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,BQ.1.1.32,BQ.1.* (Omicron),1
+2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,CK.1,Outras,2
+2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,DL.1,DL.1 (Omicron),3
 2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,DR.1,Outras,1
+2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,XBB.1,XBB.* (Omicron),7
 2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,XBB.1.4,XBB.* (Omicron),1
-2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,XBB.1.5,XBB.* (Omicron),1
+2023-02-01,Fev 2023,Centro-oeste,Goiás,Outros,XBB.1.5,XBB.* (Omicron),8
 2023-02-01,Fev 2023,Norte,Amazonas,FIOCRUZ,BA.5.3.1,BA.5.* (Omicron),2
 2023-02-01,Fev 2023,Norte,Amazonas,FIOCRUZ,BE.10,BE.10 (Omicron),1
 2023-02-01,Fev 2023,Norte,Amazonas,FIOCRUZ,BE.9,BE.9 (Omicron),23
@@ -10059,3 +10096,8 @@ Data,Período,Região,Estado,Laboratório,Variante,Variantes relevantes,Quantida
 2023-02-01,Fev 2023,Norte,Amazonas,FIOCRUZ,XBB.1.5,XBB.* (Omicron),40
 2023-02-01,Fev 2023,Sudeste,Minas Gerais,FIOCRUZ,BE.1.1,Outras,1
 2023-02-01,Fev 2023,Sudeste,Minas Gerais,FIOCRUZ,BQ.1.22,BQ.1.* (Omicron),2
+2023-02-01,Fev 2023,Sul,Rio Grande do Sul,Outros,BE.9,BE.9 (Omicron),1
+2023-02-01,Fev 2023,Sul,Rio Grande do Sul,Outros,BF.30,Outras,1
+2023-02-01,Fev 2023,Sul,Rio Grande do Sul,Outros,BN.1.5,Outras,1
+2023-02-01,Fev 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1,BQ.1.1 (Omicron),1
+2023-02-01,Fev 2023,Sul,Rio Grande do Sul,Outros,BQ.1.1.32,BQ.1.* (Omicron),1
