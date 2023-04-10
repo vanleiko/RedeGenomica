@@ -2765,9 +2765,10 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-05-01,Mai 2022,Centro-oeste,Mato Grosso,FIOCRUZ,BA.2+BA.2.* (Omicron),1
 2022-05-01,Mai 2022,Centro-oeste,Mato Grosso,Outros,BA.1+BA.1.* (Omicron),8
 2022-05-01,Mai 2022,Centro-oeste,Mato Grosso,Outros,BA.2+BA.2.* (Omicron),6
-2022-05-01,Mai 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.1+BA.1.* (Omicron),8
-2022-05-01,Mai 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.2+BA.2.* (Omicron),76
-2022-05-01,Mai 2022,Centro-oeste,Mato Grosso do Sul,Outros,Outras,2
+2022-05-01,Mai 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.1+BA.1.* (Omicron),9
+2022-05-01,Mai 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.2+BA.2.* (Omicron),151
+2022-05-01,Mai 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.5+BA.5.* (Omicron),1
+2022-05-01,Mai 2022,Centro-oeste,Mato Grosso do Sul,Outros,Outras,4
 2022-05-01,Mai 2022,Nordeste,Alagoas,Outros,BA.2+BA.2.* (Omicron),8
 2022-05-01,Mai 2022,Nordeste,Alagoas,Outros,BA.4+BA.4.* (Omicron),1
 2022-05-01,Mai 2022,Nordeste,Alagoas,Outros,BA.5+BA.5.* (Omicron),1
@@ -2900,8 +2901,8 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-06-01,Jun 2022,Centro-oeste,Mato Grosso,Outros,BA.1+BA.1.* (Omicron),1
 2022-06-01,Jun 2022,Centro-oeste,Mato Grosso,Outros,BA.2+BA.2.* (Omicron),33
 2022-06-01,Jun 2022,Centro-oeste,Mato Grosso,Outros,BA.5+BA.5.* (Omicron),11
-2022-06-01,Jun 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.2+BA.2.* (Omicron),42
-2022-06-01,Jun 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.5+BA.5.* (Omicron),11
+2022-06-01,Jun 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.2+BA.2.* (Omicron),53
+2022-06-01,Jun 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.5+BA.5.* (Omicron),14
 2022-06-01,Jun 2022,Centro-oeste,Mato Grosso do Sul,Outros,Outras,1
 2022-06-01,Jun 2022,Nordeste,Alagoas,FIOCRUZ,Outras,1
 2022-06-01,Jun 2022,Nordeste,Alagoas,Outros,BA.2+BA.2.* (Omicron),64
@@ -3061,8 +3062,8 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,FIOCRUZ,BA.5+BA.5.* (Omicron),4
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,FIOCRUZ,Outras,15
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.1+BA.1.* (Omicron),6
-2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2+BA.2.* (Omicron),109
-2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.5+BA.5.* (Omicron),19
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.2+BA.2.* (Omicron),110
+2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BA.5+BA.5.* (Omicron),20
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BE.* (Omicron),1
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,BQ.1+BQ.1.* (Omicron),1
 2022-06-01,Jun 2022,Sul,Rio Grande do Sul,Outros,Outras,61
@@ -3095,9 +3096,9 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-07-01,Jul 2022,Centro-oeste,Mato Grosso,Outros,BA.5+BA.5.* (Omicron),52
 2022-07-01,Jul 2022,Centro-oeste,Mato Grosso,Outros,BQ.1+BQ.1.* (Omicron),1
 2022-07-01,Jul 2022,Centro-oeste,Mato Grosso,Outros,Outras,1
-2022-07-01,Jul 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.2+BA.2.* (Omicron),5
-2022-07-01,Jul 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.4+BA.4.* (Omicron),8
-2022-07-01,Jul 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.5+BA.5.* (Omicron),21
+2022-07-01,Jul 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.2+BA.2.* (Omicron),12
+2022-07-01,Jul 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.4+BA.4.* (Omicron),13
+2022-07-01,Jul 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.5+BA.5.* (Omicron),32
 2022-07-01,Jul 2022,Centro-oeste,Mato Grosso do Sul,Outros,BE.* (Omicron),2
 2022-07-01,Jul 2022,Centro-oeste,Mato Grosso do Sul,Outros,BQ.1+BQ.1.* (Omicron),1
 2022-07-01,Jul 2022,Nordeste,Alagoas,Outros,BA.2+BA.2.* (Omicron),7
@@ -3279,10 +3280,11 @@ Data,Período,Região,Estado,Laboratório,Linhagens relevantes,Quantidade
 2022-08-01,Ago 2022,Centro-oeste,Mato Grosso,Outros,BA.4+BA.4.* (Omicron),2
 2022-08-01,Ago 2022,Centro-oeste,Mato Grosso,Outros,BA.5+BA.5.* (Omicron),10
 2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,BA.5+BA.5.* (Omicron),1
-2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.2+BA.2.* (Omicron),1
-2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.4+BA.4.* (Omicron),7
-2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.5+BA.5.* (Omicron),26
-2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,Outros,Outras,1
+2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.2+BA.2.* (Omicron),6
+2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.4+BA.4.* (Omicron),9
+2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,Outros,BA.5+BA.5.* (Omicron),80
+2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,Outros,BE.* (Omicron),4
+2022-08-01,Ago 2022,Centro-oeste,Mato Grosso do Sul,Outros,Outras,2
 2022-08-01,Ago 2022,Nordeste,Bahia,FIOCRUZ,BA.4+BA.4.* (Omicron),3
 2022-08-01,Ago 2022,Nordeste,Bahia,FIOCRUZ,BA.5+BA.5.* (Omicron),8
 2022-08-01,Ago 2022,Nordeste,Bahia,Outros,BA.1+BA.1.* (Omicron),2
