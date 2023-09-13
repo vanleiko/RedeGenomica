@@ -1,561 +1,492 @@
 Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-01-01,Jan 2023,Centro-oeste,Distrito Federal,Outras,4
-2023-01-01,Jan 2023,Centro-oeste,Goiás,Outras,91
-2023-01-01,Jan 2023,Centro-oeste,Goiás,XBB.* (Omicron),5
-2023-01-01,Jan 2023,Centro-oeste,Goiás,XBB.1.18.* (Omicron),11
+2023-01-01,Jan 2023,Centro-oeste,Goiás,Outras,107
 2023-01-01,Jan 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),8
-2023-01-01,Jan 2023,Centro-oeste,Mato Grosso,Outras,10
-2023-01-01,Jan 2023,Centro-oeste,Mato Grosso,XBB.1.18.* (Omicron),3
-2023-01-01,Jan 2023,Centro-oeste,Mato Grosso do Sul,Outras,80
-2023-01-01,Jan 2023,Centro-oeste,Mato Grosso do Sul,XBB.* (Omicron),1
-2023-01-01,Jan 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.18.* (Omicron),5
+2023-01-01,Jan 2023,Centro-oeste,Mato Grosso,Outras,13
+2023-01-01,Jan 2023,Centro-oeste,Mato Grosso do Sul,Outras,86
 2023-01-01,Jan 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.* (Omicron),2
-2023-01-01,Jan 2023,Nordeste,Alagoas,Outras,18
-2023-01-01,Jan 2023,Nordeste,Alagoas,XBB.* (Omicron),10
-2023-01-01,Jan 2023,Nordeste,Alagoas,XBB.1.18.* (Omicron),2
-2023-01-01,Jan 2023,Nordeste,Bahia,Outras,45
-2023-01-01,Jan 2023,Nordeste,Bahia,XBB.* (Omicron),3
-2023-01-01,Jan 2023,Nordeste,Bahia,XBB.1.18.* (Omicron),2
+2023-01-01,Jan 2023,Nordeste,Alagoas,Outras,30
+2023-01-01,Jan 2023,Nordeste,Bahia,Outras,50
 2023-01-01,Jan 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),1
-2023-01-01,Jan 2023,Nordeste,Ceará,Outras,38
-2023-01-01,Jan 2023,Nordeste,Ceará,XBB.1.18.* (Omicron),3
-2023-01-01,Jan 2023,Nordeste,Maranhão,Outras,4
-2023-01-01,Jan 2023,Nordeste,Maranhão,XBB.* (Omicron),2
-2023-01-01,Jan 2023,Nordeste,Maranhão,XBB.1.18.* (Omicron),2
+2023-01-01,Jan 2023,Nordeste,Ceará,Outras,41
+2023-01-01,Jan 2023,Nordeste,Maranhão,Outras,8
 2023-01-01,Jan 2023,Nordeste,Maranhão,XBB.1.5.* (Omicron),2
 2023-01-01,Jan 2023,Nordeste,Paraíba,Outras,5
-2023-01-01,Jan 2023,Nordeste,Pernambuco,Outras,21
-2023-01-01,Jan 2023,Nordeste,Pernambuco,XBB.* (Omicron),2
+2023-01-01,Jan 2023,Nordeste,Pernambuco,Outras,23
 2023-01-01,Jan 2023,Nordeste,Rio Grande do Norte,Outras,4
 2023-01-01,Jan 2023,Norte,Acre,Outras,1
-2023-01-01,Jan 2023,Norte,Amapá,Outras,8
-2023-01-01,Jan 2023,Norte,Amapá,XBB.* (Omicron),2
-2023-01-01,Jan 2023,Norte,Amapá,XBB.1.18.* (Omicron),21
-2023-01-01,Jan 2023,Norte,Amazonas,Outras,52
-2023-01-01,Jan 2023,Norte,Amazonas,XBB.* (Omicron),6
-2023-01-01,Jan 2023,Norte,Amazonas,XBB.1.18.* (Omicron),1
+2023-01-01,Jan 2023,Norte,Amapá,Outras,31
+2023-01-01,Jan 2023,Norte,Amazonas,Outras,59
 2023-01-01,Jan 2023,Norte,Amazonas,XBB.1.5.* (Omicron),41
-2023-01-01,Jan 2023,Norte,Pará,Outras,9
-2023-01-01,Jan 2023,Norte,Pará,XBB.* (Omicron),2
-2023-01-01,Jan 2023,Norte,Pará,XBB.1.18.* (Omicron),10
+2023-01-01,Jan 2023,Norte,Pará,Outras,21
 2023-01-01,Jan 2023,Norte,Pará,XBB.1.5.* (Omicron),3
-2023-01-01,Jan 2023,Norte,Rondônia,Outras,14
-2023-01-01,Jan 2023,Norte,Rondônia,XBB.* (Omicron),2
-2023-01-01,Jan 2023,Norte,Rondônia,XBB.1.18.* (Omicron),1
-2023-01-01,Jan 2023,Norte,Tocantins,Outras,87
-2023-01-01,Jan 2023,Norte,Tocantins,XBB.* (Omicron),1
-2023-01-01,Jan 2023,Norte,Tocantins,XBB.1.18.* (Omicron),11
+2023-01-01,Jan 2023,Norte,Rondônia,Outras,17
+2023-01-01,Jan 2023,Norte,Tocantins,Outras,99
 2023-01-01,Jan 2023,Norte,Tocantins,XBB.1.5.* (Omicron),3
-2023-01-01,Jan 2023,Sudeste,Espírito Santo,Outras,91
-2023-01-01,Jan 2023,Sudeste,Espírito Santo,XBB.* (Omicron),2
-2023-01-01,Jan 2023,Sudeste,Espírito Santo,XBB.1.18.* (Omicron),2
+2023-01-01,Jan 2023,Sudeste,Espírito Santo,Outras,96
 2023-01-01,Jan 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),2
-2023-01-01,Jan 2023,Sudeste,Minas Gerais,Outras,216
-2023-01-01,Jan 2023,Sudeste,Minas Gerais,XBB.* (Omicron),5
-2023-01-01,Jan 2023,Sudeste,Minas Gerais,XBB.1.18.* (Omicron),1
+2023-01-01,Jan 2023,Sudeste,Minas Gerais,Outras,222
 2023-01-01,Jan 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),3
-2023-01-01,Jan 2023,Sudeste,Rio de Janeiro,Outras,89
-2023-01-01,Jan 2023,Sudeste,Rio de Janeiro,XBB.* (Omicron),10
-2023-01-01,Jan 2023,Sudeste,Rio de Janeiro,XBB.1.18.* (Omicron),6
+2023-01-01,Jan 2023,Sudeste,Rio de Janeiro,Outras,105
 2023-01-01,Jan 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),10
 2023-01-01,Jan 2023,Sudeste,São Paulo,FE.1.* (Omicron),8
-2023-01-01,Jan 2023,Sudeste,São Paulo,Outras,536
-2023-01-01,Jan 2023,Sudeste,São Paulo,XBB.* (Omicron),18
-2023-01-01,Jan 2023,Sudeste,São Paulo,XBB.1.18.* (Omicron),50
-2023-01-01,Jan 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),48
+2023-01-01,Jan 2023,Sudeste,São Paulo,Outras,606
+2023-01-01,Jan 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),46
 2023-01-01,Jan 2023,Sul,Paraná,Outras,8
 2023-01-01,Jan 2023,Sul,Paraná,XBB.1.5.* (Omicron),1
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),1
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outras,189
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,XBB.* (Omicron),1
-2023-01-01,Jan 2023,Sul,Rio Grande do Sul,XBB.1.18.* (Omicron),3
+2023-01-01,Jan 2023,Sul,Rio Grande do Sul,Outras,193
 2023-01-01,Jan 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),1
-2023-01-01,Jan 2023,Sul,Santa Catarina,Outras,168
-2023-01-01,Jan 2023,Sul,Santa Catarina,XBB.* (Omicron),6
-2023-01-01,Jan 2023,Sul,Santa Catarina,XBB.1.18.* (Omicron),3
+2023-01-01,Jan 2023,Sul,Santa Catarina,Outras,177
 2023-01-01,Jan 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),17
-2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outras,8
-2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,XBB.* (Omicron),9
-2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,XBB.1.18.* (Omicron),6
+2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,Outras,23
 2023-02-01,Fev 2023,Centro-oeste,Distrito Federal,XBB.1.5.* (Omicron),7
-2023-02-01,Fev 2023,Centro-oeste,Goiás,Outras,17
-2023-02-01,Fev 2023,Centro-oeste,Goiás,XBB.* (Omicron),1
-2023-02-01,Fev 2023,Centro-oeste,Goiás,XBB.1.18.* (Omicron),14
-2023-02-01,Fev 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),15
-2023-02-01,Fev 2023,Centro-oeste,Mato Grosso,Outras,2
-2023-02-01,Fev 2023,Centro-oeste,Mato Grosso,XBB.* (Omicron),1
+2023-02-01,Fev 2023,Centro-oeste,Goiás,Outras,31
+2023-02-01,Fev 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),16
+2023-02-01,Fev 2023,Centro-oeste,Mato Grosso,Outras,3
 2023-02-01,Fev 2023,Centro-oeste,Mato Grosso,XBB.1.5.* (Omicron),3
 2023-02-01,Fev 2023,Centro-oeste,Mato Grosso do Sul,FE.1.* (Omicron),3
-2023-02-01,Fev 2023,Centro-oeste,Mato Grosso do Sul,Outras,28
-2023-02-01,Fev 2023,Centro-oeste,Mato Grosso do Sul,XBB.* (Omicron),9
-2023-02-01,Fev 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.18.* (Omicron),19
+2023-02-01,Fev 2023,Centro-oeste,Mato Grosso do Sul,Outras,56
 2023-02-01,Fev 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.* (Omicron),7
-2023-02-01,Fev 2023,Nordeste,Alagoas,XBB.* (Omicron),6
+2023-02-01,Fev 2023,Nordeste,Alagoas,Outras,6
 2023-02-01,Fev 2023,Nordeste,Alagoas,XBB.1.5.* (Omicron),4
 2023-02-01,Fev 2023,Nordeste,Bahia,FE.1.* (Omicron),12
-2023-02-01,Fev 2023,Nordeste,Bahia,Outras,12
-2023-02-01,Fev 2023,Nordeste,Bahia,XBB.* (Omicron),3
-2023-02-01,Fev 2023,Nordeste,Bahia,XBB.1.18.* (Omicron),5
-2023-02-01,Fev 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),18
-2023-02-01,Fev 2023,Nordeste,Ceará,Outras,9
-2023-02-01,Fev 2023,Nordeste,Ceará,XBB.* (Omicron),2
-2023-02-01,Fev 2023,Nordeste,Ceará,XBB.1.18.* (Omicron),21
+2023-02-01,Fev 2023,Nordeste,Bahia,Outras,18
+2023-02-01,Fev 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),20
+2023-02-01,Fev 2023,Nordeste,Ceará,Outras,32
 2023-02-01,Fev 2023,Nordeste,Ceará,XBB.1.5.* (Omicron),2
-2023-02-01,Fev 2023,Nordeste,Maranhão,Outras,3
-2023-02-01,Fev 2023,Nordeste,Maranhão,XBB.* (Omicron),1
-2023-02-01,Fev 2023,Nordeste,Maranhão,XBB.1.18.* (Omicron),5
+2023-02-01,Fev 2023,Nordeste,Maranhão,Outras,9
 2023-02-01,Fev 2023,Nordeste,Maranhão,XBB.1.5.* (Omicron),1
-2023-02-01,Fev 2023,Nordeste,Paraíba,XBB.* (Omicron),1
+2023-02-01,Fev 2023,Nordeste,Paraíba,Outras,1
 2023-02-01,Fev 2023,Nordeste,Paraíba,XBB.1.5.* (Omicron),1
-2023-02-01,Fev 2023,Nordeste,Pernambuco,Outras,2
-2023-02-01,Fev 2023,Nordeste,Pernambuco,XBB.* (Omicron),4
-2023-02-01,Fev 2023,Nordeste,Pernambuco,XBB.1.18.* (Omicron),1
+2023-02-01,Fev 2023,Nordeste,Pernambuco,Outras,7
 2023-02-01,Fev 2023,Nordeste,Pernambuco,XBB.1.5.* (Omicron),4
-2023-02-01,Fev 2023,Nordeste,Rio Grande do Norte,XBB.1.18.* (Omicron),7
+2023-02-01,Fev 2023,Nordeste,Rio Grande do Norte,Outras,7
 2023-02-01,Fev 2023,Nordeste,Rio Grande do Norte,XBB.1.5.* (Omicron),3
 2023-02-01,Fev 2023,Nordeste,Sergipe,FE.1.* (Omicron),1
-2023-02-01,Fev 2023,Nordeste,Sergipe,XBB.1.18.* (Omicron),2
+2023-02-01,Fev 2023,Nordeste,Sergipe,Outras,2
 2023-02-01,Fev 2023,Nordeste,Sergipe,XBB.1.5.* (Omicron),3
-2023-02-01,Fev 2023,Norte,Acre,XBB.* (Omicron),1
-2023-02-01,Fev 2023,Norte,Acre,XBB.1.18.* (Omicron),1
+2023-02-01,Fev 2023,Norte,Acre,Outras,2
 2023-02-01,Fev 2023,Norte,Acre,XBB.1.5.* (Omicron),1
-2023-02-01,Fev 2023,Norte,Amapá,XBB.* (Omicron),3
-2023-02-01,Fev 2023,Norte,Amapá,XBB.1.18.* (Omicron),8
+2023-02-01,Fev 2023,Norte,Amapá,Outras,11
 2023-02-01,Fev 2023,Norte,Amapá,XBB.1.5.* (Omicron),3
-2023-02-01,Fev 2023,Norte,Amazonas,Outras,37
-2023-02-01,Fev 2023,Norte,Amazonas,XBB.* (Omicron),22
-2023-02-01,Fev 2023,Norte,Amazonas,XBB.1.18.* (Omicron),65
+2023-02-01,Fev 2023,Norte,Amazonas,Outras,124
 2023-02-01,Fev 2023,Norte,Amazonas,XBB.1.5.* (Omicron),1352
-2023-02-01,Fev 2023,Norte,Pará,XBB.* (Omicron),7
-2023-02-01,Fev 2023,Norte,Pará,XBB.1.18.* (Omicron),27
+2023-02-01,Fev 2023,Norte,Pará,Outras,34
 2023-02-01,Fev 2023,Norte,Pará,XBB.1.5.* (Omicron),10
-2023-02-01,Fev 2023,Norte,Rondônia,Outras,8
-2023-02-01,Fev 2023,Norte,Rondônia,XBB.1.18.* (Omicron),1
+2023-02-01,Fev 2023,Norte,Rondônia,Outras,9
 2023-02-01,Fev 2023,Norte,Rondônia,XBB.1.5.* (Omicron),1
 2023-02-01,Fev 2023,Norte,Tocantins,FE.1.* (Omicron),2
-2023-02-01,Fev 2023,Norte,Tocantins,Outras,4
-2023-02-01,Fev 2023,Norte,Tocantins,XBB.* (Omicron),4
-2023-02-01,Fev 2023,Norte,Tocantins,XBB.1.18.* (Omicron),34
+2023-02-01,Fev 2023,Norte,Tocantins,Outras,44
 2023-02-01,Fev 2023,Norte,Tocantins,XBB.1.5.* (Omicron),2
-2023-02-01,Fev 2023,Sudeste,Espírito Santo,Outras,10
-2023-02-01,Fev 2023,Sudeste,Espírito Santo,XBB.* (Omicron),1
-2023-02-01,Fev 2023,Sudeste,Espírito Santo,XBB.1.18.* (Omicron),3
-2023-02-01,Fev 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),10
+2023-02-01,Fev 2023,Sudeste,Espírito Santo,Outras,16
+2023-02-01,Fev 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),11
 2023-02-01,Fev 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),1
-2023-02-01,Fev 2023,Sudeste,Minas Gerais,Outras,42
-2023-02-01,Fev 2023,Sudeste,Minas Gerais,XBB.1.18.* (Omicron),4
-2023-02-01,Fev 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),11
+2023-02-01,Fev 2023,Sudeste,Minas Gerais,Outras,46
+2023-02-01,Fev 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),12
 2023-02-01,Fev 2023,Sudeste,Rio de Janeiro,FE.1.* (Omicron),2
-2023-02-01,Fev 2023,Sudeste,Rio de Janeiro,Outras,20
-2023-02-01,Fev 2023,Sudeste,Rio de Janeiro,XBB.* (Omicron),9
-2023-02-01,Fev 2023,Sudeste,Rio de Janeiro,XBB.1.18.* (Omicron),10
+2023-02-01,Fev 2023,Sudeste,Rio de Janeiro,Outras,39
 2023-02-01,Fev 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),69
 2023-02-01,Fev 2023,Sudeste,São Paulo,FE.1.* (Omicron),44
-2023-02-01,Fev 2023,Sudeste,São Paulo,Outras,80
-2023-02-01,Fev 2023,Sudeste,São Paulo,XBB.* (Omicron),14
-2023-02-01,Fev 2023,Sudeste,São Paulo,XBB.1.18.* (Omicron),100
-2023-02-01,Fev 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),187
+2023-02-01,Fev 2023,Sudeste,São Paulo,Outras,201
+2023-02-01,Fev 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),180
 2023-02-01,Fev 2023,Sul,Paraná,FE.1.* (Omicron),2
-2023-02-01,Fev 2023,Sul,Paraná,Outras,13
-2023-02-01,Fev 2023,Sul,Paraná,XBB.1.18.* (Omicron),3
+2023-02-01,Fev 2023,Sul,Paraná,Outras,16
 2023-02-01,Fev 2023,Sul,Paraná,XBB.1.5.* (Omicron),9
-2023-02-01,Fev 2023,Sul,Rio Grande do Sul,Outras,10
-2023-02-01,Fev 2023,Sul,Rio Grande do Sul,XBB.1.18.* (Omicron),1
+2023-02-01,Fev 2023,Sul,Rio Grande do Sul,Outras,11
 2023-02-01,Fev 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),3
 2023-02-01,Fev 2023,Sul,Santa Catarina,FE.1.* (Omicron),5
-2023-02-01,Fev 2023,Sul,Santa Catarina,Outras,20
-2023-02-01,Fev 2023,Sul,Santa Catarina,XBB.* (Omicron),7
-2023-02-01,Fev 2023,Sul,Santa Catarina,XBB.1.18.* (Omicron),8
+2023-02-01,Fev 2023,Sul,Santa Catarina,Outras,35
 2023-02-01,Fev 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),40
-2023-03-01,Mar 2023,Centro-oeste,Goiás,Outras,5
-2023-03-01,Mar 2023,Centro-oeste,Goiás,XBB.* (Omicron),1
-2023-03-01,Mar 2023,Centro-oeste,Goiás,XBB.1.18.* (Omicron),27
+2023-03-01,Mar 2023,Centro-oeste,Goiás,Outras,33
 2023-03-01,Mar 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),24
-2023-03-01,Mar 2023,Centro-oeste,Mato Grosso,Outras,1
-2023-03-01,Mar 2023,Centro-oeste,Mato Grosso,XBB.1.18.* (Omicron),8
+2023-03-01,Mar 2023,Centro-oeste,Goiás,XBB.1.5.70.*+GK.* (Omicron),2
+2023-03-01,Mar 2023,Centro-oeste,Mato Grosso,Outras,9
 2023-03-01,Mar 2023,Centro-oeste,Mato Grosso,XBB.1.5.* (Omicron),6
 2023-03-01,Mar 2023,Centro-oeste,Mato Grosso do Sul,FE.1.* (Omicron),8
-2023-03-01,Mar 2023,Centro-oeste,Mato Grosso do Sul,Outras,15
-2023-03-01,Mar 2023,Centro-oeste,Mato Grosso do Sul,XBB.* (Omicron),1
-2023-03-01,Mar 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.18.* (Omicron),44
+2023-03-01,Mar 2023,Centro-oeste,Mato Grosso do Sul,Outras,60
 2023-03-01,Mar 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.* (Omicron),26
 2023-03-01,Mar 2023,Nordeste,Alagoas,FE.1.* (Omicron),7
-2023-03-01,Mar 2023,Nordeste,Alagoas,XBB.* (Omicron),2
-2023-03-01,Mar 2023,Nordeste,Alagoas,XBB.1.18.* (Omicron),3
+2023-03-01,Mar 2023,Nordeste,Alagoas,Outras,5
 2023-03-01,Mar 2023,Nordeste,Alagoas,XBB.1.5.* (Omicron),7
 2023-03-01,Mar 2023,Nordeste,Bahia,FE.1.* (Omicron),73
-2023-03-01,Mar 2023,Nordeste,Bahia,Outras,15
-2023-03-01,Mar 2023,Nordeste,Bahia,XBB.1.18.* (Omicron),17
-2023-03-01,Mar 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),57
+2023-03-01,Mar 2023,Nordeste,Bahia,Outras,33
+2023-03-01,Mar 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),56
 2023-03-01,Mar 2023,Nordeste,Ceará,FE.1.* (Omicron),1
-2023-03-01,Mar 2023,Nordeste,Ceará,XBB.1.18.* (Omicron),9
-2023-03-01,Mar 2023,Nordeste,Ceará,XBB.1.5.* (Omicron),15
-2023-03-01,Mar 2023,Nordeste,Maranhão,Outras,2
-2023-03-01,Mar 2023,Nordeste,Maranhão,XBB.* (Omicron),1
-2023-03-01,Mar 2023,Nordeste,Maranhão,XBB.1.18.* (Omicron),6
+2023-03-01,Mar 2023,Nordeste,Ceará,Outras,13
+2023-03-01,Mar 2023,Nordeste,Ceará,XBB.1.5.* (Omicron),6
+2023-03-01,Mar 2023,Nordeste,Ceará,XBB.1.5.70.*+GK.* (Omicron),5
+2023-03-01,Mar 2023,Nordeste,Maranhão,Outras,9
 2023-03-01,Mar 2023,Nordeste,Maranhão,XBB.1.5.* (Omicron),4
 2023-03-01,Mar 2023,Nordeste,Paraíba,Outras,1
 2023-03-01,Mar 2023,Nordeste,Paraíba,XBB.1.5.* (Omicron),3
 2023-03-01,Mar 2023,Nordeste,Pernambuco,FE.1.* (Omicron),2
-2023-03-01,Mar 2023,Nordeste,Pernambuco,Outras,6
-2023-03-01,Mar 2023,Nordeste,Pernambuco,XBB.* (Omicron),4
-2023-03-01,Mar 2023,Nordeste,Pernambuco,XBB.1.18.* (Omicron),5
+2023-03-01,Mar 2023,Nordeste,Pernambuco,Outras,15
 2023-03-01,Mar 2023,Nordeste,Pernambuco,XBB.1.5.* (Omicron),19
 2023-03-01,Mar 2023,Nordeste,Piauí,XBB.1.5.* (Omicron),1
-2023-03-01,Mar 2023,Nordeste,Rio Grande do Norte,Outras,1
-2023-03-01,Mar 2023,Nordeste,Rio Grande do Norte,XBB.* (Omicron),1
-2023-03-01,Mar 2023,Nordeste,Rio Grande do Norte,XBB.1.18.* (Omicron),17
+2023-03-01,Mar 2023,Nordeste,Rio Grande do Norte,Outras,19
 2023-03-01,Mar 2023,Nordeste,Rio Grande do Norte,XBB.1.5.* (Omicron),1
 2023-03-01,Mar 2023,Nordeste,Sergipe,XBB.1.5.* (Omicron),4
 2023-03-01,Mar 2023,Norte,Acre,XBB.1.5.* (Omicron),5
-2023-03-01,Mar 2023,Norte,Amapá,XBB.1.18.* (Omicron),6
+2023-03-01,Mar 2023,Norte,Amapá,Outras,7
 2023-03-01,Mar 2023,Norte,Amapá,XBB.1.5.* (Omicron),5
-2023-03-01,Mar 2023,Norte,Amazonas,XBB.* (Omicron),2
-2023-03-01,Mar 2023,Norte,Amazonas,XBB.1.18.* (Omicron),2
+2023-03-01,Mar 2023,Norte,Amazonas,Outras,4
 2023-03-01,Mar 2023,Norte,Amazonas,XBB.1.5.* (Omicron),77
-2023-03-01,Mar 2023,Norte,Pará,XBB.1.18.* (Omicron),31
+2023-03-01,Mar 2023,Norte,Pará,Outras,31
 2023-03-01,Mar 2023,Norte,Pará,XBB.1.5.* (Omicron),37
-2023-03-01,Mar 2023,Norte,Rondônia,Outras,4
-2023-03-01,Mar 2023,Norte,Rondônia,XBB.1.18.* (Omicron),7
+2023-03-01,Mar 2023,Norte,Rondônia,Outras,11
 2023-03-01,Mar 2023,Norte,Rondônia,XBB.1.5.* (Omicron),1
 2023-03-01,Mar 2023,Norte,Tocantins,FE.1.* (Omicron),5
-2023-03-01,Mar 2023,Norte,Tocantins,XBB.* (Omicron),4
-2023-03-01,Mar 2023,Norte,Tocantins,XBB.1.18.* (Omicron),51
+2023-03-01,Mar 2023,Norte,Tocantins,Outras,55
 2023-03-01,Mar 2023,Norte,Tocantins,XBB.1.5.* (Omicron),3
-2023-03-01,Mar 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),9
-2023-03-01,Mar 2023,Sudeste,Espírito Santo,Outras,7
-2023-03-01,Mar 2023,Sudeste,Espírito Santo,XBB.* (Omicron),3
-2023-03-01,Mar 2023,Sudeste,Espírito Santo,XBB.1.18.* (Omicron),4
-2023-03-01,Mar 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),48
-2023-03-01,Mar 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),10
-2023-03-01,Mar 2023,Sudeste,Minas Gerais,Outras,15
-2023-03-01,Mar 2023,Sudeste,Minas Gerais,XBB.* (Omicron),8
-2023-03-01,Mar 2023,Sudeste,Minas Gerais,XBB.1.18.* (Omicron),11
-2023-03-01,Mar 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),38
+2023-03-01,Mar 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),8
+2023-03-01,Mar 2023,Sudeste,Espírito Santo,Outras,14
+2023-03-01,Mar 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),52
+2023-03-01,Mar 2023,Sudeste,Espírito Santo,XBB.1.5.70.*+GK.* (Omicron),1
+2023-03-01,Mar 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),16
+2023-03-01,Mar 2023,Sudeste,Minas Gerais,Outras,39
+2023-03-01,Mar 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),41
 2023-03-01,Mar 2023,Sudeste,Rio de Janeiro,FE.1.* (Omicron),8
-2023-03-01,Mar 2023,Sudeste,Rio de Janeiro,Outras,4
-2023-03-01,Mar 2023,Sudeste,Rio de Janeiro,XBB.* (Omicron),16
-2023-03-01,Mar 2023,Sudeste,Rio de Janeiro,XBB.1.18.* (Omicron),11
-2023-03-01,Mar 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),101
-2023-03-01,Mar 2023,Sudeste,São Paulo,FE.1.* (Omicron),55
-2023-03-01,Mar 2023,Sudeste,São Paulo,Outras,10
-2023-03-01,Mar 2023,Sudeste,São Paulo,XBB.* (Omicron),22
-2023-03-01,Mar 2023,Sudeste,São Paulo,XBB.1.18.* (Omicron),62
-2023-03-01,Mar 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),99
+2023-03-01,Mar 2023,Sudeste,Rio de Janeiro,Outras,30
+2023-03-01,Mar 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),103
+2023-03-01,Mar 2023,Sudeste,São Paulo,FE.1.* (Omicron),53
+2023-03-01,Mar 2023,Sudeste,São Paulo,Outras,106
+2023-03-01,Mar 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),90
 2023-03-01,Mar 2023,Sul,Paraná,FE.1.* (Omicron),3
-2023-03-01,Mar 2023,Sul,Paraná,Outras,4
-2023-03-01,Mar 2023,Sul,Paraná,XBB.1.18.* (Omicron),12
+2023-03-01,Mar 2023,Sul,Paraná,Outras,16
 2023-03-01,Mar 2023,Sul,Paraná,XBB.1.5.* (Omicron),15
 2023-03-01,Mar 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),5
-2023-03-01,Mar 2023,Sul,Rio Grande do Sul,Outras,7
-2023-03-01,Mar 2023,Sul,Rio Grande do Sul,XBB.* (Omicron),23
-2023-03-01,Mar 2023,Sul,Rio Grande do Sul,XBB.1.18.* (Omicron),13
+2023-03-01,Mar 2023,Sul,Rio Grande do Sul,Outras,43
 2023-03-01,Mar 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),41
 2023-03-01,Mar 2023,Sul,Santa Catarina,FE.1.* (Omicron),17
-2023-03-01,Mar 2023,Sul,Santa Catarina,Outras,14
-2023-03-01,Mar 2023,Sul,Santa Catarina,XBB.* (Omicron),11
-2023-03-01,Mar 2023,Sul,Santa Catarina,XBB.1.18.* (Omicron),20
-2023-03-01,Mar 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),84
+2023-03-01,Mar 2023,Sul,Santa Catarina,Outras,44
+2023-03-01,Mar 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),85
 2023-04-01,Abr 2023,Centro-oeste,Distrito Federal,FE.1.* (Omicron),2
-2023-04-01,Abr 2023,Centro-oeste,Distrito Federal,Outras,1
-2023-04-01,Abr 2023,Centro-oeste,Distrito Federal,XBB.* (Omicron),17
-2023-04-01,Abr 2023,Centro-oeste,Distrito Federal,XBB.1.18.* (Omicron),7
+2023-04-01,Abr 2023,Centro-oeste,Distrito Federal,Outras,25
 2023-04-01,Abr 2023,Centro-oeste,Distrito Federal,XBB.1.5.* (Omicron),5
 2023-04-01,Abr 2023,Centro-oeste,Goiás,FE.1.* (Omicron),7
-2023-04-01,Abr 2023,Centro-oeste,Goiás,Outras,1
-2023-04-01,Abr 2023,Centro-oeste,Goiás,XBB.* (Omicron),9
-2023-04-01,Abr 2023,Centro-oeste,Goiás,XBB.1.18.* (Omicron),12
+2023-04-01,Abr 2023,Centro-oeste,Goiás,Outras,22
 2023-04-01,Abr 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),23
-2023-04-01,Abr 2023,Centro-oeste,Mato Grosso,XBB.* (Omicron),1
+2023-04-01,Abr 2023,Centro-oeste,Mato Grosso,Outras,1
 2023-04-01,Abr 2023,Centro-oeste,Mato Grosso,XBB.1.5.* (Omicron),2
 2023-04-01,Abr 2023,Centro-oeste,Mato Grosso do Sul,FE.1.* (Omicron),6
-2023-04-01,Abr 2023,Centro-oeste,Mato Grosso do Sul,Outras,3
-2023-04-01,Abr 2023,Centro-oeste,Mato Grosso do Sul,XBB.* (Omicron),3
-2023-04-01,Abr 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.18.* (Omicron),14
+2023-04-01,Abr 2023,Centro-oeste,Mato Grosso do Sul,Outras,20
 2023-04-01,Abr 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.* (Omicron),7
 2023-04-01,Abr 2023,Nordeste,Alagoas,FE.1.* (Omicron),12
-2023-04-01,Abr 2023,Nordeste,Alagoas,XBB.* (Omicron),6
-2023-04-01,Abr 2023,Nordeste,Alagoas,XBB.1.18.* (Omicron),5
-2023-04-01,Abr 2023,Nordeste,Alagoas,XBB.1.5.* (Omicron),21
+2023-04-01,Abr 2023,Nordeste,Alagoas,Outras,19
+2023-04-01,Abr 2023,Nordeste,Alagoas,XBB.1.5.* (Omicron),12
+2023-04-01,Abr 2023,Nordeste,Alagoas,XBB.1.5.70.*+GK.* (Omicron),1
 2023-04-01,Abr 2023,Nordeste,Bahia,FE.1.* (Omicron),100
-2023-04-01,Abr 2023,Nordeste,Bahia,Outras,7
-2023-04-01,Abr 2023,Nordeste,Bahia,XBB.* (Omicron),2
-2023-04-01,Abr 2023,Nordeste,Bahia,XBB.1.18.* (Omicron),3
-2023-04-01,Abr 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),20
+2023-04-01,Abr 2023,Nordeste,Bahia,Outras,15
+2023-04-01,Abr 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),16
+2023-04-01,Abr 2023,Nordeste,Bahia,XBB.1.5.70.*+GK.* (Omicron),1
 2023-04-01,Abr 2023,Nordeste,Ceará,FE.1.* (Omicron),9
-2023-04-01,Abr 2023,Nordeste,Ceará,Outras,1
-2023-04-01,Abr 2023,Nordeste,Ceará,XBB.1.18.* (Omicron),7
-2023-04-01,Abr 2023,Nordeste,Ceará,XBB.1.5.* (Omicron),93
-2023-04-01,Abr 2023,Nordeste,Maranhão,XBB.* (Omicron),1
-2023-04-01,Abr 2023,Nordeste,Maranhão,XBB.1.18.* (Omicron),1
+2023-04-01,Abr 2023,Nordeste,Ceará,Outras,33
+2023-04-01,Abr 2023,Nordeste,Ceará,XBB.1.5.* (Omicron),10
+2023-04-01,Abr 2023,Nordeste,Ceará,XBB.1.5.70.*+GK.* (Omicron),58
+2023-04-01,Abr 2023,Nordeste,Maranhão,Outras,2
 2023-04-01,Abr 2023,Nordeste,Maranhão,XBB.1.5.* (Omicron),1
 2023-04-01,Abr 2023,Nordeste,Paraíba,FE.1.* (Omicron),3
 2023-04-01,Abr 2023,Nordeste,Paraíba,Outras,2
 2023-04-01,Abr 2023,Nordeste,Paraíba,XBB.1.5.* (Omicron),1
 2023-04-01,Abr 2023,Nordeste,Pernambuco,FE.1.* (Omicron),8
-2023-04-01,Abr 2023,Nordeste,Pernambuco,Outras,7
-2023-04-01,Abr 2023,Nordeste,Pernambuco,XBB.1.18.* (Omicron),2
+2023-04-01,Abr 2023,Nordeste,Pernambuco,Outras,9
 2023-04-01,Abr 2023,Nordeste,Pernambuco,XBB.1.5.* (Omicron),10
 2023-04-01,Abr 2023,Nordeste,Rio Grande do Norte,FE.1.* (Omicron),1
-2023-04-01,Abr 2023,Nordeste,Rio Grande do Norte,Outras,2
-2023-04-01,Abr 2023,Nordeste,Rio Grande do Norte,XBB.1.18.* (Omicron),15
-2023-04-01,Abr 2023,Nordeste,Rio Grande do Norte,XBB.1.5.* (Omicron),18
+2023-04-01,Abr 2023,Nordeste,Rio Grande do Norte,Outras,18
+2023-04-01,Abr 2023,Nordeste,Rio Grande do Norte,XBB.1.5.* (Omicron),17
 2023-04-01,Abr 2023,Nordeste,Sergipe,FE.1.* (Omicron),1
-2023-04-01,Abr 2023,Nordeste,Sergipe,XBB.1.18.* (Omicron),3
+2023-04-01,Abr 2023,Nordeste,Sergipe,Outras,3
 2023-04-01,Abr 2023,Nordeste,Sergipe,XBB.1.5.* (Omicron),1
 2023-04-01,Abr 2023,Norte,Acre,FE.1.* (Omicron),2
-2023-04-01,Abr 2023,Norte,Acre,Outras,1
-2023-04-01,Abr 2023,Norte,Acre,XBB.1.5.* (Omicron),16
+2023-04-01,Abr 2023,Norte,Acre,XBB.1.5.* (Omicron),17
 2023-04-01,Abr 2023,Norte,Amapá,FE.1.* (Omicron),1
 2023-04-01,Abr 2023,Norte,Amazonas,XBB.1.5.* (Omicron),13
-2023-04-01,Abr 2023,Norte,Pará,XBB.1.18.* (Omicron),5
+2023-04-01,Abr 2023,Norte,Pará,Outras,5
 2023-04-01,Abr 2023,Norte,Pará,XBB.1.5.* (Omicron),4
+2023-04-01,Abr 2023,Norte,Rondônia,Outras,2
+2023-04-01,Abr 2023,Norte,Rondônia,XBB.1.5.* (Omicron),3
+2023-04-01,Abr 2023,Norte,Rondônia,XBB.1.5.70.*+GK.* (Omicron),3
 2023-04-01,Abr 2023,Norte,Roraima,XBB.1.5.* (Omicron),7
 2023-04-01,Abr 2023,Norte,Tocantins,FE.1.* (Omicron),7
-2023-04-01,Abr 2023,Norte,Tocantins,XBB.* (Omicron),1
-2023-04-01,Abr 2023,Norte,Tocantins,XBB.1.18.* (Omicron),32
+2023-04-01,Abr 2023,Norte,Tocantins,Outras,33
 2023-04-01,Abr 2023,Norte,Tocantins,XBB.1.5.* (Omicron),4
-2023-04-01,Abr 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),16
-2023-04-01,Abr 2023,Sudeste,Espírito Santo,Outras,3
-2023-04-01,Abr 2023,Sudeste,Espírito Santo,XBB.* (Omicron),1
-2023-04-01,Abr 2023,Sudeste,Espírito Santo,XBB.1.18.* (Omicron),3
-2023-04-01,Abr 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),27
-2023-04-01,Abr 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),21
-2023-04-01,Abr 2023,Sudeste,Minas Gerais,Outras,8
-2023-04-01,Abr 2023,Sudeste,Minas Gerais,XBB.* (Omicron),8
-2023-04-01,Abr 2023,Sudeste,Minas Gerais,XBB.1.18.* (Omicron),9
-2023-04-01,Abr 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),22
+2023-04-01,Abr 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),31
+2023-04-01,Abr 2023,Sudeste,Espírito Santo,Outras,9
+2023-04-01,Abr 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),37
+2023-04-01,Abr 2023,Sudeste,Espírito Santo,XBB.1.5.70.*+GK.* (Omicron),2
+2023-04-01,Abr 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),22
+2023-04-01,Abr 2023,Sudeste,Minas Gerais,Outras,25
+2023-04-01,Abr 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),24
 2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,FE.1.* (Omicron),3
-2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,Outras,2
-2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,XBB.* (Omicron),3
-2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,XBB.1.18.* (Omicron),5
-2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),13
-2023-04-01,Abr 2023,Sudeste,São Paulo,FE.1.* (Omicron),25
-2023-04-01,Abr 2023,Sudeste,São Paulo,Outras,4
-2023-04-01,Abr 2023,Sudeste,São Paulo,XBB.* (Omicron),8
-2023-04-01,Abr 2023,Sudeste,São Paulo,XBB.1.18.* (Omicron),4
-2023-04-01,Abr 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),20
-2023-04-01,Abr 2023,Sul,Paraná,FE.1.* (Omicron),8
-2023-04-01,Abr 2023,Sul,Paraná,Outras,1
-2023-04-01,Abr 2023,Sul,Paraná,XBB.* (Omicron),4
-2023-04-01,Abr 2023,Sul,Paraná,XBB.1.18.* (Omicron),8
-2023-04-01,Abr 2023,Sul,Paraná,XBB.1.5.* (Omicron),15
+2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,Outras,11
+2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),18
+2023-04-01,Abr 2023,Sudeste,São Paulo,FE.1.* (Omicron),22
+2023-04-01,Abr 2023,Sudeste,São Paulo,Outras,24
+2023-04-01,Abr 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),25
+2023-04-01,Abr 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),2
+2023-04-01,Abr 2023,Sul,Paraná,FE.1.* (Omicron),9
+2023-04-01,Abr 2023,Sul,Paraná,Outras,15
+2023-04-01,Abr 2023,Sul,Paraná,XBB.1.5.* (Omicron),24
 2023-04-01,Abr 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),26
-2023-04-01,Abr 2023,Sul,Rio Grande do Sul,Outras,20
-2023-04-01,Abr 2023,Sul,Rio Grande do Sul,XBB.* (Omicron),40
-2023-04-01,Abr 2023,Sul,Rio Grande do Sul,XBB.1.18.* (Omicron),9
-2023-04-01,Abr 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),93
+2023-04-01,Abr 2023,Sul,Rio Grande do Sul,Outras,70
+2023-04-01,Abr 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),91
+2023-04-01,Abr 2023,Sul,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),1
 2023-04-01,Abr 2023,Sul,Santa Catarina,FE.1.* (Omicron),25
-2023-04-01,Abr 2023,Sul,Santa Catarina,Outras,10
-2023-04-01,Abr 2023,Sul,Santa Catarina,XBB.* (Omicron),11
-2023-04-01,Abr 2023,Sul,Santa Catarina,XBB.1.18.* (Omicron),4
-2023-04-01,Abr 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),50
+2023-04-01,Abr 2023,Sul,Santa Catarina,HA.1.* (Omicron),2
+2023-04-01,Abr 2023,Sul,Santa Catarina,Outras,25
+2023-04-01,Abr 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),48
 2023-05-01,Mai 2023,Centro-oeste,Distrito Federal,FE.1.* (Omicron),8
-2023-05-01,Mai 2023,Centro-oeste,Distrito Federal,XBB.* (Omicron),25
-2023-05-01,Mai 2023,Centro-oeste,Distrito Federal,XBB.1.18.* (Omicron),3
+2023-05-01,Mai 2023,Centro-oeste,Distrito Federal,Outras,29
 2023-05-01,Mai 2023,Centro-oeste,Distrito Federal,XBB.1.5.* (Omicron),3
-2023-05-01,Mai 2023,Centro-oeste,Goiás,FE.1.* (Omicron),4
-2023-05-01,Mai 2023,Centro-oeste,Goiás,Outras,3
-2023-05-01,Mai 2023,Centro-oeste,Goiás,XBB.* (Omicron),4
-2023-05-01,Mai 2023,Centro-oeste,Goiás,XBB.1.18.* (Omicron),3
-2023-05-01,Mai 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),5
+2023-05-01,Mai 2023,Centro-oeste,Goiás,FE.1.* (Omicron),11
+2023-05-01,Mai 2023,Centro-oeste,Goiás,Outras,22
+2023-05-01,Mai 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),6
+2023-05-01,Mai 2023,Centro-oeste,Goiás,XBB.1.5.70.*+GK.* (Omicron),1
 2023-05-01,Mai 2023,Centro-oeste,Mato Grosso,FE.1.* (Omicron),10
-2023-05-01,Mai 2023,Centro-oeste,Mato Grosso,XBB.* (Omicron),4
-2023-05-01,Mai 2023,Centro-oeste,Mato Grosso,XBB.1.18.* (Omicron),3
-2023-05-01,Mai 2023,Centro-oeste,Mato Grosso,XBB.1.5.* (Omicron),11
+2023-05-01,Mai 2023,Centro-oeste,Mato Grosso,HA.1.* (Omicron),1
+2023-05-01,Mai 2023,Centro-oeste,Mato Grosso,Outras,11
+2023-05-01,Mai 2023,Centro-oeste,Mato Grosso,XBB.1.5.* (Omicron),6
 2023-05-01,Mai 2023,Centro-oeste,Mato Grosso do Sul,FE.1.* (Omicron),18
-2023-05-01,Mai 2023,Centro-oeste,Mato Grosso do Sul,Outras,3
-2023-05-01,Mai 2023,Centro-oeste,Mato Grosso do Sul,XBB.* (Omicron),3
-2023-05-01,Mai 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.18.* (Omicron),3
-2023-05-01,Mai 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.* (Omicron),11
+2023-05-01,Mai 2023,Centro-oeste,Mato Grosso do Sul,Outras,10
+2023-05-01,Mai 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.* (Omicron),8
+2023-05-01,Mai 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),2
 2023-05-01,Mai 2023,Nordeste,Alagoas,FE.1.* (Omicron),45
-2023-05-01,Mai 2023,Nordeste,Alagoas,Outras,2
-2023-05-01,Mai 2023,Nordeste,Alagoas,XBB.* (Omicron),2
-2023-05-01,Mai 2023,Nordeste,Alagoas,XBB.1.18.* (Omicron),1
-2023-05-01,Mai 2023,Nordeste,Alagoas,XBB.1.5.* (Omicron),37
+2023-05-01,Mai 2023,Nordeste,Alagoas,Outras,17
+2023-05-01,Mai 2023,Nordeste,Alagoas,XBB.1.5.* (Omicron),21
+2023-05-01,Mai 2023,Nordeste,Alagoas,XBB.1.5.70.*+GK.* (Omicron),4
 2023-05-01,Mai 2023,Nordeste,Bahia,FE.1.* (Omicron),102
-2023-05-01,Mai 2023,Nordeste,Bahia,Outras,2
-2023-05-01,Mai 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),13
+2023-05-01,Mai 2023,Nordeste,Bahia,Outras,3
+2023-05-01,Mai 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),8
+2023-05-01,Mai 2023,Nordeste,Bahia,XBB.1.5.70.*+GK.* (Omicron),4
 2023-05-01,Mai 2023,Nordeste,Ceará,FE.1.* (Omicron),2
-2023-05-01,Mai 2023,Nordeste,Ceará,XBB.1.5.* (Omicron),21
+2023-05-01,Mai 2023,Nordeste,Ceará,Outras,8
+2023-05-01,Mai 2023,Nordeste,Ceará,XBB.1.5.* (Omicron),1
+2023-05-01,Mai 2023,Nordeste,Ceará,XBB.1.5.70.*+GK.* (Omicron),12
 2023-05-01,Mai 2023,Nordeste,Paraíba,FE.1.* (Omicron),31
-2023-05-01,Mai 2023,Nordeste,Paraíba,Outras,6
-2023-05-01,Mai 2023,Nordeste,Paraíba,XBB.* (Omicron),3
-2023-05-01,Mai 2023,Nordeste,Paraíba,XBB.1.18.* (Omicron),8
-2023-05-01,Mai 2023,Nordeste,Paraíba,XBB.1.5.* (Omicron),36
+2023-05-01,Mai 2023,Nordeste,Paraíba,Outras,24
+2023-05-01,Mai 2023,Nordeste,Paraíba,XBB.1.5.* (Omicron),22
+2023-05-01,Mai 2023,Nordeste,Paraíba,XBB.1.5.70.*+GK.* (Omicron),7
 2023-05-01,Mai 2023,Nordeste,Pernambuco,FE.1.* (Omicron),25
-2023-05-01,Mai 2023,Nordeste,Pernambuco,Outras,13
-2023-05-01,Mai 2023,Nordeste,Pernambuco,XBB.1.18.* (Omicron),3
-2023-05-01,Mai 2023,Nordeste,Pernambuco,XBB.1.5.* (Omicron),15
+2023-05-01,Mai 2023,Nordeste,Pernambuco,Outras,20
+2023-05-01,Mai 2023,Nordeste,Pernambuco,XBB.1.5.* (Omicron),9
+2023-05-01,Mai 2023,Nordeste,Pernambuco,XBB.1.5.70.*+GK.* (Omicron),2
 2023-05-01,Mai 2023,Nordeste,Rio Grande do Norte,FE.1.* (Omicron),6
-2023-05-01,Mai 2023,Nordeste,Rio Grande do Norte,Outras,1
-2023-05-01,Mai 2023,Nordeste,Rio Grande do Norte,XBB.* (Omicron),1
-2023-05-01,Mai 2023,Nordeste,Rio Grande do Norte,XBB.1.18.* (Omicron),10
-2023-05-01,Mai 2023,Nordeste,Rio Grande do Norte,XBB.1.5.* (Omicron),8
+2023-05-01,Mai 2023,Nordeste,Rio Grande do Norte,Outras,14
+2023-05-01,Mai 2023,Nordeste,Rio Grande do Norte,XBB.1.5.* (Omicron),6
 2023-05-01,Mai 2023,Nordeste,Sergipe,FE.1.* (Omicron),6
-2023-05-01,Mai 2023,Nordeste,Sergipe,XBB.1.18.* (Omicron),1
-2023-05-01,Mai 2023,Nordeste,Sergipe,XBB.1.5.* (Omicron),7
-2023-05-01,Mai 2023,Norte,Amapá,XBB.1.18.* (Omicron),1
+2023-05-01,Mai 2023,Nordeste,Sergipe,Outras,1
+2023-05-01,Mai 2023,Nordeste,Sergipe,XBB.1.5.* (Omicron),4
+2023-05-01,Mai 2023,Nordeste,Sergipe,XBB.1.5.70.*+GK.* (Omicron),3
+2023-05-01,Mai 2023,Norte,Amapá,FE.1.* (Omicron),2
+2023-05-01,Mai 2023,Norte,Amapá,Outras,7
+2023-05-01,Mai 2023,Norte,Amapá,XBB.1.5.* (Omicron),1
 2023-05-01,Mai 2023,Norte,Amazonas,XBB.1.5.* (Omicron),10
 2023-05-01,Mai 2023,Norte,Pará,FE.1.* (Omicron),3
-2023-05-01,Mai 2023,Norte,Pará,Outras,1
-2023-05-01,Mai 2023,Norte,Pará,XBB.1.18.* (Omicron),2
-2023-05-01,Mai 2023,Norte,Pará,XBB.1.5.* (Omicron),10
+2023-05-01,Mai 2023,Norte,Pará,Outras,3
+2023-05-01,Mai 2023,Norte,Pará,XBB.1.5.* (Omicron),7
+2023-05-01,Mai 2023,Norte,Pará,XBB.1.5.70.*+GK.* (Omicron),3
 2023-05-01,Mai 2023,Norte,Rondônia,FE.1.* (Omicron),1
-2023-05-01,Mai 2023,Norte,Rondônia,XBB.1.18.* (Omicron),1
-2023-05-01,Mai 2023,Norte,Rondônia,XBB.1.5.* (Omicron),25
+2023-05-01,Mai 2023,Norte,Rondônia,Outras,1
+2023-05-01,Mai 2023,Norte,Rondônia,XBB.1.5.* (Omicron),15
+2023-05-01,Mai 2023,Norte,Rondônia,XBB.1.5.70.*+GK.* (Omicron),10
 2023-05-01,Mai 2023,Norte,Roraima,XBB.1.5.* (Omicron),3
-2023-05-01,Mai 2023,Norte,Tocantins,FE.1.* (Omicron),19
-2023-05-01,Mai 2023,Norte,Tocantins,XBB.* (Omicron),1
-2023-05-01,Mai 2023,Norte,Tocantins,XBB.1.18.* (Omicron),48
-2023-05-01,Mai 2023,Norte,Tocantins,XBB.1.5.* (Omicron),11
-2023-05-01,Mai 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),28
-2023-05-01,Mai 2023,Sudeste,Espírito Santo,Outras,1
-2023-05-01,Mai 2023,Sudeste,Espírito Santo,XBB.* (Omicron),4
-2023-05-01,Mai 2023,Sudeste,Espírito Santo,XBB.1.18.* (Omicron),1
-2023-05-01,Mai 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),18
+2023-05-01,Mai 2023,Norte,Tocantins,FE.1.* (Omicron),20
+2023-05-01,Mai 2023,Norte,Tocantins,Outras,52
+2023-05-01,Mai 2023,Norte,Tocantins,XBB.1.5.* (Omicron),10
+2023-05-01,Mai 2023,Norte,Tocantins,XBB.1.5.70.*+GK.* (Omicron),1
+2023-05-01,Mai 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),35
+2023-05-01,Mai 2023,Sudeste,Espírito Santo,Outras,6
+2023-05-01,Mai 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),21
 2023-05-01,Mai 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),37
-2023-05-01,Mai 2023,Sudeste,Minas Gerais,Outras,2
-2023-05-01,Mai 2023,Sudeste,Minas Gerais,XBB.* (Omicron),18
-2023-05-01,Mai 2023,Sudeste,Minas Gerais,XBB.1.18.* (Omicron),12
-2023-05-01,Mai 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),28
-2023-05-01,Mai 2023,Sudeste,Rio de Janeiro,XBB.* (Omicron),1
-2023-05-01,Mai 2023,Sudeste,Rio de Janeiro,XBB.1.18.* (Omicron),2
+2023-05-01,Mai 2023,Sudeste,Minas Gerais,HA.1.* (Omicron),2
+2023-05-01,Mai 2023,Sudeste,Minas Gerais,Outras,34
+2023-05-01,Mai 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),23
+2023-05-01,Mai 2023,Sudeste,Minas Gerais,XBB.1.5.70.*+GK.* (Omicron),1
+2023-05-01,Mai 2023,Sudeste,Rio de Janeiro,Outras,3
 2023-05-01,Mai 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),2
-2023-05-01,Mai 2023,Sudeste,São Paulo,FE.1.* (Omicron),35
-2023-05-01,Mai 2023,Sudeste,São Paulo,Outras,3
-2023-05-01,Mai 2023,Sudeste,São Paulo,XBB.* (Omicron),6
-2023-05-01,Mai 2023,Sudeste,São Paulo,XBB.1.18.* (Omicron),8
-2023-05-01,Mai 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),20
-2023-05-01,Mai 2023,Sul,Paraná,FE.1.* (Omicron),16
-2023-05-01,Mai 2023,Sul,Paraná,Outras,1
-2023-05-01,Mai 2023,Sul,Paraná,XBB.* (Omicron),1
-2023-05-01,Mai 2023,Sul,Paraná,XBB.1.18.* (Omicron),7
-2023-05-01,Mai 2023,Sul,Paraná,XBB.1.5.* (Omicron),18
+2023-05-01,Mai 2023,Sudeste,São Paulo,FE.1.* (Omicron),28
+2023-05-01,Mai 2023,Sudeste,São Paulo,Outras,30
+2023-05-01,Mai 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),12
+2023-05-01,Mai 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),1
+2023-05-01,Mai 2023,Sul,Paraná,FE.1.* (Omicron),23
+2023-05-01,Mai 2023,Sul,Paraná,Outras,12
+2023-05-01,Mai 2023,Sul,Paraná,XBB.1.5.* (Omicron),21
+2023-05-01,Mai 2023,Sul,Paraná,XBB.1.5.70.*+GK.* (Omicron),2
 2023-05-01,Mai 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),18
-2023-05-01,Mai 2023,Sul,Rio Grande do Sul,Outras,10
-2023-05-01,Mai 2023,Sul,Rio Grande do Sul,XBB.* (Omicron),16
-2023-05-01,Mai 2023,Sul,Rio Grande do Sul,XBB.1.18.* (Omicron),3
-2023-05-01,Mai 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),39
+2023-05-01,Mai 2023,Sul,Rio Grande do Sul,Outras,28
+2023-05-01,Mai 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),38
+2023-05-01,Mai 2023,Sul,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),2
 2023-05-01,Mai 2023,Sul,Santa Catarina,FE.1.* (Omicron),18
-2023-05-01,Mai 2023,Sul,Santa Catarina,Outras,2
-2023-05-01,Mai 2023,Sul,Santa Catarina,XBB.* (Omicron),10
-2023-05-01,Mai 2023,Sul,Santa Catarina,XBB.1.18.* (Omicron),6
-2023-05-01,Mai 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),24
+2023-05-01,Mai 2023,Sul,Santa Catarina,HA.1.* (Omicron),4
+2023-05-01,Mai 2023,Sul,Santa Catarina,Outras,21
+2023-05-01,Mai 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),15
+2023-05-01,Mai 2023,Sul,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),2
 2023-06-01,Jun 2023,Centro-oeste,Distrito Federal,FE.1.* (Omicron),7
-2023-06-01,Jun 2023,Centro-oeste,Distrito Federal,XBB.* (Omicron),10
-2023-06-01,Jun 2023,Centro-oeste,Distrito Federal,XBB.1.18.* (Omicron),1
-2023-06-01,Jun 2023,Centro-oeste,Distrito Federal,XBB.1.5.* (Omicron),8
-2023-06-01,Jun 2023,Centro-oeste,Goiás,XBB.* (Omicron),3
-2023-06-01,Jun 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),1
+2023-06-01,Jun 2023,Centro-oeste,Distrito Federal,Outras,15
+2023-06-01,Jun 2023,Centro-oeste,Distrito Federal,XBB.1.5.* (Omicron),1
+2023-06-01,Jun 2023,Centro-oeste,Distrito Federal,XBB.1.5.70.*+GK.* (Omicron),3
+2023-06-01,Jun 2023,Centro-oeste,Goiás,FE.1.* (Omicron),10
+2023-06-01,Jun 2023,Centro-oeste,Goiás,Outras,9
+2023-06-01,Jun 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),6
+2023-06-01,Jun 2023,Centro-oeste,Goiás,XBB.1.5.70.*+GK.* (Omicron),2
 2023-06-01,Jun 2023,Centro-oeste,Mato Grosso,FE.1.* (Omicron),12
-2023-06-01,Jun 2023,Centro-oeste,Mato Grosso,XBB.* (Omicron),4
-2023-06-01,Jun 2023,Centro-oeste,Mato Grosso,XBB.1.18.* (Omicron),3
-2023-06-01,Jun 2023,Centro-oeste,Mato Grosso,XBB.1.5.* (Omicron),25
+2023-06-01,Jun 2023,Centro-oeste,Mato Grosso,HA.1.* (Omicron),4
+2023-06-01,Jun 2023,Centro-oeste,Mato Grosso,Outras,16
+2023-06-01,Jun 2023,Centro-oeste,Mato Grosso,XBB.1.5.* (Omicron),9
+2023-06-01,Jun 2023,Centro-oeste,Mato Grosso,XBB.1.5.70.*+GK.* (Omicron),3
 2023-06-01,Jun 2023,Centro-oeste,Mato Grosso do Sul,FE.1.* (Omicron),12
-2023-06-01,Jun 2023,Centro-oeste,Mato Grosso do Sul,Outras,1
-2023-06-01,Jun 2023,Centro-oeste,Mato Grosso do Sul,XBB.* (Omicron),2
-2023-06-01,Jun 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.18.* (Omicron),1
-2023-06-01,Jun 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.* (Omicron),4
+2023-06-01,Jun 2023,Centro-oeste,Mato Grosso do Sul,Outras,5
+2023-06-01,Jun 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.* (Omicron),1
+2023-06-01,Jun 2023,Centro-oeste,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),2
 2023-06-01,Jun 2023,Nordeste,Alagoas,FE.1.* (Omicron),23
-2023-06-01,Jun 2023,Nordeste,Alagoas,XBB.* (Omicron),1
-2023-06-01,Jun 2023,Nordeste,Alagoas,XBB.1.18.* (Omicron),1
-2023-06-01,Jun 2023,Nordeste,Alagoas,XBB.1.5.* (Omicron),12
+2023-06-01,Jun 2023,Nordeste,Alagoas,Outras,7
+2023-06-01,Jun 2023,Nordeste,Alagoas,XBB.1.5.* (Omicron),6
+2023-06-01,Jun 2023,Nordeste,Alagoas,XBB.1.5.70.*+GK.* (Omicron),1
 2023-06-01,Jun 2023,Nordeste,Bahia,FE.1.* (Omicron),67
-2023-06-01,Jun 2023,Nordeste,Bahia,Outras,4
-2023-06-01,Jun 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),18
+2023-06-01,Jun 2023,Nordeste,Bahia,Outras,8
+2023-06-01,Jun 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),5
+2023-06-01,Jun 2023,Nordeste,Bahia,XBB.1.5.70.*+GK.* (Omicron),9
 2023-06-01,Jun 2023,Nordeste,Paraíba,FE.1.* (Omicron),31
-2023-06-01,Jun 2023,Nordeste,Paraíba,Outras,2
-2023-06-01,Jun 2023,Nordeste,Paraíba,XBB.* (Omicron),9
-2023-06-01,Jun 2023,Nordeste,Paraíba,XBB.1.5.* (Omicron),27
+2023-06-01,Jun 2023,Nordeste,Paraíba,Outras,21
+2023-06-01,Jun 2023,Nordeste,Paraíba,XBB.1.5.* (Omicron),6
+2023-06-01,Jun 2023,Nordeste,Paraíba,XBB.1.5.70.*+GK.* (Omicron),11
 2023-06-01,Jun 2023,Nordeste,Pernambuco,FE.1.* (Omicron),17
-2023-06-01,Jun 2023,Nordeste,Pernambuco,Outras,4
-2023-06-01,Jun 2023,Nordeste,Pernambuco,XBB.1.18.* (Omicron),1
-2023-06-01,Jun 2023,Nordeste,Pernambuco,XBB.1.5.* (Omicron),19
+2023-06-01,Jun 2023,Nordeste,Pernambuco,Outras,13
+2023-06-01,Jun 2023,Nordeste,Pernambuco,XBB.1.5.* (Omicron),6
+2023-06-01,Jun 2023,Nordeste,Pernambuco,XBB.1.5.70.*+GK.* (Omicron),6
 2023-06-01,Jun 2023,Nordeste,Rio Grande do Norte,FE.1.* (Omicron),6
-2023-06-01,Jun 2023,Nordeste,Rio Grande do Norte,XBB.1.18.* (Omicron),2
-2023-06-01,Jun 2023,Nordeste,Rio Grande do Norte,XBB.1.5.* (Omicron),14
+2023-06-01,Jun 2023,Nordeste,Rio Grande do Norte,JD.1.* (Omicron),2
+2023-06-01,Jun 2023,Nordeste,Rio Grande do Norte,Outras,7
+2023-06-01,Jun 2023,Nordeste,Rio Grande do Norte,XBB.1.5.* (Omicron),3
+2023-06-01,Jun 2023,Nordeste,Rio Grande do Norte,XBB.1.5.70.*+GK.* (Omicron),4
+2023-06-01,Jun 2023,Norte,Amapá,FE.1.* (Omicron),1
+2023-06-01,Jun 2023,Norte,Amapá,JD.1.* (Omicron),1
+2023-06-01,Jun 2023,Norte,Amapá,Outras,5
 2023-06-01,Jun 2023,Norte,Amazonas,FE.1.* (Omicron),2
-2023-06-01,Jun 2023,Norte,Amazonas,XBB.* (Omicron),1
-2023-06-01,Jun 2023,Norte,Amazonas,XBB.1.5.* (Omicron),16
+2023-06-01,Jun 2023,Norte,Amazonas,Outras,5
+2023-06-01,Jun 2023,Norte,Amazonas,XBB.1.5.* (Omicron),9
+2023-06-01,Jun 2023,Norte,Amazonas,XBB.1.5.70.*+GK.* (Omicron),3
 2023-06-01,Jun 2023,Norte,Pará,FE.1.* (Omicron),3
-2023-06-01,Jun 2023,Norte,Pará,Outras,1
-2023-06-01,Jun 2023,Norte,Pará,XBB.1.18.* (Omicron),1
-2023-06-01,Jun 2023,Norte,Pará,XBB.1.5.* (Omicron),24
+2023-06-01,Jun 2023,Norte,Pará,JD.1.* (Omicron),18
+2023-06-01,Jun 2023,Norte,Pará,Outras,2
+2023-06-01,Jun 2023,Norte,Pará,XBB.1.5.* (Omicron),1
+2023-06-01,Jun 2023,Norte,Pará,XBB.1.5.70.*+GK.* (Omicron),5
 2023-06-01,Jun 2023,Norte,Rondônia,FE.1.* (Omicron),7
-2023-06-01,Jun 2023,Norte,Rondônia,XBB.* (Omicron),1
-2023-06-01,Jun 2023,Norte,Rondônia,XBB.1.5.* (Omicron),33
+2023-06-01,Jun 2023,Norte,Rondônia,XBB.1.5.* (Omicron),12
+2023-06-01,Jun 2023,Norte,Rondônia,XBB.1.5.70.*+GK.* (Omicron),22
 2023-06-01,Jun 2023,Norte,Tocantins,FE.1.* (Omicron),1
-2023-06-01,Jun 2023,Norte,Tocantins,XBB.1.5.* (Omicron),1
-2023-06-01,Jun 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),21
-2023-06-01,Jun 2023,Sudeste,Espírito Santo,Outras,1
-2023-06-01,Jun 2023,Sudeste,Espírito Santo,XBB.* (Omicron),2
-2023-06-01,Jun 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),17
-2023-06-01,Jun 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),13
-2023-06-01,Jun 2023,Sudeste,Minas Gerais,Outras,2
-2023-06-01,Jun 2023,Sudeste,Minas Gerais,XBB.* (Omicron),13
-2023-06-01,Jun 2023,Sudeste,Minas Gerais,XBB.1.18.* (Omicron),2
-2023-06-01,Jun 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),16
+2023-06-01,Jun 2023,Norte,Tocantins,Outras,1
+2023-06-01,Jun 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),23
+2023-06-01,Jun 2023,Sudeste,Espírito Santo,HA.1.* (Omicron),2
+2023-06-01,Jun 2023,Sudeste,Espírito Santo,Outras,9
+2023-06-01,Jun 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),9
+2023-06-01,Jun 2023,Sudeste,Espírito Santo,XBB.1.5.70.*+GK.* (Omicron),2
+2023-06-01,Jun 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),18
+2023-06-01,Jun 2023,Sudeste,Minas Gerais,JD.1.* (Omicron),1
+2023-06-01,Jun 2023,Sudeste,Minas Gerais,Outras,25
+2023-06-01,Jun 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),12
+2023-06-01,Jun 2023,Sudeste,Minas Gerais,XBB.1.5.70.*+GK.* (Omicron),1
 2023-06-01,Jun 2023,Sudeste,Rio de Janeiro,FE.1.* (Omicron),4
-2023-06-01,Jun 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),4
-2023-06-01,Jun 2023,Sudeste,São Paulo,FE.1.* (Omicron),17
-2023-06-01,Jun 2023,Sudeste,São Paulo,XBB.* (Omicron),7
-2023-06-01,Jun 2023,Sudeste,São Paulo,XBB.1.18.* (Omicron),1
-2023-06-01,Jun 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),11
-2023-06-01,Jun 2023,Sul,Paraná,FE.1.* (Omicron),1
-2023-06-01,Jun 2023,Sul,Paraná,XBB.1.5.* (Omicron),2
-2023-06-01,Jun 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),8
-2023-06-01,Jun 2023,Sul,Rio Grande do Sul,Outras,4
-2023-06-01,Jun 2023,Sul,Rio Grande do Sul,XBB.* (Omicron),8
-2023-06-01,Jun 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),8
+2023-06-01,Jun 2023,Sudeste,Rio de Janeiro,Outras,2
+2023-06-01,Jun 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),2
+2023-06-01,Jun 2023,Sudeste,São Paulo,FE.1.* (Omicron),18
+2023-06-01,Jun 2023,Sudeste,São Paulo,HA.1.* (Omicron),2
+2023-06-01,Jun 2023,Sudeste,São Paulo,Outras,9
+2023-06-01,Jun 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),4
+2023-06-01,Jun 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),6
+2023-06-01,Jun 2023,Sul,Paraná,FE.1.* (Omicron),2
+2023-06-01,Jun 2023,Sul,Paraná,Outras,1
+2023-06-01,Jun 2023,Sul,Paraná,XBB.1.5.* (Omicron),1
+2023-06-01,Jun 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),7
+2023-06-01,Jun 2023,Sul,Rio Grande do Sul,Outras,15
+2023-06-01,Jun 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),5
+2023-06-01,Jun 2023,Sul,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),1
 2023-06-01,Jun 2023,Sul,Santa Catarina,FE.1.* (Omicron),21
-2023-06-01,Jun 2023,Sul,Santa Catarina,Outras,4
-2023-06-01,Jun 2023,Sul,Santa Catarina,XBB.* (Omicron),4
-2023-06-01,Jun 2023,Sul,Santa Catarina,XBB.1.18.* (Omicron),1
-2023-06-01,Jun 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),11
+2023-06-01,Jun 2023,Sul,Santa Catarina,HA.1.* (Omicron),5
+2023-06-01,Jun 2023,Sul,Santa Catarina,JD.1.* (Omicron),2
+2023-06-01,Jun 2023,Sul,Santa Catarina,Outras,9
+2023-06-01,Jun 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),2
+2023-06-01,Jun 2023,Sul,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),2
 2023-07-01,Jul 2023,Centro-oeste,Distrito Federal,FE.1.* (Omicron),1
-2023-07-01,Jul 2023,Centro-oeste,Distrito Federal,XBB.* (Omicron),5
-2023-07-01,Jul 2023,Centro-oeste,Distrito Federal,XBB.1.18.* (Omicron),1
-2023-07-01,Jul 2023,Centro-oeste,Distrito Federal,XBB.1.5.* (Omicron),6
-2023-07-01,Jul 2023,Centro-oeste,Goiás,XBB.* (Omicron),1
-2023-07-01,Jul 2023,Centro-oeste,Goiás,XBB.1.5.* (Omicron),2
-2023-07-01,Jul 2023,Centro-oeste,Mato Grosso,XBB.1.5.* (Omicron),6
+2023-07-01,Jul 2023,Centro-oeste,Distrito Federal,Outras,11
+2023-07-01,Jul 2023,Centro-oeste,Distrito Federal,XBB.1.5.70.*+GK.* (Omicron),1
+2023-07-01,Jul 2023,Centro-oeste,Goiás,Outras,3
+2023-07-01,Jul 2023,Centro-oeste,Mato Grosso,HA.1.* (Omicron),1
+2023-07-01,Jul 2023,Centro-oeste,Mato Grosso,JD.1.* (Omicron),1
+2023-07-01,Jul 2023,Centro-oeste,Mato Grosso,Outras,3
+2023-07-01,Jul 2023,Centro-oeste,Mato Grosso,XBB.1.5.* (Omicron),1
+2023-07-01,Jul 2023,Centro-oeste,Mato Grosso do Sul,FE.1.* (Omicron),3
+2023-07-01,Jul 2023,Centro-oeste,Mato Grosso do Sul,Outras,2
 2023-07-01,Jul 2023,Nordeste,Bahia,FE.1.* (Omicron),25
-2023-07-01,Jul 2023,Nordeste,Bahia,Outras,1
-2023-07-01,Jul 2023,Nordeste,Bahia,XBB.* (Omicron),3
-2023-07-01,Jul 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),16
+2023-07-01,Jul 2023,Nordeste,Bahia,JD.1.* (Omicron),1
+2023-07-01,Jul 2023,Nordeste,Bahia,Outras,9
+2023-07-01,Jul 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),2
+2023-07-01,Jul 2023,Nordeste,Bahia,XBB.1.5.70.*+GK.* (Omicron),8
 2023-07-01,Jul 2023,Nordeste,Paraíba,FE.1.* (Omicron),9
-2023-07-01,Jul 2023,Nordeste,Paraíba,XBB.1.5.* (Omicron),9
-2023-07-01,Jul 2023,Norte,Amazonas,XBB.1.5.* (Omicron),22
-2023-07-01,Jul 2023,Norte,Pará,XBB.1.5.* (Omicron),13
+2023-07-01,Jul 2023,Nordeste,Paraíba,Outras,8
+2023-07-01,Jul 2023,Nordeste,Paraíba,XBB.1.5.70.*+GK.* (Omicron),1
+2023-07-01,Jul 2023,Nordeste,Pernambuco,FE.1.* (Omicron),3
+2023-07-01,Jul 2023,Nordeste,Pernambuco,Outras,3
+2023-07-01,Jul 2023,Nordeste,Pernambuco,XBB.1.5.* (Omicron),2
+2023-07-01,Jul 2023,Norte,Amazonas,Outras,7
+2023-07-01,Jul 2023,Norte,Amazonas,XBB.1.5.* (Omicron),11
+2023-07-01,Jul 2023,Norte,Amazonas,XBB.1.5.70.*+GK.* (Omicron),4
+2023-07-01,Jul 2023,Norte,Pará,JD.1.* (Omicron),12
+2023-07-01,Jul 2023,Norte,Pará,XBB.1.5.70.*+GK.* (Omicron),1
 2023-07-01,Jul 2023,Norte,Rondônia,FE.1.* (Omicron),2
-2023-07-01,Jul 2023,Norte,Rondônia,XBB.1.5.* (Omicron),2
-2023-07-01,Jul 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),8
-2023-07-01,Jul 2023,Sudeste,Espírito Santo,XBB.* (Omicron),6
-2023-07-01,Jul 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),2
-2023-07-01,Jul 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),11
-2023-07-01,Jul 2023,Sudeste,Minas Gerais,Outras,1
-2023-07-01,Jul 2023,Sudeste,Minas Gerais,XBB.* (Omicron),7
-2023-07-01,Jul 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),19
-2023-07-01,Jul 2023,Sudeste,Rio de Janeiro,Outras,3
-2023-07-01,Jul 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),5
-2023-07-01,Jul 2023,Sudeste,São Paulo,FE.1.* (Omicron),5
-2023-07-01,Jul 2023,Sudeste,São Paulo,Outras,1
-2023-07-01,Jul 2023,Sudeste,São Paulo,XBB.* (Omicron),2
-2023-07-01,Jul 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),3
+2023-07-01,Jul 2023,Norte,Rondônia,XBB.1.5.70.*+GK.* (Omicron),2
+2023-07-01,Jul 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),9
+2023-07-01,Jul 2023,Sudeste,Espírito Santo,Outras,8
+2023-07-01,Jul 2023,Sudeste,Espírito Santo,XBB.1.5.70.*+GK.* (Omicron),2
+2023-07-01,Jul 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),19
+2023-07-01,Jul 2023,Sudeste,Minas Gerais,HA.1.* (Omicron),1
+2023-07-01,Jul 2023,Sudeste,Minas Gerais,JD.1.* (Omicron),2
+2023-07-01,Jul 2023,Sudeste,Minas Gerais,Outras,29
+2023-07-01,Jul 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),6
+2023-07-01,Jul 2023,Sudeste,Minas Gerais,XBB.1.5.70.*+GK.* (Omicron),3
+2023-07-01,Jul 2023,Sudeste,Rio de Janeiro,EG.5.* (Omicron),1
+2023-07-01,Jul 2023,Sudeste,Rio de Janeiro,HA.1.* (Omicron),1
+2023-07-01,Jul 2023,Sudeste,Rio de Janeiro,Outras,6
+2023-07-01,Jul 2023,Sudeste,São Paulo,FE.1.* (Omicron),4
+2023-07-01,Jul 2023,Sudeste,São Paulo,HA.1.* (Omicron),1
+2023-07-01,Jul 2023,Sudeste,São Paulo,Outras,4
+2023-07-01,Jul 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),2
 2023-07-01,Jul 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),3
-2023-07-01,Jul 2023,Sul,Rio Grande do Sul,XBB.* (Omicron),2
-2023-07-01,Jul 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),2
+2023-07-01,Jul 2023,Sul,Rio Grande do Sul,JD.1.* (Omicron),1
+2023-07-01,Jul 2023,Sul,Rio Grande do Sul,Outras,3
+2023-07-01,Jul 2023,Sul,Santa Catarina,EG.5.* (Omicron),1
 2023-07-01,Jul 2023,Sul,Santa Catarina,FE.1.* (Omicron),1
-2023-07-01,Jul 2023,Sul,Santa Catarina,Outras,2
-2023-07-01,Jul 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),7
-2023-08-01,Ago 2023,Centro-oeste,Distrito Federal,Outras,1
-2023-08-01,Ago 2023,Nordeste,Bahia,Outras,1
-2023-08-01,Ago 2023,Nordeste,Bahia,XBB.1.5.* (Omicron),5
-2023-08-01,Ago 2023,Norte,Amazonas,XBB.1.5.* (Omicron),23
+2023-07-01,Jul 2023,Sul,Santa Catarina,HA.1.* (Omicron),2
+2023-07-01,Jul 2023,Sul,Santa Catarina,Outras,4
+2023-07-01,Jul 2023,Sul,Santa Catarina,XBB.1.5.* (Omicron),2
+2023-08-01,Ago 2023,Centro-oeste,Distrito Federal,EG.5.* (Omicron),1
+2023-08-01,Ago 2023,Centro-oeste,Mato Grosso do Sul,FE.1.* (Omicron),1
+2023-08-01,Ago 2023,Centro-oeste,Mato Grosso do Sul,Outras,2
+2023-08-01,Ago 2023,Nordeste,Bahia,Outras,4
+2023-08-01,Ago 2023,Nordeste,Bahia,XBB.1.5.70.*+GK.* (Omicron),2
+2023-08-01,Ago 2023,Norte,Amazonas,Outras,14
+2023-08-01,Ago 2023,Norte,Amazonas,XBB.1.5.* (Omicron),7
+2023-08-01,Ago 2023,Norte,Amazonas,XBB.1.5.70.*+GK.* (Omicron),2
+2023-08-01,Ago 2023,Sudeste,Espírito Santo,FE.1.* (Omicron),4
+2023-08-01,Ago 2023,Sudeste,Espírito Santo,JD.1.* (Omicron),2
+2023-08-01,Ago 2023,Sudeste,Espírito Santo,Outras,8
+2023-08-01,Ago 2023,Sudeste,Espírito Santo,XBB.1.5.* (Omicron),1
+2023-08-01,Ago 2023,Sudeste,Espírito Santo,XBB.1.5.70.*+GK.* (Omicron),1
+2023-08-01,Ago 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),8
+2023-08-01,Ago 2023,Sudeste,Minas Gerais,JD.1.* (Omicron),3
+2023-08-01,Ago 2023,Sudeste,Minas Gerais,Outras,13
+2023-08-01,Ago 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),8
+2023-08-01,Ago 2023,Sudeste,Rio de Janeiro,EG.5.* (Omicron),1
 2023-08-01,Ago 2023,Sudeste,Rio de Janeiro,FE.1.* (Omicron),4
-2023-08-01,Ago 2023,Sudeste,Rio de Janeiro,Outras,1
-2023-08-01,Ago 2023,Sudeste,Rio de Janeiro,XBB.* (Omicron),2
-2023-08-01,Ago 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),2
-2023-08-01,Ago 2023,Sudeste,São Paulo,Outras,4
+2023-08-01,Ago 2023,Sudeste,Rio de Janeiro,Outras,2
+2023-08-01,Ago 2023,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),2
+2023-08-01,Ago 2023,Sudeste,São Paulo,EG.5.* (Omicron),3
+2023-08-01,Ago 2023,Sudeste,São Paulo,FE.1.* (Omicron),7
+2023-08-01,Ago 2023,Sudeste,São Paulo,Outras,21
 2023-08-01,Ago 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),1
+2023-08-01,Ago 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),5
+2023-09-01,Set 2023,Sudeste,Minas Gerais,FE.1.* (Omicron),2
+2023-09-01,Set 2023,Sudeste,Minas Gerais,Outras,3
+2023-09-01,Set 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),5
+2023-09-01,Set 2023,Sudeste,Minas Gerais,XBB.1.5.70.*+GK.* (Omicron),2
