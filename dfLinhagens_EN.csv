@@ -819,7 +819,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2020-12-01,Dec 2020,Central-west,Mato Grosso,Others,Others,2
 2020-12-01,Dec 2020,Central-west,Mato Grosso,Others,P.2,3
 2020-12-01,Dec 2020,Central-west,Mato Grosso do Sul,FIOCRUZ,B.1.1.33,1
-2020-12-01,Dec 2020,Central-west,Mato Grosso do Sul,FIOCRUZ,P.2,2
+2020-12-01,Dec 2020,Central-west,Mato Grosso do Sul,FIOCRUZ,P.2,3
 2020-12-01,Dec 2020,Central-west,Mato Grosso do Sul,Others,B.1.1,1
 2020-12-01,Dec 2020,Central-west,Mato Grosso do Sul,Others,B.1.1.28,4
 2020-12-01,Dec 2020,Central-west,Mato Grosso do Sul,Others,B.1.1.33,10
@@ -1204,7 +1204,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2021-02-01,Feb 2021,Central-west,Mato Grosso,Others,P.1.* (Gamma),12
 2021-02-01,Feb 2021,Central-west,Mato Grosso,Others,P.2,10
 2021-02-01,Feb 2021,Central-west,Mato Grosso do Sul,FIOCRUZ,P.1.* (Gamma),2
-2021-02-01,Feb 2021,Central-west,Mato Grosso do Sul,FIOCRUZ,P.2,4
+2021-02-01,Feb 2021,Central-west,Mato Grosso do Sul,FIOCRUZ,P.2,5
 2021-02-01,Feb 2021,Central-west,Mato Grosso do Sul,Others,B.1.1,1
 2021-02-01,Feb 2021,Central-west,Mato Grosso do Sul,Others,B.1.1.28,5
 2021-02-01,Feb 2021,Central-west,Mato Grosso do Sul,Others,Others,2
@@ -1395,7 +1395,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2021-03-01,Mar 2021,Central-west,Goiás,Others,P.2,9
 2021-03-01,Mar 2021,Central-west,Mato Grosso,Others,P.1.* (Gamma),33
 2021-03-01,Mar 2021,Central-west,Mato Grosso,Others,P.2,3
-2021-03-01,Mar 2021,Central-west,Mato Grosso do Sul,FIOCRUZ,P.1.* (Gamma),8
+2021-03-01,Mar 2021,Central-west,Mato Grosso do Sul,FIOCRUZ,P.1.* (Gamma),9
 2021-03-01,Mar 2021,Central-west,Mato Grosso do Sul,FIOCRUZ,P.2,2
 2021-03-01,Mar 2021,Central-west,Mato Grosso do Sul,Others,B.1.1.28,1
 2021-03-01,Mar 2021,Central-west,Mato Grosso do Sul,Others,P.1.* (Gamma),34
@@ -1917,8 +1917,8 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2021-07-01,Jul 2021,South,Rio Grande do Sul,FIOCRUZ,B.1.617.2+AY.* (Delta),61
 2021-07-01,Jul 2021,South,Rio Grande do Sul,FIOCRUZ,P.1.* (Gamma),90
 2021-07-01,Jul 2021,South,Rio Grande do Sul,Others,B.1.1.28,1
-2021-07-01,Jul 2021,South,Rio Grande do Sul,Others,B.1.617.2+AY.* (Delta),40
-2021-07-01,Jul 2021,South,Rio Grande do Sul,Others,P.1.* (Gamma),86
+2021-07-01,Jul 2021,South,Rio Grande do Sul,Others,B.1.617.2+AY.* (Delta),42
+2021-07-01,Jul 2021,South,Rio Grande do Sul,Others,P.1.* (Gamma),109
 2021-07-01,Jul 2021,South,Santa Catarina,FIOCRUZ,B.1.617.2+AY.* (Delta),85
 2021-07-01,Jul 2021,South,Santa Catarina,FIOCRUZ,P.1.* (Gamma),97
 2021-07-01,Jul 2021,South,Santa Catarina,Others,B.1.617.2+AY.* (Delta),1
@@ -2038,8 +2038,8 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2021-08-01,Aug 2021,South,Rio Grande do Sul,FIOCRUZ,B.1.617.2+AY.* (Delta),103
 2021-08-01,Aug 2021,South,Rio Grande do Sul,FIOCRUZ,Others,1
 2021-08-01,Aug 2021,South,Rio Grande do Sul,FIOCRUZ,P.1.* (Gamma),26
-2021-08-01,Aug 2021,South,Rio Grande do Sul,Others,B.1.617.2+AY.* (Delta),86
-2021-08-01,Aug 2021,South,Rio Grande do Sul,Others,P.1.* (Gamma),27
+2021-08-01,Aug 2021,South,Rio Grande do Sul,Others,B.1.617.2+AY.* (Delta),129
+2021-08-01,Aug 2021,South,Rio Grande do Sul,Others,P.1.* (Gamma),55
 2021-08-01,Aug 2021,South,Santa Catarina,FIOCRUZ,B.1.617.2+AY.* (Delta),142
 2021-08-01,Aug 2021,South,Santa Catarina,FIOCRUZ,P.1.* (Gamma),38
 2021-08-01,Aug 2021,South,Santa Catarina,Others,B.1.617.2+AY.* (Delta),9
@@ -2146,9 +2146,9 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2021-09-01,Sep 2021,South,Rio Grande do Sul,FIOCRUZ,B.1.617.2+AY.* (Delta),104
 2021-09-01,Sep 2021,South,Rio Grande do Sul,FIOCRUZ,P.1.* (Gamma),2
 2021-09-01,Sep 2021,South,Rio Grande do Sul,Others,B.1.1.28,1
-2021-09-01,Sep 2021,South,Rio Grande do Sul,Others,B.1.617.2+AY.* (Delta),203
+2021-09-01,Sep 2021,South,Rio Grande do Sul,Others,B.1.617.2+AY.* (Delta),319
 2021-09-01,Sep 2021,South,Rio Grande do Sul,Others,Others,3
-2021-09-01,Sep 2021,South,Rio Grande do Sul,Others,P.1.* (Gamma),15
+2021-09-01,Sep 2021,South,Rio Grande do Sul,Others,P.1.* (Gamma),32
 2021-09-01,Sep 2021,South,Santa Catarina,FIOCRUZ,B.1.617.2+AY.* (Delta),167
 2021-09-01,Sep 2021,South,Santa Catarina,FIOCRUZ,P.1.* (Gamma),10
 2021-09-01,Sep 2021,South,Santa Catarina,Others,B.1.617.2+AY.* (Delta),41
@@ -2229,7 +2229,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2021-10-01,Oct 2021,South,Paraná,Others,B.1.617.2+AY.* (Delta),188
 2021-10-01,Oct 2021,South,Paraná,Others,P.1.* (Gamma),1
 2021-10-01,Oct 2021,South,Rio Grande do Sul,FIOCRUZ,B.1.617.2+AY.* (Delta),112
-2021-10-01,Oct 2021,South,Rio Grande do Sul,Others,B.1.617.2+AY.* (Delta),74
+2021-10-01,Oct 2021,South,Rio Grande do Sul,Others,B.1.617.2+AY.* (Delta),102
 2021-10-01,Oct 2021,South,Rio Grande do Sul,Others,BA.1.* (Omicron),1
 2021-10-01,Oct 2021,South,Rio Grande do Sul,Others,Others,1
 2021-10-01,Oct 2021,South,Rio Grande do Sul,Others,P.1.* (Gamma),3
@@ -2513,9 +2513,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-01-01,Jan 2022,Southeast,Minas Gerais,Others,B.1.617.2+AY.* (Delta),1
 2022-01-01,Jan 2022,Southeast,Minas Gerais,Others,BA.1.* (Omicron),541
 2022-01-01,Jan 2022,Southeast,Minas Gerais,Others,BA.2.* (Omicron),4
-2022-01-01,Jan 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),1
-2022-01-01,Jan 2022,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),2
-2022-01-01,Jan 2022,Southeast,Minas Gerais,Others,DL.1 (Omicron),2
+2022-01-01,Jan 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),5
 2022-01-01,Jan 2022,Southeast,Rio de Janeiro,FIOCRUZ,B.1.617.2+AY.* (Delta),14
 2022-01-01,Jan 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.1.* (Omicron),1409
 2022-01-01,Jan 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.2.* (Omicron),9
@@ -2533,8 +2531,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-01-01,Jan 2022,Southeast,São Paulo,Others,B.1.617.2+AY.* (Delta),40
 2022-01-01,Jan 2022,Southeast,São Paulo,Others,BA.1.* (Omicron),5878
 2022-01-01,Jan 2022,Southeast,São Paulo,Others,BA.2.* (Omicron),12
-2022-01-01,Jan 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),1
-2022-01-01,Jan 2022,Southeast,São Paulo,Others,BE.* (Omicron),1
+2022-01-01,Jan 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),2
 2022-01-01,Jan 2022,Southeast,São Paulo,Others,Others,49
 2022-01-01,Jan 2022,Southeast,São Paulo,Others,XBB.* (Omicron),1
 2022-01-01,Jan 2022,South,Paraná,FIOCRUZ,B.1.617.2+AY.* (Delta),11
@@ -2555,7 +2552,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-01-01,Jan 2022,South,Santa Catarina,Others,B.1.617.2+AY.* (Delta),9
 2022-01-01,Jan 2022,South,Santa Catarina,Others,BA.1.* (Omicron),678
 2022-01-01,Jan 2022,South,Santa Catarina,Others,BA.2.* (Omicron),4
-2022-01-01,Jan 2022,South,Santa Catarina,Others,BE.* (Omicron),1
+2022-01-01,Jan 2022,South,Santa Catarina,Others,BA.5.* (Omicron),1
 2022-02-01,Feb 2022,Central-west,Distrito Federal,Others,B.1.1.28,1
 2022-02-01,Feb 2022,Central-west,Distrito Federal,Others,BA.1.* (Omicron),212
 2022-02-01,Feb 2022,Central-west,Distrito Federal,Others,BA.2.* (Omicron),1
@@ -2637,7 +2634,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-02-01,Feb 2022,Southeast,São Paulo,Others,B.1.617.2+AY.* (Delta),2
 2022-02-01,Feb 2022,Southeast,São Paulo,Others,BA.1.* (Omicron),4242
 2022-02-01,Feb 2022,Southeast,São Paulo,Others,BA.2.* (Omicron),73
-2022-02-01,Feb 2022,Southeast,São Paulo,Others,BE.* (Omicron),1
+2022-02-01,Feb 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),1
 2022-02-01,Feb 2022,Southeast,São Paulo,Others,Others,8
 2022-02-01,Feb 2022,Southeast,São Paulo,Others,P.1.* (Gamma),2
 2022-02-01,Feb 2022,South,Paraná,FIOCRUZ,BA.1.* (Omicron),425
@@ -2830,7 +2827,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-05-01,May 2022,Central-west,Mato Grosso,FIOCRUZ,BA.2.* (Omicron),1
 2022-05-01,May 2022,Central-west,Mato Grosso,Others,BA.1.* (Omicron),8
 2022-05-01,May 2022,Central-west,Mato Grosso,Others,BA.2.* (Omicron),6
-2022-05-01,May 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.2.* (Omicron),6
+2022-05-01,May 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.2.* (Omicron),7
 2022-05-01,May 2022,Central-west,Mato Grosso do Sul,Others,BA.1.* (Omicron),9
 2022-05-01,May 2022,Central-west,Mato Grosso do Sul,Others,BA.2.* (Omicron),151
 2022-05-01,May 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),1
@@ -2849,7 +2846,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-05-01,May 2022,Northeast,Ceará,FIOCRUZ,BA.5.* (Omicron),1
 2022-05-01,May 2022,Northeast,Ceará,Others,BA.2.* (Omicron),12
 2022-05-01,May 2022,Northeast,Ceará,Others,BA.4.* (Omicron),2
-2022-05-01,May 2022,Northeast,Ceará,Others,BE.* (Omicron),1
+2022-05-01,May 2022,Northeast,Ceará,Others,BA.5.* (Omicron),1
 2022-05-01,May 2022,Northeast,Maranhão,FIOCRUZ,BA.2.* (Omicron),10
 2022-05-01,May 2022,Northeast,Maranhão,Others,BA.2.* (Omicron),9
 2022-05-01,May 2022,Northeast,Paraíba,Others,BA.1.* (Omicron),1
@@ -2971,7 +2968,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-06-01,Jun 2022,Central-west,Mato Grosso,Others,BA.1.* (Omicron),1
 2022-06-01,Jun 2022,Central-west,Mato Grosso,Others,BA.2.* (Omicron),33
 2022-06-01,Jun 2022,Central-west,Mato Grosso,Others,BA.5.* (Omicron),11
-2022-06-01,Jun 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.2.* (Omicron),8
+2022-06-01,Jun 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.2.* (Omicron),9
 2022-06-01,Jun 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.5.* (Omicron),3
 2022-06-01,Jun 2022,Central-west,Mato Grosso do Sul,Others,BA.2.* (Omicron),53
 2022-06-01,Jun 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),13
@@ -2979,8 +2976,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-06-01,Jun 2022,Northeast,Alagoas,FIOCRUZ,Others,1
 2022-06-01,Jun 2022,Northeast,Alagoas,Others,BA.2.* (Omicron),64
 2022-06-01,Jun 2022,Northeast,Alagoas,Others,BA.4.* (Omicron),9
-2022-06-01,Jun 2022,Northeast,Alagoas,Others,BA.5.* (Omicron),38
-2022-06-01,Jun 2022,Northeast,Alagoas,Others,BE.* (Omicron),1
+2022-06-01,Jun 2022,Northeast,Alagoas,Others,BA.5.* (Omicron),39
 2022-06-01,Jun 2022,Northeast,Alagoas,Others,Others,10
 2022-06-01,Jun 2022,Northeast,Bahia,FIOCRUZ,BA.1.* (Omicron),2
 2022-06-01,Jun 2022,Northeast,Bahia,FIOCRUZ,BA.2.* (Omicron),152
@@ -3016,15 +3012,13 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-06-01,Jun 2022,Northeast,Paraíba,Others,BA.5.* (Omicron),23
 2022-06-01,Jun 2022,Northeast,Pernambuco,FIOCRUZ,BA.2.* (Omicron),120
 2022-06-01,Jun 2022,Northeast,Pernambuco,FIOCRUZ,BA.4.* (Omicron),277
-2022-06-01,Jun 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),67
-2022-06-01,Jun 2022,Northeast,Pernambuco,FIOCRUZ,BE.* (Omicron),1
+2022-06-01,Jun 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),68
 2022-06-01,Jun 2022,Northeast,Pernambuco,FIOCRUZ,Others,13
 2022-06-01,Jun 2022,Northeast,Pernambuco,Others,B.1.617.2+AY.* (Delta),1
 2022-06-01,Jun 2022,Northeast,Pernambuco,Others,BA.1.* (Omicron),4
 2022-06-01,Jun 2022,Northeast,Pernambuco,Others,BA.2.* (Omicron),45
 2022-06-01,Jun 2022,Northeast,Pernambuco,Others,BA.4.* (Omicron),83
-2022-06-01,Jun 2022,Northeast,Pernambuco,Others,BA.5.* (Omicron),24
-2022-06-01,Jun 2022,Northeast,Pernambuco,Others,BE.* (Omicron),1
+2022-06-01,Jun 2022,Northeast,Pernambuco,Others,BA.5.* (Omicron),25
 2022-06-01,Jun 2022,Northeast,Pernambuco,Others,Others,23
 2022-06-01,Jun 2022,Northeast,Piauí,FIOCRUZ,BA.1.* (Omicron),17
 2022-06-01,Jun 2022,Northeast,Piauí,FIOCRUZ,BA.2.* (Omicron),3
@@ -3055,8 +3049,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-06-01,Jun 2022,North,Amazonas,FIOCRUZ,BA.1.* (Omicron),4
 2022-06-01,Jun 2022,North,Amazonas,FIOCRUZ,BA.2.* (Omicron),50
 2022-06-01,Jun 2022,North,Amazonas,FIOCRUZ,BA.4.* (Omicron),165
-2022-06-01,Jun 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),216
-2022-06-01,Jun 2022,North,Amazonas,FIOCRUZ,BE.* (Omicron),4
+2022-06-01,Jun 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),220
 2022-06-01,Jun 2022,North,Amazonas,FIOCRUZ,Others,9
 2022-06-01,Jun 2022,North,Amazonas,Others,BA.1.* (Omicron),1
 2022-06-01,Jun 2022,North,Amazonas,Others,BA.2.* (Omicron),7
@@ -3100,8 +3093,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-06-01,Jun 2022,Southeast,Minas Gerais,FIOCRUZ,Others,11
 2022-06-01,Jun 2022,Southeast,Minas Gerais,Others,BA.2.* (Omicron),120
 2022-06-01,Jun 2022,Southeast,Minas Gerais,Others,BA.4.* (Omicron),14
-2022-06-01,Jun 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),124
-2022-06-01,Jun 2022,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),2
+2022-06-01,Jun 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),126
 2022-06-01,Jun 2022,Southeast,Minas Gerais,Others,Others,8
 2022-06-01,Jun 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.1.* (Omicron),5
 2022-06-01,Jun 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.2.* (Omicron),36
@@ -3116,15 +3108,13 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-06-01,Jun 2022,Southeast,Rio de Janeiro,Others,Others,99
 2022-06-01,Jun 2022,Southeast,São Paulo,FIOCRUZ,BA.2.* (Omicron),184
 2022-06-01,Jun 2022,Southeast,São Paulo,FIOCRUZ,BA.4.* (Omicron),271
-2022-06-01,Jun 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),207
-2022-06-01,Jun 2022,Southeast,São Paulo,FIOCRUZ,BE.* (Omicron),1
+2022-06-01,Jun 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),208
 2022-06-01,Jun 2022,Southeast,São Paulo,FIOCRUZ,Others,7
 2022-06-01,Jun 2022,Southeast,São Paulo,FIOCRUZ,P.2,1
 2022-06-01,Jun 2022,Southeast,São Paulo,Others,BA.1.* (Omicron),4
 2022-06-01,Jun 2022,Southeast,São Paulo,Others,BA.2.* (Omicron),1330
 2022-06-01,Jun 2022,Southeast,São Paulo,Others,BA.4.* (Omicron),548
-2022-06-01,Jun 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),831
-2022-06-01,Jun 2022,Southeast,São Paulo,Others,BE.* (Omicron),1
+2022-06-01,Jun 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),832
 2022-06-01,Jun 2022,Southeast,São Paulo,Others,FE.1.* (Omicron),1
 2022-06-01,Jun 2022,Southeast,São Paulo,Others,Others,23
 2022-06-01,Jun 2022,South,Paraná,FIOCRUZ,BA.2.* (Omicron),134
@@ -3140,9 +3130,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-06-01,Jun 2022,South,Rio Grande do Sul,FIOCRUZ,Others,15
 2022-06-01,Jun 2022,South,Rio Grande do Sul,Others,BA.1.* (Omicron),5
 2022-06-01,Jun 2022,South,Rio Grande do Sul,Others,BA.2.* (Omicron),106
-2022-06-01,Jun 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),20
-2022-06-01,Jun 2022,South,Rio Grande do Sul,Others,BE.* (Omicron),1
-2022-06-01,Jun 2022,South,Rio Grande do Sul,Others,BQ.1.* (Omicron),1
+2022-06-01,Jun 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),22
 2022-06-01,Jun 2022,South,Rio Grande do Sul,Others,Others,66
 2022-06-01,Jun 2022,South,Santa Catarina,FIOCRUZ,BA.2.* (Omicron),193
 2022-06-01,Jun 2022,South,Santa Catarina,FIOCRUZ,BA.4.* (Omicron),18
@@ -3163,20 +3151,16 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-07-01,Jul 2022,Central-west,Goiás,FIOCRUZ,BA.5.* (Omicron),16
 2022-07-01,Jul 2022,Central-west,Goiás,Others,BA.2.* (Omicron),23
 2022-07-01,Jul 2022,Central-west,Goiás,Others,BA.4.* (Omicron),40
-2022-07-01,Jul 2022,Central-west,Goiás,Others,BA.5.* (Omicron),194
-2022-07-01,Jul 2022,Central-west,Goiás,Others,BE.* (Omicron),2
+2022-07-01,Jul 2022,Central-west,Goiás,Others,BA.5.* (Omicron),196
 2022-07-01,Jul 2022,Central-west,Goiás,Others,Others,4
 2022-07-01,Jul 2022,Central-west,Mato Grosso,FIOCRUZ,BA.5.* (Omicron),2
 2022-07-01,Jul 2022,Central-west,Mato Grosso,Others,BA.2.* (Omicron),14
 2022-07-01,Jul 2022,Central-west,Mato Grosso,Others,BA.4.* (Omicron),7
-2022-07-01,Jul 2022,Central-west,Mato Grosso,Others,BA.5.* (Omicron),54
-2022-07-01,Jul 2022,Central-west,Mato Grosso,Others,BQ.1.* (Omicron),3
+2022-07-01,Jul 2022,Central-west,Mato Grosso,Others,BA.5.* (Omicron),57
 2022-07-01,Jul 2022,Central-west,Mato Grosso,Others,Others,3
 2022-07-01,Jul 2022,Central-west,Mato Grosso do Sul,Others,BA.2.* (Omicron),11
 2022-07-01,Jul 2022,Central-west,Mato Grosso do Sul,Others,BA.4.* (Omicron),13
-2022-07-01,Jul 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),32
-2022-07-01,Jul 2022,Central-west,Mato Grosso do Sul,Others,BE.* (Omicron),2
-2022-07-01,Jul 2022,Central-west,Mato Grosso do Sul,Others,BQ.1.* (Omicron),1
+2022-07-01,Jul 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),35
 2022-07-01,Jul 2022,Central-west,Mato Grosso do Sul,Others,Others,1
 2022-07-01,Jul 2022,Northeast,Alagoas,Others,BA.2.* (Omicron),7
 2022-07-01,Jul 2022,Northeast,Alagoas,Others,BA.4.* (Omicron),17
@@ -3184,19 +3168,16 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-07-01,Jul 2022,Northeast,Alagoas,Others,Others,5
 2022-07-01,Jul 2022,Northeast,Bahia,FIOCRUZ,BA.2.* (Omicron),11
 2022-07-01,Jul 2022,Northeast,Bahia,FIOCRUZ,BA.4.* (Omicron),62
-2022-07-01,Jul 2022,Northeast,Bahia,FIOCRUZ,BA.5.* (Omicron),143
-2022-07-01,Jul 2022,Northeast,Bahia,FIOCRUZ,BE.* (Omicron),1
+2022-07-01,Jul 2022,Northeast,Bahia,FIOCRUZ,BA.5.* (Omicron),144
 2022-07-01,Jul 2022,Northeast,Bahia,FIOCRUZ,Others,8
 2022-07-01,Jul 2022,Northeast,Bahia,Others,BA.1.* (Omicron),2
 2022-07-01,Jul 2022,Northeast,Bahia,Others,BA.2.* (Omicron),1
 2022-07-01,Jul 2022,Northeast,Bahia,Others,BA.4.* (Omicron),45
-2022-07-01,Jul 2022,Northeast,Bahia,Others,BA.5.* (Omicron),87
-2022-07-01,Jul 2022,Northeast,Bahia,Others,BE.* (Omicron),1
+2022-07-01,Jul 2022,Northeast,Bahia,Others,BA.5.* (Omicron),88
 2022-07-01,Jul 2022,Northeast,Bahia,Others,Others,7
 2022-07-01,Jul 2022,Northeast,Ceará,FIOCRUZ,BA.2.* (Omicron),28
 2022-07-01,Jul 2022,Northeast,Ceará,FIOCRUZ,BA.4.* (Omicron),220
-2022-07-01,Jul 2022,Northeast,Ceará,FIOCRUZ,BA.5.* (Omicron),1187
-2022-07-01,Jul 2022,Northeast,Ceará,FIOCRUZ,BE.* (Omicron),1
+2022-07-01,Jul 2022,Northeast,Ceará,FIOCRUZ,BA.5.* (Omicron),1188
 2022-07-01,Jul 2022,Northeast,Ceará,FIOCRUZ,Others,2
 2022-07-01,Jul 2022,Northeast,Ceará,Others,BA.4.* (Omicron),5
 2022-07-01,Jul 2022,Northeast,Ceará,Others,BA.5.* (Omicron),28
@@ -3210,16 +3191,14 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-07-01,Jul 2022,Northeast,Paraíba,FIOCRUZ,BA.1.* (Omicron),1
 2022-07-01,Jul 2022,Northeast,Paraíba,FIOCRUZ,BA.2.* (Omicron),7
 2022-07-01,Jul 2022,Northeast,Paraíba,FIOCRUZ,BA.4.* (Omicron),25
-2022-07-01,Jul 2022,Northeast,Paraíba,FIOCRUZ,BA.5.* (Omicron),57
-2022-07-01,Jul 2022,Northeast,Paraíba,FIOCRUZ,BE.* (Omicron),2
+2022-07-01,Jul 2022,Northeast,Paraíba,FIOCRUZ,BA.5.* (Omicron),59
 2022-07-01,Jul 2022,Northeast,Paraíba,Others,BA.2.* (Omicron),3
 2022-07-01,Jul 2022,Northeast,Paraíba,Others,BA.4.* (Omicron),7
 2022-07-01,Jul 2022,Northeast,Paraíba,Others,BA.5.* (Omicron),7
 2022-07-01,Jul 2022,Northeast,Pernambuco,FIOCRUZ,BA.1.* (Omicron),2
 2022-07-01,Jul 2022,Northeast,Pernambuco,FIOCRUZ,BA.2.* (Omicron),3
 2022-07-01,Jul 2022,Northeast,Pernambuco,FIOCRUZ,BA.4.* (Omicron),145
-2022-07-01,Jul 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),66
-2022-07-01,Jul 2022,Northeast,Pernambuco,FIOCRUZ,BE.* (Omicron),2
+2022-07-01,Jul 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),68
 2022-07-01,Jul 2022,Northeast,Pernambuco,FIOCRUZ,Others,8
 2022-07-01,Jul 2022,Northeast,Pernambuco,Others,BA.2.* (Omicron),3
 2022-07-01,Jul 2022,Northeast,Pernambuco,Others,BA.4.* (Omicron),31
@@ -3245,13 +3224,11 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-07-01,Jul 2022,North,Amapá,FIOCRUZ,BA.4.* (Omicron),19
 2022-07-01,Jul 2022,North,Amapá,FIOCRUZ,BA.5.* (Omicron),15
 2022-07-01,Jul 2022,North,Amapá,Others,BA.4.* (Omicron),12
-2022-07-01,Jul 2022,North,Amapá,Others,BA.5.* (Omicron),14
-2022-07-01,Jul 2022,North,Amapá,Others,BQ.1.* (Omicron),1
+2022-07-01,Jul 2022,North,Amapá,Others,BA.5.* (Omicron),15
 2022-07-01,Jul 2022,North,Amazonas,FIOCRUZ,BA.1.* (Omicron),1
 2022-07-01,Jul 2022,North,Amazonas,FIOCRUZ,BA.2.* (Omicron),11
 2022-07-01,Jul 2022,North,Amazonas,FIOCRUZ,BA.4.* (Omicron),287
-2022-07-01,Jul 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),798
-2022-07-01,Jul 2022,North,Amazonas,FIOCRUZ,BE.* (Omicron),9
+2022-07-01,Jul 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),807
 2022-07-01,Jul 2022,North,Amazonas,FIOCRUZ,Others,27
 2022-07-01,Jul 2022,North,Amazonas,Others,BA.1.* (Omicron),5
 2022-07-01,Jul 2022,North,Amazonas,Others,BA.2.* (Omicron),1
@@ -3287,62 +3264,50 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-07-01,Jul 2022,Southeast,Espírito Santo,Others,Others,9
 2022-07-01,Jul 2022,Southeast,Minas Gerais,FIOCRUZ,BA.2.* (Omicron),21
 2022-07-01,Jul 2022,Southeast,Minas Gerais,FIOCRUZ,BA.4.* (Omicron),23
-2022-07-01,Jul 2022,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),236
-2022-07-01,Jul 2022,Southeast,Minas Gerais,FIOCRUZ,BE.* (Omicron),1
+2022-07-01,Jul 2022,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),237
 2022-07-01,Jul 2022,Southeast,Minas Gerais,FIOCRUZ,Others,20
 2022-07-01,Jul 2022,Southeast,Minas Gerais,Others,BA.2.* (Omicron),13
 2022-07-01,Jul 2022,Southeast,Minas Gerais,Others,BA.4.* (Omicron),21
-2022-07-01,Jul 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),110
-2022-07-01,Jul 2022,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),1
+2022-07-01,Jul 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),111
 2022-07-01,Jul 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.1.* (Omicron),4
 2022-07-01,Jul 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.2.* (Omicron),2
 2022-07-01,Jul 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.4.* (Omicron),13
-2022-07-01,Jul 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),215
-2022-07-01,Jul 2022,Southeast,Rio de Janeiro,FIOCRUZ,BE.* (Omicron),2
+2022-07-01,Jul 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),217
 2022-07-01,Jul 2022,Southeast,Rio de Janeiro,FIOCRUZ,Others,14
 2022-07-01,Jul 2022,Southeast,Rio de Janeiro,Others,BA.1.* (Omicron),1
 2022-07-01,Jul 2022,Southeast,Rio de Janeiro,Others,BA.2.* (Omicron),20
 2022-07-01,Jul 2022,Southeast,Rio de Janeiro,Others,BA.4.* (Omicron),44
-2022-07-01,Jul 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),682
-2022-07-01,Jul 2022,Southeast,Rio de Janeiro,Others,BE.* (Omicron),1
+2022-07-01,Jul 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),683
 2022-07-01,Jul 2022,Southeast,Rio de Janeiro,Others,Others,102
 2022-07-01,Jul 2022,Southeast,São Paulo,FIOCRUZ,BA.1.* (Omicron),1
 2022-07-01,Jul 2022,Southeast,São Paulo,FIOCRUZ,BA.2.* (Omicron),70
 2022-07-01,Jul 2022,Southeast,São Paulo,FIOCRUZ,BA.4.* (Omicron),377
-2022-07-01,Jul 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),923
-2022-07-01,Jul 2022,Southeast,São Paulo,FIOCRUZ,BE.* (Omicron),1
+2022-07-01,Jul 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),924
 2022-07-01,Jul 2022,Southeast,São Paulo,FIOCRUZ,Others,30
 2022-07-01,Jul 2022,Southeast,São Paulo,Others,BA.2.* (Omicron),103
 2022-07-01,Jul 2022,Southeast,São Paulo,Others,BA.4.* (Omicron),424
-2022-07-01,Jul 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),1262
-2022-07-01,Jul 2022,Southeast,São Paulo,Others,BE.* (Omicron),4
-2022-07-01,Jul 2022,Southeast,São Paulo,Others,BQ.1.* (Omicron),1
+2022-07-01,Jul 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),1267
 2022-07-01,Jul 2022,Southeast,São Paulo,Others,Others,57
 2022-07-01,Jul 2022,South,Paraná,FIOCRUZ,BA.2.* (Omicron),22
 2022-07-01,Jul 2022,South,Paraná,FIOCRUZ,BA.4.* (Omicron),7
-2022-07-01,Jul 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),104
-2022-07-01,Jul 2022,South,Paraná,FIOCRUZ,BE.* (Omicron),1
+2022-07-01,Jul 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),105
 2022-07-01,Jul 2022,South,Paraná,FIOCRUZ,Others,3
 2022-07-01,Jul 2022,South,Paraná,Others,BA.2.* (Omicron),34
 2022-07-01,Jul 2022,South,Paraná,Others,BA.4.* (Omicron),41
-2022-07-01,Jul 2022,South,Paraná,Others,BA.5.* (Omicron),224
-2022-07-01,Jul 2022,South,Paraná,Others,BE.* (Omicron),11
+2022-07-01,Jul 2022,South,Paraná,Others,BA.5.* (Omicron),235
 2022-07-01,Jul 2022,South,Paraná,Others,Others,11
 2022-07-01,Jul 2022,South,Rio Grande do Sul,FIOCRUZ,BA.2.* (Omicron),12
 2022-07-01,Jul 2022,South,Rio Grande do Sul,FIOCRUZ,BA.4.* (Omicron),19
-2022-07-01,Jul 2022,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),82
-2022-07-01,Jul 2022,South,Rio Grande do Sul,FIOCRUZ,BE.* (Omicron),1
+2022-07-01,Jul 2022,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),83
 2022-07-01,Jul 2022,South,Rio Grande do Sul,FIOCRUZ,Others,6
 2022-07-01,Jul 2022,South,Rio Grande do Sul,Others,BA.1.* (Omicron),3
 2022-07-01,Jul 2022,South,Rio Grande do Sul,Others,BA.2.* (Omicron),41
 2022-07-01,Jul 2022,South,Rio Grande do Sul,Others,BA.4.* (Omicron),27
-2022-07-01,Jul 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),99
-2022-07-01,Jul 2022,South,Rio Grande do Sul,Others,BQ.1.* (Omicron),1
+2022-07-01,Jul 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),100
 2022-07-01,Jul 2022,South,Rio Grande do Sul,Others,Others,18
 2022-07-01,Jul 2022,South,Santa Catarina,FIOCRUZ,BA.2.* (Omicron),33
 2022-07-01,Jul 2022,South,Santa Catarina,FIOCRUZ,BA.4.* (Omicron),30
-2022-07-01,Jul 2022,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),242
-2022-07-01,Jul 2022,South,Santa Catarina,FIOCRUZ,BE.* (Omicron),1
+2022-07-01,Jul 2022,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),243
 2022-07-01,Jul 2022,South,Santa Catarina,FIOCRUZ,Others,12
 2022-07-01,Jul 2022,South,Santa Catarina,Others,BA.1.* (Omicron),2
 2022-07-01,Jul 2022,South,Santa Catarina,Others,BA.2.* (Omicron),16
@@ -3362,8 +3327,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-08-01,Aug 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.5.* (Omicron),3
 2022-08-01,Aug 2022,Central-west,Mato Grosso do Sul,Others,BA.2.* (Omicron),4
 2022-08-01,Aug 2022,Central-west,Mato Grosso do Sul,Others,BA.4.* (Omicron),9
-2022-08-01,Aug 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),80
-2022-08-01,Aug 2022,Central-west,Mato Grosso do Sul,Others,BE.* (Omicron),4
+2022-08-01,Aug 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),84
 2022-08-01,Aug 2022,Central-west,Mato Grosso do Sul,Others,Others,4
 2022-08-01,Aug 2022,Northeast,Bahia,FIOCRUZ,BA.4.* (Omicron),3
 2022-08-01,Aug 2022,Northeast,Bahia,FIOCRUZ,BA.5.* (Omicron),7
@@ -3371,8 +3335,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-08-01,Aug 2022,Northeast,Bahia,Others,BA.1.* (Omicron),2
 2022-08-01,Aug 2022,Northeast,Bahia,Others,BA.2.* (Omicron),3
 2022-08-01,Aug 2022,Northeast,Bahia,Others,BA.4.* (Omicron),27
-2022-08-01,Aug 2022,Northeast,Bahia,Others,BA.5.* (Omicron),115
-2022-08-01,Aug 2022,Northeast,Bahia,Others,BE.* (Omicron),1
+2022-08-01,Aug 2022,Northeast,Bahia,Others,BA.5.* (Omicron),116
 2022-08-01,Aug 2022,Northeast,Bahia,Others,Others,6
 2022-08-01,Aug 2022,Northeast,Ceará,FIOCRUZ,BA.4.* (Omicron),5
 2022-08-01,Aug 2022,Northeast,Ceará,FIOCRUZ,BA.5.* (Omicron),28
@@ -3384,18 +3347,15 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-08-01,Aug 2022,Northeast,Maranhão,Others,BA.5.* (Omicron),3
 2022-08-01,Aug 2022,Northeast,Paraíba,Others,BA.2.* (Omicron),1
 2022-08-01,Aug 2022,Northeast,Paraíba,Others,BA.4.* (Omicron),1
-2022-08-01,Aug 2022,Northeast,Paraíba,Others,BA.5.* (Omicron),4
-2022-08-01,Aug 2022,Northeast,Paraíba,Others,BE.* (Omicron),1
+2022-08-01,Aug 2022,Northeast,Paraíba,Others,BA.5.* (Omicron),5
 2022-08-01,Aug 2022,Northeast,Pernambuco,FIOCRUZ,BA.4.* (Omicron),12
 2022-08-01,Aug 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),16
 2022-08-01,Aug 2022,Northeast,Pernambuco,Others,BA.4.* (Omicron),33
-2022-08-01,Aug 2022,Northeast,Pernambuco,Others,BA.5.* (Omicron),47
-2022-08-01,Aug 2022,Northeast,Pernambuco,Others,BE.* (Omicron),1
+2022-08-01,Aug 2022,Northeast,Pernambuco,Others,BA.5.* (Omicron),48
 2022-08-01,Aug 2022,Northeast,Pernambuco,Others,Others,21
 2022-08-01,Aug 2022,Northeast,Piauí,FIOCRUZ,BA.1.* (Omicron),3
 2022-08-01,Aug 2022,Northeast,Piauí,FIOCRUZ,BA.4.* (Omicron),5
-2022-08-01,Aug 2022,Northeast,Piauí,FIOCRUZ,BA.5.* (Omicron),21
-2022-08-01,Aug 2022,Northeast,Piauí,FIOCRUZ,DL.1 (Omicron),1
+2022-08-01,Aug 2022,Northeast,Piauí,FIOCRUZ,BA.5.* (Omicron),22
 2022-08-01,Aug 2022,Northeast,Piauí,Others,BA.5.* (Omicron),2
 2022-08-01,Aug 2022,Northeast,Rio Grande do Norte,FIOCRUZ,BA.4.* (Omicron),6
 2022-08-01,Aug 2022,Northeast,Rio Grande do Norte,FIOCRUZ,BA.5.* (Omicron),16
@@ -3404,8 +3364,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-08-01,Aug 2022,North,Amapá,FIOCRUZ,BA.4.* (Omicron),5
 2022-08-01,Aug 2022,North,Amapá,FIOCRUZ,BA.5.* (Omicron),10
 2022-08-01,Aug 2022,North,Amazonas,FIOCRUZ,BA.4.* (Omicron),4
-2022-08-01,Aug 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),69
-2022-08-01,Aug 2022,North,Amazonas,FIOCRUZ,BE.* (Omicron),2
+2022-08-01,Aug 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),71
 2022-08-01,Aug 2022,North,Amazonas,FIOCRUZ,Others,4
 2022-08-01,Aug 2022,North,Amazonas,Others,BA.2.* (Omicron),1
 2022-08-01,Aug 2022,North,Amazonas,Others,BA.4.* (Omicron),1
@@ -3435,38 +3394,32 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-08-01,Aug 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),13
 2022-08-01,Aug 2022,Southeast,Rio de Janeiro,FIOCRUZ,Others,1
 2022-08-01,Aug 2022,Southeast,Rio de Janeiro,Others,BA.4.* (Omicron),23
-2022-08-01,Aug 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),251
-2022-08-01,Aug 2022,Southeast,Rio de Janeiro,Others,BE.* (Omicron),7
+2022-08-01,Aug 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),258
 2022-08-01,Aug 2022,Southeast,Rio de Janeiro,Others,Others,46
 2022-08-01,Aug 2022,Southeast,São Paulo,FIOCRUZ,BA.4.* (Omicron),13
 2022-08-01,Aug 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),33
 2022-08-01,Aug 2022,Southeast,São Paulo,FIOCRUZ,Others,1
 2022-08-01,Aug 2022,Southeast,São Paulo,Others,BA.2.* (Omicron),6
 2022-08-01,Aug 2022,Southeast,São Paulo,Others,BA.4.* (Omicron),117
-2022-08-01,Aug 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),600
-2022-08-01,Aug 2022,Southeast,São Paulo,Others,BE.* (Omicron),12
+2022-08-01,Aug 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),612
 2022-08-01,Aug 2022,Southeast,São Paulo,Others,Others,26
 2022-08-01,Aug 2022,South,Paraná,FIOCRUZ,BA.1.* (Omicron),1
 2022-08-01,Aug 2022,South,Paraná,FIOCRUZ,BA.2.* (Omicron),1
 2022-08-01,Aug 2022,South,Paraná,FIOCRUZ,BA.4.* (Omicron),6
-2022-08-01,Aug 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),64
-2022-08-01,Aug 2022,South,Paraná,FIOCRUZ,BE.* (Omicron),4
+2022-08-01,Aug 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),68
 2022-08-01,Aug 2022,South,Paraná,FIOCRUZ,Others,3
 2022-08-01,Aug 2022,South,Paraná,Others,BA.2.* (Omicron),6
 2022-08-01,Aug 2022,South,Paraná,Others,BA.4.* (Omicron),32
-2022-08-01,Aug 2022,South,Paraná,Others,BA.5.* (Omicron),171
-2022-08-01,Aug 2022,South,Paraná,Others,BE.* (Omicron),8
+2022-08-01,Aug 2022,South,Paraná,Others,BA.5.* (Omicron),179
 2022-08-01,Aug 2022,South,Paraná,Others,Others,24
 2022-08-01,Aug 2022,South,Rio Grande do Sul,FIOCRUZ,BA.1.* (Omicron),1
 2022-08-01,Aug 2022,South,Rio Grande do Sul,FIOCRUZ,BA.2.* (Omicron),2
 2022-08-01,Aug 2022,South,Rio Grande do Sul,FIOCRUZ,BA.4.* (Omicron),41
-2022-08-01,Aug 2022,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),124
-2022-08-01,Aug 2022,South,Rio Grande do Sul,FIOCRUZ,BE.* (Omicron),1
+2022-08-01,Aug 2022,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),125
 2022-08-01,Aug 2022,South,Rio Grande do Sul,FIOCRUZ,Others,3
 2022-08-01,Aug 2022,South,Rio Grande do Sul,Others,BA.2.* (Omicron),1
 2022-08-01,Aug 2022,South,Rio Grande do Sul,Others,BA.4.* (Omicron),13
-2022-08-01,Aug 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),30
-2022-08-01,Aug 2022,South,Rio Grande do Sul,Others,BE.* (Omicron),1
+2022-08-01,Aug 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),31
 2022-08-01,Aug 2022,South,Rio Grande do Sul,Others,Others,2
 2022-08-01,Aug 2022,South,Santa Catarina,FIOCRUZ,BA.2.* (Omicron),2
 2022-08-01,Aug 2022,South,Santa Catarina,FIOCRUZ,BA.4.* (Omicron),36
@@ -3474,9 +3427,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-08-01,Aug 2022,South,Santa Catarina,FIOCRUZ,Others,14
 2022-08-01,Aug 2022,South,Santa Catarina,Others,BA.1.* (Omicron),2
 2022-08-01,Aug 2022,South,Santa Catarina,Others,BA.4.* (Omicron),2
-2022-08-01,Aug 2022,South,Santa Catarina,Others,BA.5.* (Omicron),30
-2022-08-01,Aug 2022,South,Santa Catarina,Others,BE.* (Omicron),2
-2022-08-01,Aug 2022,South,Santa Catarina,Others,BQ.1.* (Omicron),1
+2022-08-01,Aug 2022,South,Santa Catarina,Others,BA.5.* (Omicron),33
 2022-08-01,Aug 2022,South,Santa Catarina,Others,Others,2
 2022-09-01,Sep 2022,Central-west,Distrito Federal,Others,BA.4.* (Omicron),4
 2022-09-01,Sep 2022,Central-west,Distrito Federal,Others,BA.5.* (Omicron),11
@@ -3502,26 +3453,22 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-09-01,Sep 2022,Northeast,Piauí,FIOCRUZ,BA.5.* (Omicron),5
 2022-09-01,Sep 2022,Northeast,Piauí,Others,BA.4.* (Omicron),1
 2022-09-01,Sep 2022,North,Amazonas,FIOCRUZ,BA.1.* (Omicron),1
-2022-09-01,Sep 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),7
-2022-09-01,Sep 2022,North,Amazonas,FIOCRUZ,BE.* (Omicron),15
+2022-09-01,Sep 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),22
 2022-09-01,Sep 2022,North,Amazonas,FIOCRUZ,Others,7
 2022-09-01,Sep 2022,North,Amazonas,Others,BA.1.* (Omicron),1
 2022-09-01,Sep 2022,North,Amazonas,Others,BA.4.* (Omicron),1
 2022-09-01,Sep 2022,North,Amazonas,Others,BA.5.* (Omicron),1
 2022-09-01,Sep 2022,North,Pará,Others,BA.4.* (Omicron),2
-2022-09-01,Sep 2022,North,Pará,Others,BA.5.* (Omicron),5
-2022-09-01,Sep 2022,North,Pará,Others,DL.1 (Omicron),2
+2022-09-01,Sep 2022,North,Pará,Others,BA.5.* (Omicron),7
 2022-09-01,Sep 2022,North,Rondônia,FIOCRUZ,BA.5.* (Omicron),1
 2022-09-01,Sep 2022,North,Tocantins,FIOCRUZ,BA.5.* (Omicron),3
 2022-09-01,Sep 2022,Southeast,Espírito Santo,Others,BA.4.* (Omicron),5
-2022-09-01,Sep 2022,Southeast,Espírito Santo,Others,BA.5.* (Omicron),16
-2022-09-01,Sep 2022,Southeast,Espírito Santo,Others,BE.* (Omicron),1
+2022-09-01,Sep 2022,Southeast,Espírito Santo,Others,BA.5.* (Omicron),17
 2022-09-01,Sep 2022,Southeast,Espírito Santo,Others,Others,2
 2022-09-01,Sep 2022,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),2
 2022-09-01,Sep 2022,Southeast,Minas Gerais,Others,BA.2.* (Omicron),1
 2022-09-01,Sep 2022,Southeast,Minas Gerais,Others,BA.4.* (Omicron),4
-2022-09-01,Sep 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),16
-2022-09-01,Sep 2022,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),1
+2022-09-01,Sep 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),17
 2022-09-01,Sep 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.1.* (Omicron),1
 2022-09-01,Sep 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.4.* (Omicron),5
 2022-09-01,Sep 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),12
@@ -3534,21 +3481,16 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-09-01,Sep 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),4
 2022-09-01,Sep 2022,Southeast,São Paulo,Others,BA.2.* (Omicron),1
 2022-09-01,Sep 2022,Southeast,São Paulo,Others,BA.4.* (Omicron),35
-2022-09-01,Sep 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),117
-2022-09-01,Sep 2022,Southeast,São Paulo,Others,BE.* (Omicron),15
-2022-09-01,Sep 2022,Southeast,São Paulo,Others,BQ.1.* (Omicron),3
+2022-09-01,Sep 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),135
 2022-09-01,Sep 2022,Southeast,São Paulo,Others,Others,17
 2022-09-01,Sep 2022,South,Paraná,Others,BA.4.* (Omicron),3
-2022-09-01,Sep 2022,South,Paraná,Others,BA.5.* (Omicron),46
-2022-09-01,Sep 2022,South,Paraná,Others,BE.* (Omicron),1
+2022-09-01,Sep 2022,South,Paraná,Others,BA.5.* (Omicron),47
 2022-09-01,Sep 2022,South,Paraná,Others,Others,1
 2022-09-01,Sep 2022,South,Rio Grande do Sul,FIOCRUZ,BA.2.* (Omicron),1
 2022-09-01,Sep 2022,South,Rio Grande do Sul,FIOCRUZ,BA.4.* (Omicron),23
-2022-09-01,Sep 2022,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),34
-2022-09-01,Sep 2022,South,Rio Grande do Sul,FIOCRUZ,BE.* (Omicron),1
+2022-09-01,Sep 2022,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),35
 2022-09-01,Sep 2022,South,Rio Grande do Sul,Others,BA.4.* (Omicron),3
-2022-09-01,Sep 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),7
-2022-09-01,Sep 2022,South,Rio Grande do Sul,Others,BE.* (Omicron),1
+2022-09-01,Sep 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),8
 2022-09-01,Sep 2022,South,Santa Catarina,FIOCRUZ,BA.2.* (Omicron),2
 2022-09-01,Sep 2022,South,Santa Catarina,FIOCRUZ,BA.4.* (Omicron),25
 2022-09-01,Sep 2022,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),56
@@ -3556,805 +3498,474 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2022-09-01,Sep 2022,South,Santa Catarina,Others,BA.1.* (Omicron),2
 2022-09-01,Sep 2022,South,Santa Catarina,Others,BA.2.* (Omicron),1
 2022-09-01,Sep 2022,South,Santa Catarina,Others,BA.4.* (Omicron),9
-2022-09-01,Sep 2022,South,Santa Catarina,Others,BA.5.* (Omicron),32
-2022-09-01,Sep 2022,South,Santa Catarina,Others,BQ.1.* (Omicron),1
+2022-09-01,Sep 2022,South,Santa Catarina,Others,BA.5.* (Omicron),33
 2022-09-01,Sep 2022,South,Santa Catarina,Others,Others,3
 2022-10-01,Oct 2022,Central-west,Distrito Federal,Others,BA.4.* (Omicron),1
-2022-10-01,Oct 2022,Central-west,Distrito Federal,Others,BA.5.* (Omicron),18
-2022-10-01,Oct 2022,Central-west,Distrito Federal,Others,BE.* (Omicron),3
-2022-10-01,Oct 2022,Central-west,Distrito Federal,Others,BQ.1.* (Omicron),10
-2022-10-01,Oct 2022,Central-west,Distrito Federal,Others,DL.1 (Omicron),2
+2022-10-01,Oct 2022,Central-west,Distrito Federal,Others,BA.5.* (Omicron),33
 2022-10-01,Oct 2022,Central-west,Distrito Federal,Others,Others,2
-2022-10-01,Oct 2022,Central-west,Goiás,Others,BE.* (Omicron),1
-2022-10-01,Oct 2022,Central-west,Mato Grosso,Others,BQ.1.* (Omicron),1
+2022-10-01,Oct 2022,Central-west,Goiás,Others,BA.5.* (Omicron),1
+2022-10-01,Oct 2022,Central-west,Mato Grosso,Others,BA.5.* (Omicron),1
 2022-10-01,Oct 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.5.* (Omicron),1
-2022-10-01,Oct 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),1
-2022-10-01,Oct 2022,Central-west,Mato Grosso do Sul,Others,BE.* (Omicron),2
-2022-10-01,Oct 2022,Northeast,Alagoas,FIOCRUZ,BQ.1.* (Omicron),1
-2022-10-01,Oct 2022,Northeast,Bahia,FIOCRUZ,BE.* (Omicron),1
-2022-10-01,Oct 2022,Northeast,Bahia,Others,BA.5.* (Omicron),3
-2022-10-01,Oct 2022,Northeast,Bahia,Others,BE.* (Omicron),1
-2022-10-01,Oct 2022,Northeast,Bahia,Others,BQ.1.* (Omicron),7
-2022-10-01,Oct 2022,Northeast,Bahia,Others,DL.1 (Omicron),5
+2022-10-01,Oct 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),3
+2022-10-01,Oct 2022,Northeast,Alagoas,FIOCRUZ,BA.5.* (Omicron),1
+2022-10-01,Oct 2022,Northeast,Bahia,FIOCRUZ,BA.5.* (Omicron),1
+2022-10-01,Oct 2022,Northeast,Bahia,Others,BA.5.* (Omicron),16
 2022-10-01,Oct 2022,Northeast,Bahia,Others,Others,1
 2022-10-01,Oct 2022,Northeast,Ceará,FIOCRUZ,BA.4.* (Omicron),1
-2022-10-01,Oct 2022,Northeast,Ceará,FIOCRUZ,DL.1 (Omicron),1
+2022-10-01,Oct 2022,Northeast,Ceará,FIOCRUZ,BA.5.* (Omicron),1
 2022-10-01,Oct 2022,Northeast,Ceará,Others,BA.1.* (Omicron),2
 2022-10-01,Oct 2022,Northeast,Ceará,Others,BA.4.* (Omicron),3
-2022-10-01,Oct 2022,Northeast,Ceará,Others,BA.5.* (Omicron),2
-2022-10-01,Oct 2022,Northeast,Ceará,Others,BE.* (Omicron),1
-2022-10-01,Oct 2022,Northeast,Ceará,Others,DL.1 (Omicron),1
+2022-10-01,Oct 2022,Northeast,Ceará,Others,BA.5.* (Omicron),4
 2022-10-01,Oct 2022,Northeast,Maranhão,FIOCRUZ,BA.5.* (Omicron),1
 2022-10-01,Oct 2022,Northeast,Paraíba,FIOCRUZ,BA.1.* (Omicron),1
 2022-10-01,Oct 2022,Northeast,Paraíba,FIOCRUZ,BA.4.* (Omicron),2
-2022-10-01,Oct 2022,Northeast,Paraíba,FIOCRUZ,BQ.1.* (Omicron),6
+2022-10-01,Oct 2022,Northeast,Paraíba,FIOCRUZ,BA.5.* (Omicron),6
 2022-10-01,Oct 2022,Northeast,Pernambuco,FIOCRUZ,BA.4.* (Omicron),2
-2022-10-01,Oct 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),2
-2022-10-01,Oct 2022,Northeast,Pernambuco,FIOCRUZ,BE.* (Omicron),3
-2022-10-01,Oct 2022,Northeast,Pernambuco,FIOCRUZ,BQ.1.* (Omicron),5
-2022-10-01,Oct 2022,Northeast,Pernambuco,FIOCRUZ,DL.1 (Omicron),54
+2022-10-01,Oct 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),64
 2022-10-01,Oct 2022,Northeast,Pernambuco,FIOCRUZ,Others,1
-2022-10-01,Oct 2022,Northeast,Pernambuco,Others,BA.5.* (Omicron),6
-2022-10-01,Oct 2022,Northeast,Pernambuco,Others,BE.* (Omicron),2
-2022-10-01,Oct 2022,Northeast,Pernambuco,Others,BQ.1.* (Omicron),2
-2022-10-01,Oct 2022,Northeast,Pernambuco,Others,DL.1 (Omicron),34
+2022-10-01,Oct 2022,Northeast,Pernambuco,Others,BA.5.* (Omicron),44
 2022-10-01,Oct 2022,Northeast,Pernambuco,Others,Others,3
-2022-10-01,Oct 2022,Northeast,Piauí,FIOCRUZ,BQ.1.* (Omicron),3
+2022-10-01,Oct 2022,Northeast,Piauí,FIOCRUZ,BA.5.* (Omicron),3
 2022-10-01,Oct 2022,North,Acre,Others,BA.1.* (Omicron),1
-2022-10-01,Oct 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),6
-2022-10-01,Oct 2022,North,Amazonas,FIOCRUZ,BE.* (Omicron),533
-2022-10-01,Oct 2022,North,Amazonas,FIOCRUZ,BQ.1.* (Omicron),1
-2022-10-01,Oct 2022,North,Amazonas,FIOCRUZ,DL.1 (Omicron),4
+2022-10-01,Oct 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),544
 2022-10-01,Oct 2022,North,Amazonas,FIOCRUZ,Others,13
-2022-10-01,Oct 2022,North,Amazonas,Others,BE.* (Omicron),18
-2022-10-01,Oct 2022,North,Pará,FIOCRUZ,DL.1 (Omicron),68
-2022-10-01,Oct 2022,North,Pará,Others,DL.1 (Omicron),18
+2022-10-01,Oct 2022,North,Amazonas,Others,BA.5.* (Omicron),18
+2022-10-01,Oct 2022,North,Pará,FIOCRUZ,BA.5.* (Omicron),68
+2022-10-01,Oct 2022,North,Pará,Others,BA.5.* (Omicron),18
 2022-10-01,Oct 2022,North,Tocantins,FIOCRUZ,BA.5.* (Omicron),1
-2022-10-01,Oct 2022,North,Tocantins,Others,BQ.1.* (Omicron),1
+2022-10-01,Oct 2022,North,Tocantins,Others,BA.5.* (Omicron),1
 2022-10-01,Oct 2022,Southeast,Espírito Santo,Others,BA.4.* (Omicron),6
-2022-10-01,Oct 2022,Southeast,Espírito Santo,Others,BA.5.* (Omicron),8
-2022-10-01,Oct 2022,Southeast,Espírito Santo,Others,BQ.1.* (Omicron),7
+2022-10-01,Oct 2022,Southeast,Espírito Santo,Others,BA.5.* (Omicron),15
 2022-10-01,Oct 2022,Southeast,Espírito Santo,Others,Others,7
 2022-10-01,Oct 2022,Southeast,Minas Gerais,FIOCRUZ,BA.4.* (Omicron),2
-2022-10-01,Oct 2022,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),3
-2022-10-01,Oct 2022,Southeast,Minas Gerais,FIOCRUZ,BQ.1.* (Omicron),2
+2022-10-01,Oct 2022,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),5
 2022-10-01,Oct 2022,Southeast,Minas Gerais,FIOCRUZ,Others,1
 2022-10-01,Oct 2022,Southeast,Minas Gerais,Others,BA.2.* (Omicron),1
 2022-10-01,Oct 2022,Southeast,Minas Gerais,Others,BA.4.* (Omicron),2
-2022-10-01,Oct 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),10
-2022-10-01,Oct 2022,Southeast,Minas Gerais,Others,BE.* (Omicron),4
-2022-10-01,Oct 2022,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),8
+2022-10-01,Oct 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),22
 2022-10-01,Oct 2022,Southeast,Minas Gerais,Others,Others,2
 2022-10-01,Oct 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.1.* (Omicron),3
 2022-10-01,Oct 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.2.* (Omicron),1
 2022-10-01,Oct 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.4.* (Omicron),7
-2022-10-01,Oct 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),11
-2022-10-01,Oct 2022,Southeast,Rio de Janeiro,FIOCRUZ,BE.* (Omicron),12
-2022-10-01,Oct 2022,Southeast,Rio de Janeiro,FIOCRUZ,BQ.1.* (Omicron),20
-2022-10-01,Oct 2022,Southeast,Rio de Janeiro,FIOCRUZ,DL.1 (Omicron),13
+2022-10-01,Oct 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),56
 2022-10-01,Oct 2022,Southeast,Rio de Janeiro,FIOCRUZ,Others,8
 2022-10-01,Oct 2022,Southeast,Rio de Janeiro,Others,BA.2.* (Omicron),5
 2022-10-01,Oct 2022,Southeast,Rio de Janeiro,Others,BA.4.* (Omicron),25
-2022-10-01,Oct 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),62
-2022-10-01,Oct 2022,Southeast,Rio de Janeiro,Others,BE.* (Omicron),17
-2022-10-01,Oct 2022,Southeast,Rio de Janeiro,Others,BQ.1.* (Omicron),31
-2022-10-01,Oct 2022,Southeast,Rio de Janeiro,Others,DL.1 (Omicron),16
+2022-10-01,Oct 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),126
 2022-10-01,Oct 2022,Southeast,Rio de Janeiro,Others,Others,50
 2022-10-01,Oct 2022,Southeast,Rio de Janeiro,Others,XBB.* (Omicron),1
 2022-10-01,Oct 2022,Southeast,São Paulo,FIOCRUZ,B.1.617.2+AY.* (Delta),1
 2022-10-01,Oct 2022,Southeast,São Paulo,FIOCRUZ,BA.4.* (Omicron),2
-2022-10-01,Oct 2022,Southeast,São Paulo,FIOCRUZ,BE.* (Omicron),3
-2022-10-01,Oct 2022,Southeast,São Paulo,FIOCRUZ,BQ.1.* (Omicron),3
+2022-10-01,Oct 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),6
 2022-10-01,Oct 2022,Southeast,São Paulo,Others,BA.2.* (Omicron),5
 2022-10-01,Oct 2022,Southeast,São Paulo,Others,BA.4.* (Omicron),37
-2022-10-01,Oct 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),90
-2022-10-01,Oct 2022,Southeast,São Paulo,Others,BE.* (Omicron),134
-2022-10-01,Oct 2022,Southeast,São Paulo,Others,BQ.1.* (Omicron),140
-2022-10-01,Oct 2022,Southeast,São Paulo,Others,DL.1 (Omicron),6
+2022-10-01,Oct 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),370
 2022-10-01,Oct 2022,Southeast,São Paulo,Others,Others,34
 2022-10-01,Oct 2022,Southeast,São Paulo,Others,XBB.* (Omicron),1
 2022-10-01,Oct 2022,South,Paraná,FIOCRUZ,BA.4.* (Omicron),3
-2022-10-01,Oct 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),12
-2022-10-01,Oct 2022,South,Paraná,FIOCRUZ,BE.* (Omicron),3
-2022-10-01,Oct 2022,South,Paraná,FIOCRUZ,BQ.1.* (Omicron),4
+2022-10-01,Oct 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),19
 2022-10-01,Oct 2022,South,Paraná,FIOCRUZ,Others,1
 2022-10-01,Oct 2022,South,Paraná,Others,BA.4.* (Omicron),5
-2022-10-01,Oct 2022,South,Paraná,Others,BA.5.* (Omicron),22
-2022-10-01,Oct 2022,South,Paraná,Others,BE.* (Omicron),3
-2022-10-01,Oct 2022,South,Paraná,Others,BQ.1.* (Omicron),1
+2022-10-01,Oct 2022,South,Paraná,Others,BA.5.* (Omicron),26
 2022-10-01,Oct 2022,South,Paraná,Others,Others,9
 2022-10-01,Oct 2022,South,Paraná,Others,XBB.* (Omicron),1
 2022-10-01,Oct 2022,South,Rio Grande do Sul,Others,BA.4.* (Omicron),13
-2022-10-01,Oct 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),24
-2022-10-01,Oct 2022,South,Rio Grande do Sul,Others,BQ.1.* (Omicron),5
+2022-10-01,Oct 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),29
 2022-10-01,Oct 2022,South,Santa Catarina,FIOCRUZ,BA.1.* (Omicron),1
 2022-10-01,Oct 2022,South,Santa Catarina,FIOCRUZ,BA.2.* (Omicron),1
 2022-10-01,Oct 2022,South,Santa Catarina,FIOCRUZ,BA.4.* (Omicron),10
-2022-10-01,Oct 2022,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),22
-2022-10-01,Oct 2022,South,Santa Catarina,FIOCRUZ,BE.* (Omicron),2
-2022-10-01,Oct 2022,South,Santa Catarina,FIOCRUZ,BQ.1.* (Omicron),14
-2022-10-01,Oct 2022,South,Santa Catarina,FIOCRUZ,DL.1 (Omicron),1
+2022-10-01,Oct 2022,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),39
 2022-10-01,Oct 2022,South,Santa Catarina,FIOCRUZ,Others,7
 2022-10-01,Oct 2022,South,Santa Catarina,Others,B.1.617.2+AY.* (Delta),3
 2022-10-01,Oct 2022,South,Santa Catarina,Others,BA.1.* (Omicron),2
 2022-10-01,Oct 2022,South,Santa Catarina,Others,BA.4.* (Omicron),4
-2022-10-01,Oct 2022,South,Santa Catarina,Others,BA.5.* (Omicron),11
-2022-10-01,Oct 2022,South,Santa Catarina,Others,BE.* (Omicron),2
-2022-10-01,Oct 2022,South,Santa Catarina,Others,BQ.1.* (Omicron),2
+2022-10-01,Oct 2022,South,Santa Catarina,Others,BA.5.* (Omicron),15
 2022-10-01,Oct 2022,South,Santa Catarina,Others,Others,4
-2022-11-01,Nov 2022,Central-west,Distrito Federal,FIOCRUZ,BQ.1.* (Omicron),2
+2022-11-01,Nov 2022,Central-west,Distrito Federal,FIOCRUZ,BA.5.* (Omicron),2
 2022-11-01,Nov 2022,Central-west,Distrito Federal,Others,BA.2.* (Omicron),1
-2022-11-01,Nov 2022,Central-west,Distrito Federal,Others,BA.5.* (Omicron),13
-2022-11-01,Nov 2022,Central-west,Distrito Federal,Others,BE.* (Omicron),42
-2022-11-01,Nov 2022,Central-west,Distrito Federal,Others,BQ.1.* (Omicron),71
-2022-11-01,Nov 2022,Central-west,Distrito Federal,Others,DL.1 (Omicron),13
+2022-11-01,Nov 2022,Central-west,Distrito Federal,Others,BA.5.* (Omicron),139
 2022-11-01,Nov 2022,Central-west,Distrito Federal,Others,Others,13
 2022-11-01,Nov 2022,Central-west,Distrito Federal,Others,XBB.* (Omicron),3
-2022-11-01,Nov 2022,Central-west,Goiás,FIOCRUZ,BA.5.* (Omicron),2
-2022-11-01,Nov 2022,Central-west,Goiás,FIOCRUZ,BE.* (Omicron),5
-2022-11-01,Nov 2022,Central-west,Goiás,FIOCRUZ,BQ.1.* (Omicron),33
-2022-11-01,Nov 2022,Central-west,Goiás,FIOCRUZ,DL.1 (Omicron),2
+2022-11-01,Nov 2022,Central-west,Goiás,FIOCRUZ,BA.5.* (Omicron),42
 2022-11-01,Nov 2022,Central-west,Goiás,FIOCRUZ,Others,4
 2022-11-01,Nov 2022,Central-west,Goiás,Others,BA.2.* (Omicron),1
 2022-11-01,Nov 2022,Central-west,Goiás,Others,BA.4.* (Omicron),1
-2022-11-01,Nov 2022,Central-west,Goiás,Others,BA.5.* (Omicron),4
-2022-11-01,Nov 2022,Central-west,Goiás,Others,BE.* (Omicron),9
-2022-11-01,Nov 2022,Central-west,Goiás,Others,BQ.1.* (Omicron),44
-2022-11-01,Nov 2022,Central-west,Goiás,Others,DL.1 (Omicron),2
+2022-11-01,Nov 2022,Central-west,Goiás,Others,BA.5.* (Omicron),59
 2022-11-01,Nov 2022,Central-west,Goiás,Others,Others,2
 2022-11-01,Nov 2022,Central-west,Goiás,Others,XBB.* (Omicron),1
-2022-11-01,Nov 2022,Central-west,Mato Grosso,FIOCRUZ,BE.* (Omicron),1
-2022-11-01,Nov 2022,Central-west,Mato Grosso,FIOCRUZ,BQ.1.* (Omicron),2
+2022-11-01,Nov 2022,Central-west,Mato Grosso,FIOCRUZ,BA.5.* (Omicron),3
 2022-11-01,Nov 2022,Central-west,Mato Grosso,FIOCRUZ,XBB.* (Omicron),1
-2022-11-01,Nov 2022,Central-west,Mato Grosso,Others,BA.5.* (Omicron),3
-2022-11-01,Nov 2022,Central-west,Mato Grosso,Others,BE.* (Omicron),5
-2022-11-01,Nov 2022,Central-west,Mato Grosso,Others,BQ.1.* (Omicron),30
+2022-11-01,Nov 2022,Central-west,Mato Grosso,Others,BA.5.* (Omicron),38
 2022-11-01,Nov 2022,Central-west,Mato Grosso,Others,Others,6
 2022-11-01,Nov 2022,Central-west,Mato Grosso,Others,XBB.* (Omicron),4
-2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BE.* (Omicron),1
-2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BQ.1.* (Omicron),3
-2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,DL.1 (Omicron),1
+2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.5.* (Omicron),6
 2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,Others,BA.4.* (Omicron),1
-2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),3
-2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,Others,BE.* (Omicron),12
-2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,Others,BQ.1.* (Omicron),37
-2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,Others,DL.1 (Omicron),3
+2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),55
 2022-11-01,Nov 2022,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Alagoas,FIOCRUZ,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Alagoas,FIOCRUZ,BE.* (Omicron),8
-2022-11-01,Nov 2022,Northeast,Alagoas,FIOCRUZ,BQ.1.* (Omicron),37
-2022-11-01,Nov 2022,Northeast,Alagoas,FIOCRUZ,DL.1 (Omicron),10
+2022-11-01,Nov 2022,Northeast,Alagoas,FIOCRUZ,BA.5.* (Omicron),56
 2022-11-01,Nov 2022,Northeast,Alagoas,FIOCRUZ,Others,2
 2022-11-01,Nov 2022,Northeast,Bahia,FIOCRUZ,BA.2.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Bahia,FIOCRUZ,BE.* (Omicron),10
-2022-11-01,Nov 2022,Northeast,Bahia,FIOCRUZ,BQ.1.* (Omicron),106
-2022-11-01,Nov 2022,Northeast,Bahia,FIOCRUZ,DL.1 (Omicron),9
+2022-11-01,Nov 2022,Northeast,Bahia,FIOCRUZ,BA.5.* (Omicron),125
 2022-11-01,Nov 2022,Northeast,Bahia,FIOCRUZ,Others,1
 2022-11-01,Nov 2022,Northeast,Bahia,FIOCRUZ,XBB.* (Omicron),6
 2022-11-01,Nov 2022,Northeast,Bahia,Others,BA.2.* (Omicron),1
 2022-11-01,Nov 2022,Northeast,Bahia,Others,BA.4.* (Omicron),5
-2022-11-01,Nov 2022,Northeast,Bahia,Others,BA.5.* (Omicron),3
-2022-11-01,Nov 2022,Northeast,Bahia,Others,BE.* (Omicron),27
-2022-11-01,Nov 2022,Northeast,Bahia,Others,BQ.1.* (Omicron),185
-2022-11-01,Nov 2022,Northeast,Bahia,Others,DL.1 (Omicron),19
+2022-11-01,Nov 2022,Northeast,Bahia,Others,BA.5.* (Omicron),234
 2022-11-01,Nov 2022,Northeast,Bahia,Others,Others,2
 2022-11-01,Nov 2022,Northeast,Bahia,Others,XBB.* (Omicron),6
 2022-11-01,Nov 2022,Northeast,Ceará,FIOCRUZ,BA.4.* (Omicron),2
-2022-11-01,Nov 2022,Northeast,Ceará,FIOCRUZ,BA.5.* (Omicron),7
-2022-11-01,Nov 2022,Northeast,Ceará,FIOCRUZ,BE.* (Omicron),10
-2022-11-01,Nov 2022,Northeast,Ceará,FIOCRUZ,BQ.1.* (Omicron),36
-2022-11-01,Nov 2022,Northeast,Ceará,FIOCRUZ,DL.1 (Omicron),4
+2022-11-01,Nov 2022,Northeast,Ceará,FIOCRUZ,BA.5.* (Omicron),57
 2022-11-01,Nov 2022,Northeast,Ceará,FIOCRUZ,Others,2
 2022-11-01,Nov 2022,Northeast,Ceará,Others,BA.4.* (Omicron),2
-2022-11-01,Nov 2022,Northeast,Ceará,Others,BA.5.* (Omicron),7
-2022-11-01,Nov 2022,Northeast,Ceará,Others,BE.* (Omicron),57
-2022-11-01,Nov 2022,Northeast,Ceará,Others,BQ.1.* (Omicron),51
-2022-11-01,Nov 2022,Northeast,Ceará,Others,DL.1 (Omicron),55
+2022-11-01,Nov 2022,Northeast,Ceará,Others,BA.5.* (Omicron),170
 2022-11-01,Nov 2022,Northeast,Ceará,Others,Others,2
 2022-11-01,Nov 2022,Northeast,Ceará,Others,XBB.* (Omicron),3
-2022-11-01,Nov 2022,Northeast,Maranhão,FIOCRUZ,BE.* (Omicron),2
-2022-11-01,Nov 2022,Northeast,Maranhão,FIOCRUZ,BQ.1.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Maranhão,FIOCRUZ,DL.1 (Omicron),2
+2022-11-01,Nov 2022,Northeast,Maranhão,FIOCRUZ,BA.5.* (Omicron),5
 2022-11-01,Nov 2022,Northeast,Maranhão,Others,BA.2.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Maranhão,Others,BA.5.* (Omicron),5
-2022-11-01,Nov 2022,Northeast,Maranhão,Others,BE.* (Omicron),6
-2022-11-01,Nov 2022,Northeast,Maranhão,Others,BQ.1.* (Omicron),27
-2022-11-01,Nov 2022,Northeast,Maranhão,Others,DL.1 (Omicron),77
+2022-11-01,Nov 2022,Northeast,Maranhão,Others,BA.5.* (Omicron),115
 2022-11-01,Nov 2022,Northeast,Paraíba,FIOCRUZ,BA.4.* (Omicron),2
-2022-11-01,Nov 2022,Northeast,Paraíba,FIOCRUZ,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Paraíba,FIOCRUZ,BE.* (Omicron),7
-2022-11-01,Nov 2022,Northeast,Paraíba,FIOCRUZ,BQ.1.* (Omicron),104
-2022-11-01,Nov 2022,Northeast,Paraíba,FIOCRUZ,DL.1 (Omicron),6
-2022-11-01,Nov 2022,Northeast,Paraíba,Others,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Paraíba,Others,BE.* (Omicron),10
-2022-11-01,Nov 2022,Northeast,Paraíba,Others,BQ.1.* (Omicron),157
-2022-11-01,Nov 2022,Northeast,Paraíba,Others,DL.1 (Omicron),11
-2022-11-01,Nov 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),19
-2022-11-01,Nov 2022,Northeast,Pernambuco,FIOCRUZ,BE.* (Omicron),16
-2022-11-01,Nov 2022,Northeast,Pernambuco,FIOCRUZ,BQ.1.* (Omicron),143
-2022-11-01,Nov 2022,Northeast,Pernambuco,FIOCRUZ,DL.1 (Omicron),436
+2022-11-01,Nov 2022,Northeast,Paraíba,FIOCRUZ,BA.5.* (Omicron),118
+2022-11-01,Nov 2022,Northeast,Paraíba,Others,BA.5.* (Omicron),179
+2022-11-01,Nov 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),614
 2022-11-01,Nov 2022,Northeast,Pernambuco,FIOCRUZ,Others,12
 2022-11-01,Nov 2022,Northeast,Pernambuco,FIOCRUZ,XBB.* (Omicron),2
-2022-11-01,Nov 2022,Northeast,Pernambuco,Others,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Pernambuco,Others,BE.* (Omicron),27
-2022-11-01,Nov 2022,Northeast,Pernambuco,Others,BQ.1.* (Omicron),53
-2022-11-01,Nov 2022,Northeast,Pernambuco,Others,DL.1 (Omicron),247
+2022-11-01,Nov 2022,Northeast,Pernambuco,Others,BA.5.* (Omicron),328
 2022-11-01,Nov 2022,Northeast,Pernambuco,Others,Others,5
-2022-11-01,Nov 2022,Northeast,Piauí,FIOCRUZ,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Piauí,FIOCRUZ,BE.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Piauí,FIOCRUZ,BQ.1.* (Omicron),16
-2022-11-01,Nov 2022,Northeast,Piauí,FIOCRUZ,DL.1 (Omicron),5
-2022-11-01,Nov 2022,Northeast,Rio Grande do Norte,FIOCRUZ,BA.5.* (Omicron),6
-2022-11-01,Nov 2022,Northeast,Rio Grande do Norte,FIOCRUZ,BE.* (Omicron),10
-2022-11-01,Nov 2022,Northeast,Rio Grande do Norte,FIOCRUZ,BQ.1.* (Omicron),54
-2022-11-01,Nov 2022,Northeast,Rio Grande do Norte,FIOCRUZ,DL.1 (Omicron),46
-2022-11-01,Nov 2022,Northeast,Rio Grande do Norte,Others,BE.* (Omicron),2
-2022-11-01,Nov 2022,Northeast,Rio Grande do Norte,Others,BQ.1.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Rio Grande do Norte,Others,DL.1 (Omicron),2
+2022-11-01,Nov 2022,Northeast,Piauí,FIOCRUZ,BA.5.* (Omicron),23
+2022-11-01,Nov 2022,Northeast,Rio Grande do Norte,FIOCRUZ,BA.5.* (Omicron),116
+2022-11-01,Nov 2022,Northeast,Rio Grande do Norte,Others,BA.5.* (Omicron),5
 2022-11-01,Nov 2022,Northeast,Sergipe,FIOCRUZ,BA.4.* (Omicron),1
-2022-11-01,Nov 2022,Northeast,Sergipe,FIOCRUZ,BE.* (Omicron),9
-2022-11-01,Nov 2022,Northeast,Sergipe,FIOCRUZ,BQ.1.* (Omicron),74
-2022-11-01,Nov 2022,Northeast,Sergipe,FIOCRUZ,DL.1 (Omicron),7
+2022-11-01,Nov 2022,Northeast,Sergipe,FIOCRUZ,BA.5.* (Omicron),90
 2022-11-01,Nov 2022,Northeast,Sergipe,FIOCRUZ,Others,4
-2022-11-01,Nov 2022,North,Acre,FIOCRUZ,BE.* (Omicron),38
-2022-11-01,Nov 2022,North,Acre,FIOCRUZ,BQ.1.* (Omicron),1
-2022-11-01,Nov 2022,North,Acre,Others,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,North,Acre,Others,BE.* (Omicron),8
-2022-11-01,Nov 2022,North,Acre,Others,BQ.1.* (Omicron),4
+2022-11-01,Nov 2022,North,Acre,FIOCRUZ,BA.5.* (Omicron),39
+2022-11-01,Nov 2022,North,Acre,Others,BA.5.* (Omicron),13
 2022-11-01,Nov 2022,North,Acre,Others,Others,1
-2022-11-01,Nov 2022,North,Amapá,FIOCRUZ,BE.* (Omicron),1
-2022-11-01,Nov 2022,North,Amapá,FIOCRUZ,BQ.1.* (Omicron),8
-2022-11-01,Nov 2022,North,Amapá,FIOCRUZ,DL.1 (Omicron),56
+2022-11-01,Nov 2022,North,Amapá,FIOCRUZ,BA.5.* (Omicron),65
 2022-11-01,Nov 2022,North,Amapá,FIOCRUZ,XBB.* (Omicron),2
-2022-11-01,Nov 2022,North,Amapá,Others,DL.1 (Omicron),1
-2022-11-01,Nov 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),13
-2022-11-01,Nov 2022,North,Amazonas,FIOCRUZ,BE.* (Omicron),455
-2022-11-01,Nov 2022,North,Amazonas,FIOCRUZ,BQ.1.* (Omicron),6
-2022-11-01,Nov 2022,North,Amazonas,FIOCRUZ,DL.1 (Omicron),2
+2022-11-01,Nov 2022,North,Amapá,Others,BA.5.* (Omicron),1
+2022-11-01,Nov 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),476
 2022-11-01,Nov 2022,North,Amazonas,FIOCRUZ,Others,1
 2022-11-01,Nov 2022,North,Amazonas,FIOCRUZ,XBB.* (Omicron),1
-2022-11-01,Nov 2022,North,Amazonas,Others,BA.5.* (Omicron),5
-2022-11-01,Nov 2022,North,Amazonas,Others,BE.* (Omicron),34
-2022-11-01,Nov 2022,North,Amazonas,Others,BQ.1.* (Omicron),1
-2022-11-01,Nov 2022,North,Amazonas,Others,DL.1 (Omicron),1
+2022-11-01,Nov 2022,North,Amazonas,Others,BA.5.* (Omicron),41
 2022-11-01,Nov 2022,North,Pará,FIOCRUZ,BA.4.* (Omicron),1
-2022-11-01,Nov 2022,North,Pará,FIOCRUZ,BE.* (Omicron),6
-2022-11-01,Nov 2022,North,Pará,FIOCRUZ,BQ.1.* (Omicron),10
-2022-11-01,Nov 2022,North,Pará,FIOCRUZ,DL.1 (Omicron),24
+2022-11-01,Nov 2022,North,Pará,FIOCRUZ,BA.5.* (Omicron),40
 2022-11-01,Nov 2022,North,Pará,FIOCRUZ,XBB.* (Omicron),2
-2022-11-01,Nov 2022,North,Pará,Others,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,North,Pará,Others,BE.* (Omicron),1
-2022-11-01,Nov 2022,North,Pará,Others,BQ.1.* (Omicron),1
-2022-11-01,Nov 2022,North,Pará,Others,DL.1 (Omicron),14
+2022-11-01,Nov 2022,North,Pará,Others,BA.5.* (Omicron),17
 2022-11-01,Nov 2022,North,Pará,Others,Others,1
-2022-11-01,Nov 2022,North,Rondônia,FIOCRUZ,BE.* (Omicron),9
-2022-11-01,Nov 2022,North,Rondônia,FIOCRUZ,BQ.1.* (Omicron),3
+2022-11-01,Nov 2022,North,Rondônia,FIOCRUZ,BA.5.* (Omicron),12
 2022-11-01,Nov 2022,North,Rondônia,FIOCRUZ,XBB.* (Omicron),1
-2022-11-01,Nov 2022,North,Roraima,FIOCRUZ,BE.* (Omicron),9
+2022-11-01,Nov 2022,North,Roraima,FIOCRUZ,BA.5.* (Omicron),9
 2022-11-01,Nov 2022,North,Tocantins,FIOCRUZ,BA.4.* (Omicron),1
-2022-11-01,Nov 2022,North,Tocantins,FIOCRUZ,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,North,Tocantins,FIOCRUZ,BE.* (Omicron),6
-2022-11-01,Nov 2022,North,Tocantins,FIOCRUZ,BQ.1.* (Omicron),55
-2022-11-01,Nov 2022,North,Tocantins,FIOCRUZ,DL.1 (Omicron),5
+2022-11-01,Nov 2022,North,Tocantins,FIOCRUZ,BA.5.* (Omicron),67
 2022-11-01,Nov 2022,North,Tocantins,FIOCRUZ,Others,2
 2022-11-01,Nov 2022,North,Tocantins,FIOCRUZ,XBB.* (Omicron),1
-2022-11-01,Nov 2022,North,Tocantins,Others,BE.* (Omicron),1
-2022-11-01,Nov 2022,North,Tocantins,Others,BQ.1.* (Omicron),1
-2022-11-01,Nov 2022,Southeast,Espírito Santo,FIOCRUZ,BE.* (Omicron),2
-2022-11-01,Nov 2022,Southeast,Espírito Santo,FIOCRUZ,BQ.1.* (Omicron),6
-2022-11-01,Nov 2022,Southeast,Espírito Santo,FIOCRUZ,DL.1 (Omicron),2
+2022-11-01,Nov 2022,North,Tocantins,Others,BA.5.* (Omicron),2
+2022-11-01,Nov 2022,Southeast,Espírito Santo,FIOCRUZ,BA.5.* (Omicron),10
 2022-11-01,Nov 2022,Southeast,Espírito Santo,Others,BA.4.* (Omicron),5
-2022-11-01,Nov 2022,Southeast,Espírito Santo,Others,BA.5.* (Omicron),13
-2022-11-01,Nov 2022,Southeast,Espírito Santo,Others,BE.* (Omicron),7
-2022-11-01,Nov 2022,Southeast,Espírito Santo,Others,BQ.1.* (Omicron),39
-2022-11-01,Nov 2022,Southeast,Espírito Santo,Others,DL.1 (Omicron),10
+2022-11-01,Nov 2022,Southeast,Espírito Santo,Others,BA.5.* (Omicron),69
 2022-11-01,Nov 2022,Southeast,Espírito Santo,Others,Others,3
 2022-11-01,Nov 2022,Southeast,Espírito Santo,Others,XBB.* (Omicron),2
 2022-11-01,Nov 2022,Southeast,Minas Gerais,FIOCRUZ,BA.2.* (Omicron),1
 2022-11-01,Nov 2022,Southeast,Minas Gerais,FIOCRUZ,BA.4.* (Omicron),6
-2022-11-01,Nov 2022,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),14
-2022-11-01,Nov 2022,Southeast,Minas Gerais,FIOCRUZ,BE.* (Omicron),57
-2022-11-01,Nov 2022,Southeast,Minas Gerais,FIOCRUZ,BQ.1.* (Omicron),401
-2022-11-01,Nov 2022,Southeast,Minas Gerais,FIOCRUZ,DL.1 (Omicron),13
+2022-11-01,Nov 2022,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),485
 2022-11-01,Nov 2022,Southeast,Minas Gerais,FIOCRUZ,Others,34
 2022-11-01,Nov 2022,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),2
 2022-11-01,Nov 2022,Southeast,Minas Gerais,Others,BA.4.* (Omicron),17
-2022-11-01,Nov 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),19
-2022-11-01,Nov 2022,Southeast,Minas Gerais,Others,BE.* (Omicron),46
-2022-11-01,Nov 2022,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),263
-2022-11-01,Nov 2022,Southeast,Minas Gerais,Others,DL.1 (Omicron),29
-2022-11-01,Nov 2022,Southeast,Minas Gerais,Others,Others,52
+2022-11-01,Nov 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),358
+2022-11-01,Nov 2022,Southeast,Minas Gerais,Others,Others,51
 2022-11-01,Nov 2022,Southeast,Minas Gerais,Others,XBB.* (Omicron),2
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.1.* (Omicron),2
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.2.* (Omicron),1
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.4.* (Omicron),30
-2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),23
-2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,BE.* (Omicron),144
-2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,BQ.1.* (Omicron),318
-2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,DL.1 (Omicron),110
+2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),595
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,Others,33
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,FIOCRUZ,XBB.* (Omicron),9
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,BA.1.* (Omicron),1
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,BA.2.* (Omicron),2
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,BA.4.* (Omicron),55
-2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),62
-2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,BE.* (Omicron),242
-2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,BQ.1.* (Omicron),441
-2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,DL.1 (Omicron),135
+2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),880
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,Others,89
 2022-11-01,Nov 2022,Southeast,Rio de Janeiro,Others,XBB.* (Omicron),14
 2022-11-01,Nov 2022,Southeast,São Paulo,FIOCRUZ,BA.2.* (Omicron),1
-2022-11-01,Nov 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),1
-2022-11-01,Nov 2022,Southeast,São Paulo,FIOCRUZ,BE.* (Omicron),40
-2022-11-01,Nov 2022,Southeast,São Paulo,FIOCRUZ,BQ.1.* (Omicron),80
-2022-11-01,Nov 2022,Southeast,São Paulo,FIOCRUZ,DL.1 (Omicron),1
+2022-11-01,Nov 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),122
 2022-11-01,Nov 2022,Southeast,São Paulo,FIOCRUZ,Others,4
 2022-11-01,Nov 2022,Southeast,São Paulo,FIOCRUZ,XBB.* (Omicron),2
 2022-11-01,Nov 2022,Southeast,São Paulo,Others,BA.2.* (Omicron),3
 2022-11-01,Nov 2022,Southeast,São Paulo,Others,BA.4.* (Omicron),41
-2022-11-01,Nov 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),47
-2022-11-01,Nov 2022,Southeast,São Paulo,Others,BE.* (Omicron),554
-2022-11-01,Nov 2022,Southeast,São Paulo,Others,BQ.1.* (Omicron),1143
-2022-11-01,Nov 2022,Southeast,São Paulo,Others,DL.1 (Omicron),28
+2022-11-01,Nov 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),1772
 2022-11-01,Nov 2022,Southeast,São Paulo,Others,Others,62
 2022-11-01,Nov 2022,Southeast,São Paulo,Others,XBB.* (Omicron),40
 2022-11-01,Nov 2022,South,Paraná,FIOCRUZ,BA.4.* (Omicron),3
-2022-11-01,Nov 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),3
-2022-11-01,Nov 2022,South,Paraná,FIOCRUZ,BE.* (Omicron),3
-2022-11-01,Nov 2022,South,Paraná,FIOCRUZ,BQ.1.* (Omicron),21
-2022-11-01,Nov 2022,South,Paraná,FIOCRUZ,DL.1 (Omicron),1
+2022-11-01,Nov 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),28
 2022-11-01,Nov 2022,South,Paraná,Others,BA.1.* (Omicron),1
 2022-11-01,Nov 2022,South,Paraná,Others,BA.4.* (Omicron),6
-2022-11-01,Nov 2022,South,Paraná,Others,BA.5.* (Omicron),37
-2022-11-01,Nov 2022,South,Paraná,Others,BE.* (Omicron),35
-2022-11-01,Nov 2022,South,Paraná,Others,BQ.1.* (Omicron),135
-2022-11-01,Nov 2022,South,Paraná,Others,DL.1 (Omicron),21
+2022-11-01,Nov 2022,South,Paraná,Others,BA.5.* (Omicron),228
 2022-11-01,Nov 2022,South,Paraná,Others,Others,27
 2022-11-01,Nov 2022,South,Paraná,Others,XBB.* (Omicron),8
 2022-11-01,Nov 2022,South,Rio Grande do Sul,Others,BA.4.* (Omicron),8
-2022-11-01,Nov 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),18
-2022-11-01,Nov 2022,South,Rio Grande do Sul,Others,BE.* (Omicron),32
-2022-11-01,Nov 2022,South,Rio Grande do Sul,Others,BQ.1.* (Omicron),127
-2022-11-01,Nov 2022,South,Rio Grande do Sul,Others,DL.1 (Omicron),3
+2022-11-01,Nov 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),180
 2022-11-01,Nov 2022,South,Rio Grande do Sul,Others,Others,6
 2022-11-01,Nov 2022,South,Rio Grande do Sul,Others,XBB.* (Omicron),2
 2022-11-01,Nov 2022,South,Santa Catarina,FIOCRUZ,BA.4.* (Omicron),8
-2022-11-01,Nov 2022,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),18
-2022-11-01,Nov 2022,South,Santa Catarina,FIOCRUZ,BE.* (Omicron),28
-2022-11-01,Nov 2022,South,Santa Catarina,FIOCRUZ,BQ.1.* (Omicron),155
-2022-11-01,Nov 2022,South,Santa Catarina,FIOCRUZ,DL.1 (Omicron),7
+2022-11-01,Nov 2022,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),208
 2022-11-01,Nov 2022,South,Santa Catarina,FIOCRUZ,Others,12
 2022-11-01,Nov 2022,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),6
 2022-11-01,Nov 2022,South,Santa Catarina,Others,BA.1.* (Omicron),2
 2022-11-01,Nov 2022,South,Santa Catarina,Others,BA.4.* (Omicron),8
-2022-11-01,Nov 2022,South,Santa Catarina,Others,BA.5.* (Omicron),16
-2022-11-01,Nov 2022,South,Santa Catarina,Others,BE.* (Omicron),28
-2022-11-01,Nov 2022,South,Santa Catarina,Others,BQ.1.* (Omicron),68
-2022-11-01,Nov 2022,South,Santa Catarina,Others,DL.1 (Omicron),3
+2022-11-01,Nov 2022,South,Santa Catarina,Others,BA.5.* (Omicron),115
 2022-11-01,Nov 2022,South,Santa Catarina,Others,Others,3
 2022-11-01,Nov 2022,South,Santa Catarina,Others,XBB.* (Omicron),6
-2022-12-01,Dec 2022,Central-west,Distrito Federal,FIOCRUZ,BA.5.* (Omicron),1
-2022-12-01,Dec 2022,Central-west,Distrito Federal,FIOCRUZ,BE.* (Omicron),13
-2022-12-01,Dec 2022,Central-west,Distrito Federal,FIOCRUZ,BQ.1.* (Omicron),55
-2022-12-01,Dec 2022,Central-west,Distrito Federal,FIOCRUZ,DL.1 (Omicron),1
+2022-12-01,Dec 2022,Central-west,Distrito Federal,FIOCRUZ,BA.5.* (Omicron),70
 2022-12-01,Dec 2022,Central-west,Distrito Federal,FIOCRUZ,Others,4
 2022-12-01,Dec 2022,Central-west,Distrito Federal,FIOCRUZ,XBB.* (Omicron),2
 2022-12-01,Dec 2022,Central-west,Distrito Federal,Others,BA.2.* (Omicron),1
-2022-12-01,Dec 2022,Central-west,Distrito Federal,Others,BE.* (Omicron),4
-2022-12-01,Dec 2022,Central-west,Distrito Federal,Others,BQ.1.* (Omicron),20
-2022-12-01,Dec 2022,Central-west,Distrito Federal,Others,DL.1 (Omicron),1
+2022-12-01,Dec 2022,Central-west,Distrito Federal,Others,BA.5.* (Omicron),25
 2022-12-01,Dec 2022,Central-west,Distrito Federal,Others,Others,3
 2022-12-01,Dec 2022,Central-west,Distrito Federal,Others,XBB.* (Omicron),2
-2022-12-01,Dec 2022,Central-west,Goiás,FIOCRUZ,BA.5.* (Omicron),1
-2022-12-01,Dec 2022,Central-west,Goiás,FIOCRUZ,BE.* (Omicron),24
-2022-12-01,Dec 2022,Central-west,Goiás,FIOCRUZ,BQ.1.* (Omicron),145
-2022-12-01,Dec 2022,Central-west,Goiás,FIOCRUZ,DL.1 (Omicron),9
+2022-12-01,Dec 2022,Central-west,Goiás,FIOCRUZ,BA.5.* (Omicron),179
 2022-12-01,Dec 2022,Central-west,Goiás,FIOCRUZ,Others,5
 2022-12-01,Dec 2022,Central-west,Goiás,FIOCRUZ,XBB.* (Omicron),1
-2022-12-01,Dec 2022,Central-west,Goiás,Others,BA.5.* (Omicron),5
-2022-12-01,Dec 2022,Central-west,Goiás,Others,BE.* (Omicron),12
-2022-12-01,Dec 2022,Central-west,Goiás,Others,BQ.1.* (Omicron),67
-2022-12-01,Dec 2022,Central-west,Goiás,Others,DL.1 (Omicron),5
+2022-12-01,Dec 2022,Central-west,Goiás,Others,BA.5.* (Omicron),89
 2022-12-01,Dec 2022,Central-west,Goiás,Others,Others,1
 2022-12-01,Dec 2022,Central-west,Goiás,Others,XBB.* (Omicron),3
-2022-12-01,Dec 2022,Central-west,Mato Grosso,FIOCRUZ,BE.* (Omicron),3
-2022-12-01,Dec 2022,Central-west,Mato Grosso,FIOCRUZ,BQ.1.* (Omicron),33
-2022-12-01,Dec 2022,Central-west,Mato Grosso,FIOCRUZ,DL.1 (Omicron),2
+2022-12-01,Dec 2022,Central-west,Mato Grosso,FIOCRUZ,BA.5.* (Omicron),38
 2022-12-01,Dec 2022,Central-west,Mato Grosso,FIOCRUZ,XBB.* (Omicron),3
 2022-12-01,Dec 2022,Central-west,Mato Grosso,Others,BA.2.* (Omicron),1
-2022-12-01,Dec 2022,Central-west,Mato Grosso,Others,BA.5.* (Omicron),2
-2022-12-01,Dec 2022,Central-west,Mato Grosso,Others,BE.* (Omicron),10
-2022-12-01,Dec 2022,Central-west,Mato Grosso,Others,BQ.1.* (Omicron),89
-2022-12-01,Dec 2022,Central-west,Mato Grosso,Others,DL.1 (Omicron),4
+2022-12-01,Dec 2022,Central-west,Mato Grosso,Others,BA.5.* (Omicron),105
 2022-12-01,Dec 2022,Central-west,Mato Grosso,Others,Others,6
 2022-12-01,Dec 2022,Central-west,Mato Grosso,Others,XBB.* (Omicron),19
-2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BE.* (Omicron),7
-2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BQ.1.* (Omicron),31
+2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.5.* (Omicron),38
 2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,Others,2
 2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,FIOCRUZ,XBB.* (Omicron),4
-2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),3
-2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,Others,BE.* (Omicron),2
-2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,Others,BQ.1.* (Omicron),12
-2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,Others,DL.1 (Omicron),1
-2022-12-01,Dec 2022,Northeast,Alagoas,FIOCRUZ,BE.* (Omicron),6
-2022-12-01,Dec 2022,Northeast,Alagoas,FIOCRUZ,BQ.1.* (Omicron),41
-2022-12-01,Dec 2022,Northeast,Alagoas,FIOCRUZ,DL.1 (Omicron),5
+2022-12-01,Dec 2022,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),18
+2022-12-01,Dec 2022,Northeast,Alagoas,FIOCRUZ,BA.5.* (Omicron),52
 2022-12-01,Dec 2022,Northeast,Alagoas,FIOCRUZ,Others,1
 2022-12-01,Dec 2022,Northeast,Alagoas,FIOCRUZ,XBB.* (Omicron),38
-2022-12-01,Dec 2022,Northeast,Bahia,FIOCRUZ,BE.* (Omicron),13
-2022-12-01,Dec 2022,Northeast,Bahia,FIOCRUZ,BQ.1.* (Omicron),125
-2022-12-01,Dec 2022,Northeast,Bahia,FIOCRUZ,DL.1 (Omicron),11
+2022-12-01,Dec 2022,Northeast,Bahia,FIOCRUZ,BA.5.* (Omicron),149
 2022-12-01,Dec 2022,Northeast,Bahia,FIOCRUZ,Others,1
 2022-12-01,Dec 2022,Northeast,Bahia,FIOCRUZ,XBB.* (Omicron),4
-2022-12-01,Dec 2022,Northeast,Bahia,Others,BA.5.* (Omicron),1
-2022-12-01,Dec 2022,Northeast,Bahia,Others,BE.* (Omicron),21
-2022-12-01,Dec 2022,Northeast,Bahia,Others,BQ.1.* (Omicron),221
-2022-12-01,Dec 2022,Northeast,Bahia,Others,DL.1 (Omicron),10
+2022-12-01,Dec 2022,Northeast,Bahia,Others,BA.5.* (Omicron),253
 2022-12-01,Dec 2022,Northeast,Bahia,Others,Others,1
 2022-12-01,Dec 2022,Northeast,Bahia,Others,XBB.* (Omicron),2
-2022-12-01,Dec 2022,Northeast,Ceará,FIOCRUZ,BA.5.* (Omicron),2
-2022-12-01,Dec 2022,Northeast,Ceará,FIOCRUZ,BE.* (Omicron),7
-2022-12-01,Dec 2022,Northeast,Ceará,FIOCRUZ,BQ.1.* (Omicron),11
-2022-12-01,Dec 2022,Northeast,Ceará,FIOCRUZ,DL.1 (Omicron),1
-2022-12-01,Dec 2022,Northeast,Ceará,Others,BA.5.* (Omicron),4
-2022-12-01,Dec 2022,Northeast,Ceará,Others,BE.* (Omicron),12
-2022-12-01,Dec 2022,Northeast,Ceará,Others,BQ.1.* (Omicron),27
-2022-12-01,Dec 2022,Northeast,Ceará,Others,DL.1 (Omicron),12
-2022-12-01,Dec 2022,Northeast,Maranhão,Others,BA.5.* (Omicron),5
-2022-12-01,Dec 2022,Northeast,Maranhão,Others,BE.* (Omicron),1
-2022-12-01,Dec 2022,Northeast,Maranhão,Others,BQ.1.* (Omicron),25
-2022-12-01,Dec 2022,Northeast,Maranhão,Others,DL.1 (Omicron),18
+2022-12-01,Dec 2022,Northeast,Ceará,FIOCRUZ,BA.5.* (Omicron),21
+2022-12-01,Dec 2022,Northeast,Ceará,Others,BA.5.* (Omicron),55
+2022-12-01,Dec 2022,Northeast,Maranhão,Others,BA.5.* (Omicron),49
 2022-12-01,Dec 2022,Northeast,Maranhão,Others,Others,1
 2022-12-01,Dec 2022,Northeast,Maranhão,Others,XBB.* (Omicron),4
 2022-12-01,Dec 2022,Northeast,Paraíba,FIOCRUZ,BA.1.* (Omicron),1
-2022-12-01,Dec 2022,Northeast,Paraíba,FIOCRUZ,BA.5.* (Omicron),1
-2022-12-01,Dec 2022,Northeast,Paraíba,FIOCRUZ,BE.* (Omicron),13
-2022-12-01,Dec 2022,Northeast,Paraíba,FIOCRUZ,BQ.1.* (Omicron),108
-2022-12-01,Dec 2022,Northeast,Paraíba,FIOCRUZ,DL.1 (Omicron),9
+2022-12-01,Dec 2022,Northeast,Paraíba,FIOCRUZ,BA.5.* (Omicron),131
 2022-12-01,Dec 2022,Northeast,Paraíba,Others,BA.1.* (Omicron),1
-2022-12-01,Dec 2022,Northeast,Paraíba,Others,BA.5.* (Omicron),1
-2022-12-01,Dec 2022,Northeast,Paraíba,Others,BE.* (Omicron),3
-2022-12-01,Dec 2022,Northeast,Paraíba,Others,BQ.1.* (Omicron),21
-2022-12-01,Dec 2022,Northeast,Paraíba,Others,DL.1 (Omicron),2
-2022-12-01,Dec 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),2
-2022-12-01,Dec 2022,Northeast,Pernambuco,FIOCRUZ,BE.* (Omicron),13
-2022-12-01,Dec 2022,Northeast,Pernambuco,FIOCRUZ,BQ.1.* (Omicron),53
-2022-12-01,Dec 2022,Northeast,Pernambuco,FIOCRUZ,DL.1 (Omicron),44
+2022-12-01,Dec 2022,Northeast,Paraíba,Others,BA.5.* (Omicron),27
+2022-12-01,Dec 2022,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),112
 2022-12-01,Dec 2022,Northeast,Pernambuco,FIOCRUZ,Others,5
 2022-12-01,Dec 2022,Northeast,Pernambuco,FIOCRUZ,XBB.* (Omicron),2
-2022-12-01,Dec 2022,Northeast,Pernambuco,Others,BE.* (Omicron),1
-2022-12-01,Dec 2022,Northeast,Pernambuco,Others,BQ.1.* (Omicron),7
-2022-12-01,Dec 2022,Northeast,Pernambuco,Others,DL.1 (Omicron),7
+2022-12-01,Dec 2022,Northeast,Pernambuco,Others,BA.5.* (Omicron),15
 2022-12-01,Dec 2022,Northeast,Pernambuco,Others,Others,1
-2022-12-01,Dec 2022,Northeast,Rio Grande do Norte,FIOCRUZ,DL.1 (Omicron),1
-2022-12-01,Dec 2022,Northeast,Rio Grande do Norte,Others,BE.* (Omicron),6
-2022-12-01,Dec 2022,Northeast,Rio Grande do Norte,Others,BQ.1.* (Omicron),33
-2022-12-01,Dec 2022,Northeast,Rio Grande do Norte,Others,DL.1 (Omicron),21
+2022-12-01,Dec 2022,Northeast,Rio Grande do Norte,FIOCRUZ,BA.5.* (Omicron),1
+2022-12-01,Dec 2022,Northeast,Rio Grande do Norte,Others,BA.5.* (Omicron),60
 2022-12-01,Dec 2022,Northeast,Rio Grande do Norte,Others,Others,1
 2022-12-01,Dec 2022,Northeast,Sergipe,FIOCRUZ,BA.2.* (Omicron),1
-2022-12-01,Dec 2022,Northeast,Sergipe,FIOCRUZ,BE.* (Omicron),11
-2022-12-01,Dec 2022,Northeast,Sergipe,FIOCRUZ,BQ.1.* (Omicron),52
-2022-12-01,Dec 2022,Northeast,Sergipe,FIOCRUZ,DL.1 (Omicron),1
+2022-12-01,Dec 2022,Northeast,Sergipe,FIOCRUZ,BA.5.* (Omicron),64
 2022-12-01,Dec 2022,Northeast,Sergipe,FIOCRUZ,Others,4
 2022-12-01,Dec 2022,Northeast,Sergipe,FIOCRUZ,XBB.* (Omicron),1
-2022-12-01,Dec 2022,Northeast,Sergipe,Others,BE.* (Omicron),2
-2022-12-01,Dec 2022,Northeast,Sergipe,Others,BQ.1.* (Omicron),13
-2022-12-01,Dec 2022,North,Acre,Others,BE.* (Omicron),14
-2022-12-01,Dec 2022,North,Acre,Others,BQ.1.* (Omicron),1
-2022-12-01,Dec 2022,North,Amapá,FIOCRUZ,BQ.1.* (Omicron),6
-2022-12-01,Dec 2022,North,Amapá,FIOCRUZ,DL.1 (Omicron),20
+2022-12-01,Dec 2022,Northeast,Sergipe,Others,BA.5.* (Omicron),15
+2022-12-01,Dec 2022,North,Acre,Others,BA.5.* (Omicron),15
+2022-12-01,Dec 2022,North,Amapá,FIOCRUZ,BA.5.* (Omicron),26
 2022-12-01,Dec 2022,North,Amapá,FIOCRUZ,XBB.* (Omicron),4
-2022-12-01,Dec 2022,North,Amapá,Others,BQ.1.* (Omicron),3
-2022-12-01,Dec 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),1
-2022-12-01,Dec 2022,North,Amazonas,FIOCRUZ,BE.* (Omicron),18
-2022-12-01,Dec 2022,North,Amazonas,FIOCRUZ,BQ.1.* (Omicron),3
+2022-12-01,Dec 2022,North,Amapá,Others,BA.5.* (Omicron),3
+2022-12-01,Dec 2022,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),22
 2022-12-01,Dec 2022,North,Amazonas,FIOCRUZ,XBB.* (Omicron),1
-2022-12-01,Dec 2022,North,Pará,FIOCRUZ,BA.5.* (Omicron),1
-2022-12-01,Dec 2022,North,Pará,FIOCRUZ,BE.* (Omicron),13
-2022-12-01,Dec 2022,North,Pará,FIOCRUZ,BQ.1.* (Omicron),10
-2022-12-01,Dec 2022,North,Pará,FIOCRUZ,DL.1 (Omicron),19
+2022-12-01,Dec 2022,North,Pará,FIOCRUZ,BA.5.* (Omicron),43
 2022-12-01,Dec 2022,North,Pará,FIOCRUZ,XBB.* (Omicron),9
-2022-12-01,Dec 2022,North,Pará,Others,BE.* (Omicron),1
-2022-12-01,Dec 2022,North,Pará,Others,BQ.1.* (Omicron),4
-2022-12-01,Dec 2022,North,Pará,Others,DL.1 (Omicron),7
-2022-12-01,Dec 2022,North,Rondônia,FIOCRUZ,BA.5.* (Omicron),1
-2022-12-01,Dec 2022,North,Rondônia,FIOCRUZ,BE.* (Omicron),20
-2022-12-01,Dec 2022,North,Rondônia,FIOCRUZ,BQ.1.* (Omicron),12
+2022-12-01,Dec 2022,North,Pará,Others,BA.5.* (Omicron),12
+2022-12-01,Dec 2022,North,Rondônia,FIOCRUZ,BA.5.* (Omicron),33
 2022-12-01,Dec 2022,North,Rondônia,FIOCRUZ,Others,10
 2022-12-01,Dec 2022,North,Rondônia,FIOCRUZ,XBB.* (Omicron),31
-2022-12-01,Dec 2022,North,Tocantins,FIOCRUZ,BE.* (Omicron),14
-2022-12-01,Dec 2022,North,Tocantins,FIOCRUZ,BQ.1.* (Omicron),108
-2022-12-01,Dec 2022,North,Tocantins,FIOCRUZ,DL.1 (Omicron),18
+2022-12-01,Dec 2022,North,Tocantins,FIOCRUZ,BA.5.* (Omicron),140
 2022-12-01,Dec 2022,North,Tocantins,FIOCRUZ,Others,5
 2022-12-01,Dec 2022,Southeast,Espírito Santo,FIOCRUZ,BA.4.* (Omicron),1
-2022-12-01,Dec 2022,Southeast,Espírito Santo,FIOCRUZ,BA.5.* (Omicron),1
-2022-12-01,Dec 2022,Southeast,Espírito Santo,FIOCRUZ,BE.* (Omicron),18
-2022-12-01,Dec 2022,Southeast,Espírito Santo,FIOCRUZ,BQ.1.* (Omicron),77
-2022-12-01,Dec 2022,Southeast,Espírito Santo,FIOCRUZ,DL.1 (Omicron),1
+2022-12-01,Dec 2022,Southeast,Espírito Santo,FIOCRUZ,BA.5.* (Omicron),97
 2022-12-01,Dec 2022,Southeast,Espírito Santo,FIOCRUZ,Others,1
 2022-12-01,Dec 2022,Southeast,Espírito Santo,Others,BA.2.* (Omicron),1
-2022-12-01,Dec 2022,Southeast,Espírito Santo,Others,BA.5.* (Omicron),3
-2022-12-01,Dec 2022,Southeast,Espírito Santo,Others,BE.* (Omicron),28
-2022-12-01,Dec 2022,Southeast,Espírito Santo,Others,BQ.1.* (Omicron),131
-2022-12-01,Dec 2022,Southeast,Espírito Santo,Others,DL.1 (Omicron),3
+2022-12-01,Dec 2022,Southeast,Espírito Santo,Others,BA.5.* (Omicron),165
 2022-12-01,Dec 2022,Southeast,Espírito Santo,Others,Others,5
 2022-12-01,Dec 2022,Southeast,Espírito Santo,Others,XBB.* (Omicron),3
 2022-12-01,Dec 2022,Southeast,Minas Gerais,FIOCRUZ,BA.2.* (Omicron),1
 2022-12-01,Dec 2022,Southeast,Minas Gerais,FIOCRUZ,BA.4.* (Omicron),1
-2022-12-01,Dec 2022,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),11
-2022-12-01,Dec 2022,Southeast,Minas Gerais,FIOCRUZ,BE.* (Omicron),43
-2022-12-01,Dec 2022,Southeast,Minas Gerais,FIOCRUZ,BQ.1.* (Omicron),314
-2022-12-01,Dec 2022,Southeast,Minas Gerais,FIOCRUZ,DL.1 (Omicron),4
+2022-12-01,Dec 2022,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),372
 2022-12-01,Dec 2022,Southeast,Minas Gerais,FIOCRUZ,Others,71
 2022-12-01,Dec 2022,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),2
 2022-12-01,Dec 2022,Southeast,Minas Gerais,Others,BA.4.* (Omicron),1
-2022-12-01,Dec 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),3
-2022-12-01,Dec 2022,Southeast,Minas Gerais,Others,BE.* (Omicron),8
-2022-12-01,Dec 2022,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),67
-2022-12-01,Dec 2022,Southeast,Minas Gerais,Others,DL.1 (Omicron),3
+2022-12-01,Dec 2022,Southeast,Minas Gerais,Others,BA.5.* (Omicron),81
 2022-12-01,Dec 2022,Southeast,Minas Gerais,Others,Others,14
 2022-12-01,Dec 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.4.* (Omicron),3
-2022-12-01,Dec 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),2
-2022-12-01,Dec 2022,Southeast,Rio de Janeiro,FIOCRUZ,BE.* (Omicron),86
-2022-12-01,Dec 2022,Southeast,Rio de Janeiro,FIOCRUZ,BQ.1.* (Omicron),207
-2022-12-01,Dec 2022,Southeast,Rio de Janeiro,FIOCRUZ,DL.1 (Omicron),21
+2022-12-01,Dec 2022,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),316
 2022-12-01,Dec 2022,Southeast,Rio de Janeiro,FIOCRUZ,Others,7
 2022-12-01,Dec 2022,Southeast,Rio de Janeiro,FIOCRUZ,XBB.* (Omicron),11
 2022-12-01,Dec 2022,Southeast,Rio de Janeiro,Others,BA.4.* (Omicron),2
-2022-12-01,Dec 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),17
-2022-12-01,Dec 2022,Southeast,Rio de Janeiro,Others,BE.* (Omicron),127
-2022-12-01,Dec 2022,Southeast,Rio de Janeiro,Others,BQ.1.* (Omicron),368
-2022-12-01,Dec 2022,Southeast,Rio de Janeiro,Others,DL.1 (Omicron),35
+2022-12-01,Dec 2022,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),547
 2022-12-01,Dec 2022,Southeast,Rio de Janeiro,Others,Others,13
 2022-12-01,Dec 2022,Southeast,Rio de Janeiro,Others,XBB.* (Omicron),17
-2022-12-01,Dec 2022,Southeast,São Paulo,FIOCRUZ,BE.* (Omicron),5
-2022-12-01,Dec 2022,Southeast,São Paulo,FIOCRUZ,BQ.1.* (Omicron),9
-2022-12-01,Dec 2022,Southeast,São Paulo,FIOCRUZ,DL.1 (Omicron),1
+2022-12-01,Dec 2022,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),15
 2022-12-01,Dec 2022,Southeast,São Paulo,FIOCRUZ,Others,1
 2022-12-01,Dec 2022,Southeast,São Paulo,FIOCRUZ,XBB.* (Omicron),1
 2022-12-01,Dec 2022,Southeast,São Paulo,Others,BA.1.* (Omicron),1
 2022-12-01,Dec 2022,Southeast,São Paulo,Others,BA.2.* (Omicron),1
 2022-12-01,Dec 2022,Southeast,São Paulo,Others,BA.4.* (Omicron),4
-2022-12-01,Dec 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),26
-2022-12-01,Dec 2022,Southeast,São Paulo,Others,BE.* (Omicron),240
-2022-12-01,Dec 2022,Southeast,São Paulo,Others,BQ.1.* (Omicron),736
-2022-12-01,Dec 2022,Southeast,São Paulo,Others,DL.1 (Omicron),15
+2022-12-01,Dec 2022,Southeast,São Paulo,Others,BA.5.* (Omicron),1017
 2022-12-01,Dec 2022,Southeast,São Paulo,Others,Others,30
 2022-12-01,Dec 2022,Southeast,São Paulo,Others,XBB.* (Omicron),48
 2022-12-01,Dec 2022,South,Paraná,FIOCRUZ,BA.4.* (Omicron),1
-2022-12-01,Dec 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),4
-2022-12-01,Dec 2022,South,Paraná,FIOCRUZ,BE.* (Omicron),29
-2022-12-01,Dec 2022,South,Paraná,FIOCRUZ,BQ.1.* (Omicron),115
-2022-12-01,Dec 2022,South,Paraná,FIOCRUZ,DL.1 (Omicron),3
+2022-12-01,Dec 2022,South,Paraná,FIOCRUZ,BA.5.* (Omicron),151
 2022-12-01,Dec 2022,South,Paraná,FIOCRUZ,Others,7
 2022-12-01,Dec 2022,South,Paraná,FIOCRUZ,XBB.* (Omicron),3
 2022-12-01,Dec 2022,South,Paraná,Others,BA.4.* (Omicron),1
-2022-12-01,Dec 2022,South,Paraná,Others,BA.5.* (Omicron),7
-2022-12-01,Dec 2022,South,Paraná,Others,BE.* (Omicron),32
-2022-12-01,Dec 2022,South,Paraná,Others,BQ.1.* (Omicron),145
-2022-12-01,Dec 2022,South,Paraná,Others,DL.1 (Omicron),4
+2022-12-01,Dec 2022,South,Paraná,Others,BA.5.* (Omicron),188
 2022-12-01,Dec 2022,South,Paraná,Others,Others,18
 2022-12-01,Dec 2022,South,Paraná,Others,XBB.* (Omicron),5
-2022-12-01,Dec 2022,South,Rio Grande do Sul,FIOCRUZ,BE.* (Omicron),1
-2022-12-01,Dec 2022,South,Rio Grande do Sul,FIOCRUZ,BQ.1.* (Omicron),7
+2022-12-01,Dec 2022,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),8
 2022-12-01,Dec 2022,South,Rio Grande do Sul,FIOCRUZ,Others,2
 2022-12-01,Dec 2022,South,Rio Grande do Sul,Others,BA.4.* (Omicron),6
-2022-12-01,Dec 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),11
-2022-12-01,Dec 2022,South,Rio Grande do Sul,Others,BE.* (Omicron),44
-2022-12-01,Dec 2022,South,Rio Grande do Sul,Others,BQ.1.* (Omicron),136
-2022-12-01,Dec 2022,South,Rio Grande do Sul,Others,DL.1 (Omicron),1
+2022-12-01,Dec 2022,South,Rio Grande do Sul,Others,BA.5.* (Omicron),192
 2022-12-01,Dec 2022,South,Rio Grande do Sul,Others,Others,11
 2022-12-01,Dec 2022,South,Rio Grande do Sul,Others,XBB.* (Omicron),4
-2022-12-01,Dec 2022,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),2
-2022-12-01,Dec 2022,South,Santa Catarina,FIOCRUZ,BE.* (Omicron),45
-2022-12-01,Dec 2022,South,Santa Catarina,FIOCRUZ,BQ.1.* (Omicron),169
-2022-12-01,Dec 2022,South,Santa Catarina,FIOCRUZ,DL.1 (Omicron),1
+2022-12-01,Dec 2022,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),217
 2022-12-01,Dec 2022,South,Santa Catarina,FIOCRUZ,Others,13
 2022-12-01,Dec 2022,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),10
 2022-12-01,Dec 2022,South,Santa Catarina,Others,BA.1.* (Omicron),1
 2022-12-01,Dec 2022,South,Santa Catarina,Others,BA.4.* (Omicron),1
-2022-12-01,Dec 2022,South,Santa Catarina,Others,BA.5.* (Omicron),6
-2022-12-01,Dec 2022,South,Santa Catarina,Others,BE.* (Omicron),6
-2022-12-01,Dec 2022,South,Santa Catarina,Others,BQ.1.* (Omicron),55
-2022-12-01,Dec 2022,South,Santa Catarina,Others,DL.1 (Omicron),1
+2022-12-01,Dec 2022,South,Santa Catarina,Others,BA.5.* (Omicron),68
 2022-12-01,Dec 2022,South,Santa Catarina,Others,Others,4
 2022-12-01,Dec 2022,South,Santa Catarina,Others,XBB.* (Omicron),8
-2023-01-01,Jan 2023,Central-west,Distrito Federal,FIOCRUZ,BE.* (Omicron),1
-2023-01-01,Jan 2023,Central-west,Distrito Federal,Others,BE.* (Omicron),1
-2023-01-01,Jan 2023,Central-west,Distrito Federal,Others,BQ.1.* (Omicron),1
+2023-01-01,Jan 2023,Central-west,Distrito Federal,FIOCRUZ,BA.5.* (Omicron),1
+2023-01-01,Jan 2023,Central-west,Distrito Federal,Others,BA.5.* (Omicron),2
 2023-01-01,Jan 2023,Central-west,Distrito Federal,Others,Others,1
 2023-01-01,Jan 2023,Central-west,Goiás,FIOCRUZ,BA.2.* (Omicron),1
-2023-01-01,Jan 2023,Central-west,Goiás,FIOCRUZ,BE.* (Omicron),2
-2023-01-01,Jan 2023,Central-west,Goiás,FIOCRUZ,BQ.1.* (Omicron),26
-2023-01-01,Jan 2023,Central-west,Goiás,FIOCRUZ,DL.1 (Omicron),1
+2023-01-01,Jan 2023,Central-west,Goiás,FIOCRUZ,BA.5.* (Omicron),29
 2023-01-01,Jan 2023,Central-west,Goiás,FIOCRUZ,Others,2
 2023-01-01,Jan 2023,Central-west,Goiás,FIOCRUZ,XBB.* (Omicron),1
-2023-01-01,Jan 2023,Central-west,Goiás,Others,BA.5.* (Omicron),5
-2023-01-01,Jan 2023,Central-west,Goiás,Others,BE.* (Omicron),8
-2023-01-01,Jan 2023,Central-west,Goiás,Others,BQ.1.* (Omicron),40
-2023-01-01,Jan 2023,Central-west,Goiás,Others,DL.1 (Omicron),3
+2023-01-01,Jan 2023,Central-west,Goiás,Others,BA.5.* (Omicron),56
 2023-01-01,Jan 2023,Central-west,Goiás,Others,Others,3
 2023-01-01,Jan 2023,Central-west,Goiás,Others,XBB.* (Omicron),23
-2023-01-01,Jan 2023,Central-west,Mato Grosso,FIOCRUZ,BQ.1.* (Omicron),3
-2023-01-01,Jan 2023,Central-west,Mato Grosso,FIOCRUZ,DL.1 (Omicron),1
-2023-01-01,Jan 2023,Central-west,Mato Grosso,Others,BE.* (Omicron),1
-2023-01-01,Jan 2023,Central-west,Mato Grosso,Others,BQ.1.* (Omicron),5
+2023-01-01,Jan 2023,Central-west,Mato Grosso,FIOCRUZ,BA.5.* (Omicron),4
+2023-01-01,Jan 2023,Central-west,Mato Grosso,Others,BA.5.* (Omicron),6
 2023-01-01,Jan 2023,Central-west,Mato Grosso,Others,XBB.* (Omicron),3
-2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,BE.* (Omicron),5
-2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,BQ.1.* (Omicron),37
+2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,BA.5.* (Omicron),42
 2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,Others,1
 2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,XBB.* (Omicron),3
-2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,Others,BE.* (Omicron),4
-2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,Others,BQ.1.* (Omicron),29
+2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),33
 2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,Others,Others,4
 2023-01-01,Jan 2023,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),5
-2023-01-01,Jan 2023,Northeast,Alagoas,Others,BQ.1.* (Omicron),14
-2023-01-01,Jan 2023,Northeast,Alagoas,Others,DL.1 (Omicron),1
+2023-01-01,Jan 2023,Northeast,Alagoas,Others,BA.5.* (Omicron),15
 2023-01-01,Jan 2023,Northeast,Alagoas,Others,Others,3
 2023-01-01,Jan 2023,Northeast,Alagoas,Others,XBB.* (Omicron),12
-2023-01-01,Jan 2023,Northeast,Bahia,FIOCRUZ,BE.* (Omicron),1
-2023-01-01,Jan 2023,Northeast,Bahia,FIOCRUZ,BQ.1.* (Omicron),9
-2023-01-01,Jan 2023,Northeast,Bahia,FIOCRUZ,DL.1 (Omicron),1
+2023-01-01,Jan 2023,Northeast,Bahia,FIOCRUZ,BA.5.* (Omicron),11
 2023-01-01,Jan 2023,Northeast,Bahia,FIOCRUZ,Others,1
 2023-01-01,Jan 2023,Northeast,Bahia,FIOCRUZ,XBB.* (Omicron),2
-2023-01-01,Jan 2023,Northeast,Bahia,Others,BE.* (Omicron),2
-2023-01-01,Jan 2023,Northeast,Bahia,Others,BQ.1.* (Omicron),30
-2023-01-01,Jan 2023,Northeast,Bahia,Others,DL.1 (Omicron),1
+2023-01-01,Jan 2023,Northeast,Bahia,Others,BA.5.* (Omicron),33
 2023-01-01,Jan 2023,Northeast,Bahia,Others,XBB.* (Omicron),4
-2023-01-01,Jan 2023,Northeast,Ceará,Others,BE.* (Omicron),10
-2023-01-01,Jan 2023,Northeast,Ceará,Others,BQ.1.* (Omicron),22
-2023-01-01,Jan 2023,Northeast,Ceará,Others,DL.1 (Omicron),4
+2023-01-01,Jan 2023,Northeast,Ceará,Others,BA.5.* (Omicron),36
 2023-01-01,Jan 2023,Northeast,Ceará,Others,Others,2
 2023-01-01,Jan 2023,Northeast,Ceará,Others,XBB.* (Omicron),3
-2023-01-01,Jan 2023,Northeast,Maranhão,Others,BQ.1.* (Omicron),2
-2023-01-01,Jan 2023,Northeast,Maranhão,Others,DL.1 (Omicron),2
+2023-01-01,Jan 2023,Northeast,Maranhão,Others,BA.5.* (Omicron),4
 2023-01-01,Jan 2023,Northeast,Maranhão,Others,XBB.* (Omicron),6
-2023-01-01,Jan 2023,Northeast,Paraíba,Others,BE.* (Omicron),1
-2023-01-01,Jan 2023,Northeast,Paraíba,Others,BQ.1.* (Omicron),4
-2023-01-01,Jan 2023,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),1
-2023-01-01,Jan 2023,Northeast,Pernambuco,FIOCRUZ,BQ.1.* (Omicron),4
-2023-01-01,Jan 2023,Northeast,Pernambuco,FIOCRUZ,DL.1 (Omicron),1
-2023-01-01,Jan 2023,Northeast,Pernambuco,Others,BE.* (Omicron),3
-2023-01-01,Jan 2023,Northeast,Pernambuco,Others,BQ.1.* (Omicron),8
-2023-01-01,Jan 2023,Northeast,Pernambuco,Others,DL.1 (Omicron),4
+2023-01-01,Jan 2023,Northeast,Paraíba,Others,BA.5.* (Omicron),5
+2023-01-01,Jan 2023,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),6
+2023-01-01,Jan 2023,Northeast,Pernambuco,Others,BA.5.* (Omicron),15
 2023-01-01,Jan 2023,Northeast,Pernambuco,Others,XBB.* (Omicron),2
-2023-01-01,Jan 2023,Northeast,Rio Grande do Norte,Others,BE.* (Omicron),1
-2023-01-01,Jan 2023,Northeast,Rio Grande do Norte,Others,BQ.1.* (Omicron),1
+2023-01-01,Jan 2023,Northeast,Rio Grande do Norte,Others,BA.5.* (Omicron),2
 2023-01-01,Jan 2023,Northeast,Rio Grande do Norte,Others,Others,2
 2023-01-01,Jan 2023,North,Acre,Others,BA.5.* (Omicron),1
-2023-01-01,Jan 2023,North,Amapá,FIOCRUZ,DL.1 (Omicron),1
+2023-01-01,Jan 2023,North,Amapá,FIOCRUZ,BA.5.* (Omicron),1
 2023-01-01,Jan 2023,North,Amapá,FIOCRUZ,XBB.* (Omicron),1
-2023-01-01,Jan 2023,North,Amapá,Others,BA.5.* (Omicron),1
-2023-01-01,Jan 2023,North,Amapá,Others,BE.* (Omicron),1
-2023-01-01,Jan 2023,North,Amapá,Others,BQ.1.* (Omicron),2
-2023-01-01,Jan 2023,North,Amapá,Others,DL.1 (Omicron),3
+2023-01-01,Jan 2023,North,Amapá,Others,BA.5.* (Omicron),7
 2023-01-01,Jan 2023,North,Amapá,Others,XBB.* (Omicron),22
-2023-01-01,Jan 2023,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),1
-2023-01-01,Jan 2023,North,Amazonas,FIOCRUZ,BE.* (Omicron),29
-2023-01-01,Jan 2023,North,Amazonas,FIOCRUZ,BQ.1.* (Omicron),12
-2023-01-01,Jan 2023,North,Amazonas,FIOCRUZ,DL.1 (Omicron),2
+2023-01-01,Jan 2023,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),44
 2023-01-01,Jan 2023,North,Amazonas,FIOCRUZ,Others,8
 2023-01-01,Jan 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),48
-2023-01-01,Jan 2023,North,Pará,FIOCRUZ,BA.5.* (Omicron),1
-2023-01-01,Jan 2023,North,Pará,FIOCRUZ,BE.* (Omicron),1
-2023-01-01,Jan 2023,North,Pará,FIOCRUZ,BQ.1.* (Omicron),3
-2023-01-01,Jan 2023,North,Pará,FIOCRUZ,DL.1 (Omicron),2
+2023-01-01,Jan 2023,North,Pará,FIOCRUZ,BA.5.* (Omicron),7
 2023-01-01,Jan 2023,North,Pará,FIOCRUZ,Others,1
 2023-01-01,Jan 2023,North,Pará,FIOCRUZ,XBB.* (Omicron),8
-2023-01-01,Jan 2023,North,Pará,Others,DL.1 (Omicron),1
+2023-01-01,Jan 2023,North,Pará,Others,BA.5.* (Omicron),1
 2023-01-01,Jan 2023,North,Pará,Others,XBB.* (Omicron),7
-2023-01-01,Jan 2023,North,Rondônia,FIOCRUZ,BE.* (Omicron),6
-2023-01-01,Jan 2023,North,Rondônia,FIOCRUZ,BQ.1.* (Omicron),4
+2023-01-01,Jan 2023,North,Rondônia,FIOCRUZ,BA.5.* (Omicron),10
 2023-01-01,Jan 2023,North,Rondônia,FIOCRUZ,Others,3
 2023-01-01,Jan 2023,North,Rondônia,FIOCRUZ,XBB.* (Omicron),3
 2023-01-01,Jan 2023,North,Rondônia,Others,BA.5.* (Omicron),1
-2023-01-01,Jan 2023,North,Tocantins,FIOCRUZ,BE.* (Omicron),3
-2023-01-01,Jan 2023,North,Tocantins,FIOCRUZ,BQ.1.* (Omicron),18
-2023-01-01,Jan 2023,North,Tocantins,FIOCRUZ,DL.1 (Omicron),3
+2023-01-01,Jan 2023,North,Tocantins,FIOCRUZ,BA.5.* (Omicron),24
 2023-01-01,Jan 2023,North,Tocantins,FIOCRUZ,XBB.* (Omicron),1
-2023-01-01,Jan 2023,North,Tocantins,Others,BE.* (Omicron),12
-2023-01-01,Jan 2023,North,Tocantins,Others,BQ.1.* (Omicron),49
+2023-01-01,Jan 2023,North,Tocantins,Others,BA.5.* (Omicron),61
 2023-01-01,Jan 2023,North,Tocantins,Others,Others,2
 2023-01-01,Jan 2023,North,Tocantins,Others,XBB.* (Omicron),14
 2023-01-01,Jan 2023,Southeast,Espírito Santo,Others,BA.2.* (Omicron),1
-2023-01-01,Jan 2023,Southeast,Espírito Santo,Others,BA.5.* (Omicron),2
-2023-01-01,Jan 2023,Southeast,Espírito Santo,Others,BE.* (Omicron),12
-2023-01-01,Jan 2023,Southeast,Espírito Santo,Others,BQ.1.* (Omicron),66
+2023-01-01,Jan 2023,Southeast,Espírito Santo,Others,BA.5.* (Omicron),94
 2023-01-01,Jan 2023,Southeast,Espírito Santo,Others,Others,11
-2023-01-01,Jan 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),6
-2023-01-01,Jan 2023,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),2
-2023-01-01,Jan 2023,Southeast,Minas Gerais,FIOCRUZ,BE.* (Omicron),3
-2023-01-01,Jan 2023,Southeast,Minas Gerais,FIOCRUZ,BQ.1.* (Omicron),67
+2023-01-01,Jan 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),9
+2023-01-01,Jan 2023,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),72
 2023-01-01,Jan 2023,Southeast,Minas Gerais,FIOCRUZ,Others,40
 2023-01-01,Jan 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),8
 2023-01-01,Jan 2023,Southeast,Minas Gerais,Others,BA.1.* (Omicron),1
-2023-01-01,Jan 2023,Southeast,Minas Gerais,Others,BA.5.* (Omicron),7
-2023-01-01,Jan 2023,Southeast,Minas Gerais,Others,BE.* (Omicron),3
-2023-01-01,Jan 2023,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),74
+2023-01-01,Jan 2023,Southeast,Minas Gerais,Others,BA.5.* (Omicron),84
 2023-01-01,Jan 2023,Southeast,Minas Gerais,Others,Others,19
 2023-01-01,Jan 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),1
 2023-01-01,Jan 2023,Southeast,Rio de Janeiro,FIOCRUZ,BA.1.* (Omicron),3
 2023-01-01,Jan 2023,Southeast,Rio de Janeiro,FIOCRUZ,BA.2.* (Omicron),2
-2023-01-01,Jan 2023,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),1
-2023-01-01,Jan 2023,Southeast,Rio de Janeiro,FIOCRUZ,BE.* (Omicron),6
-2023-01-01,Jan 2023,Southeast,Rio de Janeiro,FIOCRUZ,BQ.1.* (Omicron),9
+2023-01-01,Jan 2023,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),16
 2023-01-01,Jan 2023,Southeast,Rio de Janeiro,FIOCRUZ,Others,1
 2023-01-01,Jan 2023,Southeast,Rio de Janeiro,FIOCRUZ,XBB.* (Omicron),13
-2023-01-01,Jan 2023,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),3
-2023-01-01,Jan 2023,Southeast,Rio de Janeiro,Others,BE.* (Omicron),12
-2023-01-01,Jan 2023,Southeast,Rio de Janeiro,Others,BQ.1.* (Omicron),46
-2023-01-01,Jan 2023,Southeast,Rio de Janeiro,Others,DL.1 (Omicron),1
+2023-01-01,Jan 2023,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),62
 2023-01-01,Jan 2023,Southeast,Rio de Janeiro,Others,Others,5
 2023-01-01,Jan 2023,Southeast,Rio de Janeiro,Others,XBB.* (Omicron),13
-2023-01-01,Jan 2023,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),1
-2023-01-01,Jan 2023,Southeast,São Paulo,FIOCRUZ,BE.* (Omicron),21
-2023-01-01,Jan 2023,Southeast,São Paulo,FIOCRUZ,BQ.1.* (Omicron),137
+2023-01-01,Jan 2023,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),159
 2023-01-01,Jan 2023,Southeast,São Paulo,FIOCRUZ,FE.1.* (Omicron),1
 2023-01-01,Jan 2023,Southeast,São Paulo,FIOCRUZ,Others,8
 2023-01-01,Jan 2023,Southeast,São Paulo,FIOCRUZ,XBB.* (Omicron),30
-2023-01-01,Jan 2023,Southeast,São Paulo,Others,BA.5.* (Omicron),9
-2023-01-01,Jan 2023,Southeast,São Paulo,Others,BE.* (Omicron),36
-2023-01-01,Jan 2023,Southeast,São Paulo,Others,BQ.1.* (Omicron),292
-2023-01-01,Jan 2023,Southeast,São Paulo,Others,DL.1 (Omicron),8
+2023-01-01,Jan 2023,Southeast,São Paulo,Others,BA.5.* (Omicron),345
 2023-01-01,Jan 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),7
 2023-01-01,Jan 2023,Southeast,São Paulo,Others,Others,24
 2023-01-01,Jan 2023,Southeast,São Paulo,Others,XBB.* (Omicron),86
-2023-01-01,Jan 2023,South,Paraná,Others,BE.* (Omicron),1
-2023-01-01,Jan 2023,South,Paraná,Others,BQ.1.* (Omicron),5
+2023-01-01,Jan 2023,South,Paraná,Others,BA.5.* (Omicron),6
 2023-01-01,Jan 2023,South,Paraná,Others,Others,2
 2023-01-01,Jan 2023,South,Paraná,Others,XBB.* (Omicron),1
-2023-01-01,Jan 2023,South,Rio Grande do Sul,FIOCRUZ,BE.* (Omicron),11
-2023-01-01,Jan 2023,South,Rio Grande do Sul,FIOCRUZ,BQ.1.* (Omicron),35
+2023-01-01,Jan 2023,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),46
 2023-01-01,Jan 2023,South,Rio Grande do Sul,FIOCRUZ,Others,2
 2023-01-01,Jan 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),1
 2023-01-01,Jan 2023,South,Rio Grande do Sul,Others,BA.4.* (Omicron),1
-2023-01-01,Jan 2023,South,Rio Grande do Sul,Others,BA.5.* (Omicron),1
-2023-01-01,Jan 2023,South,Rio Grande do Sul,Others,BE.* (Omicron),22
-2023-01-01,Jan 2023,South,Rio Grande do Sul,Others,BQ.1.* (Omicron),100
-2023-01-01,Jan 2023,South,Rio Grande do Sul,Others,DL.1 (Omicron),4
+2023-01-01,Jan 2023,South,Rio Grande do Sul,Others,BA.5.* (Omicron),127
 2023-01-01,Jan 2023,South,Rio Grande do Sul,Others,FE.1.* (Omicron),1
 2023-01-01,Jan 2023,South,Rio Grande do Sul,Others,Others,13
 2023-01-01,Jan 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),4
-2023-01-01,Jan 2023,South,Santa Catarina,FIOCRUZ,BE.* (Omicron),32
-2023-01-01,Jan 2023,South,Santa Catarina,FIOCRUZ,BQ.1.* (Omicron),125
-2023-01-01,Jan 2023,South,Santa Catarina,FIOCRUZ,DL.1 (Omicron),2
+2023-01-01,Jan 2023,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),159
 2023-01-01,Jan 2023,South,Santa Catarina,FIOCRUZ,Others,9
 2023-01-01,Jan 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),26
 2023-02-01,Feb 2023,Central-west,Distrito Federal,Others,BA.2.* (Omicron),2
-2023-02-01,Feb 2023,Central-west,Distrito Federal,Others,BE.* (Omicron),5
+2023-02-01,Feb 2023,Central-west,Distrito Federal,Others,BA.5.* (Omicron),5
 2023-02-01,Feb 2023,Central-west,Distrito Federal,Others,Others,1
 2023-02-01,Feb 2023,Central-west,Distrito Federal,Others,XBB.* (Omicron),22
-2023-02-01,Feb 2023,Central-west,Goiás,Others,BE.* (Omicron),2
-2023-02-01,Feb 2023,Central-west,Goiás,Others,BQ.1.* (Omicron),8
-2023-02-01,Feb 2023,Central-west,Goiás,Others,DL.1 (Omicron),3
+2023-02-01,Feb 2023,Central-west,Goiás,Others,BA.5.* (Omicron),13
 2023-02-01,Feb 2023,Central-west,Goiás,Others,Others,4
 2023-02-01,Feb 2023,Central-west,Goiás,Others,XBB.* (Omicron),30
-2023-02-01,Feb 2023,Central-west,Mato Grosso,Others,BQ.1.* (Omicron),2
+2023-02-01,Feb 2023,Central-west,Mato Grosso,Others,BA.5.* (Omicron),2
 2023-02-01,Feb 2023,Central-west,Mato Grosso,Others,XBB.* (Omicron),4
-2023-02-01,Feb 2023,Central-west,Mato Grosso do Sul,Others,BE.* (Omicron),1
-2023-02-01,Feb 2023,Central-west,Mato Grosso do Sul,Others,BQ.1.* (Omicron),24
+2023-02-01,Feb 2023,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),25
 2023-02-01,Feb 2023,Central-west,Mato Grosso do Sul,Others,FE.1.* (Omicron),3
 2023-02-01,Feb 2023,Central-west,Mato Grosso do Sul,Others,Others,3
 2023-02-01,Feb 2023,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),35
 2023-02-01,Feb 2023,Northeast,Alagoas,Others,XBB.* (Omicron),10
-2023-02-01,Feb 2023,Northeast,Bahia,FIOCRUZ,BQ.1.* (Omicron),2
-2023-02-01,Feb 2023,Northeast,Bahia,FIOCRUZ,DL.1 (Omicron),1
+2023-02-01,Feb 2023,Northeast,Bahia,FIOCRUZ,BA.5.* (Omicron),3
 2023-02-01,Feb 2023,Northeast,Bahia,FIOCRUZ,FE.1.* (Omicron),2
 2023-02-01,Feb 2023,Northeast,Bahia,FIOCRUZ,XBB.* (Omicron),6
 2023-02-01,Feb 2023,Northeast,Bahia,Others,BA.1.* (Omicron),1
-2023-02-01,Feb 2023,Northeast,Bahia,Others,BE.* (Omicron),1
-2023-02-01,Feb 2023,Northeast,Bahia,Others,BQ.1.* (Omicron),4
+2023-02-01,Feb 2023,Northeast,Bahia,Others,BA.5.* (Omicron),5
 2023-02-01,Feb 2023,Northeast,Bahia,Others,FE.1.* (Omicron),10
 2023-02-01,Feb 2023,Northeast,Bahia,Others,Others,1
 2023-02-01,Feb 2023,Northeast,Bahia,Others,XBB.* (Omicron),22
-2023-02-01,Feb 2023,Northeast,Ceará,Others,BE.* (Omicron),2
-2023-02-01,Feb 2023,Northeast,Ceará,Others,BQ.1.* (Omicron),7
+2023-02-01,Feb 2023,Northeast,Ceará,Others,BA.5.* (Omicron),9
 2023-02-01,Feb 2023,Northeast,Ceará,Others,XBB.* (Omicron),25
 2023-02-01,Feb 2023,Northeast,Maranhão,Others,Others,3
 2023-02-01,Feb 2023,Northeast,Maranhão,Others,XBB.* (Omicron),7
 2023-02-01,Feb 2023,Northeast,Paraíba,Others,XBB.* (Omicron),2
-2023-02-01,Feb 2023,Northeast,Pernambuco,FIOCRUZ,DL.1 (Omicron),1
+2023-02-01,Feb 2023,Northeast,Pernambuco,FIOCRUZ,BA.5.* (Omicron),1
 2023-02-01,Feb 2023,Northeast,Pernambuco,FIOCRUZ,Others,1
 2023-02-01,Feb 2023,Northeast,Pernambuco,FIOCRUZ,XBB.* (Omicron),4
 2023-02-01,Feb 2023,Northeast,Pernambuco,Others,XBB.* (Omicron),5
@@ -4363,101 +3974,85 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2023-02-01,Feb 2023,Northeast,Sergipe,Others,XBB.* (Omicron),5
 2023-02-01,Feb 2023,North,Acre,Others,XBB.* (Omicron),4
 2023-02-01,Feb 2023,North,Amapá,Others,XBB.* (Omicron),14
-2023-02-01,Feb 2023,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),3
-2023-02-01,Feb 2023,North,Amazonas,FIOCRUZ,BE.* (Omicron),23
-2023-02-01,Feb 2023,North,Amazonas,FIOCRUZ,BQ.1.* (Omicron),8
-2023-02-01,Feb 2023,North,Amazonas,FIOCRUZ,DL.1 (Omicron),2
+2023-02-01,Feb 2023,North,Amazonas,FIOCRUZ,BA.5.* (Omicron),36
 2023-02-01,Feb 2023,North,Amazonas,FIOCRUZ,Others,1
 2023-02-01,Feb 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),1430
 2023-02-01,Feb 2023,North,Amazonas,Others,XBB.* (Omicron),9
 2023-02-01,Feb 2023,North,Pará,FIOCRUZ,XBB.* (Omicron),5
 2023-02-01,Feb 2023,North,Pará,Others,XBB.* (Omicron),39
-2023-02-01,Feb 2023,North,Rondônia,FIOCRUZ,BQ.1.* (Omicron),2
+2023-02-01,Feb 2023,North,Rondônia,FIOCRUZ,BA.5.* (Omicron),2
 2023-02-01,Feb 2023,North,Rondônia,FIOCRUZ,Others,6
 2023-02-01,Feb 2023,North,Rondônia,FIOCRUZ,XBB.* (Omicron),2
-2023-02-01,Feb 2023,North,Tocantins,FIOCRUZ,BQ.1.* (Omicron),1
+2023-02-01,Feb 2023,North,Tocantins,FIOCRUZ,BA.5.* (Omicron),1
 2023-02-01,Feb 2023,North,Tocantins,FIOCRUZ,XBB.* (Omicron),2
-2023-02-01,Feb 2023,North,Tocantins,Others,BQ.1.* (Omicron),3
+2023-02-01,Feb 2023,North,Tocantins,Others,BA.5.* (Omicron),3
 2023-02-01,Feb 2023,North,Tocantins,Others,FE.1.* (Omicron),2
 2023-02-01,Feb 2023,North,Tocantins,Others,XBB.* (Omicron),40
-2023-02-01,Feb 2023,Southeast,Espírito Santo,Others,BE.* (Omicron),1
-2023-02-01,Feb 2023,Southeast,Espírito Santo,Others,BQ.1.* (Omicron),7
+2023-02-01,Feb 2023,Southeast,Espírito Santo,Others,BA.5.* (Omicron),8
 2023-02-01,Feb 2023,Southeast,Espírito Santo,Others,Others,4
 2023-02-01,Feb 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),15
-2023-02-01,Feb 2023,Southeast,Minas Gerais,FIOCRUZ,BE.* (Omicron),1
-2023-02-01,Feb 2023,Southeast,Minas Gerais,FIOCRUZ,BQ.1.* (Omicron),2
+2023-02-01,Feb 2023,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),3
 2023-02-01,Feb 2023,Southeast,Minas Gerais,FIOCRUZ,FE.1.* (Omicron),1
 2023-02-01,Feb 2023,Southeast,Minas Gerais,FIOCRUZ,Others,23
 2023-02-01,Feb 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),8
 2023-02-01,Feb 2023,Southeast,Minas Gerais,Others,BA.2.* (Omicron),1
-2023-02-01,Feb 2023,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),5
+2023-02-01,Feb 2023,Southeast,Minas Gerais,Others,BA.5.* (Omicron),5
 2023-02-01,Feb 2023,Southeast,Minas Gerais,Others,Others,10
 2023-02-01,Feb 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),8
-2023-02-01,Feb 2023,Southeast,Rio de Janeiro,FIOCRUZ,BE.* (Omicron),1
-2023-02-01,Feb 2023,Southeast,Rio de Janeiro,FIOCRUZ,BQ.1.* (Omicron),3
-2023-02-01,Feb 2023,Southeast,Rio de Janeiro,FIOCRUZ,DL.1 (Omicron),1
+2023-02-01,Feb 2023,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),5
 2023-02-01,Feb 2023,Southeast,Rio de Janeiro,FIOCRUZ,FE.1.* (Omicron),1
 2023-02-01,Feb 2023,Southeast,Rio de Janeiro,FIOCRUZ,Others,1
 2023-02-01,Feb 2023,Southeast,Rio de Janeiro,FIOCRUZ,XBB.* (Omicron),53
-2023-02-01,Feb 2023,Southeast,Rio de Janeiro,Others,BQ.1.* (Omicron),10
+2023-02-01,Feb 2023,Southeast,Rio de Janeiro,Others,BA.5.* (Omicron),10
 2023-02-01,Feb 2023,Southeast,Rio de Janeiro,Others,FE.1.* (Omicron),1
 2023-02-01,Feb 2023,Southeast,Rio de Janeiro,Others,Others,4
 2023-02-01,Feb 2023,Southeast,Rio de Janeiro,Others,XBB.* (Omicron),35
-2023-02-01,Feb 2023,Southeast,São Paulo,FIOCRUZ,BE.* (Omicron),8
-2023-02-01,Feb 2023,Southeast,São Paulo,FIOCRUZ,BQ.1.* (Omicron),14
+2023-02-01,Feb 2023,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),22
 2023-02-01,Feb 2023,Southeast,São Paulo,FIOCRUZ,FE.1.* (Omicron),17
 2023-02-01,Feb 2023,Southeast,São Paulo,FIOCRUZ,Others,1
 2023-02-01,Feb 2023,Southeast,São Paulo,FIOCRUZ,XBB.* (Omicron),104
-2023-02-01,Feb 2023,Southeast,São Paulo,Others,BE.* (Omicron),9
-2023-02-01,Feb 2023,Southeast,São Paulo,Others,BQ.1.* (Omicron),38
+2023-02-01,Feb 2023,Southeast,São Paulo,Others,BA.5.* (Omicron),47
 2023-02-01,Feb 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),27
 2023-02-01,Feb 2023,Southeast,São Paulo,Others,Others,10
 2023-02-01,Feb 2023,Southeast,São Paulo,Others,XBB.* (Omicron),197
-2023-02-01,Feb 2023,South,Paraná,Others,BE.* (Omicron),3
-2023-02-01,Feb 2023,South,Paraná,Others,BQ.1.* (Omicron),8
+2023-02-01,Feb 2023,South,Paraná,Others,BA.5.* (Omicron),11
 2023-02-01,Feb 2023,South,Paraná,Others,FE.1.* (Omicron),2
 2023-02-01,Feb 2023,South,Paraná,Others,Others,2
 2023-02-01,Feb 2023,South,Paraná,Others,XBB.* (Omicron),12
 2023-02-01,Feb 2023,South,Rio Grande do Sul,Others,BA.2.* (Omicron),1
-2023-02-01,Feb 2023,South,Rio Grande do Sul,Others,BA.5.* (Omicron),1
-2023-02-01,Feb 2023,South,Rio Grande do Sul,Others,BE.* (Omicron),1
-2023-02-01,Feb 2023,South,Rio Grande do Sul,Others,BQ.1.* (Omicron),5
+2023-02-01,Feb 2023,South,Rio Grande do Sul,Others,BA.5.* (Omicron),7
 2023-02-01,Feb 2023,South,Rio Grande do Sul,Others,Others,2
 2023-02-01,Feb 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),4
-2023-02-01,Feb 2023,South,Santa Catarina,FIOCRUZ,BE.* (Omicron),2
-2023-02-01,Feb 2023,South,Santa Catarina,FIOCRUZ,BQ.1.* (Omicron),9
+2023-02-01,Feb 2023,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),11
 2023-02-01,Feb 2023,South,Santa Catarina,FIOCRUZ,FE.1.* (Omicron),2
 2023-02-01,Feb 2023,South,Santa Catarina,FIOCRUZ,Others,3
 2023-02-01,Feb 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),33
-2023-02-01,Feb 2023,South,Santa Catarina,Others,BE.* (Omicron),1
-2023-02-01,Feb 2023,South,Santa Catarina,Others,BQ.1.* (Omicron),5
+2023-02-01,Feb 2023,South,Santa Catarina,Others,BA.5.* (Omicron),6
 2023-02-01,Feb 2023,South,Santa Catarina,Others,FE.1.* (Omicron),3
 2023-02-01,Feb 2023,South,Santa Catarina,Others,XBB.* (Omicron),22
-2023-03-01,Mar 2023,Central-west,Goiás,Others,BA.5.* (Omicron),2
-2023-03-01,Mar 2023,Central-west,Goiás,Others,BQ.1.* (Omicron),2
+2023-03-01,Mar 2023,Central-west,Goiás,Others,BA.5.* (Omicron),4
 2023-03-01,Mar 2023,Central-west,Goiás,Others,Others,1
-2023-03-01,Mar 2023,Central-west,Goiás,Others,XBB.* (Omicron),54
-2023-03-01,Mar 2023,Central-west,Mato Grosso,Others,BQ.1.* (Omicron),1
+2023-03-01,Mar 2023,Central-west,Goiás,Others,XBB.* (Omicron),52
+2023-03-01,Mar 2023,Central-west,Goiás,Others,XBB.1.5.70.*+GK.* (Omicron),2
+2023-03-01,Mar 2023,Central-west,Mato Grosso,Others,BA.5.* (Omicron),1
 2023-03-01,Mar 2023,Central-west,Mato Grosso,Others,XBB.* (Omicron),14
 2023-03-01,Mar 2023,Central-west,Mato Grosso do Sul,Others,BA.1.* (Omicron),1
-2023-03-01,Mar 2023,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),2
-2023-03-01,Mar 2023,Central-west,Mato Grosso do Sul,Others,BQ.1.* (Omicron),5
+2023-03-01,Mar 2023,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),7
 2023-03-01,Mar 2023,Central-west,Mato Grosso do Sul,Others,FE.1.* (Omicron),8
 2023-03-01,Mar 2023,Central-west,Mato Grosso do Sul,Others,Others,7
 2023-03-01,Mar 2023,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),71
 2023-03-01,Mar 2023,Northeast,Alagoas,Others,FE.1.* (Omicron),7
 2023-03-01,Mar 2023,Northeast,Alagoas,Others,XBB.* (Omicron),12
-2023-03-01,Mar 2023,Northeast,Bahia,FIOCRUZ,BQ.1.* (Omicron),2
+2023-03-01,Mar 2023,Northeast,Bahia,FIOCRUZ,BA.5.* (Omicron),2
 2023-03-01,Mar 2023,Northeast,Bahia,FIOCRUZ,FE.1.* (Omicron),4
 2023-03-01,Mar 2023,Northeast,Bahia,FIOCRUZ,XBB.* (Omicron),4
-2023-03-01,Mar 2023,Northeast,Bahia,Others,BA.5.* (Omicron),2
-2023-03-01,Mar 2023,Northeast,Bahia,Others,BQ.1.* (Omicron),1
+2023-03-01,Mar 2023,Northeast,Bahia,Others,BA.5.* (Omicron),3
 2023-03-01,Mar 2023,Northeast,Bahia,Others,FE.1.* (Omicron),69
 2023-03-01,Mar 2023,Northeast,Bahia,Others,Others,9
 2023-03-01,Mar 2023,Northeast,Bahia,Others,XBB.* (Omicron),71
 2023-03-01,Mar 2023,Northeast,Ceará,Others,FE.1.* (Omicron),1
-2023-03-01,Mar 2023,Northeast,Ceará,Others,Others,4
-2023-03-01,Mar 2023,Northeast,Ceará,Others,XBB.* (Omicron),20
+2023-03-01,Mar 2023,Northeast,Ceará,Others,XBB.* (Omicron),15
+2023-03-01,Mar 2023,Northeast,Ceará,Others,XBB.1.5.70.*+GK.* (Omicron),9
 2023-03-01,Mar 2023,Northeast,Maranhão,Others,FE.1.* (Omicron),1
 2023-03-01,Mar 2023,Northeast,Maranhão,Others,Others,10
 2023-03-01,Mar 2023,Northeast,Maranhão,Others,XBB.* (Omicron),20
@@ -4469,7 +4064,7 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2023-03-01,Mar 2023,Northeast,Pernambuco,Others,Others,2
 2023-03-01,Mar 2023,Northeast,Pernambuco,Others,XBB.* (Omicron),19
 2023-03-01,Mar 2023,Northeast,Piauí,Others,XBB.* (Omicron),1
-2023-03-01,Mar 2023,Northeast,Rio Grande do Norte,Others,DL.1 (Omicron),1
+2023-03-01,Mar 2023,Northeast,Rio Grande do Norte,Others,BA.5.* (Omicron),1
 2023-03-01,Mar 2023,Northeast,Rio Grande do Norte,Others,XBB.* (Omicron),19
 2023-03-01,Mar 2023,Northeast,Sergipe,Others,XBB.* (Omicron),4
 2023-03-01,Mar 2023,North,Acre,Others,XBB.* (Omicron),5
@@ -4477,7 +4072,8 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2023-03-01,Mar 2023,North,Amapá,Others,XBB.* (Omicron),11
 2023-03-01,Mar 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),81
 2023-03-01,Mar 2023,North,Pará,FIOCRUZ,XBB.* (Omicron),5
-2023-03-01,Mar 2023,North,Pará,Others,XBB.* (Omicron),63
+2023-03-01,Mar 2023,North,Pará,Others,Others,2
+2023-03-01,Mar 2023,North,Pará,Others,XBB.* (Omicron),61
 2023-03-01,Mar 2023,North,Rondônia,Others,Others,4
 2023-03-01,Mar 2023,North,Rondônia,Others,XBB.* (Omicron),8
 2023-03-01,Mar 2023,North,Tocantins,FIOCRUZ,FE.1.* (Omicron),1
@@ -4486,49 +4082,46 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2023-03-01,Mar 2023,North,Tocantins,Others,XBB.* (Omicron),48
 2023-03-01,Mar 2023,Southeast,Espírito Santo,Others,FE.1.* (Omicron),8
 2023-03-01,Mar 2023,Southeast,Espírito Santo,Others,Others,7
-2023-03-01,Mar 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),60
-2023-03-01,Mar 2023,Southeast,Minas Gerais,FIOCRUZ,BE.* (Omicron),1
-2023-03-01,Mar 2023,Southeast,Minas Gerais,FIOCRUZ,BQ.1.* (Omicron),1
+2023-03-01,Mar 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),63
+2023-03-01,Mar 2023,Southeast,Espírito Santo,Others,XBB.1.5.70.*+GK.* (Omicron),1
+2023-03-01,Mar 2023,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),2
 2023-03-01,Mar 2023,Southeast,Minas Gerais,FIOCRUZ,FE.1.* (Omicron),3
 2023-03-01,Mar 2023,Southeast,Minas Gerais,FIOCRUZ,Others,11
 2023-03-01,Mar 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),19
 2023-03-01,Mar 2023,Southeast,Minas Gerais,Others,FE.1.* (Omicron),13
 2023-03-01,Mar 2023,Southeast,Minas Gerais,Others,Others,4
 2023-03-01,Mar 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),44
-2023-03-01,Mar 2023,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),1
-2023-03-01,Mar 2023,Southeast,Rio de Janeiro,FIOCRUZ,BE.* (Omicron),1
+2023-03-01,Mar 2023,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),2
 2023-03-01,Mar 2023,Southeast,Rio de Janeiro,FIOCRUZ,FE.1.* (Omicron),7
 2023-03-01,Mar 2023,Southeast,Rio de Janeiro,FIOCRUZ,Others,2
 2023-03-01,Mar 2023,Southeast,Rio de Janeiro,FIOCRUZ,XBB.* (Omicron),88
 2023-03-01,Mar 2023,Southeast,Rio de Janeiro,Others,FE.1.* (Omicron),1
 2023-03-01,Mar 2023,Southeast,Rio de Janeiro,Others,XBB.* (Omicron),41
 2023-03-01,Mar 2023,Southeast,São Paulo,FIOCRUZ,BA.1.* (Omicron),1
-2023-03-01,Mar 2023,Southeast,São Paulo,FIOCRUZ,BQ.1.* (Omicron),2
+2023-03-01,Mar 2023,Southeast,São Paulo,FIOCRUZ,BA.5.* (Omicron),2
 2023-03-01,Mar 2023,Southeast,São Paulo,FIOCRUZ,FE.1.* (Omicron),21
 2023-03-01,Mar 2023,Southeast,São Paulo,FIOCRUZ,Others,2
 2023-03-01,Mar 2023,Southeast,São Paulo,FIOCRUZ,XBB.* (Omicron),33
 2023-03-01,Mar 2023,Southeast,São Paulo,Others,BA.4.* (Omicron),1
-2023-03-01,Mar 2023,Southeast,São Paulo,Others,BQ.1.* (Omicron),1
+2023-03-01,Mar 2023,Southeast,São Paulo,Others,BA.5.* (Omicron),1
 2023-03-01,Mar 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),32
 2023-03-01,Mar 2023,Southeast,São Paulo,Others,Others,3
 2023-03-01,Mar 2023,Southeast,São Paulo,Others,XBB.* (Omicron),153
-2023-03-01,Mar 2023,South,Paraná,Others,BE.* (Omicron),2
-2023-03-01,Mar 2023,South,Paraná,Others,BQ.1.* (Omicron),1
+2023-03-01,Mar 2023,South,Paraná,Others,BA.5.* (Omicron),3
 2023-03-01,Mar 2023,South,Paraná,Others,FE.1.* (Omicron),3
 2023-03-01,Mar 2023,South,Paraná,Others,Others,1
 2023-03-01,Mar 2023,South,Paraná,Others,XBB.* (Omicron),27
 2023-03-01,Mar 2023,South,Rio Grande do Sul,FIOCRUZ,Others,1
 2023-03-01,Mar 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),4
-2023-03-01,Mar 2023,South,Rio Grande do Sul,Others,BQ.1.* (Omicron),1
+2023-03-01,Mar 2023,South,Rio Grande do Sul,Others,BA.5.* (Omicron),1
 2023-03-01,Mar 2023,South,Rio Grande do Sul,Others,FE.1.* (Omicron),5
 2023-03-01,Mar 2023,South,Rio Grande do Sul,Others,Others,6
 2023-03-01,Mar 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),72
-2023-03-01,Mar 2023,South,Santa Catarina,FIOCRUZ,BE.* (Omicron),1
-2023-03-01,Mar 2023,South,Santa Catarina,FIOCRUZ,BQ.1.* (Omicron),3
+2023-03-01,Mar 2023,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),4
 2023-03-01,Mar 2023,South,Santa Catarina,FIOCRUZ,FE.1.* (Omicron),11
 2023-03-01,Mar 2023,South,Santa Catarina,FIOCRUZ,Others,2
 2023-03-01,Mar 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),82
-2023-03-01,Mar 2023,South,Santa Catarina,Others,BQ.1.* (Omicron),6
+2023-03-01,Mar 2023,South,Santa Catarina,Others,BA.5.* (Omicron),6
 2023-03-01,Mar 2023,South,Santa Catarina,Others,FE.1.* (Omicron),6
 2023-03-01,Mar 2023,South,Santa Catarina,Others,Others,2
 2023-03-01,Mar 2023,South,Santa Catarina,Others,XBB.* (Omicron),33
@@ -4540,37 +4133,39 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2023-04-01,Apr 2023,Central-west,Goiás,Others,Others,1
 2023-04-01,Apr 2023,Central-west,Goiás,Others,XBB.* (Omicron),43
 2023-04-01,Apr 2023,Central-west,Mato Grosso,Others,XBB.* (Omicron),3
-2023-04-01,Apr 2023,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),1
-2023-04-01,Apr 2023,Central-west,Mato Grosso do Sul,Others,BQ.1.* (Omicron),1
+2023-04-01,Apr 2023,Central-west,Mato Grosso do Sul,Others,BA.5.* (Omicron),2
 2023-04-01,Apr 2023,Central-west,Mato Grosso do Sul,Others,FE.1.* (Omicron),6
 2023-04-01,Apr 2023,Central-west,Mato Grosso do Sul,Others,Others,1
 2023-04-01,Apr 2023,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),24
 2023-04-01,Apr 2023,Northeast,Alagoas,Others,FE.1.* (Omicron),12
 2023-04-01,Apr 2023,Northeast,Alagoas,Others,Others,8
-2023-04-01,Apr 2023,Northeast,Alagoas,Others,XBB.* (Omicron),24
+2023-04-01,Apr 2023,Northeast,Alagoas,Others,XBB.* (Omicron),23
+2023-04-01,Apr 2023,Northeast,Alagoas,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-04-01,Apr 2023,Northeast,Bahia,FIOCRUZ,FE.1.* (Omicron),7
-2023-04-01,Apr 2023,Northeast,Bahia,Others,BE.* (Omicron),1
-2023-04-01,Apr 2023,Northeast,Bahia,Others,BQ.1.* (Omicron),2
+2023-04-01,Apr 2023,Northeast,Bahia,Others,BA.5.* (Omicron),3
 2023-04-01,Apr 2023,Northeast,Bahia,Others,FE.1.* (Omicron),93
 2023-04-01,Apr 2023,Northeast,Bahia,Others,Others,6
-2023-04-01,Apr 2023,Northeast,Bahia,Others,XBB.* (Omicron),23
+2023-04-01,Apr 2023,Northeast,Bahia,Others,XBB.* (Omicron),22
+2023-04-01,Apr 2023,Northeast,Bahia,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-04-01,Apr 2023,Northeast,Ceará,Others,FE.1.* (Omicron),9
-2023-04-01,Apr 2023,Northeast,Ceará,Others,Others,26
-2023-04-01,Apr 2023,Northeast,Ceará,Others,XBB.* (Omicron),75
+2023-04-01,Apr 2023,Northeast,Ceará,Others,Others,1
+2023-04-01,Apr 2023,Northeast,Ceará,Others,XBB.* (Omicron),17
+2023-04-01,Apr 2023,Northeast,Ceará,Others,XBB.1.5.70.*+GK.* (Omicron),83
 2023-04-01,Apr 2023,Northeast,Maranhão,Others,FE.1.* (Omicron),1
 2023-04-01,Apr 2023,Northeast,Maranhão,Others,Others,6
 2023-04-01,Apr 2023,Northeast,Maranhão,Others,XBB.* (Omicron),4
-2023-04-01,Apr 2023,Northeast,Paraíba,Others,DL.1 (Omicron),1
+2023-04-01,Apr 2023,Northeast,Paraíba,Others,BA.5.* (Omicron),1
 2023-04-01,Apr 2023,Northeast,Paraíba,Others,FE.1.* (Omicron),3
 2023-04-01,Apr 2023,Northeast,Paraíba,Others,Others,1
 2023-04-01,Apr 2023,Northeast,Paraíba,Others,XBB.* (Omicron),1
 2023-04-01,Apr 2023,Northeast,Pernambuco,FIOCRUZ,FE.1.* (Omicron),8
 2023-04-01,Apr 2023,Northeast,Pernambuco,FIOCRUZ,Others,7
 2023-04-01,Apr 2023,Northeast,Pernambuco,FIOCRUZ,XBB.* (Omicron),12
-2023-04-01,Apr 2023,Northeast,Rio Grande do Norte,Others,BE.* (Omicron),1
+2023-04-01,Apr 2023,Northeast,Rio Grande do Norte,Others,BA.5.* (Omicron),1
 2023-04-01,Apr 2023,Northeast,Rio Grande do Norte,Others,FE.1.* (Omicron),1
-2023-04-01,Apr 2023,Northeast,Rio Grande do Norte,Others,Others,2
+2023-04-01,Apr 2023,Northeast,Rio Grande do Norte,Others,Others,1
 2023-04-01,Apr 2023,Northeast,Rio Grande do Norte,Others,XBB.* (Omicron),32
+2023-04-01,Apr 2023,Northeast,Rio Grande do Norte,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-04-01,Apr 2023,Northeast,Sergipe,Others,FE.1.* (Omicron),1
 2023-04-01,Apr 2023,Northeast,Sergipe,Others,XBB.* (Omicron),4
 2023-04-01,Apr 2023,North,Acre,Others,FE.1.* (Omicron),2
@@ -4578,22 +4173,24 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2023-04-01,Apr 2023,North,Amapá,Others,FE.1.* (Omicron),1
 2023-04-01,Apr 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),11
 2023-04-01,Apr 2023,North,Amazonas,Others,XBB.* (Omicron),5
-2023-04-01,Apr 2023,North,Pará,Others,XBB.* (Omicron),9
+2023-04-01,Apr 2023,North,Pará,Others,Others,1
+2023-04-01,Apr 2023,North,Pará,Others,XBB.* (Omicron),8
 2023-04-01,Apr 2023,North,Rondônia,FIOCRUZ,Others,1
-2023-04-01,Apr 2023,North,Rondônia,FIOCRUZ,XBB.* (Omicron),7
+2023-04-01,Apr 2023,North,Rondônia,FIOCRUZ,XBB.* (Omicron),4
+2023-04-01,Apr 2023,North,Rondônia,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),3
 2023-04-01,Apr 2023,North,Roraima,Others,XBB.* (Omicron),7
 2023-04-01,Apr 2023,North,Tocantins,FIOCRUZ,XBB.* (Omicron),3
 2023-04-01,Apr 2023,North,Tocantins,Others,FE.1.* (Omicron),7
 2023-04-01,Apr 2023,North,Tocantins,Others,XBB.* (Omicron),34
-2023-04-01,Apr 2023,Southeast,Espírito Santo,Others,FE.1.* (Omicron),31
-2023-04-01,Apr 2023,Southeast,Espírito Santo,Others,Others,6
-2023-04-01,Apr 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),43
-2023-04-01,Apr 2023,Southeast,Minas Gerais,FIOCRUZ,BQ.1.* (Omicron),3
+2023-04-01,Apr 2023,Southeast,Espírito Santo,Others,FE.1.* (Omicron),37
+2023-04-01,Apr 2023,Southeast,Espírito Santo,Others,Others,5
+2023-04-01,Apr 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),53
+2023-04-01,Apr 2023,Southeast,Espírito Santo,Others,XBB.1.5.70.*+GK.* (Omicron),3
+2023-04-01,Apr 2023,Southeast,Minas Gerais,FIOCRUZ,BA.5.* (Omicron),3
 2023-04-01,Apr 2023,Southeast,Minas Gerais,FIOCRUZ,FE.1.* (Omicron),5
 2023-04-01,Apr 2023,Southeast,Minas Gerais,FIOCRUZ,Others,2
 2023-04-01,Apr 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),17
-2023-04-01,Apr 2023,Southeast,Minas Gerais,Others,BA.5.* (Omicron),1
-2023-04-01,Apr 2023,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),1
+2023-04-01,Apr 2023,Southeast,Minas Gerais,Others,BA.5.* (Omicron),2
 2023-04-01,Apr 2023,Southeast,Minas Gerais,Others,FE.1.* (Omicron),17
 2023-04-01,Apr 2023,Southeast,Minas Gerais,Others,Others,2
 2023-04-01,Apr 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),23
@@ -4608,21 +4205,22 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2023-04-01,Apr 2023,Southeast,São Paulo,Others,BA.5.* (Omicron),1
 2023-04-01,Apr 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),19
 2023-04-01,Apr 2023,Southeast,São Paulo,Others,Others,2
-2023-04-01,Apr 2023,Southeast,São Paulo,Others,XBB.* (Omicron),41
+2023-04-01,Apr 2023,Southeast,São Paulo,Others,XBB.* (Omicron),39
+2023-04-01,Apr 2023,Southeast,São Paulo,Others,XBB.1.5.70.*+GK.* (Omicron),2
 2023-04-01,Apr 2023,South,Paraná,FIOCRUZ,FE.1.* (Omicron),1
 2023-04-01,Apr 2023,South,Paraná,FIOCRUZ,XBB.* (Omicron),1
 2023-04-01,Apr 2023,South,Paraná,Others,FE.1.* (Omicron),8
 2023-04-01,Apr 2023,South,Paraná,Others,Others,1
 2023-04-01,Apr 2023,South,Paraná,Others,XBB.* (Omicron),37
-2023-04-01,Apr 2023,South,Rio Grande do Sul,FIOCRUZ,BQ.1.* (Omicron),6
+2023-04-01,Apr 2023,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),6
 2023-04-01,Apr 2023,South,Rio Grande do Sul,FIOCRUZ,FE.1.* (Omicron),12
 2023-04-01,Apr 2023,South,Rio Grande do Sul,FIOCRUZ,Others,4
 2023-04-01,Apr 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),60
-2023-04-01,Apr 2023,South,Rio Grande do Sul,Others,BA.5.* (Omicron),1
-2023-04-01,Apr 2023,South,Rio Grande do Sul,Others,BQ.1.* (Omicron),5
+2023-04-01,Apr 2023,South,Rio Grande do Sul,Others,BA.5.* (Omicron),6
 2023-04-01,Apr 2023,South,Rio Grande do Sul,Others,FE.1.* (Omicron),14
-2023-04-01,Apr 2023,South,Rio Grande do Sul,Others,Others,5
-2023-04-01,Apr 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),81
+2023-04-01,Apr 2023,South,Rio Grande do Sul,Others,Others,4
+2023-04-01,Apr 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),80
+2023-04-01,Apr 2023,South,Rio Grande do Sul,Others,XBB.1.5.70.*+GK.* (Omicron),2
 2023-04-01,Apr 2023,South,Santa Catarina,FIOCRUZ,BA.2.* (Omicron),1
 2023-04-01,Apr 2023,South,Santa Catarina,FIOCRUZ,FE.1.* (Omicron),13
 2023-04-01,Apr 2023,South,Santa Catarina,FIOCRUZ,Others,6
@@ -4631,50 +4229,63 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2023-04-01,Apr 2023,South,Santa Catarina,Others,Others,5
 2023-04-01,Apr 2023,South,Santa Catarina,Others,XBB.* (Omicron),20
 2023-05-01,May 2023,Central-west,Distrito Federal,Others,FE.1.* (Omicron),8
-2023-05-01,May 2023,Central-west,Distrito Federal,Others,Others,1
 2023-05-01,May 2023,Central-west,Distrito Federal,Others,XBB.* (Omicron),36
+2023-05-01,May 2023,Central-west,Distrito Federal,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-05-01,May 2023,Central-west,Goiás,FIOCRUZ,FE.1.* (Omicron),7
-2023-05-01,May 2023,Central-west,Goiás,FIOCRUZ,Others,3
+2023-05-01,May 2023,Central-west,Goiás,FIOCRUZ,Others,2
 2023-05-01,May 2023,Central-west,Goiás,FIOCRUZ,XBB.* (Omicron),10
+2023-05-01,May 2023,Central-west,Goiás,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
 2023-05-01,May 2023,Central-west,Goiás,Others,FE.1.* (Omicron),4
-2023-05-01,May 2023,Central-west,Goiás,Others,Others,5
-2023-05-01,May 2023,Central-west,Goiás,Others,XBB.* (Omicron),11
+2023-05-01,May 2023,Central-west,Goiás,Others,Others,3
+2023-05-01,May 2023,Central-west,Goiás,Others,XBB.* (Omicron),10
+2023-05-01,May 2023,Central-west,Goiás,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-05-01,May 2023,Central-west,Mato Grosso,Others,FE.1.* (Omicron),10
-2023-05-01,May 2023,Central-west,Mato Grosso,Others,Others,6
+2023-05-01,May 2023,Central-west,Mato Grosso,Others,Others,3
 2023-05-01,May 2023,Central-west,Mato Grosso,Others,XBB.* (Omicron),12
+2023-05-01,May 2023,Central-west,Mato Grosso,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-05-01,May 2023,Central-west,Mato Grosso do Sul,Others,FE.1.* (Omicron),18
-2023-05-01,May 2023,Central-west,Mato Grosso do Sul,Others,Others,4
-2023-05-01,May 2023,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),16
+2023-05-01,May 2023,Central-west,Mato Grosso do Sul,Others,Others,3
+2023-05-01,May 2023,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),14
+2023-05-01,May 2023,Central-west,Mato Grosso do Sul,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-05-01,May 2023,Northeast,Alagoas,FIOCRUZ,FE.1.* (Omicron),13
 2023-05-01,May 2023,Northeast,Alagoas,FIOCRUZ,Others,5
-2023-05-01,May 2023,Northeast,Alagoas,FIOCRUZ,XBB.* (Omicron),11
+2023-05-01,May 2023,Northeast,Alagoas,FIOCRUZ,XBB.* (Omicron),9
+2023-05-01,May 2023,Northeast,Alagoas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),2
 2023-05-01,May 2023,Northeast,Alagoas,Others,FE.1.* (Omicron),32
-2023-05-01,May 2023,Northeast,Alagoas,Others,Others,10
-2023-05-01,May 2023,Northeast,Alagoas,Others,XBB.* (Omicron),16
+2023-05-01,May 2023,Northeast,Alagoas,Others,Others,9
+2023-05-01,May 2023,Northeast,Alagoas,Others,XBB.* (Omicron),14
+2023-05-01,May 2023,Northeast,Alagoas,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-05-01,May 2023,Northeast,Bahia,FIOCRUZ,FE.1.* (Omicron),6
 2023-05-01,May 2023,Northeast,Bahia,Others,FE.1.* (Omicron),96
-2023-05-01,May 2023,Northeast,Bahia,Others,Others,3
-2023-05-01,May 2023,Northeast,Bahia,Others,XBB.* (Omicron),12
+2023-05-01,May 2023,Northeast,Bahia,Others,Others,2
+2023-05-01,May 2023,Northeast,Bahia,Others,XBB.* (Omicron),8
+2023-05-01,May 2023,Northeast,Bahia,Others,XBB.1.5.70.*+GK.* (Omicron),5
 2023-05-01,May 2023,Northeast,Ceará,Others,FE.1.* (Omicron),2
-2023-05-01,May 2023,Northeast,Ceará,Others,Others,8
-2023-05-01,May 2023,Northeast,Ceará,Others,XBB.* (Omicron),13
+2023-05-01,May 2023,Northeast,Ceará,Others,XBB.* (Omicron),1
+2023-05-01,May 2023,Northeast,Ceará,Others,XBB.1.5.70.*+GK.* (Omicron),20
 2023-05-01,May 2023,Northeast,Maranhão,Others,FE.1.* (Omicron),16
-2023-05-01,May 2023,Northeast,Maranhão,Others,Others,7
-2023-05-01,May 2023,Northeast,Maranhão,Others,XBB.* (Omicron),6
+2023-05-01,May 2023,Northeast,Maranhão,Others,Others,5
+2023-05-01,May 2023,Northeast,Maranhão,Others,XBB.* (Omicron),3
+2023-05-01,May 2023,Northeast,Maranhão,Others,XBB.1.5.70.*+GK.* (Omicron),5
 2023-05-01,May 2023,Northeast,Paraíba,Others,FE.1.* (Omicron),31
-2023-05-01,May 2023,Northeast,Paraíba,Others,Others,13
-2023-05-01,May 2023,Northeast,Paraíba,Others,XBB.* (Omicron),40
+2023-05-01,May 2023,Northeast,Paraíba,Others,Others,6
+2023-05-01,May 2023,Northeast,Paraíba,Others,XBB.* (Omicron),33
+2023-05-01,May 2023,Northeast,Paraíba,Others,XBB.1.5.70.*+GK.* (Omicron),14
 2023-05-01,May 2023,Northeast,Pernambuco,FIOCRUZ,FE.1.* (Omicron),12
-2023-05-01,May 2023,Northeast,Pernambuco,FIOCRUZ,Others,11
-2023-05-01,May 2023,Northeast,Pernambuco,FIOCRUZ,XBB.* (Omicron),9
+2023-05-01,May 2023,Northeast,Pernambuco,FIOCRUZ,Others,9
+2023-05-01,May 2023,Northeast,Pernambuco,FIOCRUZ,XBB.* (Omicron),7
+2023-05-01,May 2023,Northeast,Pernambuco,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),4
 2023-05-01,May 2023,Northeast,Pernambuco,Others,FE.1.* (Omicron),13
-2023-05-01,May 2023,Northeast,Pernambuco,Others,Others,6
+2023-05-01,May 2023,Northeast,Pernambuco,Others,Others,4
 2023-05-01,May 2023,Northeast,Pernambuco,Others,XBB.* (Omicron),5
+2023-05-01,May 2023,Northeast,Pernambuco,Others,XBB.1.5.70.*+GK.* (Omicron),2
 2023-05-01,May 2023,Northeast,Rio Grande do Norte,Others,FE.1.* (Omicron),6
-2023-05-01,May 2023,Northeast,Rio Grande do Norte,Others,Others,3
+2023-05-01,May 2023,Northeast,Rio Grande do Norte,Others,Others,1
 2023-05-01,May 2023,Northeast,Rio Grande do Norte,Others,XBB.* (Omicron),17
+2023-05-01,May 2023,Northeast,Rio Grande do Norte,Others,XBB.1.5.70.*+GK.* (Omicron),2
 2023-05-01,May 2023,Northeast,Sergipe,Others,FE.1.* (Omicron),6
-2023-05-01,May 2023,Northeast,Sergipe,Others,XBB.* (Omicron),8
+2023-05-01,May 2023,Northeast,Sergipe,Others,XBB.* (Omicron),5
+2023-05-01,May 2023,Northeast,Sergipe,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-05-01,May 2023,North,Acre,Others,FE.1.* (Omicron),2
 2023-05-01,May 2023,North,Acre,Others,XBB.* (Omicron),2
 2023-05-01,May 2023,North,Amapá,FIOCRUZ,FE.1.* (Omicron),2
@@ -4682,258 +4293,317 @@ Date,Period,Region,State,Laboratory,Relevant lineages,Quantity
 2023-05-01,May 2023,North,Amapá,FIOCRUZ,XBB.* (Omicron),6
 2023-05-01,May 2023,North,Amapá,Others,XBB.* (Omicron),1
 2023-05-01,May 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),10
-2023-05-01,May 2023,North,Amazonas,Others,XBB.* (Omicron),6
+2023-05-01,May 2023,North,Amazonas,Others,XBB.* (Omicron),5
+2023-05-01,May 2023,North,Amazonas,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-05-01,May 2023,North,Pará,Others,FE.1.* (Omicron),3
-2023-05-01,May 2023,North,Pará,Others,Others,1
-2023-05-01,May 2023,North,Pará,Others,XBB.* (Omicron),12
+2023-05-01,May 2023,North,Pará,Others,Others,4
+2023-05-01,May 2023,North,Pará,Others,XBB.* (Omicron),6
+2023-05-01,May 2023,North,Pará,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-05-01,May 2023,North,Rondônia,Others,FE.1.* (Omicron),1
-2023-05-01,May 2023,North,Rondônia,Others,XBB.* (Omicron),26
+2023-05-01,May 2023,North,Rondônia,Others,XBB.* (Omicron),16
+2023-05-01,May 2023,North,Rondônia,Others,XBB.1.5.70.*+GK.* (Omicron),10
 2023-05-01,May 2023,North,Roraima,Others,FE.1.* (Omicron),1
 2023-05-01,May 2023,North,Roraima,Others,XBB.* (Omicron),5
 2023-05-01,May 2023,North,Tocantins,FIOCRUZ,FE.1.* (Omicron),4
 2023-05-01,May 2023,North,Tocantins,FIOCRUZ,XBB.* (Omicron),3
 2023-05-01,May 2023,North,Tocantins,Others,FE.1.* (Omicron),16
-2023-05-01,May 2023,North,Tocantins,Others,XBB.* (Omicron),60
-2023-05-01,May 2023,Southeast,Espírito Santo,Others,BQ.1.* (Omicron),1
-2023-05-01,May 2023,Southeast,Espírito Santo,Others,FE.1.* (Omicron),35
-2023-05-01,May 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),26
+2023-05-01,May 2023,North,Tocantins,Others,Others,6
+2023-05-01,May 2023,North,Tocantins,Others,XBB.* (Omicron),53
+2023-05-01,May 2023,North,Tocantins,Others,XBB.1.5.70.*+GK.* (Omicron),1
+2023-05-01,May 2023,Southeast,Espírito Santo,Others,BA.5.* (Omicron),1
+2023-05-01,May 2023,Southeast,Espírito Santo,Others,FE.1.* (Omicron),40
+2023-05-01,May 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),33
+2023-05-01,May 2023,Southeast,Espírito Santo,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-05-01,May 2023,Southeast,Minas Gerais,FIOCRUZ,FE.1.* (Omicron),16
 2023-05-01,May 2023,Southeast,Minas Gerais,FIOCRUZ,Others,3
 2023-05-01,May 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),19
 2023-05-01,May 2023,Southeast,Minas Gerais,Others,BA.5.* (Omicron),1
 2023-05-01,May 2023,Southeast,Minas Gerais,Others,FE.1.* (Omicron),21
 2023-05-01,May 2023,Southeast,Minas Gerais,Others,Others,4
-2023-05-01,May 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),33
+2023-05-01,May 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),32
+2023-05-01,May 2023,Southeast,Minas Gerais,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-05-01,May 2023,Southeast,Rio de Janeiro,FIOCRUZ,XBB.* (Omicron),2
 2023-05-01,May 2023,Southeast,Rio de Janeiro,Others,XBB.* (Omicron),3
 2023-05-01,May 2023,Southeast,São Paulo,FIOCRUZ,FE.1.* (Omicron),5
 2023-05-01,May 2023,Southeast,São Paulo,FIOCRUZ,XBB.* (Omicron),9
-2023-05-01,May 2023,Southeast,São Paulo,Others,BQ.1.* (Omicron),1
+2023-05-01,May 2023,Southeast,São Paulo,Others,BA.5.* (Omicron),1
 2023-05-01,May 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),23
-2023-05-01,May 2023,Southeast,São Paulo,Others,Others,5
-2023-05-01,May 2023,Southeast,São Paulo,Others,XBB.* (Omicron),28
+2023-05-01,May 2023,Southeast,São Paulo,Others,Others,3
+2023-05-01,May 2023,Southeast,São Paulo,Others,XBB.* (Omicron),27
+2023-05-01,May 2023,Southeast,São Paulo,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-05-01,May 2023,South,Paraná,FIOCRUZ,FE.1.* (Omicron),6
-2023-05-01,May 2023,South,Paraná,FIOCRUZ,XBB.* (Omicron),7
-2023-05-01,May 2023,South,Paraná,Others,BQ.1.* (Omicron),1
+2023-05-01,May 2023,South,Paraná,FIOCRUZ,XBB.* (Omicron),6
+2023-05-01,May 2023,South,Paraná,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
+2023-05-01,May 2023,South,Paraná,Others,BA.5.* (Omicron),1
 2023-05-01,May 2023,South,Paraná,Others,FE.1.* (Omicron),17
 2023-05-01,May 2023,South,Paraná,Others,Others,1
-2023-05-01,May 2023,South,Paraná,Others,XBB.* (Omicron),26
-2023-05-01,May 2023,South,Rio Grande do Sul,FIOCRUZ,BQ.1.* (Omicron),1
+2023-05-01,May 2023,South,Paraná,Others,XBB.* (Omicron),25
+2023-05-01,May 2023,South,Paraná,Others,XBB.1.5.70.*+GK.* (Omicron),1
+2023-05-01,May 2023,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),1
 2023-05-01,May 2023,South,Rio Grande do Sul,FIOCRUZ,FE.1.* (Omicron),9
 2023-05-01,May 2023,South,Rio Grande do Sul,FIOCRUZ,Others,5
 2023-05-01,May 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),25
 2023-05-01,May 2023,South,Rio Grande do Sul,Others,FE.1.* (Omicron),9
 2023-05-01,May 2023,South,Rio Grande do Sul,Others,Others,5
-2023-05-01,May 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),34
-2023-05-01,May 2023,South,Santa Catarina,FIOCRUZ,BQ.1.* (Omicron),1
+2023-05-01,May 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),32
+2023-05-01,May 2023,South,Rio Grande do Sul,Others,XBB.1.5.70.*+GK.* (Omicron),2
+2023-05-01,May 2023,South,Santa Catarina,FIOCRUZ,BA.5.* (Omicron),1
 2023-05-01,May 2023,South,Santa Catarina,FIOCRUZ,FE.1.* (Omicron),18
-2023-05-01,May 2023,South,Santa Catarina,FIOCRUZ,Others,9
-2023-05-01,May 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),31
+2023-05-01,May 2023,South,Santa Catarina,FIOCRUZ,Others,6
+2023-05-01,May 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),29
+2023-05-01,May 2023,South,Santa Catarina,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),5
 2023-05-01,May 2023,South,Santa Catarina,Others,XBB.* (Omicron),1
 2023-06-01,Jun 2023,Central-west,Distrito Federal,Others,FE.1.* (Omicron),9
-2023-06-01,Jun 2023,Central-west,Distrito Federal,Others,Others,6
-2023-06-01,Jun 2023,Central-west,Distrito Federal,Others,XBB.* (Omicron),15
+2023-06-01,Jun 2023,Central-west,Distrito Federal,Others,XBB.* (Omicron),12
+2023-06-01,Jun 2023,Central-west,Distrito Federal,Others,XBB.1.5.70.*+GK.* (Omicron),9
 2023-06-01,Jun 2023,Central-west,Goiás,FIOCRUZ,FE.1.* (Omicron),9
 2023-06-01,Jun 2023,Central-west,Goiás,FIOCRUZ,Others,1
-2023-06-01,Jun 2023,Central-west,Goiás,FIOCRUZ,XBB.* (Omicron),12
+2023-06-01,Jun 2023,Central-west,Goiás,FIOCRUZ,XBB.* (Omicron),10
+2023-06-01,Jun 2023,Central-west,Goiás,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),2
 2023-06-01,Jun 2023,Central-west,Goiás,Others,FE.1.* (Omicron),1
-2023-06-01,Jun 2023,Central-west,Goiás,Others,Others,1
 2023-06-01,Jun 2023,Central-west,Goiás,Others,XBB.* (Omicron),3
+2023-06-01,Jun 2023,Central-west,Goiás,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-06-01,Jun 2023,Central-west,Mato Grosso,Others,FE.1.* (Omicron),12
-2023-06-01,Jun 2023,Central-west,Mato Grosso,Others,Others,15
-2023-06-01,Jun 2023,Central-west,Mato Grosso,Others,XBB.* (Omicron),17
+2023-06-01,Jun 2023,Central-west,Mato Grosso,Others,Others,6
+2023-06-01,Jun 2023,Central-west,Mato Grosso,Others,XBB.* (Omicron),14
+2023-06-01,Jun 2023,Central-west,Mato Grosso,Others,XBB.1.5.70.*+GK.* (Omicron),12
 2023-06-01,Jun 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,FE.1.* (Omicron),2
-2023-06-01,Jun 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,Others,1
+2023-06-01,Jun 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
 2023-06-01,Jun 2023,Central-west,Mato Grosso do Sul,Others,FE.1.* (Omicron),19
 2023-06-01,Jun 2023,Central-west,Mato Grosso do Sul,Others,Others,1
-2023-06-01,Jun 2023,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),8
+2023-06-01,Jun 2023,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),5
+2023-06-01,Jun 2023,Central-west,Mato Grosso do Sul,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-06-01,Jun 2023,Northeast,Alagoas,FIOCRUZ,FE.1.* (Omicron),23
-2023-06-01,Jun 2023,Northeast,Alagoas,FIOCRUZ,Others,5
-2023-06-01,Jun 2023,Northeast,Alagoas,FIOCRUZ,XBB.* (Omicron),9
+2023-06-01,Jun 2023,Northeast,Alagoas,FIOCRUZ,Others,2
+2023-06-01,Jun 2023,Northeast,Alagoas,FIOCRUZ,XBB.* (Omicron),8
+2023-06-01,Jun 2023,Northeast,Alagoas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),4
 2023-06-01,Jun 2023,Northeast,Bahia,Others,FE.1.* (Omicron),67
-2023-06-01,Jun 2023,Northeast,Bahia,Others,Others,8
-2023-06-01,Jun 2023,Northeast,Bahia,Others,XBB.* (Omicron),14
+2023-06-01,Jun 2023,Northeast,Bahia,Others,Others,4
+2023-06-01,Jun 2023,Northeast,Bahia,Others,XBB.* (Omicron),5
+2023-06-01,Jun 2023,Northeast,Bahia,Others,XBB.1.5.70.*+GK.* (Omicron),13
 2023-06-01,Jun 2023,Northeast,Maranhão,Others,FE.1.* (Omicron),4
-2023-06-01,Jun 2023,Northeast,Maranhão,Others,XBB.* (Omicron),1
+2023-06-01,Jun 2023,Northeast,Maranhão,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-06-01,Jun 2023,Northeast,Paraíba,Others,FE.1.* (Omicron),31
-2023-06-01,Jun 2023,Northeast,Paraíba,Others,Others,12
-2023-06-01,Jun 2023,Northeast,Paraíba,Others,XBB.* (Omicron),26
+2023-06-01,Jun 2023,Northeast,Paraíba,Others,Others,2
+2023-06-01,Jun 2023,Northeast,Paraíba,Others,XBB.* (Omicron),15
+2023-06-01,Jun 2023,Northeast,Paraíba,Others,XBB.1.5.70.*+GK.* (Omicron),21
 2023-06-01,Jun 2023,Northeast,Pernambuco,FIOCRUZ,FE.1.* (Omicron),9
-2023-06-01,Jun 2023,Northeast,Pernambuco,FIOCRUZ,Others,6
-2023-06-01,Jun 2023,Northeast,Pernambuco,FIOCRUZ,XBB.* (Omicron),6
+2023-06-01,Jun 2023,Northeast,Pernambuco,FIOCRUZ,Others,3
+2023-06-01,Jun 2023,Northeast,Pernambuco,FIOCRUZ,XBB.* (Omicron),4
+2023-06-01,Jun 2023,Northeast,Pernambuco,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),5
 2023-06-01,Jun 2023,Northeast,Pernambuco,Others,FE.1.* (Omicron),8
-2023-06-01,Jun 2023,Northeast,Pernambuco,Others,Others,6
-2023-06-01,Jun 2023,Northeast,Pernambuco,Others,XBB.* (Omicron),7
+2023-06-01,Jun 2023,Northeast,Pernambuco,Others,Others,1
+2023-06-01,Jun 2023,Northeast,Pernambuco,Others,XBB.* (Omicron),3
+2023-06-01,Jun 2023,Northeast,Pernambuco,Others,XBB.1.5.70.*+GK.* (Omicron),9
 2023-06-01,Jun 2023,Northeast,Rio Grande do Norte,Others,FE.1.* (Omicron),6
-2023-06-01,Jun 2023,Northeast,Rio Grande do Norte,Others,Others,7
-2023-06-01,Jun 2023,Northeast,Rio Grande do Norte,Others,XBB.* (Omicron),9
-2023-06-01,Jun 2023,North,Acre,Others,Others,1
-2023-06-01,Jun 2023,North,Acre,Others,XBB.* (Omicron),2
+2023-06-01,Jun 2023,Northeast,Rio Grande do Norte,Others,Others,2
+2023-06-01,Jun 2023,Northeast,Rio Grande do Norte,Others,XBB.* (Omicron),5
+2023-06-01,Jun 2023,Northeast,Rio Grande do Norte,Others,XBB.1.5.70.*+GK.* (Omicron),9
+2023-06-01,Jun 2023,North,Acre,Others,XBB.* (Omicron),1
+2023-06-01,Jun 2023,North,Acre,Others,XBB.1.5.70.*+GK.* (Omicron),2
 2023-06-01,Jun 2023,North,Amapá,FIOCRUZ,FE.1.* (Omicron),1
 2023-06-01,Jun 2023,North,Amapá,FIOCRUZ,Others,1
 2023-06-01,Jun 2023,North,Amapá,FIOCRUZ,XBB.* (Omicron),5
 2023-06-01,Jun 2023,North,Amapá,Others,FE.1.* (Omicron),9
 2023-06-01,Jun 2023,North,Amapá,Others,XBB.* (Omicron),5
-2023-06-01,Jun 2023,North,Amazonas,FIOCRUZ,Others,4
-2023-06-01,Jun 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),13
+2023-06-01,Jun 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),10
+2023-06-01,Jun 2023,North,Amazonas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),7
 2023-06-01,Jun 2023,North,Amazonas,Others,FE.1.* (Omicron),2
-2023-06-01,Jun 2023,North,Amazonas,Others,Others,2
-2023-06-01,Jun 2023,North,Amazonas,Others,XBB.* (Omicron),4
+2023-06-01,Jun 2023,North,Amazonas,Others,XBB.* (Omicron),3
+2023-06-01,Jun 2023,North,Amazonas,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-06-01,Jun 2023,North,Pará,Others,FE.1.* (Omicron),3
 2023-06-01,Jun 2023,North,Pará,Others,Others,19
-2023-06-01,Jun 2023,North,Pará,Others,XBB.* (Omicron),8
+2023-06-01,Jun 2023,North,Pará,Others,XBB.* (Omicron),3
+2023-06-01,Jun 2023,North,Pará,Others,XBB.1.5.70.*+GK.* (Omicron),5
 2023-06-01,Jun 2023,North,Rondônia,Others,FE.1.* (Omicron),7
-2023-06-01,Jun 2023,North,Rondônia,Others,XBB.* (Omicron),34
+2023-06-01,Jun 2023,North,Rondônia,Others,XBB.* (Omicron),12
+2023-06-01,Jun 2023,North,Rondônia,Others,XBB.1.5.70.*+GK.* (Omicron),22
 2023-06-01,Jun 2023,North,Roraima,Others,FE.1.* (Omicron),1
 2023-06-01,Jun 2023,North,Roraima,Others,XBB.* (Omicron),3
 2023-06-01,Jun 2023,North,Tocantins,FIOCRUZ,FE.1.* (Omicron),1
-2023-06-01,Jun 2023,North,Tocantins,FIOCRUZ,Others,1
+2023-06-01,Jun 2023,North,Tocantins,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
 2023-06-01,Jun 2023,North,Tocantins,Others,FE.1.* (Omicron),9
-2023-06-01,Jun 2023,North,Tocantins,Others,Others,1
-2023-06-01,Jun 2023,North,Tocantins,Others,XBB.* (Omicron),48
+2023-06-01,Jun 2023,North,Tocantins,Others,Others,15
+2023-06-01,Jun 2023,North,Tocantins,Others,XBB.* (Omicron),31
+2023-06-01,Jun 2023,North,Tocantins,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-06-01,Jun 2023,Southeast,Espírito Santo,FIOCRUZ,FE.1.* (Omicron),1
 2023-06-01,Jun 2023,Southeast,Espírito Santo,Others,FE.1.* (Omicron),22
-2023-06-01,Jun 2023,Southeast,Espírito Santo,Others,Others,8
-2023-06-01,Jun 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),14
+2023-06-01,Jun 2023,Southeast,Espírito Santo,Others,Others,4
+2023-06-01,Jun 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),12
+2023-06-01,Jun 2023,Southeast,Espírito Santo,Others,XBB.1.5.70.*+GK.* (Omicron),6
 2023-06-01,Jun 2023,Southeast,Minas Gerais,FIOCRUZ,FE.1.* (Omicron),10
-2023-06-01,Jun 2023,Southeast,Minas Gerais,FIOCRUZ,Others,4
-2023-06-01,Jun 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),17
+2023-06-01,Jun 2023,Southeast,Minas Gerais,FIOCRUZ,Others,2
+2023-06-01,Jun 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),14
+2023-06-01,Jun 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),5
 2023-06-01,Jun 2023,Southeast,Minas Gerais,Others,BA.2.* (Omicron),1
 2023-06-01,Jun 2023,Southeast,Minas Gerais,Others,FE.1.* (Omicron),12
-2023-06-01,Jun 2023,Southeast,Minas Gerais,Others,Others,6
+2023-06-01,Jun 2023,Southeast,Minas Gerais,Others,Others,3
 2023-06-01,Jun 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),21
+2023-06-01,Jun 2023,Southeast,Minas Gerais,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-06-01,Jun 2023,Southeast,Rio de Janeiro,FIOCRUZ,FE.1.* (Omicron),4
 2023-06-01,Jun 2023,Southeast,Rio de Janeiro,FIOCRUZ,XBB.* (Omicron),1
-2023-06-01,Jun 2023,Southeast,Rio de Janeiro,Others,Others,2
 2023-06-01,Jun 2023,Southeast,Rio de Janeiro,Others,XBB.* (Omicron),1
+2023-06-01,Jun 2023,Southeast,Rio de Janeiro,Others,XBB.1.5.70.*+GK.* (Omicron),2
 2023-06-01,Jun 2023,Southeast,São Paulo,FIOCRUZ,FE.1.* (Omicron),2
 2023-06-01,Jun 2023,Southeast,São Paulo,FIOCRUZ,Others,1
-2023-06-01,Jun 2023,Southeast,São Paulo,FIOCRUZ,XBB.* (Omicron),3
+2023-06-01,Jun 2023,Southeast,São Paulo,FIOCRUZ,XBB.* (Omicron),2
+2023-06-01,Jun 2023,Southeast,São Paulo,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
 2023-06-01,Jun 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),16
-2023-06-01,Jun 2023,Southeast,São Paulo,Others,Others,4
-2023-06-01,Jun 2023,Southeast,São Paulo,Others,XBB.* (Omicron),13
+2023-06-01,Jun 2023,Southeast,São Paulo,Others,Others,1
+2023-06-01,Jun 2023,Southeast,São Paulo,Others,XBB.* (Omicron),8
+2023-06-01,Jun 2023,Southeast,São Paulo,Others,XBB.1.5.70.*+GK.* (Omicron),9
 2023-06-01,Jun 2023,South,Paraná,FIOCRUZ,FE.1.* (Omicron),2
-2023-06-01,Jun 2023,South,Paraná,FIOCRUZ,Others,1
 2023-06-01,Jun 2023,South,Paraná,FIOCRUZ,XBB.* (Omicron),1
-2023-06-01,Jun 2023,South,Rio Grande do Sul,FIOCRUZ,BQ.1.* (Omicron),1
+2023-06-01,Jun 2023,South,Paraná,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
+2023-06-01,Jun 2023,South,Rio Grande do Sul,FIOCRUZ,BA.5.* (Omicron),1
 2023-06-01,Jun 2023,South,Rio Grande do Sul,FIOCRUZ,FE.1.* (Omicron),6
-2023-06-01,Jun 2023,South,Rio Grande do Sul,FIOCRUZ,Others,4
+2023-06-01,Jun 2023,South,Rio Grande do Sul,FIOCRUZ,Others,2
 2023-06-01,Jun 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),10
+2023-06-01,Jun 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),2
 2023-06-01,Jun 2023,South,Rio Grande do Sul,Others,FE.1.* (Omicron),1
 2023-06-01,Jun 2023,South,Rio Grande do Sul,Others,Others,1
-2023-06-01,Jun 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),6
+2023-06-01,Jun 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),5
+2023-06-01,Jun 2023,South,Rio Grande do Sul,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-06-01,Jun 2023,South,Santa Catarina,FIOCRUZ,FE.1.* (Omicron),21
 2023-06-01,Jun 2023,South,Santa Catarina,FIOCRUZ,Others,12
-2023-06-01,Jun 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),8
+2023-06-01,Jun 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),6
+2023-06-01,Jun 2023,South,Santa Catarina,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),2
 2023-07-01,Jul 2023,Central-west,Distrito Federal,Others,FE.1.* (Omicron),3
-2023-07-01,Jul 2023,Central-west,Distrito Federal,Others,Others,9
-2023-07-01,Jul 2023,Central-west,Distrito Federal,Others,XBB.* (Omicron),7
+2023-07-01,Jul 2023,Central-west,Distrito Federal,Others,Others,2
+2023-07-01,Jul 2023,Central-west,Distrito Federal,Others,XBB.* (Omicron),6
+2023-07-01,Jul 2023,Central-west,Distrito Federal,Others,XBB.1.5.70.*+GK.* (Omicron),8
 2023-07-01,Jul 2023,Central-west,Goiás,FIOCRUZ,FE.1.* (Omicron),5
-2023-07-01,Jul 2023,Central-west,Goiás,FIOCRUZ,Others,5
-2023-07-01,Jul 2023,Central-west,Goiás,FIOCRUZ,XBB.* (Omicron),6
-2023-07-01,Jul 2023,Central-west,Goiás,Others,Others,2
+2023-07-01,Jul 2023,Central-west,Goiás,FIOCRUZ,Others,1
+2023-07-01,Jul 2023,Central-west,Goiás,FIOCRUZ,XBB.* (Omicron),3
+2023-07-01,Jul 2023,Central-west,Goiás,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),7
 2023-07-01,Jul 2023,Central-west,Goiás,Others,XBB.* (Omicron),1
-2023-07-01,Jul 2023,Central-west,Mato Grosso,Others,Others,5
+2023-07-01,Jul 2023,Central-west,Goiás,Others,XBB.1.5.70.*+GK.* (Omicron),2
+2023-07-01,Jul 2023,Central-west,Mato Grosso,Others,Others,2
 2023-07-01,Jul 2023,Central-west,Mato Grosso,Others,XBB.* (Omicron),1
+2023-07-01,Jul 2023,Central-west,Mato Grosso,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-07-01,Jul 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,FE.1.* (Omicron),3
-2023-07-01,Jul 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,Others,2
+2023-07-01,Jul 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),2
 2023-07-01,Jul 2023,Central-west,Mato Grosso do Sul,Others,FE.1.* (Omicron),6
 2023-07-01,Jul 2023,Central-west,Mato Grosso do Sul,Others,XBB.* (Omicron),2
 2023-07-01,Jul 2023,Northeast,Alagoas,FIOCRUZ,FE.1.* (Omicron),4
 2023-07-01,Jul 2023,Northeast,Alagoas,FIOCRUZ,Others,2
 2023-07-01,Jul 2023,Northeast,Bahia,Others,FE.1.* (Omicron),25
-2023-07-01,Jul 2023,Northeast,Bahia,Others,Others,7
-2023-07-01,Jul 2023,Northeast,Bahia,Others,XBB.* (Omicron),13
+2023-07-01,Jul 2023,Northeast,Bahia,Others,Others,2
+2023-07-01,Jul 2023,Northeast,Bahia,Others,XBB.* (Omicron),5
+2023-07-01,Jul 2023,Northeast,Bahia,Others,XBB.1.5.70.*+GK.* (Omicron),13
 2023-07-01,Jul 2023,Northeast,Paraíba,Others,FE.1.* (Omicron),9
-2023-07-01,Jul 2023,Northeast,Paraíba,Others,Others,8
-2023-07-01,Jul 2023,Northeast,Paraíba,Others,XBB.* (Omicron),1
+2023-07-01,Jul 2023,Northeast,Paraíba,Others,XBB.1.5.70.*+GK.* (Omicron),9
 2023-07-01,Jul 2023,Northeast,Pernambuco,FIOCRUZ,FE.1.* (Omicron),3
-2023-07-01,Jul 2023,Northeast,Pernambuco,FIOCRUZ,Others,3
 2023-07-01,Jul 2023,Northeast,Pernambuco,FIOCRUZ,XBB.* (Omicron),2
+2023-07-01,Jul 2023,Northeast,Pernambuco,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),3
 2023-07-01,Jul 2023,North,Amapá,Others,BA.1.* (Omicron),1
 2023-07-01,Jul 2023,North,Amapá,Others,FE.1.* (Omicron),6
-2023-07-01,Jul 2023,North,Amapá,Others,Others,2
-2023-07-01,Jul 2023,North,Amapá,Others,XBB.* (Omicron),3
-2023-07-01,Jul 2023,North,Amazonas,FIOCRUZ,Others,7
-2023-07-01,Jul 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),15
+2023-07-01,Jul 2023,North,Amapá,Others,Others,1
+2023-07-01,Jul 2023,North,Amapá,Others,XBB.* (Omicron),2
+2023-07-01,Jul 2023,North,Amapá,Others,XBB.1.5.70.*+GK.* (Omicron),2
+2023-07-01,Jul 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),11
+2023-07-01,Jul 2023,North,Amazonas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),11
 2023-07-01,Jul 2023,North,Pará,Others,FE.1.* (Omicron),1
-2023-07-01,Jul 2023,North,Pará,Others,Others,13
-2023-07-01,Jul 2023,North,Pará,Others,XBB.* (Omicron),9
+2023-07-01,Jul 2023,North,Pará,Others,Others,17
+2023-07-01,Jul 2023,North,Pará,Others,XBB.* (Omicron),2
+2023-07-01,Jul 2023,North,Pará,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-07-01,Jul 2023,North,Rondônia,Others,FE.1.* (Omicron),2
-2023-07-01,Jul 2023,North,Rondônia,Others,XBB.* (Omicron),2
-2023-07-01,Jul 2023,North,Tocantins,FIOCRUZ,XBB.* (Omicron),8
+2023-07-01,Jul 2023,North,Rondônia,Others,XBB.1.5.70.*+GK.* (Omicron),2
+2023-07-01,Jul 2023,North,Tocantins,FIOCRUZ,Others,4
+2023-07-01,Jul 2023,North,Tocantins,FIOCRUZ,XBB.* (Omicron),4
 2023-07-01,Jul 2023,Southeast,Espírito Santo,Others,FE.1.* (Omicron),9
-2023-07-01,Jul 2023,Southeast,Espírito Santo,Others,Others,1
-2023-07-01,Jul 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),9
+2023-07-01,Jul 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),7
+2023-07-01,Jul 2023,Southeast,Espírito Santo,Others,XBB.1.5.70.*+GK.* (Omicron),3
 2023-07-01,Jul 2023,Southeast,Minas Gerais,FIOCRUZ,FE.1.* (Omicron),9
-2023-07-01,Jul 2023,Southeast,Minas Gerais,FIOCRUZ,Others,10
-2023-07-01,Jul 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),10
-2023-07-01,Jul 2023,Southeast,Minas Gerais,Others,BQ.1.* (Omicron),1
+2023-07-01,Jul 2023,Southeast,Minas Gerais,FIOCRUZ,Others,4
+2023-07-01,Jul 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),7
+2023-07-01,Jul 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),9
+2023-07-01,Jul 2023,Southeast,Minas Gerais,Others,BA.5.* (Omicron),1
 2023-07-01,Jul 2023,Southeast,Minas Gerais,Others,FE.1.* (Omicron),14
-2023-07-01,Jul 2023,Southeast,Minas Gerais,Others,Others,14
-2023-07-01,Jul 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),12
+2023-07-01,Jul 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),11
+2023-07-01,Jul 2023,Southeast,Minas Gerais,Others,XBB.1.5.70.*+GK.* (Omicron),15
 2023-07-01,Jul 2023,Southeast,Rio de Janeiro,FIOCRUZ,BA.5.* (Omicron),2
 2023-07-01,Jul 2023,Southeast,Rio de Janeiro,FIOCRUZ,FE.1.* (Omicron),1
 2023-07-01,Jul 2023,Southeast,Rio de Janeiro,FIOCRUZ,Others,3
-2023-07-01,Jul 2023,Southeast,Rio de Janeiro,Others,Others,5
+2023-07-01,Jul 2023,Southeast,Rio de Janeiro,Others,Others,1
+2023-07-01,Jul 2023,Southeast,Rio de Janeiro,Others,XBB.1.5.70.*+GK.* (Omicron),4
 2023-07-01,Jul 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),6
-2023-07-01,Jul 2023,Southeast,São Paulo,Others,Others,2
-2023-07-01,Jul 2023,Southeast,São Paulo,Others,XBB.* (Omicron),6
+2023-07-01,Jul 2023,Southeast,São Paulo,Others,Others,1
+2023-07-01,Jul 2023,Southeast,São Paulo,Others,XBB.* (Omicron),3
+2023-07-01,Jul 2023,Southeast,São Paulo,Others,XBB.1.5.70.*+GK.* (Omicron),4
 2023-07-01,Jul 2023,South,Paraná,FIOCRUZ,FE.1.* (Omicron),1
 2023-07-01,Jul 2023,South,Paraná,FIOCRUZ,Others,1
-2023-07-01,Jul 2023,South,Paraná,FIOCRUZ,XBB.* (Omicron),1
+2023-07-01,Jul 2023,South,Paraná,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
 2023-07-01,Jul 2023,South,Rio Grande do Sul,FIOCRUZ,FE.1.* (Omicron),6
-2023-07-01,Jul 2023,South,Rio Grande do Sul,FIOCRUZ,Others,4
-2023-07-01,Jul 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),18
+2023-07-01,Jul 2023,South,Rio Grande do Sul,FIOCRUZ,Others,2
+2023-07-01,Jul 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),14
+2023-07-01,Jul 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),6
 2023-07-01,Jul 2023,South,Rio Grande do Sul,Others,FE.1.* (Omicron),3
-2023-07-01,Jul 2023,South,Rio Grande do Sul,Others,Others,2
-2023-07-01,Jul 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),2
+2023-07-01,Jul 2023,South,Rio Grande do Sul,Others,XBB.* (Omicron),3
+2023-07-01,Jul 2023,South,Rio Grande do Sul,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-07-01,Jul 2023,South,Santa Catarina,FIOCRUZ,FE.1.* (Omicron),2
-2023-07-01,Jul 2023,South,Santa Catarina,FIOCRUZ,Others,7
+2023-07-01,Jul 2023,South,Santa Catarina,FIOCRUZ,Others,4
 2023-07-01,Jul 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),3
+2023-07-01,Jul 2023,South,Santa Catarina,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),3
 2023-08-01,Aug 2023,Central-west,Distrito Federal,Others,Others,1
 2023-08-01,Aug 2023,Central-west,Goiás,FIOCRUZ,FE.1.* (Omicron),2
-2023-08-01,Aug 2023,Central-west,Goiás,FIOCRUZ,Others,14
-2023-08-01,Aug 2023,Central-west,Goiás,FIOCRUZ,XBB.* (Omicron),21
+2023-08-01,Aug 2023,Central-west,Goiás,FIOCRUZ,Others,15
+2023-08-01,Aug 2023,Central-west,Goiás,FIOCRUZ,XBB.* (Omicron),1
+2023-08-01,Aug 2023,Central-west,Goiás,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),19
 2023-08-01,Aug 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,FE.1.* (Omicron),1
-2023-08-01,Aug 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,Others,1
 2023-08-01,Aug 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,XBB.* (Omicron),1
-2023-08-01,Aug 2023,Northeast,Bahia,Others,Others,4
-2023-08-01,Aug 2023,Northeast,Bahia,Others,XBB.* (Omicron),2
+2023-08-01,Aug 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
+2023-08-01,Aug 2023,Northeast,Bahia,Others,Others,1
+2023-08-01,Aug 2023,Northeast,Bahia,Others,XBB.1.5.70.*+GK.* (Omicron),5
 2023-08-01,Aug 2023,North,Amapá,Others,FE.1.* (Omicron),5
-2023-08-01,Aug 2023,North,Amapá,Others,Others,3
-2023-08-01,Aug 2023,North,Amapá,Others,XBB.* (Omicron),2
-2023-08-01,Aug 2023,North,Amazonas,FIOCRUZ,Others,14
-2023-08-01,Aug 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),9
+2023-08-01,Aug 2023,North,Amapá,Others,Others,1
+2023-08-01,Aug 2023,North,Amapá,Others,XBB.* (Omicron),1
+2023-08-01,Aug 2023,North,Amapá,Others,XBB.1.5.70.*+GK.* (Omicron),3
+2023-08-01,Aug 2023,North,Amazonas,FIOCRUZ,XBB.* (Omicron),7
+2023-08-01,Aug 2023,North,Amazonas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),16
 2023-08-01,Aug 2023,North,Pará,Others,FE.1.* (Omicron),1
-2023-08-01,Aug 2023,North,Pará,Others,XBB.* (Omicron),6
+2023-08-01,Aug 2023,North,Pará,Others,Others,1
+2023-08-01,Aug 2023,North,Pará,Others,XBB.* (Omicron),4
+2023-08-01,Aug 2023,North,Pará,Others,XBB.1.5.70.*+GK.* (Omicron),1
 2023-08-01,Aug 2023,Southeast,Espírito Santo,Others,FE.1.* (Omicron),4
-2023-08-01,Aug 2023,Southeast,Espírito Santo,Others,Others,7
+2023-08-01,Aug 2023,Southeast,Espírito Santo,Others,Others,3
 2023-08-01,Aug 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),5
-2023-08-01,Aug 2023,Southeast,Minas Gerais,FIOCRUZ,Others,7
+2023-08-01,Aug 2023,Southeast,Espírito Santo,Others,XBB.1.5.70.*+GK.* (Omicron),10
+2023-08-01,Aug 2023,Southeast,Minas Gerais,FIOCRUZ,Others,3
 2023-08-01,Aug 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.* (Omicron),2
+2023-08-01,Aug 2023,Southeast,Minas Gerais,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),4
 2023-08-01,Aug 2023,Southeast,Minas Gerais,Others,FE.1.* (Omicron),16
-2023-08-01,Aug 2023,Southeast,Minas Gerais,Others,Others,43
-2023-08-01,Aug 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),30
+2023-08-01,Aug 2023,Southeast,Minas Gerais,Others,Others,2
+2023-08-01,Aug 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),27
+2023-08-01,Aug 2023,Southeast,Minas Gerais,Others,XBB.1.5.70.*+GK.* (Omicron),44
 2023-08-01,Aug 2023,Southeast,Rio de Janeiro,FIOCRUZ,FE.1.* (Omicron),15
-2023-08-01,Aug 2023,Southeast,Rio de Janeiro,FIOCRUZ,Others,48
-2023-08-01,Aug 2023,Southeast,Rio de Janeiro,FIOCRUZ,XBB.* (Omicron),22
+2023-08-01,Aug 2023,Southeast,Rio de Janeiro,FIOCRUZ,Others,26
+2023-08-01,Aug 2023,Southeast,Rio de Janeiro,FIOCRUZ,XBB.* (Omicron),14
+2023-08-01,Aug 2023,Southeast,Rio de Janeiro,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),30
 2023-08-01,Aug 2023,Southeast,Rio de Janeiro,Others,Others,1
-2023-08-01,Aug 2023,Southeast,Rio de Janeiro,Others,XBB.* (Omicron),1
-2023-08-01,Aug 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),8
-2023-08-01,Aug 2023,Southeast,São Paulo,Others,Others,44
-2023-08-01,Aug 2023,Southeast,São Paulo,Others,XBB.* (Omicron),12
+2023-08-01,Aug 2023,Southeast,Rio de Janeiro,Others,XBB.1.5.70.*+GK.* (Omicron),1
+2023-08-01,Aug 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),9
+2023-08-01,Aug 2023,Southeast,São Paulo,Others,Others,11
+2023-08-01,Aug 2023,Southeast,São Paulo,Others,XBB.* (Omicron),4
+2023-08-01,Aug 2023,Southeast,São Paulo,Others,XBB.1.5.70.*+GK.* (Omicron),42
 2023-08-01,Aug 2023,South,Paraná,FIOCRUZ,FE.1.* (Omicron),1
 2023-08-01,Aug 2023,South,Rio Grande do Sul,FIOCRUZ,FE.1.* (Omicron),3
-2023-08-01,Aug 2023,South,Rio Grande do Sul,FIOCRUZ,Others,9
-2023-08-01,Aug 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),2
+2023-08-01,Aug 2023,South,Rio Grande do Sul,FIOCRUZ,Others,4
+2023-08-01,Aug 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),1
+2023-08-01,Aug 2023,South,Rio Grande do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),6
 2023-08-01,Aug 2023,South,Santa Catarina,FIOCRUZ,FE.1.* (Omicron),4
-2023-08-01,Aug 2023,South,Santa Catarina,FIOCRUZ,Others,10
-2023-08-01,Aug 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),6
-2023-09-01,Sep 2023,Southeast,Espírito Santo,Others,Others,3
+2023-08-01,Aug 2023,South,Santa Catarina,FIOCRUZ,Others,8
+2023-08-01,Aug 2023,South,Santa Catarina,FIOCRUZ,XBB.* (Omicron),1
+2023-08-01,Aug 2023,South,Santa Catarina,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),7
+2023-09-01,Sep 2023,Central-west,Mato Grosso do Sul,FIOCRUZ,FE.1.* (Omicron),3
+2023-09-01,Sep 2023,Southeast,Espírito Santo,Others,Others,7
+2023-09-01,Sep 2023,Southeast,Espírito Santo,Others,XBB.* (Omicron),1
+2023-09-01,Sep 2023,Southeast,Espírito Santo,Others,XBB.1.5.70.*+GK.* (Omicron),15
 2023-09-01,Sep 2023,Southeast,Minas Gerais,Others,FE.1.* (Omicron),2
 2023-09-01,Sep 2023,Southeast,Minas Gerais,Others,Others,1
-2023-09-01,Sep 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),9
-2023-09-01,Sep 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),3
-2023-09-01,Sep 2023,Southeast,São Paulo,Others,Others,11
-2023-09-01,Sep 2023,Southeast,São Paulo,Others,XBB.* (Omicron),6
+2023-09-01,Sep 2023,Southeast,Minas Gerais,Others,XBB.* (Omicron),7
+2023-09-01,Sep 2023,Southeast,Minas Gerais,Others,XBB.1.5.70.*+GK.* (Omicron),2
+2023-09-01,Sep 2023,Southeast,São Paulo,Others,FE.1.* (Omicron),7
+2023-09-01,Sep 2023,Southeast,São Paulo,Others,Others,13
+2023-09-01,Sep 2023,Southeast,São Paulo,Others,XBB.* (Omicron),1
+2023-09-01,Sep 2023,Southeast,São Paulo,Others,XBB.1.5.70.*+GK.* (Omicron),32
