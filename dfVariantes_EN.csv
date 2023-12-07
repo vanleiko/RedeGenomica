@@ -253,7 +253,7 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-05-01,May 2023,Central-west,Goiás,FE.1.* (Omicron),11
 2023-05-01,May 2023,Central-west,Goiás,Others,20
 2023-05-01,May 2023,Central-west,Goiás,XBB.1.5.* (Omicron),5
-2023-05-01,May 2023,Central-west,Goiás,XBB.1.5.70.*+GK.* (Omicron),4
+2023-05-01,May 2023,Central-west,Goiás,XBB.1.5.70.*+GK.* (Omicron),5
 2023-05-01,May 2023,Central-west,Mato Grosso,FE.1.* (Omicron),10
 2023-05-01,May 2023,Central-west,Mato Grosso,HA.1.* (Omicron),1
 2023-05-01,May 2023,Central-west,Mato Grosso,Others,9
@@ -563,9 +563,10 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-08-01,Aug 2023,North,Amapá,FE.1.* (Omicron),6
 2023-08-01,Aug 2023,North,Amapá,JD.1.* (Omicron),5
 2023-08-01,Aug 2023,North,Amapá,XBB.1.5.70.*+GK.* (Omicron),4
+2023-08-01,Aug 2023,North,Amazonas,JD.1.* (Omicron),1
 2023-08-01,Aug 2023,North,Amazonas,Others,5
 2023-08-01,Aug 2023,North,Amazonas,XBB.1.5.* (Omicron),2
-2023-08-01,Aug 2023,North,Amazonas,XBB.1.5.70.*+GK.* (Omicron),16
+2023-08-01,Aug 2023,North,Amazonas,XBB.1.5.70.*+GK.* (Omicron),18
 2023-08-01,Aug 2023,North,Pará,FE.1.* (Omicron),1
 2023-08-01,Aug 2023,North,Pará,JD.1.* (Omicron),5
 2023-08-01,Aug 2023,North,Pará,XBB.1.5.70.*+GK.* (Omicron),1
@@ -601,8 +602,8 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-08-01,Aug 2023,Southeast,São Paulo,XBB.1.5.70.*+GK.* (Omicron),51
 2023-08-01,Aug 2023,South,Paraná,FE.1.* (Omicron),2
 2023-08-01,Aug 2023,South,Paraná,Others,1
-2023-08-01,Aug 2023,South,Paraná,XBB.1.5.* (Omicron),2
-2023-08-01,Aug 2023,South,Paraná,XBB.1.5.70.*+GK.* (Omicron),5
+2023-08-01,Aug 2023,South,Paraná,XBB.1.5.* (Omicron),3
+2023-08-01,Aug 2023,South,Paraná,XBB.1.5.70.*+GK.* (Omicron),9
 2023-08-01,Aug 2023,South,Rio Grande do Sul,FE.1.* (Omicron),5
 2023-08-01,Aug 2023,South,Rio Grande do Sul,JD.1.* (Omicron),1
 2023-08-01,Aug 2023,South,Rio Grande do Sul,Others,6
@@ -614,15 +615,16 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-08-01,Aug 2023,South,Santa Catarina,Others,5
 2023-08-01,Aug 2023,South,Santa Catarina,XBB.1.5.* (Omicron),2
 2023-08-01,Aug 2023,South,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),24
-2023-09-01,Sep 2023,Central-west,Goiás,FE.1.* (Omicron),2
-2023-09-01,Sep 2023,Central-west,Goiás,JD.1.* (Omicron),20
-2023-09-01,Sep 2023,Central-west,Goiás,XBB.1.5.70.*+GK.* (Omicron),4
-2023-09-01,Sep 2023,Central-west,Mato Grosso,XBB.1.5.70.*+GK.* (Omicron),1
-2023-09-01,Sep 2023,Central-west,Mato Grosso do Sul,FE.1.* (Omicron),3
+2023-09-01,Sep 2023,Central-west,Goiás,FE.1.* (Omicron),3
+2023-09-01,Sep 2023,Central-west,Goiás,JD.1.* (Omicron),86
+2023-09-01,Sep 2023,Central-west,Goiás,XBB.1.5.70.*+GK.* (Omicron),14
+2023-09-01,Sep 2023,Central-west,Mato Grosso,JD.1.* (Omicron),1
+2023-09-01,Sep 2023,Central-west,Mato Grosso,XBB.1.5.70.*+GK.* (Omicron),3
+2023-09-01,Sep 2023,Central-west,Mato Grosso do Sul,FE.1.* (Omicron),4
 2023-09-01,Sep 2023,Central-west,Mato Grosso do Sul,HA.1.* (Omicron),1
-2023-09-01,Sep 2023,Central-west,Mato Grosso do Sul,JD.1.* (Omicron),10
+2023-09-01,Sep 2023,Central-west,Mato Grosso do Sul,JD.1.* (Omicron),11
 2023-09-01,Sep 2023,Central-west,Mato Grosso do Sul,XBB.1.5.* (Omicron),1
-2023-09-01,Sep 2023,Central-west,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),12
+2023-09-01,Sep 2023,Central-west,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),16
 2023-09-01,Sep 2023,Northeast,Alagoas,EG.5.* (Omicron),1
 2023-09-01,Sep 2023,Northeast,Alagoas,JD.1.* (Omicron),1
 2023-09-01,Sep 2023,Northeast,Alagoas,Others,1
@@ -636,6 +638,9 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-09-01,Sep 2023,North,Amapá,FE.1.* (Omicron),1
 2023-09-01,Sep 2023,North,Amapá,JD.1.* (Omicron),5
 2023-09-01,Sep 2023,North,Amapá,XBB.1.5.* (Omicron),1
+2023-09-01,Sep 2023,North,Amazonas,Others,1
+2023-09-01,Sep 2023,North,Amazonas,XBB.1.5.* (Omicron),3
+2023-09-01,Sep 2023,North,Amazonas,XBB.1.5.70.*+GK.* (Omicron),23
 2023-09-01,Sep 2023,North,Pará,JD.1.* (Omicron),4
 2023-09-01,Sep 2023,North,Pará,Others,1
 2023-09-01,Sep 2023,North,Pará,XBB.1.5.70.*+GK.* (Omicron),2
@@ -663,15 +668,15 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-09-01,Sep 2023,Southeast,São Paulo,EG.5.* (Omicron),7
 2023-09-01,Sep 2023,Southeast,São Paulo,FE.1.* (Omicron),17
 2023-09-01,Sep 2023,Southeast,São Paulo,HA.1.* (Omicron),2
-2023-09-01,Sep 2023,Southeast,São Paulo,JD.1.* (Omicron),54
-2023-09-01,Sep 2023,Southeast,São Paulo,Others,9
+2023-09-01,Sep 2023,Southeast,São Paulo,JD.1.* (Omicron),56
+2023-09-01,Sep 2023,Southeast,São Paulo,Others,10
 2023-09-01,Sep 2023,Southeast,São Paulo,XBB.1.5.* (Omicron),1
-2023-09-01,Sep 2023,Southeast,São Paulo,XBB.1.5.70.*+GK.* (Omicron),105
-2023-09-01,Sep 2023,South,Paraná,FE.1.* (Omicron),1
-2023-09-01,Sep 2023,South,Paraná,JD.1.* (Omicron),1
-2023-09-01,Sep 2023,South,Paraná,Others,3
-2023-09-01,Sep 2023,South,Paraná,XBB.1.5.* (Omicron),2
-2023-09-01,Sep 2023,South,Paraná,XBB.1.5.70.*+GK.* (Omicron),9
+2023-09-01,Sep 2023,Southeast,São Paulo,XBB.1.5.70.*+GK.* (Omicron),109
+2023-09-01,Sep 2023,South,Paraná,FE.1.* (Omicron),5
+2023-09-01,Sep 2023,South,Paraná,JD.1.* (Omicron),6
+2023-09-01,Sep 2023,South,Paraná,Others,12
+2023-09-01,Sep 2023,South,Paraná,XBB.1.5.* (Omicron),4
+2023-09-01,Sep 2023,South,Paraná,XBB.1.5.70.*+GK.* (Omicron),58
 2023-09-01,Sep 2023,South,Rio Grande do Sul,EG.5.* (Omicron),1
 2023-09-01,Sep 2023,South,Rio Grande do Sul,FE.1.* (Omicron),9
 2023-09-01,Sep 2023,South,Rio Grande do Sul,JD.1.* (Omicron),15
@@ -685,22 +690,34 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-09-01,Sep 2023,South,Santa Catarina,Others,10
 2023-09-01,Sep 2023,South,Santa Catarina,XBB.1.5.* (Omicron),2
 2023-09-01,Sep 2023,South,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),61
+2023-10-01,Oct 2023,Central-west,Goiás,JD.1.* (Omicron),16
+2023-10-01,Oct 2023,Central-west,Goiás,XBB.1.5.70.*+GK.* (Omicron),1
+2023-10-01,Oct 2023,Central-west,Mato Grosso,JD.1.* (Omicron),7
 2023-10-01,Oct 2023,Central-west,Mato Grosso,Others,1
 2023-10-01,Oct 2023,Central-west,Mato Grosso,XBB.1.5.70.*+GK.* (Omicron),1
-2023-10-01,Oct 2023,Central-west,Mato Grosso do Sul,JD.1.* (Omicron),8
-2023-10-01,Oct 2023,Central-west,Mato Grosso do Sul,Others,2
-2023-10-01,Oct 2023,Central-west,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),11
-2023-10-01,Oct 2023,Northeast,Alagoas,JD.1.* (Omicron),1
-2023-10-01,Oct 2023,Northeast,Alagoas,XBB.1.5.70.*+GK.* (Omicron),1
-2023-10-01,Oct 2023,Northeast,Bahia,JD.1.* (Omicron),16
-2023-10-01,Oct 2023,Northeast,Bahia,Others,4
-2023-10-01,Oct 2023,Northeast,Bahia,XBB.1.5.70.*+GK.* (Omicron),15
+2023-10-01,Oct 2023,Central-west,Mato Grosso do Sul,EG.5.* (Omicron),2
+2023-10-01,Oct 2023,Central-west,Mato Grosso do Sul,FE.1.* (Omicron),1
+2023-10-01,Oct 2023,Central-west,Mato Grosso do Sul,JD.1.* (Omicron),21
+2023-10-01,Oct 2023,Central-west,Mato Grosso do Sul,Others,3
+2023-10-01,Oct 2023,Central-west,Mato Grosso do Sul,XBB.1.5.* (Omicron),1
+2023-10-01,Oct 2023,Central-west,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),20
+2023-10-01,Oct 2023,Northeast,Alagoas,JD.1.* (Omicron),3
+2023-10-01,Oct 2023,Northeast,Alagoas,XBB.1.5.70.*+GK.* (Omicron),5
+2023-10-01,Oct 2023,Northeast,Bahia,JD.1.* (Omicron),51
+2023-10-01,Oct 2023,Northeast,Bahia,Others,12
+2023-10-01,Oct 2023,Northeast,Bahia,XBB.1.5.70.*+GK.* (Omicron),34
+2023-10-01,Oct 2023,Northeast,Ceará,JD.1.* (Omicron),6
+2023-10-01,Oct 2023,Northeast,Ceará,Others,1
 2023-10-01,Oct 2023,Northeast,Paraíba,JD.1.* (Omicron),1
 2023-10-01,Oct 2023,Northeast,Paraíba,XBB.1.5.70.*+GK.* (Omicron),5
 2023-10-01,Oct 2023,Northeast,Pernambuco,JD.1.* (Omicron),1
+2023-10-01,Oct 2023,Northeast,Sergipe,Others,1
 2023-10-01,Oct 2023,North,Acre,JD.1.* (Omicron),19
 2023-10-01,Oct 2023,North,Acre,XBB.1.5.70.*+GK.* (Omicron),2
 2023-10-01,Oct 2023,North,Amapá,JD.1.* (Omicron),2
+2023-10-01,Oct 2023,North,Amazonas,JD.1.* (Omicron),1
+2023-10-01,Oct 2023,North,Amazonas,Others,1
+2023-10-01,Oct 2023,North,Amazonas,XBB.1.5.70.*+GK.* (Omicron),22
 2023-10-01,Oct 2023,North,Rondônia,JD.1.* (Omicron),1
 2023-10-01,Oct 2023,North,Roraima,XBB.1.5.* (Omicron),1
 2023-10-01,Oct 2023,Southeast,Espírito Santo,FE.1.* (Omicron),1
@@ -714,24 +731,43 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-10-01,Oct 2023,Southeast,Minas Gerais,Others,2
 2023-10-01,Oct 2023,Southeast,Minas Gerais,XBB.1.5.70.*+GK.* (Omicron),18
 2023-10-01,Oct 2023,Southeast,Rio de Janeiro,EG.5.* (Omicron),6
-2023-10-01,Oct 2023,Southeast,Rio de Janeiro,JD.1.* (Omicron),21
-2023-10-01,Oct 2023,Southeast,Rio de Janeiro,Others,24
-2023-10-01,Oct 2023,Southeast,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),60
-2023-10-01,Oct 2023,Southeast,São Paulo,EG.5.* (Omicron),3
-2023-10-01,Oct 2023,Southeast,São Paulo,FE.1.* (Omicron),2
-2023-10-01,Oct 2023,Southeast,São Paulo,JD.1.* (Omicron),56
-2023-10-01,Oct 2023,Southeast,São Paulo,Others,13
-2023-10-01,Oct 2023,Southeast,São Paulo,XBB.1.5.* (Omicron),4
-2023-10-01,Oct 2023,Southeast,São Paulo,XBB.1.5.70.*+GK.* (Omicron),87
+2023-10-01,Oct 2023,Southeast,Rio de Janeiro,JD.1.* (Omicron),23
+2023-10-01,Oct 2023,Southeast,Rio de Janeiro,Others,26
+2023-10-01,Oct 2023,Southeast,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),64
+2023-10-01,Oct 2023,Southeast,São Paulo,EG.5.* (Omicron),4
+2023-10-01,Oct 2023,Southeast,São Paulo,FE.1.* (Omicron),3
+2023-10-01,Oct 2023,Southeast,São Paulo,JD.1.* (Omicron),75
+2023-10-01,Oct 2023,Southeast,São Paulo,Others,15
+2023-10-01,Oct 2023,Southeast,São Paulo,XBB.1.5.* (Omicron),5
+2023-10-01,Oct 2023,Southeast,São Paulo,XBB.1.5.70.*+GK.* (Omicron),121
 2023-10-01,Oct 2023,South,Rio Grande do Sul,EG.5.* (Omicron),2
 2023-10-01,Oct 2023,South,Rio Grande do Sul,FE.1.* (Omicron),3
 2023-10-01,Oct 2023,South,Rio Grande do Sul,JD.1.* (Omicron),14
 2023-10-01,Oct 2023,South,Rio Grande do Sul,Others,5
 2023-10-01,Oct 2023,South,Rio Grande do Sul,XBB.1.5.* (Omicron),2
 2023-10-01,Oct 2023,South,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),19
-2023-10-01,Oct 2023,South,Santa Catarina,JD.1.* (Omicron),6
-2023-10-01,Oct 2023,South,Santa Catarina,Others,4
-2023-10-01,Oct 2023,South,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),13
+2023-10-01,Oct 2023,South,Santa Catarina,EG.5.* (Omicron),2
+2023-10-01,Oct 2023,South,Santa Catarina,FE.1.* (Omicron),2
+2023-10-01,Oct 2023,South,Santa Catarina,JD.1.* (Omicron),38
+2023-10-01,Oct 2023,South,Santa Catarina,Others,13
+2023-10-01,Oct 2023,South,Santa Catarina,XBB.1.5.* (Omicron),1
+2023-10-01,Oct 2023,South,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),57
+2023-11-01,Nov 2023,Central-west,Mato Grosso,JD.1.* (Omicron),1
+2023-11-01,Nov 2023,Northeast,Alagoas,JD.1.* (Omicron),1
+2023-11-01,Nov 2023,Northeast,Alagoas,XBB.1.5.70.*+GK.* (Omicron),1
+2023-11-01,Nov 2023,Northeast,Bahia,JD.1.* (Omicron),2
+2023-11-01,Nov 2023,Northeast,Bahia,Others,3
+2023-11-01,Nov 2023,Northeast,Bahia,XBB.1.5.70.*+GK.* (Omicron),1
+2023-11-01,Nov 2023,Northeast,Ceará,JD.1.* (Omicron),8
+2023-11-01,Nov 2023,Northeast,Ceará,Others,39
+2023-11-01,Nov 2023,Northeast,Ceará,XBB.1.5.70.*+GK.* (Omicron),1
+2023-11-01,Nov 2023,North,Amazonas,XBB.1.5.70.*+GK.* (Omicron),3
 2023-11-01,Nov 2023,North,Pará,JD.1.* (Omicron),1
 2023-11-01,Nov 2023,Southeast,Espírito Santo,JD.1.* (Omicron),2
 2023-11-01,Nov 2023,Southeast,Espírito Santo,XBB.1.5.70.*+GK.* (Omicron),8
+2023-11-01,Nov 2023,Southeast,Rio de Janeiro,JD.1.* (Omicron),3
+2023-11-01,Nov 2023,Southeast,Rio de Janeiro,Others,1
+2023-11-01,Nov 2023,Southeast,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),1
+2023-11-01,Nov 2023,South,Santa Catarina,JD.1.* (Omicron),4
+2023-11-01,Nov 2023,South,Santa Catarina,Others,2
+2023-11-01,Nov 2023,South,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),8

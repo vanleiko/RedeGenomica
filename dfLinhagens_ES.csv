@@ -4296,7 +4296,7 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-05-01,May 2023,Centro-oeste,Goiás,FIOCRUZ,FE.1.* (Omicron),7
 2023-05-01,May 2023,Centro-oeste,Goiás,FIOCRUZ,Otras,2
 2023-05-01,May 2023,Centro-oeste,Goiás,FIOCRUZ,XBB.* (Omicron),10
-2023-05-01,May 2023,Centro-oeste,Goiás,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
+2023-05-01,May 2023,Centro-oeste,Goiás,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),2
 2023-05-01,May 2023,Centro-oeste,Goiás,Otros,FE.1.* (Omicron),4
 2023-05-01,May 2023,Centro-oeste,Goiás,Otros,Otras,4
 2023-05-01,May 2023,Centro-oeste,Goiás,Otros,XBB.* (Omicron),9
@@ -4659,9 +4659,9 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-08-01,Ago 2023,Norte,Amapá,Otros,FE.1.* (Omicron),6
 2023-08-01,Ago 2023,Norte,Amapá,Otros,Otras,5
 2023-08-01,Ago 2023,Norte,Amapá,Otros,XBB.1.5.70.*+GK.* (Omicron),4
-2023-08-01,Ago 2023,Norte,Amazonas,FIOCRUZ,Otras,5
+2023-08-01,Ago 2023,Norte,Amazonas,FIOCRUZ,Otras,6
 2023-08-01,Ago 2023,Norte,Amazonas,FIOCRUZ,XBB.* (Omicron),2
-2023-08-01,Ago 2023,Norte,Amazonas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),16
+2023-08-01,Ago 2023,Norte,Amazonas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),18
 2023-08-01,Ago 2023,Norte,Pará,Otros,FE.1.* (Omicron),1
 2023-08-01,Ago 2023,Norte,Pará,Otros,Otras,5
 2023-08-01,Ago 2023,Norte,Pará,Otros,XBB.1.5.70.*+GK.* (Omicron),1
@@ -4700,6 +4700,8 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-08-01,Ago 2023,Sur,Paraná,FIOCRUZ,FE.1.* (Omicron),2
 2023-08-01,Ago 2023,Sur,Paraná,FIOCRUZ,XBB.* (Omicron),3
 2023-08-01,Ago 2023,Sur,Paraná,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),5
+2023-08-01,Ago 2023,Sur,Paraná,Otros,XBB.* (Omicron),1
+2023-08-01,Ago 2023,Sur,Paraná,Otros,XBB.1.5.70.*+GK.* (Omicron),4
 2023-08-01,Ago 2023,Sur,Rio Grande do Sul,FIOCRUZ,FE.1.* (Omicron),5
 2023-08-01,Ago 2023,Sur,Rio Grande do Sul,FIOCRUZ,Otras,4
 2023-08-01,Ago 2023,Sur,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),7
@@ -4712,11 +4714,14 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-08-01,Ago 2023,Sur,Santa Catarina,Otros,Otras,7
 2023-08-01,Ago 2023,Sur,Santa Catarina,Otros,XBB.* (Omicron),1
 2023-08-01,Ago 2023,Sur,Santa Catarina,Otros,XBB.1.5.70.*+GK.* (Omicron),9
-2023-09-01,Sep 2023,Centro-oeste,Goiás,FIOCRUZ,FE.1.* (Omicron),2
-2023-09-01,Sep 2023,Centro-oeste,Goiás,FIOCRUZ,Otras,20
-2023-09-01,Sep 2023,Centro-oeste,Goiás,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),4
-2023-09-01,Sep 2023,Centro-oeste,Mato Grosso,Otros,XBB.1.5.70.*+GK.* (Omicron),1
-2023-09-01,Sep 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,FE.1.* (Omicron),3
+2023-09-01,Sep 2023,Centro-oeste,Goiás,FIOCRUZ,FE.1.* (Omicron),3
+2023-09-01,Sep 2023,Centro-oeste,Goiás,FIOCRUZ,Otras,86
+2023-09-01,Sep 2023,Centro-oeste,Goiás,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),14
+2023-09-01,Sep 2023,Centro-oeste,Mato Grosso,Otros,Otras,1
+2023-09-01,Sep 2023,Centro-oeste,Mato Grosso,Otros,XBB.1.5.70.*+GK.* (Omicron),3
+2023-09-01,Sep 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,FE.1.* (Omicron),4
+2023-09-01,Sep 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,Otras,1
+2023-09-01,Sep 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),4
 2023-09-01,Sep 2023,Centro-oeste,Mato Grosso do Sul,Otros,Otras,11
 2023-09-01,Sep 2023,Centro-oeste,Mato Grosso do Sul,Otros,XBB.* (Omicron),1
 2023-09-01,Sep 2023,Centro-oeste,Mato Grosso do Sul,Otros,XBB.1.5.70.*+GK.* (Omicron),12
@@ -4732,6 +4737,9 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-09-01,Sep 2023,Norte,Amapá,Otros,FE.1.* (Omicron),1
 2023-09-01,Sep 2023,Norte,Amapá,Otros,Otras,5
 2023-09-01,Sep 2023,Norte,Amapá,Otros,XBB.* (Omicron),1
+2023-09-01,Sep 2023,Norte,Amazonas,FIOCRUZ,Otras,1
+2023-09-01,Sep 2023,Norte,Amazonas,FIOCRUZ,XBB.* (Omicron),3
+2023-09-01,Sep 2023,Norte,Amazonas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),23
 2023-09-01,Sep 2023,Norte,Pará,Otros,Otras,5
 2023-09-01,Sep 2023,Norte,Pará,Otros,XBB.1.5.70.*+GK.* (Omicron),2
 2023-09-01,Sep 2023,Norte,Roraima,Otros,Otras,2
@@ -4754,10 +4762,11 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-09-01,Sep 2023,Sureste,Rio de Eneeiro,Otros,Otras,9
 2023-09-01,Sep 2023,Sureste,Rio de Eneeiro,Otros,XBB.* (Omicron),1
 2023-09-01,Sep 2023,Sureste,Rio de Eneeiro,Otros,XBB.1.5.70.*+GK.* (Omicron),1
+2023-09-01,Sep 2023,Sureste,São Paulo,FIOCRUZ,BA.2.* (Omicron),1
 2023-09-01,Sep 2023,Sureste,São Paulo,FIOCRUZ,FE.1.* (Omicron),8
-2023-09-01,Sep 2023,Sureste,São Paulo,FIOCRUZ,Otras,40
+2023-09-01,Sep 2023,Sureste,São Paulo,FIOCRUZ,Otras,42
 2023-09-01,Sep 2023,Sureste,São Paulo,FIOCRUZ,XBB.* (Omicron),2
-2023-09-01,Sep 2023,Sureste,São Paulo,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),40
+2023-09-01,Sep 2023,Sureste,São Paulo,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),44
 2023-09-01,Sep 2023,Sureste,São Paulo,Otros,FE.1.* (Omicron),9
 2023-09-01,Sep 2023,Sureste,São Paulo,Otros,Otras,30
 2023-09-01,Sep 2023,Sureste,São Paulo,Otros,XBB.* (Omicron),1
@@ -4766,6 +4775,10 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-09-01,Sep 2023,Sur,Paraná,FIOCRUZ,Otras,3
 2023-09-01,Sep 2023,Sur,Paraná,FIOCRUZ,XBB.* (Omicron),3
 2023-09-01,Sep 2023,Sur,Paraná,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),9
+2023-09-01,Sep 2023,Sur,Paraná,Otros,FE.1.* (Omicron),4
+2023-09-01,Sep 2023,Sur,Paraná,Otros,Otras,8
+2023-09-01,Sep 2023,Sur,Paraná,Otros,XBB.* (Omicron),8
+2023-09-01,Sep 2023,Sur,Paraná,Otros,XBB.1.5.70.*+GK.* (Omicron),49
 2023-09-01,Sep 2023,Sur,Rio Grande do Sul,FIOCRUZ,FE.1.* (Omicron),9
 2023-09-01,Sep 2023,Sur,Rio Grande do Sul,FIOCRUZ,Otras,20
 2023-09-01,Sep 2023,Sur,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),8
@@ -4778,22 +4791,32 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-09-01,Sep 2023,Sur,Santa Catarina,Otros,Otras,8
 2023-09-01,Sep 2023,Sur,Santa Catarina,Otros,XBB.* (Omicron),2
 2023-09-01,Sep 2023,Sur,Santa Catarina,Otros,XBB.1.5.70.*+GK.* (Omicron),21
-2023-10-01,Oct 2023,Centro-oeste,Mato Grosso,Otros,Otras,1
+2023-10-01,Oct 2023,Centro-oeste,Goiás,FIOCRUZ,Otras,16
+2023-10-01,Oct 2023,Centro-oeste,Goiás,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
+2023-10-01,Oct 2023,Centro-oeste,Mato Grosso,Otros,Otras,8
 2023-10-01,Oct 2023,Centro-oeste,Mato Grosso,Otros,XBB.1.5.70.*+GK.* (Omicron),1
-2023-10-01,Oct 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,Otras,9
-2023-10-01,Oct 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),11
+2023-10-01,Oct 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,FE.1.* (Omicron),1
+2023-10-01,Oct 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,Otras,25
+2023-10-01,Oct 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,XBB.* (Omicron),1
+2023-10-01,Oct 2023,Centro-oeste,Mato Grosso do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),20
 2023-10-01,Oct 2023,Centro-oeste,Mato Grosso do Sul,Otros,XBB.* (Omicron),1
-2023-10-01,Oct 2023,Noreste,Alagoas,FIOCRUZ,Otras,1
-2023-10-01,Oct 2023,Noreste,Alagoas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
-2023-10-01,Oct 2023,Noreste,Bahia,Otros,Otras,19
+2023-10-01,Oct 2023,Noreste,Alagoas,FIOCRUZ,Otras,3
+2023-10-01,Oct 2023,Noreste,Alagoas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),5
+2023-10-01,Oct 2023,Noreste,Bahia,FIOCRUZ,Otras,7
+2023-10-01,Oct 2023,Noreste,Bahia,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),4
+2023-10-01,Oct 2023,Noreste,Bahia,Otros,Otras,55
 2023-10-01,Oct 2023,Noreste,Bahia,Otros,XBB.* (Omicron),1
-2023-10-01,Oct 2023,Noreste,Bahia,Otros,XBB.1.5.70.*+GK.* (Omicron),15
+2023-10-01,Oct 2023,Noreste,Bahia,Otros,XBB.1.5.70.*+GK.* (Omicron),30
+2023-10-01,Oct 2023,Noreste,Ceará,Otros,Otras,7
 2023-10-01,Oct 2023,Noreste,Paraíba,Otros,Otras,1
 2023-10-01,Oct 2023,Noreste,Paraíba,Otros,XBB.1.5.70.*+GK.* (Omicron),5
 2023-10-01,Oct 2023,Noreste,Pernambuco,FIOCRUZ,Otras,1
+2023-10-01,Oct 2023,Noreste,Sergipe,FIOCRUZ,Otras,1
 2023-10-01,Oct 2023,Norte,Acre,Otros,Otras,19
 2023-10-01,Oct 2023,Norte,Acre,Otros,XBB.1.5.70.*+GK.* (Omicron),2
 2023-10-01,Oct 2023,Norte,Amapá,Otros,Otras,2
+2023-10-01,Oct 2023,Norte,Amazonas,FIOCRUZ,Otras,2
+2023-10-01,Oct 2023,Norte,Amazonas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),22
 2023-10-01,Oct 2023,Norte,Rondônia,FIOCRUZ,Otras,1
 2023-10-01,Oct 2023,Norte,Roraima,Otros,XBB.* (Omicron),1
 2023-10-01,Oct 2023,Sureste,Espírito Santo,Otros,FE.1.* (Omicron),1
@@ -4804,13 +4827,14 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-10-01,Oct 2023,Sureste,Minas Gerais,Otros,Otras,18
 2023-10-01,Oct 2023,Sureste,Minas Gerais,Otros,XBB.* (Omicron),2
 2023-10-01,Oct 2023,Sureste,Minas Gerais,Otros,XBB.1.5.70.*+GK.* (Omicron),18
-2023-10-01,Oct 2023,Sureste,Rio de Eneeiro,FIOCRUZ,Otras,48
+2023-10-01,Oct 2023,Sureste,Rio de Eneeiro,FIOCRUZ,BA.1.* (Omicron),1
+2023-10-01,Oct 2023,Sureste,Rio de Eneeiro,FIOCRUZ,Otras,51
 2023-10-01,Oct 2023,Sureste,Rio de Eneeiro,FIOCRUZ,XBB.* (Omicron),3
-2023-10-01,Oct 2023,Sureste,Rio de Eneeiro,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),60
-2023-10-01,Oct 2023,Sureste,São Paulo,FIOCRUZ,FE.1.* (Omicron),2
-2023-10-01,Oct 2023,Sureste,São Paulo,FIOCRUZ,Otras,56
-2023-10-01,Oct 2023,Sureste,São Paulo,FIOCRUZ,XBB.* (Omicron),1
-2023-10-01,Oct 2023,Sureste,São Paulo,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),68
+2023-10-01,Oct 2023,Sureste,Rio de Eneeiro,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),64
+2023-10-01,Oct 2023,Sureste,São Paulo,FIOCRUZ,FE.1.* (Omicron),3
+2023-10-01,Oct 2023,Sureste,São Paulo,FIOCRUZ,Otras,77
+2023-10-01,Oct 2023,Sureste,São Paulo,FIOCRUZ,XBB.* (Omicron),3
+2023-10-01,Oct 2023,Sureste,São Paulo,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),102
 2023-10-01,Oct 2023,Sureste,São Paulo,Otros,Otras,14
 2023-10-01,Oct 2023,Sureste,São Paulo,Otros,XBB.* (Omicron),5
 2023-10-01,Oct 2023,Sureste,São Paulo,Otros,XBB.1.5.70.*+GK.* (Omicron),19
@@ -4818,11 +4842,26 @@ Fecha,Período,Región,Estado,Laboratorio,Lineajes relevantes,Cantidad
 2023-10-01,Oct 2023,Sur,Rio Grande do Sul,FIOCRUZ,Otras,20
 2023-10-01,Oct 2023,Sur,Rio Grande do Sul,FIOCRUZ,XBB.* (Omicron),3
 2023-10-01,Oct 2023,Sur,Rio Grande do Sul,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),19
-2023-10-01,Oct 2023,Sur,Santa Catarina,FIOCRUZ,Otras,7
-2023-10-01,Oct 2023,Sur,Santa Catarina,FIOCRUZ,XBB.* (Omicron),1
-2023-10-01,Oct 2023,Sur,Santa Catarina,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),12
+2023-10-01,Oct 2023,Sur,Santa Catarina,FIOCRUZ,FE.1.* (Omicron),2
+2023-10-01,Oct 2023,Sur,Santa Catarina,FIOCRUZ,Otras,47
+2023-10-01,Oct 2023,Sur,Santa Catarina,FIOCRUZ,XBB.* (Omicron),5
+2023-10-01,Oct 2023,Sur,Santa Catarina,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),56
 2023-10-01,Oct 2023,Sur,Santa Catarina,Otros,Otras,2
 2023-10-01,Oct 2023,Sur,Santa Catarina,Otros,XBB.1.5.70.*+GK.* (Omicron),1
+2023-11-01,Nov 2023,Centro-oeste,Mato Grosso,Otros,Otras,1
+2023-11-01,Nov 2023,Noreste,Alagoas,FIOCRUZ,Otras,1
+2023-11-01,Nov 2023,Noreste,Alagoas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
+2023-11-01,Nov 2023,Noreste,Bahia,FIOCRUZ,Otras,4
+2023-11-01,Nov 2023,Noreste,Bahia,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
+2023-11-01,Nov 2023,Noreste,Bahia,Otros,Otras,1
+2023-11-01,Nov 2023,Noreste,Ceará,Otros,BA.2.* (Omicron),1
+2023-11-01,Nov 2023,Noreste,Ceará,Otros,Otras,46
+2023-11-01,Nov 2023,Noreste,Ceará,Otros,XBB.1.5.70.*+GK.* (Omicron),1
+2023-11-01,Nov 2023,Norte,Amazonas,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),3
 2023-11-01,Nov 2023,Norte,Pará,Otros,Otras,1
 2023-11-01,Nov 2023,Sureste,Espírito Santo,Otros,Otras,2
 2023-11-01,Nov 2023,Sureste,Espírito Santo,Otros,XBB.1.5.70.*+GK.* (Omicron),8
+2023-11-01,Nov 2023,Sureste,Rio de Eneeiro,FIOCRUZ,Otras,4
+2023-11-01,Nov 2023,Sureste,Rio de Eneeiro,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),1
+2023-11-01,Nov 2023,Sur,Santa Catarina,FIOCRUZ,Otras,6
+2023-11-01,Nov 2023,Sur,Santa Catarina,FIOCRUZ,XBB.1.5.70.*+GK.* (Omicron),8
