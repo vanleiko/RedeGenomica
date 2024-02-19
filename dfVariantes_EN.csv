@@ -735,6 +735,7 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-10-01,Oct 2023,Northeast,Maranhão,Others,1
 2023-10-01,Oct 2023,Northeast,Maranhão,XBB.1.5.70.*+GK.* (Omicron),1
 2023-10-01,Oct 2023,Northeast,Paraíba,JD.1.* (Omicron),1
+2023-10-01,Oct 2023,Northeast,Paraíba,JN.1.*+BA.2.86.* (Omicron),1
 2023-10-01,Oct 2023,Northeast,Paraíba,XBB.1.5.70.*+GK.* (Omicron),5
 2023-10-01,Oct 2023,Northeast,Pernambuco,JD.1.* (Omicron),3
 2023-10-01,Oct 2023,Northeast,Pernambuco,XBB.1.5.70.*+GK.* (Omicron),4
@@ -802,10 +803,10 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-11-01,Nov 2023,Central-west,Goiás,Others,4
 2023-11-01,Nov 2023,Central-west,Goiás,XBB.1.5.70.*+GK.* (Omicron),6
 2023-11-01,Nov 2023,Central-west,Mato Grosso,JD.1.* (Omicron),1
-2023-11-01,Nov 2023,Central-west,Mato Grosso do Sul,JD.1.* (Omicron),44
+2023-11-01,Nov 2023,Central-west,Mato Grosso do Sul,JD.1.* (Omicron),56
 2023-11-01,Nov 2023,Central-west,Mato Grosso do Sul,Others,5
 2023-11-01,Nov 2023,Central-west,Mato Grosso do Sul,XBB.1.5.* (Omicron),1
-2023-11-01,Nov 2023,Central-west,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),18
+2023-11-01,Nov 2023,Central-west,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),21
 2023-11-01,Nov 2023,Northeast,Alagoas,JD.1.* (Omicron),38
 2023-11-01,Nov 2023,Northeast,Alagoas,JN.1.*+BA.2.86.* (Omicron),3
 2023-11-01,Nov 2023,Northeast,Alagoas,XBB.1.5.70.*+GK.* (Omicron),8
@@ -890,9 +891,9 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-12-01,Dec 2023,Central-west,Goiás,XBB.1.5.70.*+GK.* (Omicron),2
 2023-12-01,Dec 2023,Central-west,Mato Grosso,JD.1.* (Omicron),4
 2023-12-01,Dec 2023,Central-west,Mato Grosso,JN.1.*+BA.2.86.* (Omicron),2
-2023-12-01,Dec 2023,Central-west,Mato Grosso do Sul,JD.1.* (Omicron),21
+2023-12-01,Dec 2023,Central-west,Mato Grosso do Sul,JD.1.* (Omicron),23
 2023-12-01,Dec 2023,Central-west,Mato Grosso do Sul,JN.1.*+BA.2.86.* (Omicron),4
-2023-12-01,Dec 2023,Central-west,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),15
+2023-12-01,Dec 2023,Central-west,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),19
 2023-12-01,Dec 2023,Northeast,Alagoas,JD.1.* (Omicron),99
 2023-12-01,Dec 2023,Northeast,Alagoas,JN.1.*+BA.2.86.* (Omicron),39
 2023-12-01,Dec 2023,Northeast,Alagoas,Others,3
@@ -909,13 +910,13 @@ Date,Period,Region,State,Relevant variants,Quantity
 2023-12-01,Dec 2023,Northeast,Maranhão,JN.1.*+BA.2.86.* (Omicron),1
 2023-12-01,Dec 2023,Northeast,Maranhão,XBB.1.5.70.*+GK.* (Omicron),10
 2023-12-01,Dec 2023,Northeast,Paraíba,EG.5.* (Omicron),1
-2023-12-01,Dec 2023,Northeast,Paraíba,JD.1.* (Omicron),21
-2023-12-01,Dec 2023,Northeast,Paraíba,JN.1.*+BA.2.86.* (Omicron),51
+2023-12-01,Dec 2023,Northeast,Paraíba,JD.1.* (Omicron),25
+2023-12-01,Dec 2023,Northeast,Paraíba,JN.1.*+BA.2.86.* (Omicron),55
 2023-12-01,Dec 2023,Northeast,Paraíba,XBB.1.5.* (Omicron),1
 2023-12-01,Dec 2023,Northeast,Paraíba,XBB.1.5.70.*+GK.* (Omicron),18
-2023-12-01,Dec 2023,Northeast,Pernambuco,JD.1.* (Omicron),38
-2023-12-01,Dec 2023,Northeast,Pernambuco,JN.1.*+BA.2.86.* (Omicron),5
-2023-12-01,Dec 2023,Northeast,Pernambuco,XBB.1.5.70.*+GK.* (Omicron),14
+2023-12-01,Dec 2023,Northeast,Pernambuco,JD.1.* (Omicron),47
+2023-12-01,Dec 2023,Northeast,Pernambuco,JN.1.*+BA.2.86.* (Omicron),13
+2023-12-01,Dec 2023,Northeast,Pernambuco,XBB.1.5.70.*+GK.* (Omicron),17
 2023-12-01,Dec 2023,Northeast,Piauí,JD.1.* (Omicron),4
 2023-12-01,Dec 2023,Northeast,Piauí,JN.1.*+BA.2.86.* (Omicron),25
 2023-12-01,Dec 2023,Northeast,Piauí,XBB.1.5.70.*+GK.* (Omicron),4
@@ -976,26 +977,37 @@ Date,Period,Region,State,Relevant variants,Quantity
 2024-01-01,Jan 2024,Northeast,Bahia,JN.1.*+BA.2.86.* (Omicron),42
 2024-01-01,Jan 2024,Northeast,Bahia,Others,1
 2024-01-01,Jan 2024,Northeast,Bahia,XBB.1.5.70.*+GK.* (Omicron),5
+2024-01-01,Jan 2024,Northeast,Paraíba,JD.1.* (Omicron),10
+2024-01-01,Jan 2024,Northeast,Paraíba,JN.1.*+BA.2.86.* (Omicron),74
+2024-01-01,Jan 2024,Northeast,Paraíba,Others,2
+2024-01-01,Jan 2024,Northeast,Paraíba,XBB.1.5.70.*+GK.* (Omicron),14
+2024-01-01,Jan 2024,Northeast,Pernambuco,JD.1.* (Omicron),8
+2024-01-01,Jan 2024,Northeast,Pernambuco,JN.1.*+BA.2.86.* (Omicron),43
+2024-01-01,Jan 2024,Northeast,Pernambuco,Others,4
+2024-01-01,Jan 2024,Northeast,Pernambuco,XBB.1.5.70.*+GK.* (Omicron),2
 2024-01-01,Jan 2024,Northeast,Piauí,JN.1.*+BA.2.86.* (Omicron),8
 2024-01-01,Jan 2024,Northeast,Piauí,XBB.1.5.70.*+GK.* (Omicron),1
 2024-01-01,Jan 2024,Northeast,Rio Grande do Norte,JN.1.*+BA.2.86.* (Omicron),10
 2024-01-01,Jan 2024,Northeast,Rio Grande do Norte,XBB.1.5.70.*+GK.* (Omicron),1
 2024-01-01,Jan 2024,North,Amapá,JD.1.* (Omicron),1
-2024-01-01,Jan 2024,North,Amapá,JN.1.*+BA.2.86.* (Omicron),21
+2024-01-01,Jan 2024,North,Amapá,JN.1.*+BA.2.86.* (Omicron),34
 2024-01-01,Jan 2024,North,Amapá,XBB.1.5.70.*+GK.* (Omicron),1
 2024-01-01,Jan 2024,North,Amazonas,JD.1.* (Omicron),2
-2024-01-01,Jan 2024,North,Pará,JN.1.*+BA.2.86.* (Omicron),2
+2024-01-01,Jan 2024,North,Pará,JN.1.*+BA.2.86.* (Omicron),3
 2024-01-01,Jan 2024,North,Pará,XBB.1.5.70.*+GK.* (Omicron),1
-2024-01-01,Jan 2024,North,Roraima,JN.1.*+BA.2.86.* (Omicron),1
+2024-01-01,Jan 2024,North,Roraima,JN.1.*+BA.2.86.* (Omicron),6
 2024-01-01,Jan 2024,North,Roraima,XBB.1.5.70.*+GK.* (Omicron),4
 2024-01-01,Jan 2024,Southeast,Espírito Santo,JD.1.* (Omicron),23
-2024-01-01,Jan 2024,Southeast,Espírito Santo,JN.1.*+BA.2.86.* (Omicron),75
-2024-01-01,Jan 2024,Southeast,Espírito Santo,Others,3
+2024-01-01,Jan 2024,Southeast,Espírito Santo,JN.1.*+BA.2.86.* (Omicron),73
+2024-01-01,Jan 2024,Southeast,Espírito Santo,Others,5
 2024-01-01,Jan 2024,Southeast,Espírito Santo,XBB.1.5.70.*+GK.* (Omicron),10
 2024-01-01,Jan 2024,Southeast,Rio de Janeiro,JD.1.* (Omicron),3
 2024-01-01,Jan 2024,Southeast,Rio de Janeiro,JN.1.*+BA.2.86.* (Omicron),5
 2024-01-01,Jan 2024,Southeast,Rio de Janeiro,Others,1
 2024-01-01,Jan 2024,Southeast,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),1
+2024-01-01,Jan 2024,Southeast,São Paulo,JD.1.* (Omicron),3
+2024-01-01,Jan 2024,Southeast,São Paulo,JN.1.*+BA.2.86.* (Omicron),14
+2024-01-01,Jan 2024,Southeast,São Paulo,XBB.1.5.70.*+GK.* (Omicron),2
 2024-01-01,Jan 2024,South,Rio Grande do Sul,JD.1.* (Omicron),3
 2024-01-01,Jan 2024,South,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),1
 2024-01-01,Jan 2024,South,Santa Catarina,JD.1.* (Omicron),1
