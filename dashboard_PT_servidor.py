@@ -7,18 +7,21 @@ from urllib.request import urlopen
 import plotly.express as px
 import plotly.graph_objects as go
 import dash
-from dash import dcc, html, dash_table
-from dash_table.Format import Group
+import dash_core_components as dcc
+import dash_html_components as html
+import dash_bootstrap_components as dbc
+import dash_table
+# from dash.dash_table.Format import Group
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
-from flask_caching import Cache
-import ssl
-import socket
-import os
-import sys
-import _bz2
-from _bz2 import BZ2Compressor, BZ2Decompressor
-from OpenSSL import SSL
+# from flask_caching import Cache
+# import ssl
+# import socket
+# import os
+# import sys
+# import _bz2
+# from _bz2 import BZ2Compressor, BZ2Decompressor
+# from OpenSSL import SSL
 
 TIMEOUT = 60
 
@@ -29,18 +32,18 @@ app = dash.Dash(__name__, server=server, meta_tags=[{'name': 'viewport', 'conten
 
 
 ### Datas a serem atualizadas ###
-texto_atualizacao_voc ='Atualizado em 22/08/2023'
+texto_atualizacao_voc ='Atualizado em 11/03/2024'
 texto_atualizacao_omicron ='Atualizado em 25/04/2023'
-texto_3card = 'Jul 2023'
+texto_3card = 'Fev 2024'
 ### fim Datas a serem atualizadas ###
 
 
 ### Carregar datasets ###
-df_genomasLaboratorio = pd.read_csv('datasets/dfGenomasLaboratorio_teste.csv')
-df_linMes = pd.read_csv('datasets/dfLinhagensMes_teste.csv')
-df_variantes = pd.read_csv('datasets/dfVariantes_teste.csv')
-df_linhagens = pd.read_csv('datasets/dfLinhagens_teste.csv')
-df_mapa = pd.read_csv('datasets/dfMapa_teste.csv')
+df_genomasLaboratorio = pd.read_csv('script-dashboard/dfGenomasLaboratorio_PT.csv')
+df_linMes = pd.read_csv('script-dashboard/dfLinhagensMes_PT.csv')
+df_variantes = pd.read_csv('script-dashboard/dfVariantes_PT.csv')
+df_linhagens = pd.read_csv('script-dashboard/dfLinhagens_PT.csv')
+df_mapa = pd.read_csv('script-dashboard/dfMapa_PT.csv')
 ### fim Carregar datasets ###
 
 
@@ -128,44 +131,60 @@ style_header={'backgroundColor':'#0d2a63', 'fontWeight':'bold',
 
 ### Cores e layout dos gráficos ###
 # VOC/VOI
+# XBB.1.5.70 + GK.* 
+# XBB.1.5.*
+# FE.1.* 
+# HA.1.* 
+# EG.5.*
+# JD.1.*
+# JN.1
 colors_variantes = {
-        'XBB.1.18.* (Omicron)': '#e377c2',
-        'XBB.1.5.* (Omicron)': '#fc1cbf',
-        'XBB.* (Omicron)': '#b00068',
+        'HA.1.* (Omicron)': '#dc3912', 
+        'JD.1.* (Omicron)': '#66aa00',
+        'JN.1.*+BA.2.86.* (Omicron)': '#1c8356',
+        'EG.5.* (Omicron)': '#fecb52',
+        'XBB.1.5.* (Omicron)': '#e377c2',
+        'XBB.1.5.70.*+GK.* (Omicron)': '#fc1cbf',
         'FE.1.* (Omicron)': '#1f77b4',
         'Outras': '#999999'}
 orders_variantes = {'Variantes relevantes': ['Outras',
+                                             'EG.5.* (Omicron)',
                                              'FE.1.* (Omicron)',
-                                             'XBB.* (Omicron)',
+                                             'HA.1.* (Omicron)',
+                                             'JD.1.* (Omicron)',
+                                             'JN.1.*+BA.2.86.* (Omicron)',
                                              'XBB.1.5.* (Omicron)',
-                                             'XBB.1.18.* (Omicron)']}  
+                                             'XBB.1.5.70+GK.* (Omicron)']}  
 
 # Linhagens
 colors_linhagens = {'B.1.617.2+AY.* (Delta)': '#750d86',
                     'B.1.1': '#fc6955', 
                     'B.1.1.28': '#e48f72', 
                     'B.1.1.33': '#f8a19f', 
-                    'B.1.1.7 (Alfa)': '#ff0087', 
+                    'B.1.1.7 (Alfa)': '#b82e2e', 
+                    'P.1.* (Gama)': '#109618',     
+                    'P.2': '#862a16',
                     'BA.1.* (Omicron)': '#6c4516', 
                     'BA.2.* (Omicron)': '#b68e00',
                     'BA.4.* (Omicron)': '#feaf16',
                     'BA.5.* (Omicron)': '#fbe426',
-                    'BE.* (Omicron)': '#b82e2e',
-                    'BQ.1.* (Omicron)': '#ff7f0e',
-                    'DL.1 (Omicron)': '#00cc96',
-                    'XBB.* (Omicron)': '#da60ca',
+                    'XBB.1.5.70.*+GK.* (Omicron)': '#fc1cbf',
+                    'XBB.* (Omicron)': '#e377c2',
                     'Outras': '#999999',     
-                    'P.1.* (Gama)': '#109618',     
-                    'P.2': '#862a16',
-                    'FE.1.* (Omicron)': '#1f77b4',}          
-orders_linhagens = {'Linhagens relevantes': ['B.1.1', 'B.1.1.28', 'B.1.1.33',                                             
-                                             'Outras',  'P.2',  'B.1.1.7 (Alfa)', 
+                    'FE.1.* (Omicron)': '#1f77b4',
+                    'JD.1.* (Omicron)': '#66aa00',
+                    'JN.1.*+BA.2.86.* (Omicron)': '#1c8356'}          
+orders_linhagens = {'Linhagens relevantes': ['Outras',
+                                             'B.1.1', 'B.1.1.28', 'B.1.1.33',                                             
+                                             'P.2',  'B.1.1.7 (Alfa)', 
                                              'P.1.* (Gama)', 'B.1.617.2+AY.* (Delta)',  
                                              'BA.1.* (Omicron)', 'BA.2.* (Omicron)', 
                                              'BA.4.* (Omicron)', 'BA.5.* (Omicron)',
-                                             'BE.* (Omicron)', 'BQ.1.* (Omicron)',
-                                             'DL.1 (Omicron)', 'XBB.* (Omicron)',
-                                             'FE.1.* (Omicron)']}                
+                                             'FE.1.* (Omicron)',
+                                             'JD.1.* (Omicron)',
+                                             'JN.1.*+BA.2.86.* (Omicron)',
+                                             'XBB.* (Omicron)', 
+                                             'XBB.1.5.70.*+GK.* (Omicron)']}                
 
 # Genomas/Laboratório
 colors_lab = {'Outros': '#17becf', 
@@ -419,9 +438,9 @@ row4_map2.update_traces(marker_line_color='gray')
 
 
 ### Dashboard ###
-cache = Cache(app.server, config={
-  'CACHE_TYPE': 'filesystem',
-  'CACHE_DIR': 'cache-directory'})
+# cache = Cache(app.server, config={
+#   'CACHE_TYPE': 'filesystem',
+#   'CACHE_DIR': 'cache-directory'})
 
 app.layout = dbc.Container(fluid=True,
                            children=[html.H1('VIGILÂNCIA GENÔMICA DO SARS-CoV-2 NO BRASIL', style=h1_style),
@@ -685,3 +704,6 @@ def update_linhagens(estado2):
   row6_area.update_xaxes(nticks=20, tickangle=320, showgrid=True, gridcolor='lightgray', tickfont_size=14, showline=True, linewidth=0.5, linecolor='gray')
   row6_area.update_yaxes(range=[0,100], showgrid=True, gridcolor='lightgray', showline=True, linewidth=0.5, linecolor='gray')
   return row6_area
+
+if __name__ == '__main__':
+  app.run_server(debug=True)
