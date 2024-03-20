@@ -88,6 +88,7 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-02-01,Fev 2023,Sudeste,Rio de Janeiro,Outras,39
 2023-02-01,Fev 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),70
 2023-02-01,Fev 2023,Sudeste,São Paulo,FE.1.* (Omicron),46
+2023-02-01,Fev 2023,Sudeste,São Paulo,JD.1.* (Omicron),1
 2023-02-01,Fev 2023,Sudeste,São Paulo,Outras,197
 2023-02-01,Fev 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),182
 2023-02-01,Fev 2023,Sul,Paraná,FE.1.* (Omicron),2
@@ -233,9 +234,9 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,FE.1.* (Omicron),3
 2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,Outras,11
 2023-04-01,Abr 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),18
-2023-04-01,Abr 2023,Sudeste,São Paulo,FE.1.* (Omicron),29
-2023-04-01,Abr 2023,Sudeste,São Paulo,Outras,17
-2023-04-01,Abr 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),25
+2023-04-01,Abr 2023,Sudeste,São Paulo,FE.1.* (Omicron),37
+2023-04-01,Abr 2023,Sudeste,São Paulo,Outras,26
+2023-04-01,Abr 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),33
 2023-04-01,Abr 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),2
 2023-04-01,Abr 2023,Sul,Paraná,FE.1.* (Omicron),10
 2023-04-01,Abr 2023,Sul,Paraná,Outras,16
@@ -521,10 +522,10 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-07-01,Jul 2023,Sudeste,Rio de Janeiro,HA.1.* (Omicron),1
 2023-07-01,Jul 2023,Sudeste,Rio de Janeiro,Outras,6
 2023-07-01,Jul 2023,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),4
-2023-07-01,Jul 2023,Sudeste,São Paulo,FE.1.* (Omicron),7
+2023-07-01,Jul 2023,Sudeste,São Paulo,FE.1.* (Omicron),20
 2023-07-01,Jul 2023,Sudeste,São Paulo,HA.1.* (Omicron),1
-2023-07-01,Jul 2023,Sudeste,São Paulo,Outras,2
-2023-07-01,Jul 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),4
+2023-07-01,Jul 2023,Sudeste,São Paulo,Outras,5
+2023-07-01,Jul 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),8
 2023-07-01,Jul 2023,Sul,Paraná,FE.1.* (Omicron),2
 2023-07-01,Jul 2023,Sul,Paraná,Outras,2
 2023-07-01,Jul 2023,Sul,Paraná,XBB.1.5.70.*+GK.* (Omicron),2
@@ -602,11 +603,11 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-08-01,Ago 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),9
 2023-08-01,Ago 2023,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),60
 2023-08-01,Ago 2023,Sudeste,São Paulo,EG.5.* (Omicron),8
-2023-08-01,Ago 2023,Sudeste,São Paulo,FE.1.* (Omicron),12
-2023-08-01,Ago 2023,Sudeste,São Paulo,JD.1.* (Omicron),3
-2023-08-01,Ago 2023,Sudeste,São Paulo,Outras,12
-2023-08-01,Ago 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),2
-2023-08-01,Ago 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),52
+2023-08-01,Ago 2023,Sudeste,São Paulo,FE.1.* (Omicron),25
+2023-08-01,Ago 2023,Sudeste,São Paulo,JD.1.* (Omicron),4
+2023-08-01,Ago 2023,Sudeste,São Paulo,Outras,15
+2023-08-01,Ago 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),4
+2023-08-01,Ago 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),80
 2023-08-01,Ago 2023,Sul,Paraná,FE.1.* (Omicron),2
 2023-08-01,Ago 2023,Sul,Paraná,Outras,1
 2023-08-01,Ago 2023,Sul,Paraná,XBB.1.5.* (Omicron),3
@@ -681,14 +682,14 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-09-01,Set 2023,Sudeste,Rio de Janeiro,Outras,249
 2023-09-01,Set 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),31
 2023-09-01,Set 2023,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),200
-2023-09-01,Set 2023,Sudeste,São Paulo,EG.5.* (Omicron),8
-2023-09-01,Set 2023,Sudeste,São Paulo,FE.1.* (Omicron),17
+2023-09-01,Set 2023,Sudeste,São Paulo,EG.5.* (Omicron),11
+2023-09-01,Set 2023,Sudeste,São Paulo,FE.1.* (Omicron),20
 2023-09-01,Set 2023,Sudeste,São Paulo,HA.1.* (Omicron),2
-2023-09-01,Set 2023,Sudeste,São Paulo,JD.1.* (Omicron),64
+2023-09-01,Set 2023,Sudeste,São Paulo,JD.1.* (Omicron),89
 2023-09-01,Set 2023,Sudeste,São Paulo,JN.1.*+BA.2.86.* (Omicron),1
-2023-09-01,Set 2023,Sudeste,São Paulo,Outras,10
+2023-09-01,Set 2023,Sudeste,São Paulo,Outras,21
 2023-09-01,Set 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),1
-2023-09-01,Set 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),129
+2023-09-01,Set 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),186
 2023-09-01,Set 2023,Sul,Paraná,FE.1.* (Omicron),5
 2023-09-01,Set 2023,Sul,Paraná,JD.1.* (Omicron),6
 2023-09-01,Set 2023,Sul,Paraná,Outras,12
@@ -697,7 +698,7 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-09-01,Set 2023,Sul,Rio Grande do Sul,EG.5.* (Omicron),2
 2023-09-01,Set 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),11
 2023-09-01,Set 2023,Sul,Rio Grande do Sul,JD.1.* (Omicron),22
-2023-09-01,Set 2023,Sul,Rio Grande do Sul,Outras,12
+2023-09-01,Set 2023,Sul,Rio Grande do Sul,Outras,13
 2023-09-01,Set 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),3
 2023-09-01,Set 2023,Sul,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),70
 2023-09-01,Set 2023,Sul,Santa Catarina,EG.5.* (Omicron),3
@@ -770,13 +771,13 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-10-01,Out 2023,Sudeste,Rio de Janeiro,Outras,68
 2023-10-01,Out 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),23
 2023-10-01,Out 2023,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),155
-2023-10-01,Out 2023,Sudeste,São Paulo,EG.5.* (Omicron),13
-2023-10-01,Out 2023,Sudeste,São Paulo,FE.1.* (Omicron),9
-2023-10-01,Out 2023,Sudeste,São Paulo,JD.1.* (Omicron),234
+2023-10-01,Out 2023,Sudeste,São Paulo,EG.5.* (Omicron),16
+2023-10-01,Out 2023,Sudeste,São Paulo,FE.1.* (Omicron),11
+2023-10-01,Out 2023,Sudeste,São Paulo,JD.1.* (Omicron),322
 2023-10-01,Out 2023,Sudeste,São Paulo,JN.1.*+BA.2.86.* (Omicron),5
-2023-10-01,Out 2023,Sudeste,São Paulo,Outras,29
-2023-10-01,Out 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),7
-2023-10-01,Out 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),312
+2023-10-01,Out 2023,Sudeste,São Paulo,Outras,42
+2023-10-01,Out 2023,Sudeste,São Paulo,XBB.1.5.* (Omicron),9
+2023-10-01,Out 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),419
 2023-10-01,Out 2023,Sul,Paraná,EG.5.* (Omicron),1
 2023-10-01,Out 2023,Sul,Paraná,FE.1.* (Omicron),3
 2023-10-01,Out 2023,Sul,Paraná,JD.1.* (Omicron),32
@@ -784,11 +785,11 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-10-01,Out 2023,Sul,Paraná,XBB.1.5.70.*+GK.* (Omicron),37
 2023-10-01,Out 2023,Sul,Rio Grande do Sul,EG.5.* (Omicron),6
 2023-10-01,Out 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),3
-2023-10-01,Out 2023,Sul,Rio Grande do Sul,JD.1.* (Omicron),27
+2023-10-01,Out 2023,Sul,Rio Grande do Sul,JD.1.* (Omicron),28
 2023-10-01,Out 2023,Sul,Rio Grande do Sul,JN.1.*+BA.2.86.* (Omicron),7
-2023-10-01,Out 2023,Sul,Rio Grande do Sul,Outras,13
+2023-10-01,Out 2023,Sul,Rio Grande do Sul,Outras,14
 2023-10-01,Out 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),2
-2023-10-01,Out 2023,Sul,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),53
+2023-10-01,Out 2023,Sul,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),56
 2023-10-01,Out 2023,Sul,Santa Catarina,EG.5.* (Omicron),2
 2023-10-01,Out 2023,Sul,Santa Catarina,FE.1.* (Omicron),3
 2023-10-01,Out 2023,Sul,Santa Catarina,JD.1.* (Omicron),58
@@ -811,9 +812,9 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-11-01,Nov 2023,Nordeste,Alagoas,JN.1.*+BA.2.86.* (Omicron),3
 2023-11-01,Nov 2023,Nordeste,Alagoas,XBB.1.5.70.*+GK.* (Omicron),8
 2023-11-01,Nov 2023,Nordeste,Bahia,FE.1.* (Omicron),1
-2023-11-01,Nov 2023,Nordeste,Bahia,JD.1.* (Omicron),88
+2023-11-01,Nov 2023,Nordeste,Bahia,JD.1.* (Omicron),89
 2023-11-01,Nov 2023,Nordeste,Bahia,JN.1.*+BA.2.86.* (Omicron),1
-2023-11-01,Nov 2023,Nordeste,Bahia,Outras,14
+2023-11-01,Nov 2023,Nordeste,Bahia,Outras,15
 2023-11-01,Nov 2023,Nordeste,Bahia,XBB.1.5.70.*+GK.* (Omicron),22
 2023-11-01,Nov 2023,Nordeste,Ceará,JD.1.* (Omicron),23
 2023-11-01,Nov 2023,Nordeste,Ceará,JN.1.*+BA.2.86.* (Omicron),203
@@ -856,18 +857,19 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-11-01,Nov 2023,Sudeste,Espírito Santo,XBB.1.5.70.*+GK.* (Omicron),39
 2023-11-01,Nov 2023,Sudeste,Minas Gerais,EG.5.* (Omicron),4
 2023-11-01,Nov 2023,Sudeste,Minas Gerais,JD.1.* (Omicron),54
+2023-11-01,Nov 2023,Sudeste,Minas Gerais,JN.1.*+BA.2.86.* (Omicron),1
 2023-11-01,Nov 2023,Sudeste,Minas Gerais,Outras,3
 2023-11-01,Nov 2023,Sudeste,Minas Gerais,XBB.1.5.* (Omicron),1
 2023-11-01,Nov 2023,Sudeste,Minas Gerais,XBB.1.5.70.*+GK.* (Omicron),55
 2023-11-01,Nov 2023,Sudeste,Rio de Janeiro,JD.1.* (Omicron),33
-2023-11-01,Nov 2023,Sudeste,Rio de Janeiro,Outras,9
-2023-11-01,Nov 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),5
-2023-11-01,Nov 2023,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),36
-2023-11-01,Nov 2023,Sudeste,São Paulo,EG.5.* (Omicron),5
-2023-11-01,Nov 2023,Sudeste,São Paulo,JD.1.* (Omicron),109
-2023-11-01,Nov 2023,Sudeste,São Paulo,JN.1.*+BA.2.86.* (Omicron),3
-2023-11-01,Nov 2023,Sudeste,São Paulo,Outras,10
-2023-11-01,Nov 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),76
+2023-11-01,Nov 2023,Sudeste,Rio de Janeiro,Outras,10
+2023-11-01,Nov 2023,Sudeste,Rio de Janeiro,XBB.1.5.* (Omicron),6
+2023-11-01,Nov 2023,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),37
+2023-11-01,Nov 2023,Sudeste,São Paulo,EG.5.* (Omicron),6
+2023-11-01,Nov 2023,Sudeste,São Paulo,JD.1.* (Omicron),145
+2023-11-01,Nov 2023,Sudeste,São Paulo,JN.1.*+BA.2.86.* (Omicron),4
+2023-11-01,Nov 2023,Sudeste,São Paulo,Outras,20
+2023-11-01,Nov 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),102
 2023-11-01,Nov 2023,Sul,Paraná,EG.5.* (Omicron),1
 2023-11-01,Nov 2023,Sul,Paraná,FE.1.* (Omicron),2
 2023-11-01,Nov 2023,Sul,Paraná,JD.1.* (Omicron),22
@@ -875,7 +877,7 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-11-01,Nov 2023,Sul,Paraná,XBB.1.5.70.*+GK.* (Omicron),14
 2023-11-01,Nov 2023,Sul,Rio Grande do Sul,EG.5.* (Omicron),8
 2023-11-01,Nov 2023,Sul,Rio Grande do Sul,FE.1.* (Omicron),3
-2023-11-01,Nov 2023,Sul,Rio Grande do Sul,JD.1.* (Omicron),26
+2023-11-01,Nov 2023,Sul,Rio Grande do Sul,JD.1.* (Omicron),27
 2023-11-01,Nov 2023,Sul,Rio Grande do Sul,JN.1.*+BA.2.86.* (Omicron),1
 2023-11-01,Nov 2023,Sul,Rio Grande do Sul,Outras,5
 2023-11-01,Nov 2023,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),1
@@ -928,10 +930,10 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-12-01,Dez 2023,Nordeste,Piauí,JN.1.*+BA.2.86.* (Omicron),23
 2023-12-01,Dez 2023,Nordeste,Piauí,Outras,2
 2023-12-01,Dez 2023,Nordeste,Piauí,XBB.1.5.70.*+GK.* (Omicron),4
-2023-12-01,Dez 2023,Nordeste,Rio Grande do Norte,JD.1.* (Omicron),4
-2023-12-01,Dez 2023,Nordeste,Rio Grande do Norte,JN.1.*+BA.2.86.* (Omicron),7
-2023-12-01,Dez 2023,Nordeste,Rio Grande do Norte,Outras,1
-2023-12-01,Dez 2023,Nordeste,Rio Grande do Norte,XBB.1.5.70.*+GK.* (Omicron),16
+2023-12-01,Dez 2023,Nordeste,Rio Grande do Norte,JD.1.* (Omicron),6
+2023-12-01,Dez 2023,Nordeste,Rio Grande do Norte,JN.1.*+BA.2.86.* (Omicron),11
+2023-12-01,Dez 2023,Nordeste,Rio Grande do Norte,Outras,3
+2023-12-01,Dez 2023,Nordeste,Rio Grande do Norte,XBB.1.5.70.*+GK.* (Omicron),20
 2023-12-01,Dez 2023,Nordeste,Sergipe,JD.1.* (Omicron),2
 2023-12-01,Dez 2023,Norte,Acre,JD.1.* (Omicron),42
 2023-12-01,Dez 2023,Norte,Acre,JN.1.*+BA.2.86.* (Omicron),1
@@ -963,17 +965,17 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2023-12-01,Dez 2023,Sudeste,Rio de Janeiro,JN.1.*+BA.2.86.* (Omicron),6
 2023-12-01,Dez 2023,Sudeste,Rio de Janeiro,Outras,4
 2023-12-01,Dez 2023,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),10
-2023-12-01,Dez 2023,Sudeste,São Paulo,JD.1.* (Omicron),8
-2023-12-01,Dez 2023,Sudeste,São Paulo,JN.1.*+BA.2.86.* (Omicron),3
-2023-12-01,Dez 2023,Sudeste,São Paulo,Outras,2
-2023-12-01,Dez 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),3
+2023-12-01,Dez 2023,Sudeste,São Paulo,JD.1.* (Omicron),24
+2023-12-01,Dez 2023,Sudeste,São Paulo,JN.1.*+BA.2.86.* (Omicron),8
+2023-12-01,Dez 2023,Sudeste,São Paulo,Outras,3
+2023-12-01,Dez 2023,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),12
 2023-12-01,Dez 2023,Sul,Paraná,JD.1.* (Omicron),5
 2023-12-01,Dez 2023,Sul,Paraná,XBB.1.5.70.*+GK.* (Omicron),1
 2023-12-01,Dez 2023,Sul,Rio Grande do Sul,EG.5.* (Omicron),2
-2023-12-01,Dez 2023,Sul,Rio Grande do Sul,JD.1.* (Omicron),31
-2023-12-01,Dez 2023,Sul,Rio Grande do Sul,JN.1.*+BA.2.86.* (Omicron),10
+2023-12-01,Dez 2023,Sul,Rio Grande do Sul,JD.1.* (Omicron),32
+2023-12-01,Dez 2023,Sul,Rio Grande do Sul,JN.1.*+BA.2.86.* (Omicron),12
 2023-12-01,Dez 2023,Sul,Rio Grande do Sul,Outras,14
-2023-12-01,Dez 2023,Sul,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),42
+2023-12-01,Dez 2023,Sul,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),43
 2023-12-01,Dez 2023,Sul,Santa Catarina,JD.1.* (Omicron),33
 2023-12-01,Dez 2023,Sul,Santa Catarina,JN.1.*+BA.2.86.* (Omicron),9
 2023-12-01,Dez 2023,Sul,Santa Catarina,Outras,5
@@ -994,11 +996,11 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2024-01-01,Jan 2024,Centro-oeste,Mato Grosso do Sul,Outras,15
 2024-01-01,Jan 2024,Centro-oeste,Mato Grosso do Sul,XBB.1.5.70.*+GK.* (Omicron),4
 2024-01-01,Jan 2024,Nordeste,Alagoas,JD.1.* (Omicron),26
-2024-01-01,Jan 2024,Nordeste,Alagoas,JN.1.*+BA.2.86.* (Omicron),45
+2024-01-01,Jan 2024,Nordeste,Alagoas,JN.1.*+BA.2.86.* (Omicron),47
 2024-01-01,Jan 2024,Nordeste,Alagoas,Outras,7
 2024-01-01,Jan 2024,Nordeste,Alagoas,XBB.1.5.70.*+GK.* (Omicron),1
 2024-01-01,Jan 2024,Nordeste,Bahia,JD.1.* (Omicron),23
-2024-01-01,Jan 2024,Nordeste,Bahia,JN.1.*+BA.2.86.* (Omicron),42
+2024-01-01,Jan 2024,Nordeste,Bahia,JN.1.*+BA.2.86.* (Omicron),45
 2024-01-01,Jan 2024,Nordeste,Bahia,Outras,1
 2024-01-01,Jan 2024,Nordeste,Bahia,XBB.1.5.70.*+GK.* (Omicron),5
 2024-01-01,Jan 2024,Nordeste,Ceará,JN.1.*+BA.2.86.* (Omicron),4
@@ -1012,9 +1014,10 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2024-01-01,Jan 2024,Nordeste,Pernambuco,XBB.1.5.70.*+GK.* (Omicron),2
 2024-01-01,Jan 2024,Nordeste,Piauí,JN.1.*+BA.2.86.* (Omicron),8
 2024-01-01,Jan 2024,Nordeste,Piauí,XBB.1.5.70.*+GK.* (Omicron),1
-2024-01-01,Jan 2024,Nordeste,Rio Grande do Norte,JN.1.*+BA.2.86.* (Omicron),7
-2024-01-01,Jan 2024,Nordeste,Rio Grande do Norte,Outras,3
-2024-01-01,Jan 2024,Nordeste,Rio Grande do Norte,XBB.1.5.70.*+GK.* (Omicron),1
+2024-01-01,Jan 2024,Nordeste,Rio Grande do Norte,JD.1.* (Omicron),4
+2024-01-01,Jan 2024,Nordeste,Rio Grande do Norte,JN.1.*+BA.2.86.* (Omicron),37
+2024-01-01,Jan 2024,Nordeste,Rio Grande do Norte,Outras,19
+2024-01-01,Jan 2024,Nordeste,Rio Grande do Norte,XBB.1.5.70.*+GK.* (Omicron),3
 2024-01-01,Jan 2024,Nordeste,Sergipe,JD.1.* (Omicron),9
 2024-01-01,Jan 2024,Nordeste,Sergipe,JN.1.*+BA.2.86.* (Omicron),11
 2024-01-01,Jan 2024,Nordeste,Sergipe,Outras,9
@@ -1032,36 +1035,53 @@ Data,Período,Região,Estado,Variantes relevantes,Quantidade
 2024-01-01,Jan 2024,Norte,Pará,XBB.1.5.70.*+GK.* (Omicron),1
 2024-01-01,Jan 2024,Norte,Roraima,JN.1.*+BA.2.86.* (Omicron),11
 2024-01-01,Jan 2024,Norte,Roraima,XBB.1.5.70.*+GK.* (Omicron),5
-2024-01-01,Jan 2024,Norte,Tocantins,JD.1.* (Omicron),7
-2024-01-01,Jan 2024,Norte,Tocantins,JN.1.*+BA.2.86.* (Omicron),9
-2024-01-01,Jan 2024,Norte,Tocantins,Outras,2
+2024-01-01,Jan 2024,Norte,Tocantins,JD.1.* (Omicron),8
+2024-01-01,Jan 2024,Norte,Tocantins,JN.1.*+BA.2.86.* (Omicron),60
+2024-01-01,Jan 2024,Norte,Tocantins,Outras,15
+2024-01-01,Jan 2024,Norte,Tocantins,XBB.1.5.70.*+GK.* (Omicron),2
 2024-01-01,Jan 2024,Sudeste,Espírito Santo,JD.1.* (Omicron),23
 2024-01-01,Jan 2024,Sudeste,Espírito Santo,JN.1.*+BA.2.86.* (Omicron),62
 2024-01-01,Jan 2024,Sudeste,Espírito Santo,Outras,16
 2024-01-01,Jan 2024,Sudeste,Espírito Santo,XBB.1.5.70.*+GK.* (Omicron),10
 2024-01-01,Jan 2024,Sudeste,Minas Gerais,JN.1.*+BA.2.86.* (Omicron),4
-2024-01-01,Jan 2024,Sudeste,Rio de Janeiro,JD.1.* (Omicron),3
-2024-01-01,Jan 2024,Sudeste,Rio de Janeiro,JN.1.*+BA.2.86.* (Omicron),25
-2024-01-01,Jan 2024,Sudeste,Rio de Janeiro,Outras,6
-2024-01-01,Jan 2024,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),1
-2024-01-01,Jan 2024,Sudeste,São Paulo,JD.1.* (Omicron),3
-2024-01-01,Jan 2024,Sudeste,São Paulo,JN.1.*+BA.2.86.* (Omicron),12
-2024-01-01,Jan 2024,Sudeste,São Paulo,Outras,11
-2024-01-01,Jan 2024,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),2
-2024-01-01,Jan 2024,Sul,Rio Grande do Sul,JD.1.* (Omicron),7
-2024-01-01,Jan 2024,Sul,Rio Grande do Sul,JN.1.*+BA.2.86.* (Omicron),5
-2024-01-01,Jan 2024,Sul,Rio Grande do Sul,Outras,2
+2024-01-01,Jan 2024,Sudeste,Rio de Janeiro,JD.1.* (Omicron),4
+2024-01-01,Jan 2024,Sudeste,Rio de Janeiro,JN.1.*+BA.2.86.* (Omicron),42
+2024-01-01,Jan 2024,Sudeste,Rio de Janeiro,Outras,9
+2024-01-01,Jan 2024,Sudeste,Rio de Janeiro,XBB.1.5.70.*+GK.* (Omicron),3
+2024-01-01,Jan 2024,Sudeste,São Paulo,JD.1.* (Omicron),15
+2024-01-01,Jan 2024,Sudeste,São Paulo,JN.1.*+BA.2.86.* (Omicron),89
+2024-01-01,Jan 2024,Sudeste,São Paulo,Outras,17
+2024-01-01,Jan 2024,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),6
+2024-01-01,Jan 2024,Sul,Paraná,JD.1.* (Omicron),2
+2024-01-01,Jan 2024,Sul,Paraná,JN.1.*+BA.2.86.* (Omicron),5
+2024-01-01,Jan 2024,Sul,Paraná,Outras,2
+2024-01-01,Jan 2024,Sul,Paraná,XBB.1.5.70.*+GK.* (Omicron),1
+2024-01-01,Jan 2024,Sul,Rio Grande do Sul,JD.1.* (Omicron),9
+2024-01-01,Jan 2024,Sul,Rio Grande do Sul,JN.1.*+BA.2.86.* (Omicron),9
+2024-01-01,Jan 2024,Sul,Rio Grande do Sul,Outras,3
 2024-01-01,Jan 2024,Sul,Rio Grande do Sul,XBB.1.5.* (Omicron),1
 2024-01-01,Jan 2024,Sul,Rio Grande do Sul,XBB.1.5.70.*+GK.* (Omicron),2
-2024-01-01,Jan 2024,Sul,Santa Catarina,JD.1.* (Omicron),27
-2024-01-01,Jan 2024,Sul,Santa Catarina,JN.1.*+BA.2.86.* (Omicron),31
-2024-01-01,Jan 2024,Sul,Santa Catarina,Outras,4
-2024-01-01,Jan 2024,Sul,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),6
+2024-01-01,Jan 2024,Sul,Santa Catarina,JD.1.* (Omicron),30
+2024-01-01,Jan 2024,Sul,Santa Catarina,JN.1.*+BA.2.86.* (Omicron),37
+2024-01-01,Jan 2024,Sul,Santa Catarina,Outras,6
+2024-01-01,Jan 2024,Sul,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),7
 2024-02-01,Fev 2024,Centro-oeste,Mato Grosso do Sul,JD.1.* (Omicron),13
 2024-02-01,Fev 2024,Centro-oeste,Mato Grosso do Sul,JN.1.*+BA.2.86.* (Omicron),36
 2024-02-01,Fev 2024,Centro-oeste,Mato Grosso do Sul,Outras,19
-2024-02-01,Fev 2024,Sudeste,Rio de Janeiro,JN.1.*+BA.2.86.* (Omicron),36
-2024-02-01,Fev 2024,Sudeste,Rio de Janeiro,Outras,4
-2024-02-01,Fev 2024,Sudeste,São Paulo,Outras,1
+2024-02-01,Fev 2024,Nordeste,Alagoas,JD.1.* (Omicron),1
+2024-02-01,Fev 2024,Nordeste,Alagoas,JN.1.*+BA.2.86.* (Omicron),7
+2024-02-01,Fev 2024,Nordeste,Alagoas,Outras,1
+2024-02-01,Fev 2024,Sudeste,Rio de Janeiro,JN.1.*+BA.2.86.* (Omicron),71
+2024-02-01,Fev 2024,Sudeste,Rio de Janeiro,Outras,9
+2024-02-01,Fev 2024,Sudeste,São Paulo,EG.5.* (Omicron),1
+2024-02-01,Fev 2024,Sudeste,São Paulo,JD.1.* (Omicron),5
+2024-02-01,Fev 2024,Sudeste,São Paulo,JN.1.*+BA.2.86.* (Omicron),77
+2024-02-01,Fev 2024,Sudeste,São Paulo,Outras,23
+2024-02-01,Fev 2024,Sudeste,São Paulo,XBB.1.5.70.*+GK.* (Omicron),2
 2024-02-01,Fev 2024,Sul,Rio Grande do Sul,JD.1.* (Omicron),2
-2024-02-01,Fev 2024,Sul,Rio Grande do Sul,JN.1.*+BA.2.86.* (Omicron),5
+2024-02-01,Fev 2024,Sul,Rio Grande do Sul,JN.1.*+BA.2.86.* (Omicron),10
+2024-02-01,Fev 2024,Sul,Rio Grande do Sul,Outras,3
+2024-02-01,Fev 2024,Sul,Santa Catarina,JD.1.* (Omicron),6
+2024-02-01,Fev 2024,Sul,Santa Catarina,JN.1.*+BA.2.86.* (Omicron),108
+2024-02-01,Fev 2024,Sul,Santa Catarina,Outras,16
+2024-02-01,Fev 2024,Sul,Santa Catarina,XBB.1.5.70.*+GK.* (Omicron),3
